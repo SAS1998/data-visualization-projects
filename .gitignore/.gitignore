@@ -1,11 +1,7 @@
 *.png
 *.pdf
-*.lock
-*.plist
-*.Rhistory
-*.history
+**/.Rhistory
 *.mbox
-*.Rapp.history
+*/.Rapp.history
 .DS_Store
-mbox
-table_of_contents
+*.mbox/
