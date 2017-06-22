@@ -1,7 +1,6 @@
 *.png
 *.pdf
-**/.Rhistory
-*.mbox
-*/.Rapp.history
+*.Rhistory
+*.Rapp.history
 .DS_Store
 *.mbox/
