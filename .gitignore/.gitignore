@@ -1,6 +1,6 @@
 *.png
 *.pdf
-*.Rhistory
+"*/.Rhistory"
 *.Rapp.history
 .DS_Store
 *.mbox/
