@@ -8,7 +8,7 @@ library(reshape2)
 movies = read.csv("yearly_top_movie.csv")
 
 movies$total = as.numeric(movies$total)
-movies$total_2012_constant = as.numeric(movies$total_2012_constant)
+movies$total_2012_constant = as.numeric(movies$total_2012_constant)/1000000
 movies$num_tickets = as.numeric(movies$num_tickets)
 
 categoriesUnlisted = str_trim(unlist(strsplit(as.character(movies$other_data), "\n")))
@@ -66,7 +66,7 @@ aggregater = function(toAggregate, byColumn) {
 
 groupedBarPlotter = function(data, xlab) {
   titlePre = "Top Movie of the Year (1995-2017):"
-  ylab = "Box Office (2012 Constant Dollars)"
+  ylab = "Revenue (2012 Constant Dollars) (Millions)"
   melted = melt(data, id.var="x")
   plot = ggplot(data=melted, aes(x=x, y=value)) +
     geom_bar(aes(fill=variable), position = "dodge", stat="identity") +

@@ -1,0 +1,269 @@
+year,,movie,release_date,distributor,genre,mpaa,gross,num_tickets_sold
+2016,1,Finding Dory,6/17/2016,Walt Disney,Adventure,PG,486295561,56219140
+2016,2,Rogue One: A Star Wars Story,12/16/2016,Walt Disney,Adventure,PG-13,424987707,49131526
+2016,3,Captain America: Civil War,5/6/2016,Walt Disney,Action,PG-13,408084349,47177381
+2016,4,The Secret Life of Pets,7/8/2016,Universal,Adventure,PG,368384330,42587783
+2016,5,The Jungle Book,4/15/2016,Walt Disney,Adventure,PG,364001123,42081054
+2016,6,Deadpool,2/12/2016,20th Century Fox,Action,R,363070709,41973492
+2016,7,Zootopia,3/4/2016,Walt Disney,Adventure,PG,341268248,39452976
+2016,8,Batman v Superman: Dawn of Justice,3/25/2016,Warner Bros.,Action,PG-13,330360194,38191929
+2016,9,Suicide Squad,8/5/2016,Warner Bros.,Action,PG-13,325100054,37583821
+2016,10,Doctor Strange,11/4/2016,Walt Disney,Adventure,PG-13,230107790,26602056
+2015,1,Star Wars Ep. VII: The Force Awakens,12/18/2015,Walt Disney,Adventure,PG-13,742208942,88043765
+2015,2,Jurassic World,6/12/2015,Universal,Action,PG-13,652198010,77366311
+2015,3,The Avengers: Age of Ultron,5/1/2015,Walt Disney,Action,PG-13,459005868,54449094
+2015,4,Inside Out,6/19/2015,Walt Disney,Adventure,PG,356461711,42284900
+2015,5,Furious 7,4/3/2015,Universal,Action,PG-13,351032910,41640914
+2015,6,American Sniper,12/25/2014,Warner Bros.,Drama,R,347897084,41268930
+2015,7,Minions,7/10/2015,Universal,Adventure,PG,336045770,39863080
+2015,8,The Hunger Games: Mockingjay - Part 2,11/20/2015,Lionsgate,Thriller/Suspense,PG-13,274185395,32524957
+2015,9,The Martian,10/2/2015,20th Century Fox,Thriller/Suspense,PG-13,225910757,26798429
+2015,10,Cinderella,3/13/2015,Walt Disney,Drama,PG,201151353,23861370
+2014,1,Guardians of the Galaxy,8/1/2014,Walt Disney,Adventure,PG-13,333055258,40765637
+2014,2,The Hunger Games: Mockingjay - Part 1,11/21/2014,Lionsgate,Thriller/Suspense,PG-13,323734502,39624786
+2014,3,Captain America: The Winter Soldier,4/4/2014,Walt Disney,Action,PG-13,259746958,31792773
+2014,4,The Lego Movie,2/7/2014,Warner Bros.,Adventure,PG,257784718,31552597
+2014,5,Transformers: Age of Extinction,6/27/2014,Paramount Pictures,Action,PG-13,245439076,30041502
+2014,6,Maleficent,5/30/2014,Walt Disney,Adventure,PG,241407328,29548020
+2014,7,X-Men: Days of Future Past,5/23/2014,20th Century Fox,Action,PG-13,233921534,28631766
+2014,8,The Hobbit: The Battle of the Five Armies,12/17/2014,Warner Bros.,Adventure,PG-13,220602017,27001470
+2014,9,Big Hero 6,11/7/2014,Walt Disney,Adventure,PG,211207036,25851534
+2014,10,Dawn of the Planet of the Apes,7/11/2014,20th Century Fox,Adventure,PG-13,208545589,25525775
+2013,1,Iron Man 3,5/3/2013,Walt Disney,Action,PG-13,408992272,50306552
+2013,2,The Hunger Games: Catching Fire,11/22/2013,Lionsgate,Adventure,PG-13,407139699,50078683
+2013,3,Despicable Me 2,7/3/2013,Universal,Comedy,PG,367956735,45259130
+2013,4,Frozen,11/27/2013,Walt Disney,Adventure,PG,296691729,36493447
+2013,5,Man of Steel,6/14/2013,Warner Bros.,Action,PG-13,291045518,35798956
+2013,6,Monsters University,6/21/2013,Walt Disney,Adventure,G,268488329,33024394
+2013,7,Gravity,10/4/2013,Warner Bros.,Thriller/Suspense,PG-13,255621667,31441779
+2013,8,Fast and Furious 6,5/24/2013,Universal,Action,PG-13,238679850,29357915
+2013,9,Oz the Great and Powerful,3/8/2013,Walt Disney,Adventure,PG,234770996,28877121
+2013,10,The Hobbit: The Desolation of Smaug,12/13/2013,Warner Bros.,Adventure,PG-13,229059642,28174617
+2012,1,The Avengers,5/4/2012,Walt Disney,Action,PG-13,623279547,78301450
+2012,2,The Dark Knight Rises,7/20/2012,Warner Bros.,Action,PG-13,448139099,56298881
+2012,3,The Hunger Games,3/23/2012,Lionsgate,Thriller/Suspense,PG-13,408010692,51257624
+2012,4,Skyfall,11/9/2012,Sony Pictures,Action,PG-13,296804366,37286980
+2012,5,"The Twilight Saga: Breaking Dawn, Part 2",11/16/2012,Lionsgate,Drama,PG-13,289133356,36323285
+2012,6,The Hobbit: An Unexpected Journey,12/14/2012,Warner Bros.,Adventure,PG-13,263834893,33145087
+2012,7,The Amazing Spider-Man,7/3/2012,Sony Pictures,Adventure,PG-13,262030663,32918425
+2012,8,Brave,6/22/2012,Walt Disney,Adventure,PG,237277071,29808677
+2012,9,Ted,6/29/2012,Universal,Comedy,R,218665740,27470570
+2012,10,Madagascar 3: Europe's Most Wanted,6/8/2012,Paramount Pictures,Adventure,PG,216391482,27184859
+2011,1,Harry Potter and the Deathly Hallows: Part II,7/15/2011,Warner Bros.,Adventure,PG-13,381011219,48046812
+2011,2,Transformers: Dark of the Moon,6/29/2011,Paramount Pictures,Action,PG-13,352390543,44437647
+2011,3,"The Twilight Saga: Breaking Dawn, Part 1",11/18/2011,Summit Entertainment,Drama,PG-13,275530738,34745364
+2011,4,The Hangover Part II,5/26/2011,Warner Bros.,Comedy,R,254464305,32088815
+2011,5,Pirates of the Caribbean: On Stranger Tides,5/20/2011,Walt Disney,Adventure,PG-13,241063875,30398975
+2011,6,Fast Five,4/29/2011,Universal,Action,PG-13,210031325,26485665
+2011,7,Cars 2,6/24/2011,Walt Disney,Adventure,G,191450875,24142607
+2011,8,Thor,5/6/2011,Paramount Pictures,Action,PG-13,181030624,22828578
+2011,9,Rise of the Planet of the Apes,8/5/2011,20th Century Fox,Adventure,PG-13,176760185,22290061
+2011,10,Captain America: The First Avenger,7/22/2011,Paramount Pictures,Action,PG-13,176654505,22276735
+2010,1,Toy Story 3,6/18/2010,Walt Disney,Adventure,G,415004880,52598844
+2010,2,Avatar,12/18/2009,20th Century Fox,Action,PG-13,408392727,51760802
+2010,3,Alice in Wonderland,3/5/2010,Walt Disney,Adventure,PG,334191110,42356287
+2010,4,Iron Man 2,5/7/2010,Paramount Pictures,Adventure,PG-13,312433331,39598648
+2010,5,The Twilight Saga: Eclipse,6/30/2010,Summit Entertainment,Drama,PG-13,300531751,38090209
+2010,6,Inception,7/16/2010,Warner Bros.,Thriller/Suspense,PG-13,292568851,37080970
+2010,7,Harry Potter and the Deathly Hallows: Part I,11/19/2010,Warner Bros.,Adventure,PG-13,283533215,35935769
+2010,8,Despicable Me,7/9/2010,Universal,Comedy,PG,251203225,31838178
+2010,9,Shrek Forever After,5/21/2010,Paramount Pictures,Adventure,PG,238736787,30258148
+2010,10,How to Train Your Dragon,3/26/2010,Paramount Pictures,Adventure,PG,217581231,27576835
+2009,1,Transformers: Revenge of the Fallen,6/24/2009,Paramount Pictures,Action,PG-13,402111870,53614916
+2009,2,Avatar,12/18/2009,20th Century Fox,Action,PG-13,352114898,46948653
+2009,3,Harry Potter and the Half-Blood Prince,7/15/2009,Warner Bros.,Adventure,PG,301959197,40261226
+2009,4,Up,5/29/2009,Walt Disney,Adventure,PG,293004164,39067222
+2009,5,The Twilight Saga: New Moon,11/20/2009,Summit Entertainment,Drama,PG-13,287954655,38393954
+2009,6,The Hangover,6/5/2009,Warner Bros.,Comedy,R,277322503,36976334
+2009,7,Star Trek,5/8/2009,Paramount Pictures,Adventure,PG-13,257730019,34364003
+2009,8,The Blind Side,11/20/2009,Warner Bros.,Drama,PG-13,208476067,27796809
+2009,9,Monsters vs. Aliens,3/27/2009,Paramount Pictures,Adventure,PG,198351526,26446870
+2009,10,Ice Age: Dawn of the Dinosaurs,7/1/2009,20th Century Fox,Adventure,PG,196573705,26209827
+2008,1,The Dark Knight,7/18/2008,Warner Bros.,Action,PG-13,531001578,73955652
+2008,2,Iron Man,5/2/2008,Paramount Pictures,Action,PG-13,318412101,44347089
+2008,3,Indiana Jones and the Kingdom of the Crystal Skull,5/22/2008,Paramount Pictures,Adventure,PG-13,317101119,44164501
+2008,4,Hancock,7/1/2008,Sony Pictures,Action,PG-13,227946274,31747391
+2008,5,WALL-E,6/27/2008,Walt Disney,Adventure,G,223806889,31170876
+2008,6,Kung Fu Panda,6/6/2008,Paramount Pictures,Adventure,PG,215434591,30004818
+2008,7,Madagascar: Escape 2 Africa,11/7/2008,Paramount Pictures,Comedy,PG,177016810,24654152
+2008,8,Twilight,11/21/2008,Summit Entertainment,Drama,PG-13,176922850,24641065
+2008,9,Quantum of Solace,11/14/2008,Sony Pictures,Action,PG-13,166820413,23234040
+2008,10,Horton Hears a Who,3/14/2008,20th Century Fox,Adventure,G,154529439,21522206
+2007,1,Spider-Man 3,5/4/2007,Sony Pictures,Adventure,PG-13,336530303,48914288
+2007,2,Shrek the Third,5/17/2007,Paramount Pictures,Adventure,PG,322719944,46906968
+2007,3,Transformers,7/2/2007,Paramount Pictures,Action,PG-13,319246193,46402062
+2007,4,Pirates of the Caribbean: At World's End,5/24/2007,Walt Disney,Adventure,PG-13,309420425,44973898
+2007,5,Harry Potter and the Order of the Phoenix,7/11/2007,Warner Bros.,Adventure,PG-13,292004738,42442549
+2007,6,The Bourne Ultimatum,8/3/2007,Universal,Thriller/Suspense,PG-13,227471070,33062655
+2007,7,300,3/9/2007,Warner Bros.,Action,R,210614939,30612636
+2007,8,Ratatouille,6/29/2007,Walt Disney,Comedy,G,206445654,30006635
+2007,9,I am Legend,12/14/2007,Warner Bros.,Horror,PG-13,206129574,29960694
+2007,10,The Simpsons Movie,7/27/2007,20th Century Fox,Comedy,PG-13,183135014,26618461
+2006,1,Pirates of the Caribbean: Dead Man's Chest,7/7/2006,Walt Disney,Adventure,PG-13,423315812,64628368
+2006,2,Cars,6/9/2006,Walt Disney,Comedy,G,244082982,37264577
+2006,3,X-Men: The Last Stand,5/26/2006,20th Century Fox,Action,PG-13,234362462,35780528
+2006,4,The Da Vinci Code,5/19/2006,Sony Pictures,Thriller/Suspense,PG-13,217536138,33211624
+2006,5,Superman Returns,6/28/2006,Warner Bros.,Adventure,PG-13,200120000,30552671
+2006,6,Ice Age: The Meltdown,3/31/2006,20th Century Fox,Adventure,PG,195330621,29821468
+2006,7,Happy Feet,11/17/2006,Warner Bros.,Adventure,PG,175967627,26865286
+2006,8,Over the Hedge,5/19/2006,Paramount Pictures,Comedy,PG,155019340,23667074
+2006,9,Casino Royale,11/17/2006,Sony Pictures,Action,PG-13,153676842,23462113
+2006,10,Talladega Nights: The Ballad of Ricky Bobby,8/4/2006,Sony Pictures,Comedy,PG-13,148213377,22627996
+2005,1,Star Wars Ep. III: Revenge of the Sith,5/19/2005,20th Century Fox,Adventure,PG-13,380270577,59324582
+2005,2,Harry Potter and the Goblet of Fire,11/18/2005,Warner Bros.,Adventure,PG-13,275132632,42922407
+2005,3,The War of the Worlds,6/29/2005,Paramount Pictures,Action,PG-13,234280354,36549197
+2005,4,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",12/9/2005,Walt Disney,Adventure,PG,217677877,33959107
+2005,5,The Wedding Crashers,7/15/2005,New Line,Comedy,R,209218368,32639370
+2005,6,Charlie and the Chocolate Factory,7/15/2005,Warner Bros.,Comedy,PG,206459076,32208904
+2005,7,Batman Begins,6/15/2005,Warner Bros.,Action,PG-13,205343774,32034910
+2005,8,Madagascar,5/27/2005,Dreamworks SKG,Adventure,PG,193595521,30202109
+2005,9,Mr. And Mrs. Smith,6/10/2005,20th Century Fox,Action,PG-13,186336279,29069622
+2005,10,Hitch,2/11/2005,Sony Pictures,Romantic Comedy,PG-13,177784257,27735453
+2004,1,Shrek 2,5/19/2004,Dreamworks SKG,Adventure,PG,441226247,71050925
+2004,2,Spider-Man 2,6/30/2004,Sony Pictures,Adventure,PG-13,373524485,60148870
+2004,3,The Passion of the Christ,3/11/2005,Newmarket Films,Drama,R,370274604,59625540
+2004,4,The Incredibles,11/5/2004,Walt Disney,Adventure,PG,251657004,40524477
+2004,5,Harry Potter and the Prisoner of Azkaban,6/4/2004,Warner Bros.,Adventure,PG,249538952,40183406
+2004,6,The Day After Tomorrow,5/28/2004,20th Century Fox,Adventure,PG-13,186740799,30070982
+2004,7,The Bourne Supremacy,7/23/2004,Universal,Thriller/Suspense,PG-13,176087450,28355466
+2004,8,Meet the Fockers,12/22/2004,Universal,Comedy,PG-13,162461370,26161251
+2004,9,Shark Tale,10/1/2004,Dreamworks SKG,Adventure,PG,160762022,25887604
+2004,10,National Treasure,11/19/2004,Walt Disney,Adventure,PG,154522305,24882818
+2003,1,Finding Nemo,5/30/2003,Walt Disney,Adventure,G,339714367,56337374
+2003,2,Pirates of the Caribbean: The Curse of the Black Pearl,7/9/2003,Walt Disney,Adventure,PG-13,305411224,50648627
+2003,3,The Lord of the Rings: The Return of the King,12/17/2003,New Line,Adventure,PG-13,290425213,48163385
+2003,4,The Matrix Reloaded,5/15/2003,Warner Bros.,Action,R,281553689,46692154
+2003,5,Bruce Almighty,5/23/2003,Universal,Comedy,PG-13,242704995,40249584
+2003,6,X2,5/2/2003,20th Century Fox,Action,PG-13,214949694,35646715
+2003,7,Elf,11/7/2003,New Line,Comedy,PG,170837644,28331284
+2003,8,Chicago,12/27/2002,Miramax,Musical,PG-13,161445985,26773795
+2003,9,Terminator 3: Rise of the Machines,7/1/2003,Warner Bros.,Action,R,150358296,24935040
+2003,10,Bad Boys II,7/18/2003,Sony Pictures,Action,R,138540870,22975268
+2002,1,Spider-Man,5/3/2002,Sony Pictures,Adventure,PG-13,403706375,69484746
+2002,2,Star Wars Ep. II: Attack of the Clones,5/16/2002,20th Century Fox,Adventure,PG,310676740,53472760
+2002,3,The Lord of the Rings: The Two Towers,12/12/2003,New Line,Adventure,PG-13,262300833,45146442
+2002,4,Harry Potter and the Chamber of Secrets,11/15/2002,Warner Bros.,Adventure,PG,252097945,43390351
+2002,5,My Big Fat Greek Wedding,4/19/2002,IFC Films,Romantic Comedy,PG,227898505,39225216
+2002,6,Signs,8/2/2002,Walt Disney,Thriller/Suspense,PG-13,227750028,39199660
+2002,7,Austin Powers in Goldmember,7/25/2002,New Line,Comedy,PG-13,213117789,36681202
+2002,8,Men in Black 2,7/3/2002,Sony Pictures,Action,PG-13,190418803,32774320
+2002,9,Ice Age,3/15/2002,20th Century Fox,Adventure,PG,176387405,30359277
+2002,10,Die Another Day,11/22/2002,MGM,Action,PG-13,153770825,26466579
+2001,1,Harry Potter and the Sorcerer’s Stone,11/16/2001,Warner Bros.,Adventure,PG,300404434,53074988
+2001,2,Shrek,5/18/2001,Dreamworks SKG,Adventure,PG,267655011,47288871
+2001,3,"Monsters, Inc.",11/2/2001,Walt Disney,Adventure,G,244638458,43222342
+2001,4,Rush Hour 2,8/3/2001,New Line,Action,PG-13,226164286,39958354
+2001,5,The Lord of the Rings: The Fellowship of the Ring,12/5/2003,New Line,Adventure,PG-13,206448462,36474993
+2001,6,The Mummy Returns,5/4/2001,Universal,Adventure,PG-13,202007640,35690395
+2001,7,Pearl Harbor,5/25/2001,Walt Disney,Action,PG-13,198539855,35077712
+2001,8,Jurassic Park 3,7/18/2001,Universal,Action,PG-13,181166115,32008147
+2001,9,Planet of the Apes,7/27/2001,20th Century Fox,Adventure,PG-13,179841538,31774123
+2001,10,Hannibal,2/9/2001,MGM,Horror,R,165092266,29168244
+2000,1,How the Grinch Stole Christmas,11/17/2000,Universal,Comedy,PG,253367455,47006948
+2000,2,Mission: Impossible 2,5/24/2000,Paramount Pictures,Action,PG-13,215409889,39964728
+2000,3,Gladiator,5/5/2000,Dreamworks SKG,Action,R,186610052,34621530
+2000,4,The Perfect Storm,6/30/2000,Warner Bros.,Drama,PG-13,182618434,33880971
+2000,5,Meet the Parents,10/6/2000,Universal,Comedy,PG-13,161325490,29930517
+2000,6,X-Men,7/14/2000,20th Century Fox,Action,PG-13,157299717,29183620
+2000,7,Scary Movie,7/7/2000,Miramax/Dimension,Comedy,R,157019771,29131682
+2000,8,What Lies Beneath,7/21/2000,Dreamworks SKG,Thriller/Suspense,PG-13,155464351,28843107
+2000,9,Dinosaur,5/19/2000,Walt Disney,Adventure,PG,137748063,25556226
+2000,10,Erin Brockovich,3/17/2000,Universal,Drama,R,125548685,"23,292,89"
+1999,1,Star Wars Ep. I: The Phantom Menace,5/19/1999,20th Century Fox,Adventure,PG,430443350,"84,732,942"
+1999,2,The Sixth Sense,8/6/1999,Walt Disney,Thriller/Suspense,PG-13,276386495,"54,406,790"
+1999,3,Toy Story 2,11/19/1999,Walt Disney,Adventure,G,208880039,"41,118,117"
+1999,4,Austin Powers: The Spy Who Shagged Me,6/10/1999,New Line,Comedy,PG-13,206040085,"40,559,071"
+1999,5,The Matrix,3/31/1999,Warner Bros.,Action,R,171479930,"33,755,891"
+1999,6,Tarzan,6/16/1999,Walt Disney,Adventure,G,170904824,"33,642,681"
+1999,7,Big Daddy,6/25/1999,Sony Pictures,Comedy,PG-13,163479795,"32,181,062"
+1999,8,The Mummy,5/7/1999,Universal,Adventure,PG-13,155385488,"30,587,694"
+1999,9,Runaway Bride,7/30/1999,Paramount Pictures,Romantic Comedy,PG,152162347,"29,953,217"
+1999,10,The Blair Witch Project,7/14/1999,Artisan,Horror,R,140539099,"27,665,176"
+1998,1,Titanic,12/19/1997,Paramount Pictures,Thriller/Suspense,PG-13,443319081,"94,524,324"
+1998,2,Armageddon,7/1/1998,Walt Disney,Adventure,PG-13,201578182,"42,980,422"
+1998,3,Saving Private Ryan,7/24/1998,Dreamworks SKG,Drama,R,190588778,"40,637,266"
+1998,4,There's Something About Mary,7/15/1998,20th Century Fox,Romantic Comedy,R,174711965,"37,252,018"
+1998,5,The Waterboy,11/6/1998,Walt Disney,Comedy,PG-13,150042308,"31,991,963"
+1998,6,Doctor Dolittle,6/26/1998,20th Century Fox,Comedy,PG-13,144155259,"30,736,728"
+1998,7,Deep Impact,5/8/1998,Paramount Pictures,Adventure,PG-13,140464664,"29,949,821"
+1998,8,Rush Hour,9/18/1998,New Line,Action,PG-13,137567454,"29,332,079"
+1998,9,A Bug's Life,11/20/1998,Walt Disney,Adventure,G,136426334,"29,088,770"
+1998,10,Godzilla,5/19/1998,Sony Pictures,Action,PG-13,136314294,"29,064,881"
+1997,1,Men in Black,7/1/1997,Sony Pictures,Adventure,PG-13,250650052,"54,607,854"
+1997,2,The Lost World: Jurassic Park,5/22/1997,Universal,Action,PG-13,229086679,"49,909,951"
+1997,3,Liar Liar,3/21/1997,Universal,Comedy,PG-13,181410615,"39,523,009"
+1997,4,Air Force One,7/25/1997,Sony Pictures,Action,R,172480186,"37,577,382"
+1997,5,Titanic,12/19/1997,Paramount Pictures,Thriller/Suspense,PG-13,157467971,"34,306,747"
+1997,6,Star Wars Ep. IV: A New Hope,7/21/1978,20th Century Fox,Adventure,PG,138133173,"30,094,373"
+1997,7,The Godfather,3/15/1972,Paramount Pictures,Drama,R,129141981,"28,135,507"
+1997,8,My Best Friend's Wedding,6/20/1997,Sony Pictures,Comedy,PG,126776290,"27,620,106"
+1997,9,Face/Off,6/27/1997,Paramount Pictures,Action,R,112276146,"24,461,033"
+1997,10,Batman & Robin,6/20/1997,Warner Bros.,Action,PG-13,107325195,"23,382,395"
+1996,1,Independence Day,7/2/1996,20th Century Fox,Adventure,PG-13,306169255,"69,269,062"
+1996,2,Twister,5/10/1996,Warner Bros.,Action,PG-13,241688385,"54,680,630"
+1996,3,Mission: Impossible,5/21/1996,Paramount Pictures,Action,PG-13,180981886,"40,946,128"
+1996,4,The Rock,6/7/1996,Walt Disney,Action,R,134069511,"30,332,468"
+1996,5,Ransom,11/8/1996,Walt Disney,Action,R,129181606,"29,226,607"
+1996,6,The Nutty Professor,6/28/1996,Universal,Comedy,PG-13,128814019,"29,143,443"
+1996,7,The Birdcage,3/8/1996,MGM,Comedy,R,124060553,"28,067,998"
+1996,8,101 Dalmatians,11/27/1996,Walt Disney,Comedy,G,121795758,"27,555,601"
+1996,9,A Time to Kill,7/24/1996,Warner Bros.,Drama,R,108766007,"24,607,693"
+1996,10,The First Wives Club,9/20/1996,Paramount Pictures,Comedy,PG,104670012,"23,680,998"
+1995,1,Batman Forever,6/16/1995,Warner Bros.,Action,PG-13,184031112,"42,306,002"
+1995,2,Apollo 13,6/30/1995,Universal,Drama,PG,172070496,"39,556,435"
+1995,3,Toy Story,11/22/1995,Walt Disney,Adventure,G,150148222,"34,516,832"
+1995,4,Pocahontas,6/10/1995,Walt Disney,Adventure,G,141551246,"32,540,516"
+1995,5,Ace Ventura: When Nature Calls,11/10/1995,Warner Bros.,Comedy,PG-13,104371496,"23,993,447"
+1995,6,Casper,5/26/1995,Universal,Comedy,PG,100328194,"23,063,952"
+1995,7,Die Hard: With a Vengeance,5/19/1995,20th Century Fox,Action,R,100012499,"22,991,379"
+1995,8,Goldeneye,11/17/1995,MGM,Action,PG-13,93662146,"21,531,527"
+1995,9,Crimson Tide,5/12/1995,Walt Disney,Action,R,91387195,"21,008,550"
+1995,10,Waterworld,7/28/1995,Universal,Action,PG-13,88246220,"20,286,487"
+1994,1,The Lion King,6/15/1994,Walt Disney,Adventure,G,300352905,"73,615,908"
+1994,2,Forrest Gump,7/6/1994,Paramount Pictures,Drama,PG-13,298535927,"73,170,570"
+1994,3,True Lies,7/15/1994,20th Century Fox,Action,R,146282411,"35,853,532"
+1994,4,The Santa Clause,11/11/1994,Walt Disney,Comedy,PG,137959448,"33,813,590"
+1994,5,The Flintstones,5/27/1994,Universal,Comedy,PG,130531208,"31,992,943"
+1994,6,Clear and Present Danger,8/3/1994,Paramount Pictures,Action,PG-13,121937936,"29,886,749"
+1994,7,Speed,6/10/1994,20th Century Fox,Action,R,121248145,"29,717,682"
+1994,8,The Mask,7/29/1994,New Line,Comedy,PG-13,118866164,"29,133,863"
+1994,9,Maverick,5/20/1994,Warner Bros.,Western,PG,101631272,"24,909,625"
+1994,10,Interview with the Vampire: The Vampire Chronicles,11/11/1994,Warner Bros.,Horror,R,100790444,"24,703,540"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
