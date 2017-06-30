@@ -37,6 +37,17 @@ _comscore.push({ c1: "2", c2: "9873768" });
 <img src="http://b.scorecardresearch.com/p?c1=2&c2=9873768&cv=2.0&cj=1" />
 </noscript>
 <!-- End comScore Tag -->
+<script type="text/javascript">
+   window._taboola = window._taboola || [];
+   _taboola.push({article:'auto'});
+   !function (e, f, u) {
+     e.async = 1;
+     e.src = u;
+     f.parentNode.insertBefore(e, f);
+   }(document.createElement('script'),
+   document.getElementsByTagName('script')[0],
+   'http://cdn.taboola.com/libtrc/thenumbers/loader.js');
+</script>
 </head>
 <body>
 <div id="fb-root"></div>
@@ -8246,6 +8257,10 @@ data-ad-slot="9432367710"></ins>
 <A HREF="/legal/privacy.html">Privacy Policy</A> - <A HREF="/about.php">About Us</A> - <A HREF="/glossary.php">Glossary</A>
 </div>
 </div>
+<script type="text/javascript">
+   window._taboola = window._taboola || [];
+   _taboola.push({flush: true});
+</script> 
 <script type="text/javascript"><!--
 	e9 = new Object();
     e9.snackbar = true;

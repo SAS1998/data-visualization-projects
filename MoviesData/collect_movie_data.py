@@ -46,7 +46,7 @@ def get_data_from_html():
 			release_date = line.split(release_date_line_start)[1].split("\">")[0]
 			current_data["release_date"] = release_date
 		elif line.startswith(distributor_line_start):
-			distributor_name = line.split(distributor_line_start)[1].split("\">")[0]
+			distributor_name = line.split(distributor_line_start)[1].split("\">")[1].split("</a></td>")[0]
 			current_data["distributor_name"] = distributor_name
 		elif line.startswith(genre_line_start):
 			genre = line.split(genre_line_start)[1].split("\">")[0]
@@ -58,7 +58,8 @@ def get_data_from_html():
 			is_ticket_line = True
 		elif is_ticket_line:
 			num_tickets_sold = line.split(ticket_line_start)[1].split("</td>")[0]
-			current_data["num_tickets_sold"] = num_tickets_sold
+			num_tickets_sold = num_tickets_sold.replace(",", "")
+			current_data["num_tickets_sold"] = int(num_tickets_sold)
 			data_obj_list.append(current_data)
 			movie_num += 1
 			is_ticket_line = False
