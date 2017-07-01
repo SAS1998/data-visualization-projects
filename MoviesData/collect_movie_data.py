@@ -49,7 +49,7 @@ def get_data_from_html():
 			distributor_name = line.split(distributor_line_start)[1].split("\">")[1].split("</a></td>")[0]
 			current_data["distributor_name"] = distributor_name
 		elif line.startswith(genre_line_start):
-			genre = line.split(genre_line_start)[1].split("\">")[0]
+			genre = line.split(genre_line_start)[1].split("\">")[1].split("</td>")[0]
 			current_data["genre"] = genre
 		elif line.startswith(mpaa_rating_line_start):
 			mpaa_rating = line.split(mpaa_rating_line_start)[1].split("-(US)")[0]

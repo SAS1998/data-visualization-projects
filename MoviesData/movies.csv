@@ -17,15 +17,15 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1994,16,Star Trek: Generations,1994/11/18,Paramount Pictures,Adventure,PG,17513309
 1994,17,Stargate,1994/10/28,MGM,Action,PG-13,16878411
 1994,18,Dumb & Dumber,1994/12/16,New Line,Comedy,PG-13,16299990
-1994,19,Wolf,1994/06/17,Sony Pictures,Thriller-or-Suspense,R,15934254
+1994,19,Wolf,1994/06/17,Sony Pictures,Thriller/Suspense,R,15934254
 1994,20,Pulp Fiction,1994/10/14,Miramax,Drama,R,15602993
 1994,21,The Specialist,1994/10/07,Warner Bros.,Action,R,13764011
-1994,22,Four Weddings and a Funeral,1994/03/09,Gramercy,Romantic-Comedy,R,12916870
+1994,22,Four Weddings and a Funeral,1994/03/09,Gramercy,Romantic Comedy,R,12916870
 1994,23,The Little Rascals,1994/08/05,Universal,Comedy,PG,12687487
 1994,24,Disclosure,1994/12/09,Warner Bros.,Drama,R,12674840
 1994,25,Naked Gun 33 1/3: The Final Insult,1994/03/18,Paramount Pictures,Comedy,PG-13,12510258
 1994,26,The Crow,1994/05/11,Miramax,Action,R,12411292
-1994,27,Natural Born Killers,1994/08/26,Warner Bros.,Black-Comedy,R,12324207
+1994,27,Natural Born Killers,1994/08/26,Warner Bros.,Black Comedy,R,12324207
 1994,28,Angels in the Outfield,1994/07/15,Walt Disney,Comedy,PG,12312948
 1994,29,When a Man Loves a Woman,1994/04/29,Walt Disney,Drama,R,12260284
 1994,30,The River Wild,1994/09/30,Universal,Action,PG-13,11208968
@@ -35,11 +35,11 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1994,34,Beverly Hills Cop III,1994/05/25,Paramount Pictures,Action,R,10437956
 1994,35,Grumpy Old Men,1993/12/25,Warner Bros.,Comedy,PG-13,10086972
 1994,36,On Deadly Ground,1994/02/18,Warner Bros.,Action,R,9458445
-1994,37,It Could Happen To You,1994/07/29,Sony Pictures,Romantic-Comedy,PG,9260874
+1994,37,It Could Happen To You,1994/07/29,Sony Pictures,Romantic Comedy,PG,9260874
 1994,38,The Paper,1994/03/18,Universal,Comedy,R,9011840
 1994,39,The Shadow,1994/07/01,Universal,Action,PG-13,7802843
 1994,40,Junior,1994/11/23,Universal,Comedy,PG-13,7561756
-1994,41,I Love Trouble,1994/06/29,Walt Disney,Romantic-Comedy,PG,7550537
+1994,41,I Love Trouble,1994/06/29,Walt Disney,Romantic Comedy,PG,7550537
 1994,42,Major League II,1994/03/30,Warner Bros.,Comedy,PG,7506417
 1994,43,Blank Check,1994/02/11,Walt Disney,Comedy,PG,7493571
 1994,44,Blown Away,1994/07/01,MGM,Action,R,7385539
@@ -65,25 +65,25 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1994,64,Iron Will,1994/01/14,Walt Disney,Drama,PG,5054674
 1994,65,Little Women,1994/12/21,Sony Pictures,Drama,PG,5031623
 1994,66,"Corrina, Corrina",1994/08/12,New Line,Comedy,PG,4937866
-1994,67,Reality Bites,1994/02/18,Universal,Romantic-Comedy,PG-13,4921531
+1994,67,Reality Bites,1994/02/18,Universal,Romantic Comedy,PG-13,4921531
 1994,68,With Honors,1994/04/29,Warner Bros.,Drama,PG-13,4912562
-1994,69,Only You,1994/10/07,Sony Pictures,Romantic-Comedy,PG,4912266
+1994,69,Only You,1994/10/07,Sony Pictures,Romantic Comedy,PG,4912266
 1994,70,The Cowboy Way,1994/06/03,Universal,Comedy,PG-13,4836153
-1994,71,Color of Night,1994/08/19,Walt Disney,Thriller-or-Suspense,R,4834816
+1994,71,Color of Night,1994/08/19,Walt Disney,Thriller/Suspense,R,4834816
 1994,72,8 Seconds,1994/02/25,New Line,Drama,PG-13,4799621
 1994,73,Little Giants,1994/10/14,Warner Bros.,Comedy,PG,4731951
 1994,74,House Party 3,1994/01/12,New Line,Comedy,R,4704551
 1994,75,Love Affair,1994/10/21,Warner Bros.,Drama,PG-13,4478650
 1994,76,Sugar Hill,1994/02/25,20th Century Fox,Drama,R,4478540
 1994,77,Getting Even With Dad,1994/06/17,MGM,Comedy,PG,4459690
-1994,78,The Professional,1994/11/18,Sony Pictures,Thriller-or-Suspense,R,4424910
-1994,79,Milk Money,1994/08/31,Paramount Pictures,Romantic-Comedy,PG-13,4410895
+1994,78,The Professional,1994/11/18,Sony Pictures,Thriller/Suspense,R,4424910
+1994,79,Milk Money,1994/08/31,Paramount Pictures,Romantic Comedy,PG-13,4410895
 1994,80,Wes Craven's New Nightmare,1994/10/14,New Line,Horror,R,4220848
 1994,81,Miracle on 34th Street,1994/11/18,20th Century Fox,Drama,PG,4176205
 1994,82,Shadowlands,1993/12/29,Savoy,Drama,R,4132490
 1994,83,Lightning Jack,1994/03/11,Savoy,Western,PG-13,4122861
 1994,84,Andre,1994/08/17,Paramount Pictures,Adventure,PG,4111445
-1994,85,Blink,1994/01/26,New Line,Thriller-or-Suspense,R,4085429
+1994,85,Blink,1994/01/26,New Line,Thriller/Suspense,R,4085429
 1994,86,Baby's Day Out,1994/07/01,20th Century Fox,Comedy,PG,4064111
 1994,87,My Girl 2,1994/02/11,Sony Pictures,Comedy,PG,4058602
 1994,88,The War,1994/11/04,Universal,Drama,PG-13,4039404
@@ -93,12 +93,12 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1994,92,Above the Rim,1994/03/23,New Line,Drama,R,3928056
 1994,93,The Getaway,1994/02/11,Universal,Action,R,3810077
 1994,94,No Escape,1994/04/29,Savoy,Action,R,3759566
-1994,95,Speechless,1994/12/16,MGM,Romantic-Comedy,PG-13,3726312
+1994,95,Speechless,1994/12/16,MGM,Romantic Comedy,PG-13,3726312
 1994,96,Bad Girls,1994/04/22,20th Century Fox,Western,R,3722512
 1994,97,Threesome,1994/04/08,Sony Pictures,Comedy,R,3625907
 1994,98,Jurassic Park,1994/08/26,Universal,Action,PG-13,3309901
 1994,99,Greedy,1994/03/04,Universal,Comedy,PG-13,3219971
-1994,100,I.Q.,1994/12/25,Paramount Pictures,Romantic-Comedy,PG,3201912
+1994,100,I.Q.,1994/12/25,Paramount Pictures,Romantic Comedy,PG,3201912
 1995,1,Batman Forever,1995/06/16,Warner Bros.,Action,PG-13,42306002
 1995,2,Apollo 13,1995/06/30,Universal,Drama,PG,39556435
 1995,3,Toy Story,1995/11/22,Walt Disney,Adventure,G,34516832
@@ -109,15 +109,15 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1995,8,Goldeneye,1995/11/17,MGM,Action,PG-13,21531527
 1995,9,Crimson Tide,1995/05/12,Walt Disney,Action,R,21008550
 1995,10,Waterworld,1995/07/28,Universal,Action,PG-13,20286487
-1995,11,Se7en,1995/09/22,New Line,Thriller-or-Suspense,R,20026155
+1995,11,Se7en,1995/09/22,New Line,Thriller/Suspense,R,20026155
 1995,12,Dangerous Minds,1995/08/11,Walt Disney,Drama,R,19404584
-1995,13,While You Were Sleeping,1995/04/21,Walt Disney,Romantic-Comedy,PG,18633796
+1995,13,While You Were Sleeping,1995/04/21,Walt Disney,Romantic Comedy,PG,18633796
 1995,14,Congo,1995/06/09,Paramount Pictures,Adventure,PG-13,18625823
 1995,15,Mortal Kombat,1995/08/18,New Line,Action,PG-13,16180033
 1995,16,The Bridges of Madison County,1995/06/02,Warner Bros.,Drama,PG-13,16116592
 1995,17,Nine Months,1995/07/12,20th Century Fox,Comedy,PG-13,16013961
 1995,18,Get Shorty,1995/10/20,MGM,Comedy,R,15877460
-1995,19,Outbreak,1995/03/10,Warner Bros.,Thriller-or-Suspense,R,15591625
+1995,19,Outbreak,1995/03/10,Warner Bros.,Thriller/Suspense,R,15591625
 1995,20,Braveheart,1995/05/24,Paramount Pictures,Drama,R,15406771
 1995,21,Legends of the Fall,1994/12/23,Sony Pictures,Drama,R,15177124
 1995,22,Bad Boys,1995/04/07,Sony Pictures,Action,R,15091359
@@ -127,21 +127,21 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1995,26,Babe,1995/08/04,Universal,Adventure,G,13058686
 1995,27,Clueless,1995/07/01,Paramount Pictures,Comedy,PG-13,12979588
 1995,28,Father of the Bride Part II,1995/12/08,Walt Disney,Comedy,PG,12015111
-1995,29,The American President,1995/11/17,Sony Pictures,Romantic-Comedy,PG-13,11739908
+1995,29,The American President,1995/11/17,Sony Pictures,Romantic Comedy,PG-13,11739908
 1995,30,Something to Talk About,1995/08/04,Warner Bros.,Comedy,R,11693238
-1995,31,The Net,1995/07/28,Sony Pictures,Thriller-or-Suspense,PG-13,11637180
+1995,31,The Net,1995/07/28,Sony Pictures,Thriller/Suspense,PG-13,11637180
 1995,32,Under Siege 2: Dark Territory,1995/07/14,Warner Bros.,Action,R,11499789
 1995,33,A Walk in the Clouds,1995/08/11,20th Century Fox,Drama,PG-13,11496124
 1995,34,The Brady Bunch Movie,1995/02/17,Paramount Pictures,Comedy,PG-13,10700268
 1995,35,Pulp Fiction,1994/10/14,Miramax,Drama,R,10176677
 1995,36,Man of the House,1995/03/03,Walt Disney,Comedy,PG,9202071
 1995,37,Nobody's Fool,1994/12/23,Paramount Pictures,Drama,R,8967196
-1995,38,French Kiss,1995/05/05,20th Century Fox,Romantic-Comedy,PG-13,8934206
+1995,38,French Kiss,1995/05/05,20th Century Fox,Romantic Comedy,PG-13,8934206
 1995,39,Higher Learning,1995/01/11,Sony Pictures,Drama,R,8741054
 1995,40,Mighty Morphin Power Rangers: The Movie,1995/06/30,20th Century Fox,Adventure,PG,8686252
 1995,41,Casino,1995/11/22,Universal,Drama,R,8628198
 1995,42,First Knight,1995/07/07,Sony Pictures,Drama,PG-13,8588830
-1995,43,Just Cause,1995/02/17,Warner Bros.,Thriller-or-Suspense,R,8472005
+1995,43,Just Cause,1995/02/17,Warner Bros.,Thriller/Suspense,R,8472005
 1995,44,Heat,1995/12/15,Warner Bros.,Drama,R,8392674
 1995,45,"To Wong Foo Thanks for Everything, Julie Newmar",1995/09/08,Universal,Comedy,PG-13,8383119
 1995,46,Waiting to Exhale,1995/12/22,20th Century Fox,Drama,R,8281452
@@ -149,13 +149,13 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1995,48,A Goofy Movie,1995/04/07,Walt Disney,Comedy,G,8123319
 1995,49,Judge Dredd,1995/06/30,Walt Disney,Action,R,7974232
 1995,50,Money Train,1995/11/22,Sony Pictures,Action,R,7972072
-1995,51,Forget Paris,1995/05/19,Sony Pictures,Romantic-Comedy,PG-13,7630922
+1995,51,Forget Paris,1995/05/19,Sony Pictures,Romantic Comedy,PG-13,7630922
 1995,52,Tommy Boy,1995/03/31,Paramount Pictures,Comedy,PG-13,7505442
-1995,53,Copycat,1995/10/27,Warner Bros.,Thriller-or-Suspense,R,7226872
+1995,53,Copycat,1995/10/27,Warner Bros.,Thriller/Suspense,R,7226872
 1995,54,Rob Roy,1995/04/07,MGM,Drama,R,7216226
 1995,55,Disclosure,1994/12/09,Warner Bros.,Drama,R,7195802
 1995,56,Forrest Gump,1994/07/06,Paramount Pictures,Drama,PG-13,7143548
-1995,57,Sabrina,1995/12/15,Paramount Pictures,Romantic-Comedy,PG,7077855
+1995,57,Sabrina,1995/12/15,Paramount Pictures,Romantic Comedy,PG,7077855
 1995,58,Grumpier Old Men,1995/12/22,Warner Bros.,Comedy,PG-13,7072991
 1995,59,Free Willy 2: The Adventure Home,1995/07/19,Warner Bros.,Drama,PG,6914278
 1995,60,Powder,1995/10/27,Walt Disney,Drama,PG-13,6887665
@@ -176,7 +176,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1995,75,Circle of Friends,1995/03/15,Savoy,Drama,PG-13,5377005
 1995,76,The Usual Suspects,1995/08/16,Gramercy,Drama,R,5278104
 1995,77,Don Juan DeMarco,1995/04/07,New Line,Drama,PG-13,5064973
-1995,78,To Die For,1995/09/27,Sony Pictures,Black-Comedy,R,4863266
+1995,78,To Die For,1995/09/27,Sony Pictures,Black Comedy,R,4863266
 1995,79,Tales from the Crypt: Demon Knight,1995/01/13,Universal,Horror,R,4848079
 1995,80,The Jungle Book,1994/12/25,Walt Disney,Adventure,PG,4822016
 1995,81,Nell,1994/12/14,20th Century Fox,Drama,PG-13,4807835
@@ -214,7 +214,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1996,13,The Hunchback of Notre Dame,1996/06/21,Walt Disney,Adventure,G,22655848
 1996,14,Star Trek: First Contact,1996/11/22,Paramount Pictures,Adventure,PG-13,20178215
 1996,15,Space Jam,1996/11/15,Warner Bros.,Comedy,PG,19330836
-1996,16,Jerry Maguire,1996/12/13,Sony Pictures,Romantic-Comedy,R,18854779
+1996,16,Jerry Maguire,1996/12/13,Sony Pictures,Romantic Comedy,R,18854779
 1996,17,Mr. Holland's Opus,1995/12/29,Walt Disney,Drama,PG,18654024
 1996,18,Broken Arrow,1996/02/09,20th Century Fox,Action,R,15983257
 1996,19,The Cable Guy,1996/06/14,Sony Pictures,Comedy,PG-13,13629026
@@ -222,10 +222,10 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1996,21,Jack,1996/08/09,Walt Disney,Drama,PG-13,13247569
 1996,22,Jingle All the Way,1996/11/22,20th Century Fox,Comedy,PG,12944236
 1996,23,Twelve Monkeys,1995/12/27,Universal,Drama,R,12859351
-1996,24,Executive Decision,1996/03/15,Warner Bros.,Thriller-or-Suspense,R,12823346
-1996,25,Primal Fear,1996/04/05,Paramount Pictures,Thriller-or-Suspense,R,12686342
+1996,24,Executive Decision,1996/03/15,Warner Bros.,Thriller/Suspense,R,12823346
+1996,25,Primal Fear,1996/04/05,Paramount Pictures,Thriller/Suspense,R,12686342
 1996,26,Beavis and Butt-head Do America,1996/12/20,Paramount Pictures,Comedy,PG-13,12261763
-1996,27,Tin Cup,1996/08/16,Warner Bros.,Romantic-Comedy,R,12184295
+1996,27,Tin Cup,1996/08/16,Warner Bros.,Romantic Comedy,R,12184295
 1996,28,Sleepers,1996/10/18,Warner Bros.,Drama,R,11966979
 1996,29,Michael,1996/12/25,New Line,Comedy,PG,11930670
 1996,30,Dragonheart,1996/05/31,Universal,Adventure,PG-13,11620968
@@ -233,7 +233,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1996,32,Romeo+Juliet,1996/11/01,20th Century Fox,Drama,PG-13,10135428
 1996,33,Jumanji,1995/12/15,Sony Pictures,Adventure,PG,9640197
 1996,34,Toy Story,1995/11/22,Walt Disney,Adventure,G,9422626
-1996,35,The Mirror Has Two Faces,1996/11/15,Sony Pictures,Romantic-Comedy,PG-13,9223441
+1996,35,The Mirror Has Two Faces,1996/11/15,Sony Pictures,Romantic Comedy,PG-13,9223441
 1996,36,Grumpier Old Men,1995/12/22,Warner Bros.,Comedy,PG-13,9219681
 1996,37,Dead Man Walking,1995/12/29,Gramercy,Drama,R,8882690
 1996,38,Scream,1996/12/20,Miramax,Horror,R,8852902
@@ -241,17 +241,17 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1996,40,Sense and Sensibility,1995/12/11,Sony Pictures,Drama,PG,8739384
 1996,41,Happy Gilmore,1996/02/16,Universal,Comedy,PG-13,8738339
 1996,42,The Ghost and the Darkness,1996/10/11,Paramount Pictures,Action,R,8547597
-1996,43,A Thin Line Between Love & Hate,1996/04/03,New Line,Romantic-Comedy,R,7889935
+1996,43,A Thin Line Between Love & Hate,1996/04/03,New Line,Romantic Comedy,R,7889935
 1996,44,Set It Off,1996/11/06,New Line,Drama,R,7836891
 1996,45,Muppet Treasure Island,1996/02/16,Walt Disney,Adventure,G,7766378
-1996,46,The Truth About Cats & Dogs,1996/04/26,20th Century Fox,Romantic-Comedy,PG-13,7711432
+1996,46,The Truth About Cats & Dogs,1996/04/26,20th Century Fox,Romantic Comedy,PG-13,7711432
 1996,47,Mars Attacks!,1996/12/13,Warner Bros.,Comedy,PG-13,7646283
 1996,48,The Long Kiss Goodnight,1996/10/11,New Line,Action,R,7499920
 1996,49,Striptease,1996/06/28,Sony Pictures,Comedy,R,7490892
 1996,50,Matilda,1996/08/02,Sony Pictures,Comedy,PG,7488285
 1996,51,Homeward Bound II:  Lost in San Francisco,1996/03/08,Walt Disney,Adventure,G,7400321
 1996,52,Black Sheep,1996/02/02,Paramount Pictures,Comedy,PG-13,7314559
-1996,53,One Fine Day,1996/12/20,20th Century Fox,Romantic-Comedy,PG,7308608
+1996,53,One Fine Day,1996/12/20,20th Century Fox,Romantic Comedy,PG,7308608
 1996,54,Rumble in the Bronx,1996/02/23,New Line,Action,R,7303598
 1996,55,Eddie,1996/05/31,Walt Disney,Comedy,PG-13,7097149
 1996,56,Heat,1995/12/15,Warner Bros.,Drama,R,6997439
@@ -272,20 +272,20 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1996,71,Escape from L.A.,1996/08/09,Paramount Pictures,Action,R,5752683
 1996,72,Fly Away Home,1996/09/13,Sony Pictures,Drama,PG,5668371
 1996,73,Kingpin,1996/07/26,MGM,Comedy,R,5661408
-1996,74,The Craft,1996/05/03,Sony Pictures,Thriller-or-Suspense,R,5603951
+1996,74,The Craft,1996/05/03,Sony Pictures,Thriller/Suspense,R,5603951
 1996,75,Father of the Bride Part II,1995/12/08,Walt Disney,Comedy,PG,5500718
-1996,76,Fargo,1996/03/08,Gramercy,Thriller-or-Suspense,R,5437982
-1996,77,The Juror,1996/02/02,Sony Pictures,Thriller-or-Suspense,R,5142742
-1996,78,Sabrina,1995/12/15,Paramount Pictures,Romantic-Comedy,PG,5128879
+1996,76,Fargo,1996/03/08,Gramercy,Thriller/Suspense,R,5437982
+1996,77,The Juror,1996/02/02,Sony Pictures,Thriller/Suspense,R,5142742
+1996,78,Sabrina,1995/12/15,Paramount Pictures,Romantic Comedy,PG,5128879
 1996,79,D3: The Mighty Ducks,1996/10/04,Walt Disney,Comedy,PG,5088618
-1996,80,Emma,1996/08/02,Miramax,Romantic-Comedy,PG,5029786
+1996,80,Emma,1996/08/02,Miramax,Romantic Comedy,PG,5029786
 1996,81,Boys,1996/05/10,Walt Disney,Drama,PG-13,4961633
 1996,82,The Quest,1996/04/26,Universal,Action,PG-13,4888504
 1996,83,A Very Brady Sequel,1996/08/23,Paramount Pictures,Comedy,PG-13,4851403
 1996,84,Chain Reaction,1996/08/02,20th Century Fox,Action,PG-13,4802308
 1996,85,Bulletproof,1996/09/06,Universal,Action,R,4795438
 1996,86,High School High,1996/10/25,Sony Pictures,Comedy,PG-13,4724674
-1996,87,Fear,1996/04/12,Universal,Thriller-or-Suspense,R,4682041
+1996,87,Fear,1996/04/12,Universal,Thriller/Suspense,R,4682041
 1996,88,The Glimmer Man,1996/10/04,Warner Bros.,Action,R,4616479
 1996,89,City Hall,1996/02/16,Sony Pictures,Drama,R,4587795
 1996,90,Multiplicity,1996/07/17,Sony Pictures,Comedy,PG-13,4555051
@@ -293,7 +293,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1996,92,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996/01/12,Miramax,Comedy,R,4451315
 1996,93,Bed of Roses,1996/01/26,New Line,Drama,PG,4292361
 1996,94,Kazaam,1996/07/17,Walt Disney,Comedy,PG,4271608
-1996,95,The Fan,1996/08/16,Sony Pictures,Thriller-or-Suspense,R,4204290
+1996,95,The Fan,1996/08/16,Sony Pictures,Thriller/Suspense,R,4204290
 1996,96,Last Man Standing,1996/09/20,New Line,Action,R,4098626
 1996,97,My Fellow Americans,1996/12/20,Warner Bros.,Comedy,PG-13,4081922
 1996,98,The Crow: City of Angels,1996/08/30,Miramax,Action,R,4049246
@@ -303,7 +303,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1997,2,The Lost World: Jurassic Park,1997/05/22,Universal,Action,PG-13,49909951
 1997,3,Liar Liar,1997/03/21,Universal,Comedy,PG-13,39523009
 1997,4,Air Force One,1997/07/25,Sony Pictures,Action,R,37577382
-1997,5,Titanic,1997/12/19,Paramount Pictures,Thriller-or-Suspense,PG-13,34306747
+1997,5,Titanic,1997/12/19,Paramount Pictures,Thriller/Suspense,PG-13,34306747
 1997,6,Star Wars Ep. IV: A New Hope,1978/07/21,20th Century Fox,Adventure,PG,30094373
 1997,7,The Godfather,1972/03/15,Paramount Pictures,Drama,R,28135507
 1997,8,My Best Friend's Wedding,1997/06/20,Sony Pictures,Comedy,PG,27620106
@@ -316,8 +316,8 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1997,15,Tomorrow Never Dies,1997/12/19,MGM,Action,PG-13,20137942
 1997,16,Scream 2,1997/12/12,Miramax,Horror,R,18632019
 1997,17,Flubber,1997/11/26,Walt Disney,Comedy,PG,18112002
-1997,18,Conspiracy Theory,1997/08/08,Warner Bros.,Thriller-or-Suspense,R,16583657
-1997,19,Jerry Maguire,1996/12/13,Sony Pictures,Romantic-Comedy,R,15384415
+1997,18,Conspiracy Theory,1997/08/08,Warner Bros.,Thriller/Suspense,R,16583657
+1997,19,Jerry Maguire,1996/12/13,Sony Pictures,Romantic Comedy,R,15384415
 1997,20,I Know What You Did Last Summer,1997/10/17,Sony Pictures,Horror,R,15343567
 1997,21,Star Wars Ep. V: The Empire Strikes Back,1981/07/31,20th Century Fox,Adventure,PG,14702502
 1997,22,Dante's Peak,1997/02/07,Universal,Drama,PG-13,14632648
@@ -327,17 +327,17 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1997,26,In & Out,1997/09/19,Paramount Pictures,Comedy,PG-13,13816432
 1997,27,The Saint,1997/04/04,Paramount Pictures,Action,PG-13,13368911
 1997,28,Jungle 2 Jungle,1997/03/07,Walt Disney,Comedy,PG,13055561
-1997,29,Kiss the Girls,1997/10/03,Paramount Pictures,Thriller-or-Suspense,R,13019100
+1997,29,Kiss the Girls,1997/10/03,Paramount Pictures,Thriller/Suspense,R,13019100
 1997,30,Devil's Advocate,1997/10/17,Warner Bros.,Drama,R,12874101
 1997,31,Spawn,1997/07/31,New Line,Action,PG-13,11978211
 1997,32,Starship Troopers,1997/11/07,Sony Pictures,Action,R,11834543
 1997,33,Austin Powers: International Man of Mystery,1997/05/02,New Line,Comedy,PG-13,11739431
-1997,34,The Jackal,1997/11/14,Universal,Thriller-or-Suspense,R,11580319
+1997,34,The Jackal,1997/11/14,Universal,Thriller/Suspense,R,11580319
 1997,35,Anastasia,1997/11/14,20th Century Fox,Musical,G,11579055
 1997,36,The English Patient,1996/11/15,Miramax,Drama,R,11033616
-1997,37,Breakdown,1997/05/02,Paramount Pictures,Thriller-or-Suspense,R,10927918
-1997,38,Absolute Power,1997/02/14,Sony Pictures,Thriller-or-Suspense,R,10908128
-1997,39,The Game,1997/09/12,Polygram,Thriller-or-Suspense,R,10515377
+1997,37,Breakdown,1997/05/02,Paramount Pictures,Thriller/Suspense,R,10927918
+1997,38,Absolute Power,1997/02/14,Sony Pictures,Thriller/Suspense,R,10908128
+1997,39,The Game,1997/09/12,Polygram,Thriller/Suspense,R,10515377
 1997,40,G.I.Jane,1997/08/22,Walt Disney,Drama,R,10494369
 1997,41,Speed II: Cruise Control,1997/06/13,20th Century Fox,Action,PG-13,10478666
 1997,42,Star Wars Ep. VI: Return of the Jedi,1997/03/14,20th Century Fox,Adventure,PG,10471413
@@ -349,10 +349,10 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1997,48,Nothing To Lose,1997/07/18,Walt Disney,Comedy,R,9690640
 1997,49,The Rainmaker,1997/11/21,Paramount Pictures,Drama,PG-13,9690035
 1997,50,Soul Food,1997/09/26,20th Century Fox,Comedy,R,9412009
-1997,51,The Devil's Own,1997/03/26,Sony Pictures,Thriller-or-Suspense,R,9343266
+1997,51,The Devil's Own,1997/03/26,Sony Pictures,Thriller/Suspense,R,9343266
 1997,52,Michael,1996/12/25,New Line,Comedy,PG,9283552
 1997,53,Donnie Brasco,1997/02/28,Sony Pictures,Drama,R,9140522
-1997,54,As Good as it Gets,1997/12/24,Sony Pictures,Romantic-Comedy,PG-13,9055162
+1997,54,As Good as it Gets,1997/12/24,Sony Pictures,Romantic Comedy,PG-13,9055162
 1997,55,The Peacemaker,1997/09/26,Dreamworks SKG,Action,R,8989790
 1997,56,Private Parts,1997/03/07,Paramount Pictures,Comedy,R,8975630
 1997,57,Money Talks,1997/08/22,New Line,Action,R,8949208
@@ -363,23 +363,23 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1997,62,Selena,1997/03/21,Warner Bros.,Drama,PG,7723336
 1997,63,The Full Monty,1997/08/13,Fox Searchlight,Comedy,R,7719257
 1997,64,Mortal Kombat: Annihilation,1997/11/21,New Line,Action,PG-13,7638323
-1997,65,Addicted To Love,1997/05/23,Warner Bros.,Romantic-Comedy,R,7554051
+1997,65,Addicted To Love,1997/05/23,Warner Bros.,Romantic Comedy,R,7554051
 1997,66,The Relic,1997/01/10,Paramount Pictures,Horror,R,7397953
 1997,67,Metro,1997/01/17,Walt Disney,Action,R,6975576
-1997,68,Picture Perfect,1997/08/01,20th Century Fox,Romantic-Comedy,PG-13,6819558
+1997,68,Picture Perfect,1997/08/01,20th Century Fox,Romantic Comedy,PG-13,6819558
 1997,69,Beverly Hills Ninja,1997/01/17,Sony Pictures,Comedy,PG-13,6807264
 1997,70,The Little Mermaid,1989/11/15,Walt Disney,Adventure,G,6465942
-1997,71,Fools Rush In,1997/02/14,Sony Pictures,Romantic-Comedy,PG-13,6383338
+1997,71,Fools Rush In,1997/02/14,Sony Pictures,Romantic Comedy,PG-13,6383338
 1997,72,Romy and Michelle's High School Reunion,1997/04/25,Walt Disney,Comedy,R,6369357
 1997,73,Shine,1996/11/22,Fine Line,Drama,PG-13,6343605
 1997,74,Out to Sea,1997/07/02,20th Century Fox,Comedy,PG-13,6314885
 1997,75,Father's Day,1997/05/09,Warner Bros.,Comedy,PG-13,6248601
-1997,76,Grosse Pointe Blank,1997/04/11,Walt Disney,Black-Comedy,R,6118596
-1997,77,The Edge,1997/09/26,20th Century Fox,Thriller-or-Suspense,R,6056482
+1997,76,Grosse Pointe Blank,1997/04/11,Walt Disney,Black Comedy,R,6118596
+1997,77,The Edge,1997/09/26,20th Century Fox,Thriller/Suspense,R,6056482
 1997,78,Jackie Brown,1997/12/25,Miramax,Drama,R,5923845
 1997,79,Amistad,1997/12/12,Dreamworks SKG,Drama,R,5828175
 1997,80,Event Horizon,1997/08/15,Paramount Pictures,Horror,R,5811163
-1997,81,Murder at 1600,1997/04/18,Warner Bros.,Thriller-or-Suspense,R,5630070
+1997,81,Murder at 1600,1997/04/18,Warner Bros.,Thriller/Suspense,R,5630070
 1997,82,Mimic,1997/08/22,Miramax,Horror,R,5558641
 1997,83,Air Bud,1997/08/01,Walt Disney,Comedy,PG,5369702
 1997,84,For Richer or Poorer,1997/12/12,Universal,Comedy,PG-13,5342807
@@ -389,20 +389,20 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1997,88,Good Burger,1997/07/25,Paramount Pictures,Comedy,PG,5166229
 1997,89,Midnight in the Garden of Good and Evil,1997/11/21,Warner Bros.,Drama,R,5145198
 1997,90,Hoodlum,1997/08/27,MGM,Drama,R,5117646
-1997,91,Red Corner,1997/10/31,MGM,Thriller-or-Suspense,R,4856303
+1997,91,Red Corner,1997/10/31,MGM,Thriller/Suspense,R,4856303
 1997,92,An American Werewolf in Paris,1997/12/25,Walt Disney,Horror,R,4380252
 1997,93,Booty Call,1997/02/26,Sony Pictures,Comedy,R,4371877
 1997,94,Gone Fishin',1997/05/30,Walt Disney,Comedy,PG,4301943
 1997,95,Mother,1996/12/25,Paramount Pictures,Comedy,PG-13,4051596
 1997,96,The People vs. Larry Flynt,1996/12/25,Sony Pictures,Drama,R,4018975
 1997,97,That Darn Cat,1997/02/14,Walt Disney,Comedy,PG,3987326
-1997,98,That Old Feeling,1997/04/04,Universal,Romantic-Comedy,PG-13,3574844
+1997,98,That Old Feeling,1997/04/04,Universal,Romantic Comedy,PG-13,3574844
 1997,99,Fire Down Below,1997/09/05,Warner Bros.,Action,R,3518280
 1997,100,Wes Craven's Wishmaster,1997/09/19,Live Entertainment,Horror,R,3424642
-1998,1,Titanic,1997/12/19,Paramount Pictures,Thriller-or-Suspense,PG-13,94524324
+1998,1,Titanic,1997/12/19,Paramount Pictures,Thriller/Suspense,PG-13,94524324
 1998,2,Armageddon,1998/07/01,Walt Disney,Adventure,PG-13,42980422
 1998,3,Saving Private Ryan,1998/07/24,Dreamworks SKG,Drama,R,40637266
-1998,4,There's Something About Mary,1998/07/15,20th Century Fox,Romantic-Comedy,R,37252018
+1998,4,There's Something About Mary,1998/07/15,20th Century Fox,Romantic Comedy,R,37252018
 1998,5,The Waterboy,1998/11/06,Walt Disney,Comedy,PG-13,31991963
 1998,6,Doctor Dolittle,1998/06/26,20th Century Fox,Comedy,PG-13,30736728
 1998,7,Deep Impact,1998/05/08,Paramount Pictures,Adventure,PG-13,29949821
@@ -413,20 +413,20 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1998,12,Lethal Weapon 4,1998/07/10,Warner Bros.,Action,R,27813348
 1998,13,The Truman Show,1998/06/05,Paramount Pictures,Drama,PG,26784264
 1998,14,Mulan,1998/06/19,Walt Disney,Adventure,G,25718604
-1998,15,As Good as it Gets,1997/12/24,Sony Pictures,Romantic-Comedy,PG-13,22796336
+1998,15,As Good as it Gets,1997/12/24,Sony Pictures,Romantic Comedy,PG-13,22796336
 1998,16,Enemy of the State,1998/11/20,Walt Disney,Action,R,20644433
 1998,17,The Mask of Zorro,1998/07/17,Sony Pictures,Adventure,PG-13,20006128
 1998,18,Antz,1998/10/02,Dreamworks SKG,Adventure,PG,19045985
 1998,19,The Rugrats Movie,1998/11/20,Paramount Pictures,Adventure,G,19016245
 1998,20,The X Files: Fight the Future,1998/06/19,20th Century Fox,Action,PG-13,17888766
-1998,21,The Wedding Singer,1998/02/13,New Line,Romantic-Comedy,PG-13,17109962
+1998,21,The Wedding Singer,1998/02/13,New Line,Romantic Comedy,PG-13,17109962
 1998,22,City of Angels,1998/04/10,Warner Bros.,Drama,PG-13,16791238
 1998,23,You've Got Mail,1998/12/18,Warner Bros.,Drama,PG,16637303
 1998,24,The Horse Whisperer,1998/05/15,Walt Disney,Drama,PG-13,16073254
-1998,25,"Six Days, Seven Nights",1998/06/12,Walt Disney,Romantic-Comedy,PG-13,15850595
+1998,25,"Six Days, Seven Nights",1998/06/12,Walt Disney,Romantic Comedy,PG-13,15850595
 1998,26,Blade,1998/08/21,New Line,Action,R,14955623
 1998,27,Lost In Space,1998/04/03,New Line,Adventure,PG-13,14737234
-1998,28,A Perfect Murder,1998/06/05,Warner Bros.,Thriller-or-Suspense,R,14426083
+1998,28,A Perfect Murder,1998/06/05,Warner Bros.,Thriller/Suspense,R,14426083
 1998,29,Everest,1998/03/06,MacGillivray Freeman Films,Documentary,PG-13,14259509
 1998,30,The Prince of Egypt,1998/12/18,Dreamworks SKG,Adventure,PG,14189025
 1998,31,The Parent Trap,1998/07/29,Walt Disney,Comedy,PG,14138276
@@ -434,9 +434,9 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1998,33,Patch Adams,1998/12/25,Universal,Comedy,PG-13,13964818
 1998,34,Hope Floats,1998/05/29,20th Century Fox,Drama,PG-13,12816697
 1998,35,Star Trek: Insurrection,1998/12/11,Paramount Pictures,Adventure,PG,12506223
-1998,36,U.S. Marshals,1998/03/06,Warner Bros.,Thriller-or-Suspense,PG-13,12331258
+1998,36,U.S. Marshals,1998/03/06,Warner Bros.,Thriller/Suspense,PG-13,12331258
 1998,37,The Man in the Iron Mask,1998/03/13,MGM,Adventure,PG-13,12146731
-1998,38,Snake Eyes,1998/08/07,Paramount Pictures,Thriller-or-Suspense,R,11853178
+1998,38,Snake Eyes,1998/08/07,Paramount Pictures,Thriller/Suspense,R,11853178
 1998,39,What Dreams May Come,1998/10/02,Polygram,Drama,PG-13,11830499
 1998,40,Small Soldiers,1998/07/10,Dreamworks SKG,Comedy,PG-13,11757744
 1998,41,Halloween: H2O,1998/08/05,Miramax,Horror,R,11735978
@@ -454,15 +454,15 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1998,53,How Stella Got Her Groove Back,1998/08/14,20th Century Fox,Drama,R,8031902
 1998,54,Out of Sight,1998/06/26,Universal,Drama,R,8009076
 1998,55,Sphere,1998/02/13,Warner Bros.,Horror,PG-13,7903687
-1998,56,Mercury Rising,1998/04/03,Universal,Thriller-or-Suspense,R,7032693
+1998,56,Mercury Rising,1998/04/03,Universal,Thriller/Suspense,R,7032693
 1998,57,Tomorrow Never Dies,1997/12/19,MGM,Action,PG-13,7008768
 1998,58,Bride of Chucky,1998/10/16,Universal,Horror,R,6909208
 1998,59,Jack Frost,1998/12/11,Warner Bros.,Comedy,PG,6663835
 1998,60,A Night at the Roxbury,1998/10/02,Paramount Pictures,Comedy,PG-13,6467199
 1998,61,Madeline,1998/07/10,Sony Pictures,Comedy,PG,6366321
-1998,62,Wild Things,1998/03/20,Sony Pictures,Thriller-or-Suspense,R,6352942
+1998,62,Wild Things,1998/03/20,Sony Pictures,Thriller/Suspense,R,6352942
 1998,63,Spiceworld,1998/01/23,Sony Pictures,Comedy,PG,6256416
-1998,64,The Object of my Affection,1998/04/17,20th Century Fox,Romantic-Comedy,R,6214482
+1998,64,The Object of my Affection,1998/04/17,20th Century Fox,Romantic Comedy,R,6214482
 1998,65,Grease,1998/03/27,Paramount Pictures,Musical,PG,6044877
 1998,66,Mighty Joe Young,1998/12/25,Walt Disney,Adventure,PG,6002586
 1998,67,Paulie,1998/04/17,Dreamworks SKG,Comedy,PG,5774946
@@ -472,7 +472,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1998,71,L.A. Confidential,1997/09/19,Warner Bros.,Drama,R,5609521
 1998,72,The Faculty,1998/12/25,Miramax,Horror,R,5567881
 1998,73,Can't Hardly Wait,1998/06/12,Sony Pictures,Comedy,PG-13,5407035
-1998,74,Fallen,1998/01/16,Warner Bros.,Thriller-or-Suspense,R,5396788
+1998,74,Fallen,1998/01/16,Warner Bros.,Thriller/Suspense,R,5396788
 1998,75,The Avengers,1998/08/14,Warner Bros.,Action,PG-13,4986229
 1998,76,One True Thing,1998/09/18,Universal,Drama,R,4975947
 1998,77,The Players Club,1998/04/08,New Line,Drama,R,4914272
@@ -491,7 +491,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1998,90,The Replacement Killers,1998/02/06,Sony Pictures,Action,R,4058793
 1998,91,The Odd Couple II,1998/04/10,Paramount Pictures,Comedy,PG-13,4032479
 1998,92,Simon Birch,1998/09/11,Walt Disney,Drama,PG,3891986
-1998,93,Disturbing Behavior,1998/07/24,MGM,Thriller-or-Suspense,R,3732914
+1998,93,Disturbing Behavior,1998/07/24,MGM,Thriller/Suspense,R,3732914
 1998,94,The Big Lebowski,1998/03/06,Gramercy,Comedy,R,3731088
 1998,95,Amistad,1997/12/12,Dreamworks SKG,Drama,R,3723084
 1998,96,Half Baked,1998/01/16,Universal,Comedy,R,3708929
@@ -500,17 +500,17 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1998,99,Babe: Pig in the City,1998/11/25,Universal,Adventure,G,3440100
 1998,100,Dance With Me,1998/08/21,Sony Pictures,Musical,PG,3395171
 1999,1,Star Wars Ep. I: The Phantom Menace,1999/05/19,20th Century Fox,Adventure,PG,84732942
-1999,2,The Sixth Sense,1999/08/06,Walt Disney,Thriller-or-Suspense,PG-13,54406790
+1999,2,The Sixth Sense,1999/08/06,Walt Disney,Thriller/Suspense,PG-13,54406790
 1999,3,Toy Story 2,1999/11/19,Walt Disney,Adventure,G,41118117
 1999,4,Austin Powers: The Spy Who Shagged Me,1999/06/10,New Line,Comedy,PG-13,40559071
 1999,5,The Matrix,1999/03/31,Warner Bros.,Action,R,33755891
 1999,6,Tarzan,1999/06/16,Walt Disney,Adventure,G,33642681
 1999,7,Big Daddy,1999/06/25,Sony Pictures,Comedy,PG-13,32181062
 1999,8,The Mummy,1999/05/07,Universal,Adventure,PG-13,30587694
-1999,9,Runaway Bride,1999/07/30,Paramount Pictures,Romantic-Comedy,PG,29953217
+1999,9,Runaway Bride,1999/07/30,Paramount Pictures,Romantic Comedy,PG,29953217
 1999,10,The Blair Witch Project,1999/07/14,Artisan,Horror,R,27665176
 1999,11,The World is Not Enough,1999/11/19,MGM,Action,PG-13,23204138
-1999,12,Notting Hill,1999/05/28,Universal,Romantic-Comedy,PG-13,22852298
+1999,12,Notting Hill,1999/05/28,Universal,Romantic Comedy,PG-13,22852298
 1999,13,Double Jeopardy,1999/09/24,Paramount Pictures,Action,R,22447267
 1999,14,Wild Wild West,1999/06/30,Warner Bros.,Adventure,PG-13,22402693
 1999,15,Analyze This,1999/03/05,Warner Bros.,Comedy,R,21040483
@@ -519,8 +519,8 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1999,18,Inspector Gadget,1999/07/23,Walt Disney,Comedy,PG,19170859
 1999,19,Sleepy Hollow,1999/11/19,Paramount Pictures,Horror,R,18275535
 1999,20,The Haunting,1999/07/23,Dreamworks SKG,Horror,PG-13,17950571
-1999,21,Shakespeare in Love,1998/12/11,Miramax,Romantic-Comedy,R,17879787
-1999,22,Entrapment,1999/04/30,20th Century Fox,Thriller-or-Suspense,PG-13,17265235
+1999,21,Shakespeare in Love,1998/12/11,Miramax,Romantic Comedy,R,17879787
+1999,22,Entrapment,1999/04/30,20th Century Fox,Thriller/Suspense,PG-13,17265235
 1999,23,Pokemon: The First Movie,1999/11/10,Warner Bros.,Adventure,G,16553365
 1999,24,Payback,1999/02/05,Paramount Pictures,Action,R,16048449
 1999,25,Stuart Little,1999/12/17,Sony Pictures,Comedy,PG,15630536
@@ -532,14 +532,14 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1999,31,Blue Streak,1999/09/17,Sony Pictures,Action,PG-13,13338728
 1999,32,Bowfinger,1999/08/13,Universal,Comedy,PG-13,13082434
 1999,33,Life,1999/04/16,Universal,Comedy,R,12610745
-1999,34,The Bone Collector,1999/11/05,Universal,Thriller-or-Suspense,R,12556746
-1999,35,She's All That,1999/01/29,Miramax,Romantic-Comedy,PG-13,12493212
+1999,34,The Bone Collector,1999/11/05,Universal,Thriller/Suspense,R,12556746
+1999,35,She's All That,1999/01/29,Miramax,Romantic Comedy,PG-13,12493212
 1999,36,End of Days,1999/11/24,Universal,Action,R,12437992
 1999,37,Three Kings,1999/10/01,Warner Bros.,Action,R,11658091
 1999,38,A Civil Action,1998/12/25,Walt Disney,Drama,PG-13,11117408
 1999,39,Eyes Wide Shut,1999/07/16,Warner Bros.,Drama,R,10962836
-1999,40,Never Been Kissed,1999/04/09,20th Century Fox,Romantic-Comedy,PG-13,10920227
-1999,41,Forces of Nature,1999/03/19,Dreamworks SKG,Romantic-Comedy,PG-13,10424763
+1999,40,Never Been Kissed,1999/04/09,20th Century Fox,Romantic Comedy,PG-13,10920227
+1999,41,Forces of Nature,1999/03/19,Dreamworks SKG,Romantic Comedy,PG-13,10424763
 1999,42,Varsity Blues,1999/01/15,Paramount Pictures,Drama,R,10412237
 1999,43,Message in a Bottle,1999/02/12,Warner Bros.,Drama,PG-13,10409451
 1999,44,"South Park: Bigger, Longer & Uncut",1999/06/30,Paramount Pictures,Comedy,R,10243622
@@ -552,29 +552,29 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1999,51,The Talented Mr. Ripley,1999/12/24,Paramount Pictures,Drama,R,7829064
 1999,52,Bicentennial Man,1999/12/17,Walt Disney,Drama,PG,7797381
 1999,53,Cruel Intentions,1999/03/05,Sony Pictures,Drama,R,7525605
-1999,54,Ten Things I Hate About You,1999/03/31,Walt Disney,Romantic-Comedy,PG-13,7515347
+1999,54,Ten Things I Hate About You,1999/03/31,Walt Disney,Romantic Comedy,PG-13,7515347
 1999,55,You've Got Mail,1998/12/18,Warner Bros.,Drama,PG,7439476
 1999,56,My Favorite Martian,1999/02/12,Walt Disney,Comedy,PG,7253956
 1999,57,Fight Club,1999/10/15,20th Century Fox,Drama,R,7188011
-1999,58,8MM,1999/02/26,Sony Pictures,Thriller-or-Suspense,R,7173905
+1999,58,8MM,1999/02/26,Sony Pictures,Thriller/Suspense,R,7173905
 1999,59,The Thin Red Line,1998/12/23,20th Century Fox,Drama,R,6961678
 1999,60,For Love of the Game,1999/09/17,Universal,Drama,PG-13,6926897
 1999,61,The Prince of Egypt,1998/12/18,Dreamworks SKG,Adventure,PG,6863515
 1999,62,Instinct,1999/06/04,Walt Disney,Drama,R,6713623
 1999,63,Mickey Blue Eyes,1999/08/20,Warner Bros.,Comedy,PG-13,6666209
-1999,64,The Best Man,1999/10/22,Universal,Romantic-Comedy,R,6553842
+1999,64,The Best Man,1999/10/22,Universal,Romantic Comedy,R,6553842
 1999,65,The 13th Warrior,1999/08/27,Walt Disney,Action,R,6436791
 1999,66,October Sky,1999/02/19,Universal,Drama,PG,6433844
-1999,67,Lake Placid,1999/07/16,20th Century Fox,Thriller-or-Suspense,R,6254018
+1999,67,Lake Placid,1999/07/16,20th Century Fox,Thriller/Suspense,R,6254018
 1999,68,Random Hearts,1999/10/08,Sony Pictures,Drama,R,6113174
 1999,69,Superstar,1999/10/08,Paramount Pictures,Comedy,PG-13,5935199
 1999,70,Mystery Men,1999/08/06,Universal,Comedy,PG,5858663
 1999,71,Dogma,1999/11/12,Lionsgate,Comedy,R,5705366
 1999,72,The Out-of-Towners,1999/04/02,Paramount Pictures,Comedy,PG-13,5618921
-1999,73,The Other Sister,1999/02/26,Walt Disney,Romantic-Comedy,PG-13,5473942
+1999,73,The Other Sister,1999/02/26,Walt Disney,Romantic Comedy,PG-13,5473942
 1999,74,Galaxy Quest,1999/12/24,Dreamworks SKG,Comedy,PG,5376361
 1999,75,Baby Geniuses,1999/03/12,Sony Pictures,Comedy,PG,5344781
-1999,76,The Story of Us,1999/10/15,Universal,Romantic-Comedy,R,5334651
+1999,76,The Story of Us,1999/10/15,Universal,Romantic Comedy,R,5334651
 1999,77,Mysteries of Egypt,1998/07/16,Sony Pictures,Documentary,Not-Rated,5323300
 1999,78,Blast from the Past,1999/02/12,New Line,Comedy,PG-13,5238901
 1999,79,A Bug's Life,1998/11/20,Walt Disney,Adventure,G,5191384
@@ -583,18 +583,18 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 1999,82,Man on the Moon,1999/12/22,Universal,Drama,R,4982191
 1999,83,The Wood,1999/07/16,Paramount Pictures,Comedy,R,4933000
 1999,84,Anna and the King,1999/12/17,20th Century Fox,Drama,PG-13,4868657
-1999,85,Arlington Road,1999/07/09,Sony Pictures,Thriller-or-Suspense,R,4806932
+1999,85,Arlington Road,1999/07/09,Sony Pictures,Thriller/Suspense,R,4806932
 1999,86,T-Rex: Back to the Cretaceous,1998/10/23,IMAX Films,Adventure,Not-Rated,4791941
 1999,87,The Iron Giant,1999/08/04,Warner Bros.,Adventure,PG,4558918
 1999,88,EDtv,1999/03/26,Universal,Comedy,PG-13,4430844
 1999,89,Mighty Joe Young,1998/12/25,Walt Disney,Adventure,PG,4425177
 1999,90,At First Sight,1999/01/15,MGM,Drama,PG-13,4402585
-1999,91,The Bachelor,1999/11/05,New Line,Romantic-Comedy,PG-13,4186310
-1999,92,A Stir of Echoes,1999/09/10,Artisan,Thriller-or-Suspense,R,4160056
+1999,91,The Bachelor,1999/11/05,New Line,Romantic Comedy,PG-13,4186310
+1999,92,A Stir of Echoes,1999/09/10,Artisan,Thriller/Suspense,R,4160056
 1999,93,Doug's 1st Movie,1999/03/26,Walt Disney,Adventure,G,3823084
 1999,94,Summer of Sam,1999/07/02,Walt Disney,Drama,R,3796875
 1999,95,An Ideal Husband,1999/06/18,Miramax,Comedy,PG-13,3650191
-1999,96,Being John Malkovich,1999/10/29,USA Films,Black-Comedy,R,3591332
+1999,96,Being John Malkovich,1999/10/29,USA Films,Black Comedy,R,3591332
 1999,97,Anywhere But Here,1999/11/12,20th Century Fox,Drama,PG-13,3585685
 1999,98,Everest,1998/03/06,MacGillivray Freeman Films,Documentary,PG-13,3555994
 1999,99,Waking Ned Devine,1998/11/20,20th Century Fox,Comedy,PG,3510666
@@ -606,21 +606,21 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2000,5,Meet the Parents,2000/10/06,Universal,Comedy,PG-13,29930517
 2000,6,X-Men,2000/07/14,20th Century Fox,Action,PG-13,29183620
 2000,7,Scary Movie,2000/07/07,Miramax/Dimension,Comedy,R,29131682
-2000,8,What Lies Beneath,2000/07/21,Dreamworks SKG,Thriller-or-Suspense,PG-13,28843107
+2000,8,What Lies Beneath,2000/07/21,Dreamworks SKG,Thriller/Suspense,PG-13,28843107
 2000,9,Dinosaur,2000/05/19,Walt Disney,Adventure,PG,25556226
 2000,10,Erin Brockovich,2000/03/17,Universal,Drama,R,23292891
 2000,11,Nutty Professor II: The Klumps,2000/07/28,Universal,Comedy,PG-13,22877169
 2000,12,Charlie's Angels,2000/11/03,Sony Pictures,Action,PG-13,22783443
 2000,13,Big Momma's House,2000/06/02,20th Century Fox,Comedy,PG-13,21810656
-2000,14,What Women Want,2000/12/15,Paramount Pictures,Romantic-Comedy,PG-13,21477158
+2000,14,What Women Want,2000/12/15,Paramount Pictures,Romantic Comedy,PG-13,21477158
 2000,15,Remember the Titans,2000/09/29,Walt Disney,Drama,PG,21103161
 2000,16,The Patriot,2000/06/28,Sony Pictures,Drama,R,21026037
 2000,17,Cast Away,2000/12/22,20th Century Fox,Drama,PG-13,20350545
 2000,18,Chicken Run,2000/06/21,Dreamworks SKG,Adventure,G,19813342
 2000,19,Gone in 60 Seconds,2000/06/09,Walt Disney,Action,PG-13,18857700
-2000,20,"Me, Myself & Irene",2000/06/23,20th Century Fox,Romantic-Comedy,R,16803524
+2000,20,"Me, Myself & Irene",2000/06/23,20th Century Fox,Romantic Comedy,R,16803524
 2000,21,Space Cowboys,2000/08/04,Warner Bros.,Adventure,PG-13,16730961
-2000,22,Unbreakable,2000/11/22,Walt Disney,Thriller-or-Suspense,PG-13,16703858
+2000,22,Unbreakable,2000/11/22,Walt Disney,Thriller/Suspense,PG-13,16703858
 2000,23,Scream 3,2000/02/04,Miramax,Horror,R,16537676
 2000,24,U-571,2000/04/21,Universal,Action,PG-13,14301675
 2000,25,Hollow Man,2000/08/04,Sony Pictures,Horror,R,13582437
@@ -629,8 +629,8 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2000,28,The Kid,2000/07/07,Walt Disney,Comedy,PG,12929199
 2000,29,Road Trip,2000/05/19,Dreamworks SKG,Comedy,R,12713471
 2000,30,Bring it On,2000/08/25,Universal,Comedy,PG-13,12681549
-2000,31,Rules of Engagement,2000/04/07,Paramount Pictures,Thriller-or-Suspense,R,11377153
-2000,32,The Cell,2000/08/18,New Line,Thriller-or-Suspense,R,11369380
+2000,31,Rules of Engagement,2000/04/07,Paramount Pictures,Thriller/Suspense,R,11377153
+2000,32,The Cell,2000/08/18,New Line,Thriller/Suspense,R,11369380
 2000,33,Mission to Mars,2000/03/10,Walt Disney,Adventure,PG,11293991
 2000,34,Coyote Ugly,2000/08/04,Walt Disney,Drama,PG-13,11277600
 2000,35,Stuart Little,1999/12/17,Sony Pictures,Comedy,PG,11245287
@@ -662,39 +662,39 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2000,61,The Beach,2000/02/11,20th Century Fox,Drama,R,7380074
 2000,62,Pitch Black,2000/02/18,USA Films,Horror,R,7279237
 2000,63,Little Nicky,2000/11/10,New Line,Comedy,PG-13,7207536
-2000,64,The Original Kings of Comedy,2000/08/18,Paramount Pictures,Concert-or-Performance,R,7081265
+2000,64,The Original Kings of Comedy,2000/08/18,Paramount Pictures,Concert/Performance,R,7081265
 2000,65,Autumn in New York,2000/08/11,MGM,Drama,PG-13,7004254
 2000,66,Bedazzled,2000/10/20,20th Century Fox,Comedy,PG-13,6960907
 2000,67,The Exorcist,1973/12/26,Warner Bros.,Horror,R,6885382
-2000,68,Keeping the Faith,2000/04/14,Walt Disney,Romantic-Comedy,PG-13,6871317
+2000,68,Keeping the Faith,2000/04/14,Walt Disney,Romantic Comedy,PG-13,6871317
 2000,69,28 Days,2000/04/14,Sony Pictures,Comedy,PG-13,6871153
 2000,70,Toy Story 2,1999/11/19,Walt Disney,Adventure,G,6859395
 2000,71,Bounce,2000/11/17,Miramax,Drama,PG-13,6804360
 2000,72,Hanging Up,2000/02/18,Sony Pictures,Comedy,PG-13,6686068
 2000,73,"Dude, Where's My Car?",2000/12/15,20th Century Fox,Comedy,PG-13,6610743
 2000,74,The Flintstones in Viva Rock Vegas,2000/04/28,Universal,Comedy,PG,6536431
-2000,75,The Skulls,2000/03/31,Universal,Thriller-or-Suspense,PG-13,6494838
+2000,75,The Skulls,2000/03/31,Universal,Thriller/Suspense,PG-13,6494838
 2000,76,The 6th Day,2000/11/17,Sony Pictures,Action,PG-13,6366907
 2000,77,My Dog Skip,2000/01/12,Warner Bros.,Drama,PG,6326463
 2000,78,Where the Heart Is,2000/04/28,20th Century Fox,Drama,PG-13,6265523
 2000,79,Pay it Forward,2000/10/20,Warner Bros.,Drama,PG-13,6116148
-2000,80,Return to Me,2000/04/07,MGM,Romantic-Comedy,PG,6059795
+2000,80,Return to Me,2000/04/07,MGM,Romantic Comedy,PG,6059795
 2000,81,Almost Famous,2000/09/15,Dreamworks SKG,Comedy,R,5925604
 2000,82,The Legend of Bagger Vance,2000/11/03,Dreamworks SKG,Drama,PG-13,5694847
-2000,83,The Art of War,2000/08/25,Warner Bros.,Thriller-or-Suspense,R,5602802
+2000,83,The Art of War,2000/08/25,Warner Bros.,Thriller/Suspense,R,5602802
 2000,84,Any Given Sunday,1999/12/22,Warner Bros.,Drama,R,5524807
-2000,85,Bless the Child,2000/08/11,Paramount Pictures,Thriller-or-Suspense,R,5449754
+2000,85,Bless the Child,2000/08/11,Paramount Pictures,Thriller/Suspense,R,5449754
 2000,86,Proof of Life,2000/12/08,Warner Bros.,Action,R,5390255
-2000,87,The Watcher,2000/09/08,Universal,Thriller-or-Suspense,R,5370429
+2000,87,The Watcher,2000/09/08,Universal,Thriller/Suspense,R,5370429
 2000,88,"Girl, Interrupted",1999/12/21,Sony Pictures,Drama,R,5275766
 2000,89,Love and Basketball,2000/04/21,New Line,Drama,PG-13,5091117
 2000,90,High Fidelity,2000/03/31,Walt Disney,Comedy,R,5060678
 2000,91,Book of Shadows: Blair Witch 2,2000/10/27,Artisan,Horror,R,4901913
 2000,92,The Adventures of Rocky & Bullwinkle,2000/06/30,Universal,Comedy,PG,4823860
-2000,93,Nurse Betty,2000/09/08,USA Films,Black-Comedy,R,4669768
+2000,93,Nurse Betty,2000/09/08,USA Films,Black Comedy,R,4669768
 2000,94,Reindeer Games,2000/02/25,Miramax,Action,R,4334096
 2000,95,Titan A.E.,2000/06/16,20th Century Fox,Adventure,PG,4221146
-2000,96,Boys and Girls,2000/06/16,Miramax,Romantic-Comedy,PG-13,4044462
+2000,96,Boys and Girls,2000/06/16,Miramax,Romantic Comedy,PG-13,4044462
 2000,97,Magnolia,1999/12/17,New Line,Drama,R,4023382
 2000,98,Dracula 2000,2000/12/22,Miramax,Horror,R,4001774
 2000,99,Battlefield Earth: A Saga of the Year 3000,2000/05/12,Warner Bros.,Action,PG-13,3983615
@@ -709,7 +709,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2001,8,Jurassic Park 3,2001/07/18,Universal,Action,PG-13,32008147
 2001,9,Planet of the Apes,2001/07/27,20th Century Fox,Adventure,PG-13,31774123
 2001,10,Hannibal,2001/02/09,MGM,Horror,R,29168244
-2001,11,Ocean's Eleven,2001/12/07,Warner Bros.,Thriller-or-Suspense,PG-13,26849359
+2001,11,Ocean's Eleven,2001/12/07,Warner Bros.,Thriller/Suspense,PG-13,26849359
 2001,12,American Pie 2,2001/08/10,Universal,Comedy,R,25635480
 2001,13,The Fast and the Furious,2001/06/22,Universal,Action,PG-13,25532210
 2001,14,Lara Croft: Tomb Raider,2001/06/15,Paramount Pictures,Adventure,PG-13,23170350
@@ -721,42 +721,42 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2001,20,The Princess Diaries,2001/08/03,Walt Disney,Comedy,G,19121048
 2001,21,The Others,2001/08/10,Miramax,Horror,PG-13,17053478
 2001,22,Legally Blonde,2001/07/13,MGM,Comedy,PG-13,17048308
-2001,23,America's Sweethearts,2001/07/20,Sony Pictures,Romantic-Comedy,PG-13,16538458
+2001,23,America's Sweethearts,2001/07/20,Sony Pictures,Romantic Comedy,PG-13,16538458
 2001,24,Cats & Dogs,2001/07/04,Warner Bros.,Comedy,PG,16497376
 2001,25,Save the Last Dance,2001/01/12,Paramount Pictures,Drama,PG-13,16084501
 2001,26,Atlantis: The Lost Empire,2001/06/08,Walt Disney,Adventure,PG,14850311
-2001,27,Vanilla Sky,2001/12/14,Paramount Pictures,Thriller-or-Suspense,R,14325119
+2001,27,Vanilla Sky,2001/12/14,Paramount Pictures,Thriller/Suspense,R,14325119
 2001,28,Artificial Intelligence: AI,2001/06/29,Warner Bros.,Drama,PG-13,13889874
 2001,29,Training Day,2001/10/05,Warner Bros.,Drama,R,13473681
-2001,30,Along Came a Spider,2001/04/06,Paramount Pictures,Thriller-or-Suspense,R,13084575
-2001,31,Bridget Jones's Diary,2001/04/13,Miramax,Romantic-Comedy,R,12632607
+2001,30,Along Came a Spider,2001/04/06,Paramount Pictures,Thriller/Suspense,R,13084575
+2001,31,Bridget Jones's Diary,2001/04/13,Miramax,Romantic Comedy,R,12632607
 2001,32,Scary Movie 2,2001/07/04,Miramax/Dimension,Comedy,R,12593183
-2001,33,The Score,2001/07/13,Paramount Pictures,Thriller-or-Suspense,R,12556516
+2001,33,The Score,2001/07/13,Paramount Pictures,Thriller/Suspense,R,12556516
 2001,34,Swordfish,2001/06/08,Warner Bros.,Action,R,12327379
-2001,35,Shallow Hal,2001/11/09,20th Century Fox,Romantic-Comedy,PG-13,12158654
+2001,35,Shallow Hal,2001/11/09,20th Century Fox,Romantic Comedy,PG-13,12158654
 2001,36,Chocolat,2000/12/15,Miramax,Drama,PG-13,11848193
-2001,37,What Women Want,2000/12/15,Paramount Pictures,Romantic-Comedy,PG-13,11845095
+2001,37,What Women Want,2000/12/15,Paramount Pictures,Romantic Comedy,PG-13,11845095
 2001,38,The Mexican,2001/03/02,Dreamworks SKG,Action,R,11803642
 2001,39,Down to Earth,2001/02/16,Paramount Pictures,Comedy,PG-13,11337853
 2001,40,Jimmy Neutron: Boy Genius,2001/12/21,Paramount Pictures,Adventure,G,11013973
 2001,41,Spy Game,2001/11/21,Universal,Action,R,10857511
 2001,42,Miss Congeniality,2000/12/22,Warner Bros.,Comedy,PG-13,10675794
-2001,43,The Wedding Planner,2001/01/26,Sony Pictures,Romantic-Comedy,PG-13,10671529
+2001,43,The Wedding Planner,2001/01/26,Sony Pictures,Romantic Comedy,PG-13,10671529
 2001,44,Moulin Rouge,2001/05/18,20th Century Fox,Musical,PG-13,10082254
 2001,45,Rat Race,2001/08/17,Paramount Pictures,Comedy,PG-13,10001276
 2001,46,A Knight’s Tale,2001/05/11,Sony Pictures,Adventure,PG-13,9908827
 2001,47,The Animal,2001/06/01,Sony Pictures,Comedy,PG-13,9851983
-2001,48,Don’t Say a Word,2001/09/28,20th Century Fox,Thriller-or-Suspense,R,9708552
+2001,48,Don’t Say a Word,2001/09/28,20th Century Fox,Thriller/Suspense,R,9708552
 2001,49,Behind Enemy Lines,2001/11/30,20th Century Fox,Action,PG-13,9488955
 2001,50,Blow,2001/04/06,New Line,Drama,R,9362327
 2001,51,Exit Wounds,2001/03/16,Warner Bros.,Action,R,9144628
 2001,52,Enemy at the Gates,2001/03/16,Paramount Pictures,Drama,R,9080703
 2001,53,K-PAX,2001/10/26,Universal,Drama,PG-13,8889600
-2001,54,Serendipity,2001/10/05,Miramax,Romantic-Comedy,PG-13,8879030
+2001,54,Serendipity,2001/10/05,Miramax,Romantic Comedy,PG-13,8879030
 2001,55,Ali,2001/12/25,Sony Pictures,Drama,R,8739859
 2001,56,Finding Forrester,2000/12/19,Sony Pictures,Drama,PG-13,8209698
 2001,57,Zoolander,2001/09/28,Paramount Pictures,Comedy,PG-13,7979282
-2001,58,Domestic Disturbance,2001/11/02,Paramount Pictures,Thriller-or-Suspense,PG-13,7913715
+2001,58,Domestic Disturbance,2001/11/02,Paramount Pictures,Thriller/Suspense,PG-13,7913715
 2001,59,The One,2001/11/02,Sony Pictures,Action,PG-13,7757198
 2001,60,"O Brother, Where Art Thou?",2000/12/22,Walt Disney,Comedy,PG-13,7697877
 2001,61,Thirteen Ghosts,2001/10/26,Warner Bros.,Horror,R,7397166
@@ -777,22 +777,22 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2001,76,What's the Worst That Could Happen?,2001/06/01,MGM,Comedy,PG-13,5701020
 2001,77,Final Fantasy: The Spirits Within,2001/07/11,Sony Pictures,Adventure,PG-13,5677001
 2001,78,Black Knight,2001/11/21,20th Century Fox,Comedy,PG-13,5643587
-2001,79,From Hell,2001/10/19,20th Century Fox,Thriller-or-Suspense,R,5568868
-2001,80,Kate and Leopold,2001/12/25,Miramax,Romantic-Comedy,PG-13,5404241
+2001,79,From Hell,2001/10/19,20th Century Fox,Thriller/Suspense,R,5568868
+2001,80,Kate and Leopold,2001/12/25,Miramax,Romantic Comedy,PG-13,5404241
 2001,81,Jay and Silent Bob Strike Back,2001/08/24,Miramax/Dimension,Comedy,R,5310845
-2001,82,Snatch,2000/12/08,Sony Pictures,Black-Comedy,R,5306193
+2001,82,Snatch,2000/12/08,Sony Pictures,Black Comedy,R,5306193
 2001,83,Double Take,2001/01/12,Walt Disney,Action,PG-13,5269109
 2001,84,Riding in Cars with Boys,2001/10/19,Sony Pictures,Drama,PG-13,5261740
 2001,85,Baby Boy,2001/06/27,Sony Pictures,Drama,R,5076775
 2001,86,The Brothers,2001/03/23,Sony Pictures,Comedy,R,4851132
-2001,87,Someone Like You,2001/03/30,20th Century Fox,Romantic-Comedy,PG-13,4830041
+2001,87,Someone Like You,2001/03/30,20th Century Fox,Romantic Comedy,PG-13,4830041
 2001,88,Joe Dirt,2001/04/11,Sony Pictures,Comedy,PG-13,4785811
 2001,89,The Musketeer,2001/09/07,Universal,Adventure,PG-13,4779825
 2001,90,Crocodile Dundee in Los Angeles,2001/04/20,Paramount Pictures,Adventure,PG,4521222
 2001,91,Memento,2001/03/16,Newmarket Films,Drama,R,4513227
 2001,92,Captain Corelli's Mandolin,2001/08/17,Miramax,Drama,R,4510334
 2001,93,Sweet November,2001/02/16,Warner Bros.,Drama,PG-13,4467862
-2001,94,15 Minutes,2001/03/09,New Line,Thriller-or-Suspense,R,4306614
+2001,94,15 Minutes,2001/03/09,New Line,Thriller/Suspense,R,4306614
 2001,95,Hearts in Atlantis,2001/09/28,Warner Bros.,Drama,PG-13,4273106
 2001,96,How High,2001/12/21,Universal,Comedy,R,4257641
 2001,97,Angel Eyes,2001/05/18,Warner Bros.,Drama,R,4248150
@@ -803,8 +803,8 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2002,2,Star Wars Ep. II: Attack of the Clones,2002/05/16,20th Century Fox,Adventure,PG,53472760
 2002,3,The Lord of the Rings: The Two Towers,2003/12/12,New Line,Adventure,PG-13,45146442
 2002,4,Harry Potter and the Chamber of Secrets,2002/11/15,Warner Bros.,Adventure,PG,43390351
-2002,5,My Big Fat Greek Wedding,2002/04/19,IFC Films,Romantic-Comedy,PG,39225216
-2002,6,Signs,2002/08/02,Walt Disney,Thriller-or-Suspense,PG-13,39199660
+2002,5,My Big Fat Greek Wedding,2002/04/19,IFC Films,Romantic Comedy,PG,39225216
+2002,6,Signs,2002/08/02,Walt Disney,Thriller/Suspense,PG-13,39199660
 2002,7,Austin Powers in Goldmember,2002/07/25,New Line,Comedy,PG-13,36681202
 2002,8,Men in Black 2,2002/07/03,Sony Pictures,Action,PG-13,32774320
 2002,9,Ice Age,2002/03/15,20th Century Fox,Adventure,PG,30359277
@@ -818,30 +818,30 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2002,17,The Ring,2002/10/18,Dreamworks SKG,Horror,PG-13,21898524
 2002,18,Mr. Deeds,2002/06/28,Sony Pictures,Comedy,PG-13,21737255
 2002,19,Sweet Home Alabama,2002/09/27,Walt Disney,Comedy,PG-13,21701700
-2002,20,The Bourne Identity,2002/06/14,Universal,Thriller-or-Suspense,PG-13,20906877
+2002,20,The Bourne Identity,2002/06/14,Universal,Thriller/Suspense,PG-13,20906877
 2002,21,The Sum of All Fears,2002/05/31,Paramount Pictures,Action,PG-13,20390932
 2002,22,8 Mile,2002/11/08,Universal,Drama,R,19839976
 2002,23,Black Hawk Down,2001/12/28,Sony Pictures,Action,R,18602398
 2002,24,The Lord of the Rings: The Fellowship of the Ring,2003/12/05,New Line,Adventure,PG-13,18563553
 2002,25,The Road to Perdition,2002/07/12,Dreamworks SKG,Drama,R,17909554
 2002,26,Catch Me if You Can,2002/12/25,Dreamworks SKG,Drama,PG-13,16770674
-2002,27,Panic Room,2002/03/29,Sony Pictures,Thriller-or-Suspense,R,16404193
-2002,28,Red Dragon,2002/10/04,Universal,Thriller-or-Suspense,R,15999211
+2002,27,Panic Room,2002/03/29,Sony Pictures,Thriller/Suspense,R,16404193
+2002,28,Red Dragon,2002/10/04,Universal,Thriller/Suspense,R,15999211
 2002,29,The Scorpion King,2002/04/19,Universal,Action,PG-13,15590361
 2002,30,Spy Kids 2: The Island of Lost Dreams,2002/08/07,Miramax/Dimension,Adventure,PG,14728118
 2002,31,Blade 2,2002/03/22,New Line,Action,R,14057984
 2002,32,Snow Dogs,2002/01/18,Walt Disney,Comedy,PG,13967416
 2002,33,We Were Soldiers,2002/03/01,Paramount Pictures,Drama,R,13445816
-2002,34,Maid in Manhattan,2002/12/13,Sony Pictures,Romantic-Comedy,PG-13,13137454
+2002,34,Maid in Manhattan,2002/12/13,Sony Pictures,Romantic Comedy,PG-13,13137454
 2002,35,ET: The Extra-Terrestrial,1982/06/11,Universal,Drama,PG,13038282
 2002,36,The Rookie,2002/03/29,Walt Disney,Drama,G,13012060
 2002,37,Barbershop,2002/09/13,MGM,Comedy,PG-13,12948191
 2002,38,Spirit: Stallion of the Cimarron,2002/05/24,Dreamworks SKG,Adventure,G,12601602
 2002,39,John Q,2002/02/15,New Line,Drama,PG-13,12224893
 2002,40,The Divine Secrets of the Ya-Ya Sisterhood,2002/06/07,Warner Bros.,Comedy,PG-13,11977029
-2002,41,Two Weeks Notice,2002/12/20,Warner Bros.,Romantic-Comedy,PG-13,11843387
-2002,42,Insomnia,2002/05/24,Warner Bros.,Thriller-or-Suspense,R,11577139
-2002,43,Changing Lanes,2002/04/12,Paramount Pictures,Thriller-or-Suspense,R,11495739
+2002,41,Two Weeks Notice,2002/12/20,Warner Bros.,Romantic Comedy,PG-13,11843387
+2002,42,Insomnia,2002/05/24,Warner Bros.,Thriller/Suspense,R,11577139
+2002,43,Changing Lanes,2002/04/12,Paramount Pictures,Thriller/Suspense,R,11495739
 2002,44,Stuart Little 2,2002/07/19,Sony Pictures,Comedy,PG,11180173
 2002,45,Jackass: The Movie,2002/10/25,Paramount Pictures,Comedy,R,11051480
 2002,46,The Time Machine,2002/03/08,Dreamworks SKG,Adventure,PG-13,9756423
@@ -854,35 +854,35 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2002,53,Drumline,2002/12/13,20th Century Fox,Comedy,PG-13,8182309
 2002,54,Gangs of New York,2002/12/20,Miramax,Drama,R,8103624
 2002,55,Reign of Fire,2002/07/12,Walt Disney,Action,PG-13,7411700
-2002,56,High Crimes,2002/04/05,20th Century Fox,Thriller-or-Suspense,PG-13,7150293
+2002,56,High Crimes,2002/04/05,20th Century Fox,Thriller/Suspense,PG-13,7150293
 2002,57,A Walk to Remember,2002/01/25,Warner Bros.,Drama,PG,7095881
 2002,58,Orange County,2002/01/11,Paramount Pictures,Comedy,PG-13,7067076
 2002,59,Windtalkers,2002/06/14,MGM,Action,R,7042008
-2002,60,About a Boy,2002/05/17,Universal,Romantic-Comedy,PG-13,7022891
+2002,60,About a Boy,2002/05/17,Universal,Romantic Comedy,PG-13,7022891
 2002,61,The Master of Disguise,2002/08/02,Sony Pictures,Comedy,PG,6947251
 2002,62,I Am Sam,2001/12/28,New Line,Drama,PG-13,6912186
 2002,63,Resident Evil,2002/03/15,Sony Pictures,Horror,R,6905285
 2002,64,Blue Crush,2002/08/16,Universal,Drama,PG-13,6905063
 2002,65,Collateral Damage,2002/02/08,Warner Bros.,Action,R,6893000
 2002,66,Star Trek: Nemesis,2002/12/13,Paramount Pictures,Adventure,PG-13,6854682
-2002,67,Enough,2002/05/24,Sony Pictures,Thriller-or-Suspense,PG-13,6743066
+2002,67,Enough,2002/05/24,Sony Pictures,Thriller/Suspense,PG-13,6743066
 2002,68,Gosford Park,2001/12/26,USA Films,Comedy,R,6730905
 2002,69,Undercover Brother,2002/05/31,Universal,Comedy,PG-13,6580109
 2002,70,Showtime,2002/03/15,Warner Bros.,Comedy,PG-13,6531629
-2002,71,40 Days and 40 Nights,2002/03/01,Miramax,Romantic-Comedy,R,6530082
+2002,71,40 Days and 40 Nights,2002/03/01,Miramax,Romantic Comedy,R,6530082
 2002,72,Crossroads,2002/02/15,Paramount Pictures,Drama,PG-13,6400803
 2002,73,Clockstoppers,2002/03/29,Paramount Pictures,Adventure,PG,6365834
 2002,74,Treasure Planet,2002/11/27,Walt Disney,Adventure,PG,6165382
-2002,75,The Mothman Prophecies,2002/01/25,Sony Pictures,Thriller-or-Suspense,PG-13,6063458
+2002,75,The Mothman Prophecies,2002/01/25,Sony Pictures,Thriller/Suspense,PG-13,6063458
 2002,76,K-19: The Widowmaker,2002/07/19,Paramount Pictures,Action,PG-13,6053178
 2002,77,I Spy,2002/11/01,Sony Pictures,Action,PG-13,5698037
 2002,78,Friday After Next,2002/11/22,New Line,Comedy,R,5609000
-2002,79,Murder by Numbers,2002/04/19,Warner Bros.,Thriller-or-Suspense,R,5486208
+2002,79,Murder by Numbers,2002/04/19,Warner Bros.,Thriller/Suspense,R,5486208
 2002,80,The Wild Thornberrys,2002/12/20,Paramount Pictures,Adventure,PG,5465172
-2002,81,The Royal Tenenbaums,2001/12/14,Walt Disney,Black-Comedy,R,5448563
+2002,81,The Royal Tenenbaums,2001/12/14,Walt Disney,Black Comedy,R,5448563
 2002,82,In the Bedroom,2001/11/23,Miramax,Drama,R,5448318
 2002,83,One Hour Photo,2002/08/21,Fox Searchlight,Drama,R,5438404
-2002,84,Ocean's Eleven,2001/12/07,Warner Bros.,Thriller-or-Suspense,PG-13,5413042
+2002,84,Ocean's Eleven,2001/12/07,Warner Bros.,Thriller/Suspense,PG-13,5413042
 2002,85,Monster's Ball,2001/12/26,Lionsgate,Drama,R,5316391
 2002,86,Analyze That,2002/12/06,Warner Bros.,Comedy,R,5297365
 2002,87,Space Station,2002/04/19,IMAX Films,Documentary,Not-Rated,5242756
@@ -896,8 +896,8 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2002,95,The New Guy,2002/05/10,Sony Pictures,Comedy,PG-13,4986607
 2002,96,Swimfan,2002/09/06,20th Century Fox,Drama,PG-13,4916522
 2002,97,Crocodile Hunter: Collision Course,2002/07/12,MGM,Comedy,PG,4894480
-2002,98,Brown Sugar,2002/10/11,20th Century Fox,Romantic-Comedy,PG-13,4700137
-2002,99,Blood Work,2002/08/09,Warner Bros.,Thriller-or-Suspense,R,4509383
+2002,98,Brown Sugar,2002/10/11,20th Century Fox,Romantic Comedy,PG-13,4700137
+2002,99,Blood Work,2002/08/09,Warner Bros.,Thriller/Suspense,R,4509383
 2002,100,Beauty and the Beast (IMAX),2002/01/01,Walt Disney,Musical,G,4386751
 2003,1,Finding Nemo,2003/05/30,Walt Disney,Adventure,G,56337374
 2003,2,Pirates of the Caribbean: The Curse of the Black Pearl,2003/07/09,Walt Disney,Adventure,PG-13,50648627
@@ -920,7 +920,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2003,19,Freaky Friday,2003/08/06,Walt Disney,Comedy,PG,18272057
 2003,20,Scary Movie 3,2003/10/24,Miramax/Dimension,Comedy,PG-13,18169717
 2003,21,The Italian Job,2003/05/30,Paramount Pictures,Adventure,PG-13,17599670
-2003,22,How to Lose a Guy in 10 Days,2003/02/07,Paramount Pictures,Romantic-Comedy,PG-13,17546852
+2003,22,How to Lose a Guy in 10 Days,2003/02/07,Paramount Pictures,Romantic Comedy,PG-13,17546852
 2003,23,American Wedding,2003/08/01,Universal,Comedy,R,17305838
 2003,24,Daddy Day Care,2003/05/09,Sony Pictures,Comedy,PG,17271771
 2003,25,Daredevil,2003/02/14,20th Century Fox,Action,PG-13,17005558
@@ -932,7 +932,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2003,31,Brother Bear,2003/10/24,Walt Disney,Adventure,G,13813813
 2003,32,Master and Commander: The Far Side of the World,2003/11/14,20th Century Fox,Adventure,PG-13,13765529
 2003,33,Freddy vs. Jason,2003/08/15,New Line,Horror,R,13701932
-2003,34,Something's Gotta Give,2003/12/12,Sony Pictures,Romantic-Comedy,PG-13,13467939
+2003,34,Something's Gotta Give,2003/12/12,Sony Pictures,Romantic Comedy,PG-13,13467939
 2003,35,The Texas Chainsaw Massacre,2003/10/17,New Line,Horror,R,13344899
 2003,36,The School of Rock,2003/10/03,Paramount Pictures,Comedy,PG-13,13305477
 2003,37,The Lord of the Rings: The Two Towers,2003/12/12,New Line,Adventure,PG-13,13181350
@@ -947,33 +947,33 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2003,46,Shanghai Knights,2003/02/07,Walt Disney,Adventure,PG-13,10028228
 2003,47,Open Range,2003/08/15,Walt Disney,Western,R,9673508
 2003,48,Gothika,2003/11/21,Warner Bros.,Horror,R,9655776
-2003,49,Love Actually,2003/11/07,Universal,Romantic-Comedy,R,9524032
-2003,50,Bad Santa,2003/11/26,Miramax/Dimension,Black-Comedy,R,9437743
+2003,49,Love Actually,2003/11/07,Universal,Romantic Comedy,R,9524032
+2003,50,Bad Santa,2003/11/26,Miramax/Dimension,Black Comedy,R,9437743
 2003,51,Once Upon a Time in Mexico,2003/09/12,Sony Pictures,Action,R,9341734
-2003,52,Just Married,2003/01/10,20th Century Fox,Romantic-Comedy,PG-13,9307987
+2003,52,Just Married,2003/01/10,20th Century Fox,Romantic Comedy,PG-13,9307987
 2003,53,Mystic River,2003/10/08,Warner Bros.,Drama,R,9005038
 2003,54,About Schmidt,2002/12/13,New Line,Drama,R,8785531
-2003,55,The Recruit,2003/01/31,Walt Disney,Thriller-or-Suspense,PG-13,8753680
-2003,56,Identity,2003/04/25,Sony Pictures,Thriller-or-Suspense,R,8645317
+2003,55,The Recruit,2003/01/31,Walt Disney,Thriller/Suspense,PG-13,8753680
+2003,56,Identity,2003/04/25,Sony Pictures,Thriller/Suspense,R,8645317
 2003,57,Underworld,2003/09/19,Sony Pictures,Action,R,8605748
 2003,58,Radio,2003/10/24,Sony Pictures,Drama,PG,8590641
 2003,59,Mona Lisa Smile,2003/12/19,Sony Pictures,Drama,PG-13,8292996
-2003,60,Runaway Jury,2003/10/17,20th Century Fox,Thriller-or-Suspense,PG-13,8129783
+2003,60,Runaway Jury,2003/10/17,20th Century Fox,Thriller/Suspense,PG-13,8129783
 2003,61,The Jungle Book 2,2003/02/14,Walt Disney,Adventure,G,7943877
 2003,62,The Rundown,2003/09/26,Universal,Action,PG-13,7900786
 2003,63,Agent Cody Banks,2003/03/14,MGM,Comedy,PG,7884752
 2003,64,Final Destination 2,2003/01/31,New Line,Horror,R,7777224
-2003,65,Phone Booth,2003/04/04,20th Century Fox,Thriller-or-Suspense,R,7722423
+2003,65,Phone Booth,2003/04/04,20th Century Fox,Thriller/Suspense,R,7722423
 2003,66,28 Days Later…,2003/06/27,Fox Searchlight,Horror,R,7473451
 2003,67,Cold Mountain,2003/12/25,Miramax,Drama,R,7253270
 2003,68,Tears of the Sun,2003/03/07,Sony Pictures,Action,R,7235896
 2003,69,Under the Tuscan Sun,2003/09/26,Walt Disney,Comedy,PG-13,7184578
 2003,70,The Lizzie McGuire Movie,2003/05/02,Walt Disney,Comedy,PG,7086974
 2003,71,Secondhand Lions,2003/09/19,New Line,Drama,PG,6976938
-2003,72,Out of Time,2003/10/03,MGM,Thriller-or-Suspense,PG-13,6810448
+2003,72,Out of Time,2003/10/03,MGM,Thriller/Suspense,PG-13,6810448
 2003,73,The Hours,2002/12/27,Paramount Pictures,Drama,PG-13,6720891
 2003,74,Rugrats Go Wild,2003/06/13,Paramount Pictures,Adventure,PG,6534423
-2003,75,Paycheck,2003/12/25,Paramount Pictures,Thriller-or-Suspense,PG-13,6408698
+2003,75,Paycheck,2003/12/25,Paramount Pictures,Thriller/Suspense,PG-13,6408698
 2003,76,Head of State,2003/03/28,Dreamworks SKG,Comedy,PG-13,6266704
 2003,77,Good Boy!,2003/10/10,MGM,Comedy,PG,6246478
 2003,78,Uptown Girls,2003/08/15,MGM,Comedy,PG-13,6151850
@@ -981,7 +981,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2003,80,National Security,2003/01/17,Sony Pictures,Action,PG-13,6018068
 2003,81,What a Girl Wants,2003/04/04,Warner Bros.,Comedy,PG,5968574
 2003,82,Jeepers Creepers II,2003/08/29,MGM,Horror,R,5907761
-2003,83,Intolerable Cruelty,2003/10/10,Universal,Romantic-Comedy,PG-13,5853440
+2003,83,Intolerable Cruelty,2003/10/10,Universal,Romantic Comedy,PG-13,5853440
 2003,84,Cradle 2 the Grave,2003/02/28,Warner Bros.,Action,R,5747550
 2003,85,Malibu's Most Wanted,2003/04/18,Warner Bros.,Comedy,PG-13,5689701
 2003,86,The Hunted,2003/03/14,Paramount Pictures,Action,R,5677281
@@ -998,32 +998,32 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2003,97,Hollywood Homicide,2003/06/13,Sony Pictures,Action,PG-13,5009582
 2003,98,Honey,2003/12/05,Universal,Drama,PG-13,4778804
 2003,99,Johnny English,2003/07/18,Universal,Comedy,PG,4645689
-2003,100,Basic,2003/03/28,Sony Pictures,Thriller-or-Suspense,R,4411152
+2003,100,Basic,2003/03/28,Sony Pictures,Thriller/Suspense,R,4411152
 2004,1,Shrek 2,2004/05/19,Dreamworks SKG,Adventure,PG,71050925
 2004,2,Spider-Man 2,2004/06/30,Sony Pictures,Adventure,PG-13,60148870
 2004,3,The Passion of the Christ,2005/03/11,Newmarket Films,Drama,R,59625540
 2004,4,The Incredibles,2004/11/05,Walt Disney,Adventure,PG,40524477
 2004,5,Harry Potter and the Prisoner of Azkaban,2004/06/04,Warner Bros.,Adventure,PG,40183406
 2004,6,The Day After Tomorrow,2004/05/28,20th Century Fox,Adventure,PG-13,30070982
-2004,7,The Bourne Supremacy,2004/07/23,Universal,Thriller-or-Suspense,PG-13,28355466
+2004,7,The Bourne Supremacy,2004/07/23,Universal,Thriller/Suspense,PG-13,28355466
 2004,8,Meet the Fockers,2004/12/22,Universal,Comedy,PG-13,26161251
 2004,9,Shark Tale,2004/10/01,Dreamworks SKG,Adventure,PG,25887604
 2004,10,National Treasure,2004/11/19,Walt Disney,Adventure,PG,24882818
 2004,11,The Polar Express,2004/11/10,Warner Bros.,Adventure,G,24371629
 2004,12,"I, Robot",2004/07/16,20th Century Fox,Action,PG-13,23317395
 2004,13,Troy,2004/05/14,Warner Bros.,Action,R,21465149
-2004,14,50 First Dates,2004/02/13,Sony Pictures,Romantic-Comedy,PG-13,19448765
+2004,14,50 First Dates,2004/02/13,Sony Pictures,Romantic Comedy,PG-13,19448765
 2004,15,Van Helsing,2004/05/07,Universal,Action,PG-13,19347914
 2004,16,Fahrenheit 9/11,2004/06/23,Lionsgate,Documentary,R,19181081
 2004,17,Dodgeball: A True Underdog Story,2004/06/18,20th Century Fox,Comedy,PG-13,18410102
-2004,18,The Village,2004/07/30,Walt Disney,Thriller-or-Suspense,PG-13,18389294
+2004,18,The Village,2004/07/30,Walt Disney,Thriller/Suspense,PG-13,18389294
 2004,19,The Grudge,2004/10/22,Sony Pictures,Horror,PG-13,17771233
 2004,20,Ocean's Twelve,2004/12/10,Warner Bros.,Adventure,PG-13,17231295
 2004,21,Collateral,2004/08/06,Dreamworks SKG,Action,R,16130459
-2004,22,The Princess Diaries 2: Royal Engagement,2004/08/11,Walt Disney,Romantic-Comedy,G,15321970
+2004,22,The Princess Diaries 2: Royal Engagement,2004/08/11,Walt Disney,Romantic Comedy,G,15321970
 2004,23,Lemony Snicket's A Series of Unfortunate Events,2004/12/17,Paramount Pictures,Comedy,PG,15236190
 2004,24,Starsky & Hutch,2004/03/05,Warner Bros.,Comedy,PG-13,14202934
-2004,25,Along Came Polly,2004/01/16,Universal,Romantic-Comedy,PG-13,14182529
+2004,25,Along Came Polly,2004/01/16,Universal,Romantic Comedy,PG-13,14182529
 2004,26,The Lord of the Rings: The Return of the King,2003/12/17,New Line,Adventure,PG-13,13945589
 2004,27,Mean Girls,2004/04/30,Paramount Pictures,Comedy,PG-13,13856236
 2004,28,Scooby-Doo 2: Monsters Unleashed,2004/03/26,Warner Bros.,Comedy,PG,13556423
@@ -1031,7 +1031,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2004,30,SpongeBob SquarePants,2004/11/19,Paramount Pictures,Adventure,PG,13188417
 2004,31,The Notebook,2004/06/25,New Line,Drama,PG-13,13043766
 2004,32,AVP: Alien Vs. Predator,2004/08/13,20th Century Fox,Horror,PG-13,12927712
-2004,33,Man on Fire,2004/04/23,20th Century Fox,Thriller-or-Suspense,R,12545380
+2004,33,Man on Fire,2004/04/23,20th Century Fox,Thriller/Suspense,R,12545380
 2004,34,The Terminal,2004/06/18,Dreamworks SKG,Drama,PG-13,12411265
 2004,35,Garfield,2004/06/11,20th Century Fox,Comedy,PG,12136504
 2004,36,Ladder 49,2004/10/01,Walt Disney,Action,PG-13,11895465
@@ -1039,9 +1039,9 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2004,38,Ray,2004/10/29,Universal,Drama,PG-13,11531572
 2004,39,White Chicks,2004/06/23,Sony Pictures,Comedy,PG-13,11135104
 2004,40,Hidalgo,2004/03/05,Walt Disney,Western,PG-13,10835222
-2004,41,The Forgotton,2004/09/24,Sony Pictures,Thriller-or-Suspense,PG-13,10742655
+2004,41,The Forgotton,2004/09/24,Sony Pictures,Thriller/Suspense,PG-13,10742655
 2004,42,Kill Bill: Volume 2,2004/04/16,Miramax,Action,R,10661500
-2004,43,The Manchurian Candidate,2004/07/30,Paramount Pictures,Thriller-or-Suspense,R,10619760
+2004,43,The Manchurian Candidate,2004/07/30,Paramount Pictures,Thriller/Suspense,R,10619760
 2004,44,Barbershop 2: Back in Business,2004/02/06,MGM,Comedy,PG-13,10478327
 2004,45,Miracle,2004/02/06,Walt Disney,Drama,PG,10366842
 2004,46,Friday Night Lights,2004/10/08,Universal,Drama,PG-13,9864077
@@ -1050,27 +1050,27 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2004,49,Dawn of the Dead,2004/03/19,Universal,Horror,R,9499318
 2004,50,Without a Paddle,2004/08/20,Paramount Pictures,Comedy,PG-13,9357162
 2004,51,Big Fish,2003/12/10,Sony Pictures,Drama,PG-13,9336338
-2004,52,The Butterfly Effect,2004/01/23,New Line,Thriller-or-Suspense,R,9327645
+2004,52,The Butterfly Effect,2004/01/23,New Line,Thriller/Suspense,R,9327645
 2004,53,The Chronicles of Riddick,2004/06/11,Universal,Adventure,PG-13,9293518
-2004,54,Shall We Dance?,2004/10/15,Miramax,Romantic-Comedy,PG-13,9202877
+2004,54,Shall We Dance?,2004/10/15,Miramax,Romantic Comedy,PG-13,9202877
 2004,55,13 Going On 30,2004/04/23,Sony Pictures,Comedy,PG-13,9201243
 2004,56,Saw,2004/10/29,Lionsgate,Horror,R,8881385
 2004,57,Jet Li's Hero,2004/08/27,Miramax,Action,PG-13,8639636
 2004,58,Cheaper by the Dozen,2003/12/25,20th Century Fox,Comedy,PG,8533727
 2004,59,Cold Mountain,2003/12/25,Miramax,Drama,R,8356745
 2004,60,King Arthur,2004/07/07,Walt Disney,Adventure,PG-13,8353939
-2004,61,A Cinderella Story,2004/07/16,Warner Bros.,Romantic-Comedy,PG,8283119
+2004,61,A Cinderella Story,2004/07/16,Warner Bros.,Romantic Comedy,PG,8283119
 2004,62,Resident Evil: Apocalypse,2004/09/10,Sony Pictures,Horror,R,8170704
 2004,63,Home on the Range,2004/04/02,Walt Disney,Comedy,PG,8055773
 2004,64,Blade: Trinity,2004/12/08,New Line,Action,R,7742341
-2004,65,Secret Window,2004/03/12,Sony Pictures,Thriller-or-Suspense,PG-13,7722710
+2004,65,Secret Window,2004/03/12,Sony Pictures,Thriller/Suspense,PG-13,7722710
 2004,66,Walking Tall,2004/04/02,MGM,Action,PG-13,7441839
 2004,67,Napoleon Dynamite,2004/06/11,Fox Searchlight,Comedy,PG,7151537
-2004,68,Something's Gotta Give,2003/12/12,Sony Pictures,Romantic-Comedy,PG-13,7000574
+2004,68,Something's Gotta Give,2003/12/12,Sony Pictures,Romantic Comedy,PG-13,7000574
 2004,69,Exorcist: The Beginning,2004/08/20,Warner Bros.,Horror,R,6733472
 2004,70,Catwoman,2004/07/23,Warner Bros.,Action,PG-13,6473813
 2004,71,You Got Served,2004/01/30,Sony Pictures,Drama,PG-13,6451931
-2004,72,Bridget Jones: The Edge Of Reason,2004/11/12,Universal,Romantic-Comedy,R,6421569
+2004,72,Bridget Jones: The Edge Of Reason,2004/11/12,Universal,Romantic Comedy,R,6421569
 2004,73,The Ladykillers,2004/03/26,Walt Disney,Comedy,R,6391648
 2004,74,Sky Captain and the World of Tomorrow,2004/09/17,Paramount Pictures,Adventure,PG,6080528
 2004,75,Raising Helen,2004/05/28,Walt Disney,Comedy,PG-13,6036316
@@ -1082,20 +1082,20 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2004,81,The Punisher,2004/04/16,Lionsgate,Action,R,5420993
 2004,82,Fat Albert,2004/12/25,20th Century Fox,Comedy,PG,5366444
 2004,83,Team America: World Police,2004/10/15,Paramount Pictures,Comedy,R,5273724
-2004,84,Taking Lives,2004/03/19,Warner Bros.,Thriller-or-Suspense,R,5262857
-2004,85,Cellular,2004/09/10,New Line,Thriller-or-Suspense,PG-13,5153561
+2004,84,Taking Lives,2004/03/19,Warner Bros.,Thriller/Suspense,R,5262857
+2004,85,Cellular,2004/09/10,New Line,Thriller/Suspense,PG-13,5153561
 2004,86,The Aviator,2004/12/17,Miramax,Drama,PG-13,5079128
 2004,87,Anacondas: The Hunt for the Blood Orchid,2004/08/27,Sony Pictures,Horror,PG-13,5076713
 2004,88,Johnson Family Vacation,2004/04/07,Fox Searchlight,Comedy,PG-13,5024792
 2004,89,Spanglish,2004/12/17,Sony Pictures,Comedy,PG-13,4992204
-2004,90,Open Water,2004/08/06,Lionsgate,Thriller-or-Suspense,R,4911575
+2004,90,Open Water,2004/08/06,Lionsgate,Thriller/Suspense,R,4911575
 2004,91,Confessions of a Teenage Drama Queen,2004/02/20,Walt Disney,Comedy,PG,4723199
-2004,92,The Prince & Me,2004/04/02,Paramount Pictures,Romantic-Comedy,PG,4535568
+2004,92,The Prince & Me,2004/04/02,Paramount Pictures,Romantic Comedy,PG,4535568
 2004,93,After the Sunset,2004/11/12,New Line,Action,PG-13,4527202
 2004,94,Closer,2004/12/17,Sony Pictures,Drama,R,4422021
 2004,95,Garden State,2004/07/28,Fox Searchlight,Drama,R,4308252
 2004,96,Jersey Girl,2004/03/26,Miramax,Comedy,PG-13,4068619
-2004,97,Twisted,2004/02/27,Paramount Pictures,Thriller-or-Suspense,R,4057173
+2004,97,Twisted,2004/02/27,Paramount Pictures,Thriller/Suspense,R,4057173
 2004,98,Finding Neverland,2004/11/12,Miramax,Drama,PG,3973650
 2004,99,Calendar Girls,2003/12/19,Walt Disney,Comedy,PG-13,3874142
 2004,100,Around the World in 80 Days,2004/06/16,Walt Disney,Adventure,PG,3865404
@@ -1108,7 +1108,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2005,7,Batman Begins,2005/06/15,Warner Bros.,Action,PG-13,32034910
 2005,8,Madagascar,2005/05/27,Dreamworks SKG,Adventure,PG,30202109
 2005,9,Mr. And Mrs. Smith,2005/06/10,20th Century Fox,Action,PG-13,29069622
-2005,10,Hitch,2005/02/11,Sony Pictures,Romantic-Comedy,PG-13,27735453
+2005,10,Hitch,2005/02/11,Sony Pictures,Romantic Comedy,PG-13,27735453
 2005,11,King Kong,2005/12/14,Universal,Adventure,PG-13,26287879
 2005,12,The Longest Yard,2005/05/27,Paramount Pictures,Comedy,PG-13,24667622
 2005,13,Fantastic Four,2005/07/08,20th Century Fox,Action,PG-13,24133553
@@ -1119,10 +1119,10 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2005,18,The 40 Year-old Virgin,2005/08/19,Universal,Comedy,R,17074763
 2005,19,Million Dollar Baby,2005/01/21,Warner Bros.,Drama,PG-13,15503687
 2005,20,Walk the Line,2005/11/18,20th Century Fox,Drama,PG-13,14312392
-2005,21,Flightplan,2005/09/23,Walt Disney,Thriller-or-Suspense,PG-13,13905189
+2005,21,Flightplan,2005/09/23,Walt Disney,Thriller/Suspense,PG-13,13905189
 2005,22,Saw II,2005/10/28,Lionsgate,Horror,R,13574777
 2005,23,Monster-in-Law,2005/05/13,New Line,Comedy,PG-13,12937800
-2005,24,Are We There Yet?,2005/01/21,Sony Pictures,Romantic-Comedy,PG,12897721
+2005,24,Are We There Yet?,2005/01/21,Sony Pictures,Romantic Comedy,PG,12897721
 2005,25,The Dukes of Hazzard,2005/08/05,Warner Bros.,Comedy,PG-13,12522656
 2005,26,March of the Penguins,2005/07/22,Warner Independent,Documentary,G,12080690
 2005,27,Constantine,2005/02/18,Warner Bros.,Action,R,11852757
@@ -1130,7 +1130,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2005,29,The Exorcism of Emily Rose,2005/09/09,Sony Pictures,Horror,PG-13,11711771
 2005,30,Four Brothers,2005/08/12,Paramount Pictures,Drama,R,11621588
 2005,31,Sin City,2005/04/01,Miramax/Dimension,Action,R,11560658
-2005,32,The Interpreter,2005/04/22,Universal,Thriller-or-Suspense,PG-13,11342926
+2005,32,The Interpreter,2005/04/22,Universal,Thriller/Suspense,PG-13,11342926
 2005,33,The Aviator,2004/12/17,Miramax,Drama,PG-13,11086963
 2005,34,Guess Who,2005/03/25,Sony Pictures,Comedy,PG-13,10751308
 2005,35,Sahara,2005/04/08,Paramount Pictures,Adventure,PG-13,10713248
@@ -1142,14 +1142,14 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2005,41,Jarhead,2005/11/04,Universal,Drama,R,9743336
 2005,42,Cinderella Man,2005/06/03,Universal,Drama,PG-13,9617770
 2005,43,Fun With Dick And Jane,2005/12/21,Sony Pictures,Comedy,PG-13,9376732
-2005,44,Red-Eye,2005/08/19,Dreamworks SKG,Thriller-or-Suspense,PG-13,9031482
+2005,44,Red-Eye,2005/08/19,Dreamworks SKG,Thriller/Suspense,PG-13,9031482
 2005,45,White Noise,2005/01/07,Universal,Drama,PG-13,8751070
 2005,46,Wallace & Gromit: The Curse of the Were-Rabbit,2005/10/07,Dreamworks SKG,Adventure,G,8739387
 2005,47,Be Cool,2005/03/04,MGM,Comedy,PG-13,8712855
 2005,48,Crash,2006/03/10,Lionsgate,Drama,R,8632514
 2005,49,The Corpse Bride,2005/09/16,Warner Bros.,Adventure,PG,8324354
 2005,50,Kicking and Screaming,2005/05/13,Universal,Comedy,PG,8243794
-2005,51,Hide and Seek,2005/01/28,20th Century Fox,Thriller-or-Suspense,R,7971994
+2005,51,Hide and Seek,2005/01/28,20th Century Fox,Thriller/Suspense,R,7971994
 2005,52,The Hitchhiker's Guide to the Galaxy,2005/04/29,Walt Disney,Comedy,PG,7959299
 2005,53,"Yours, Mine and Ours",2005/11/23,Paramount Pictures,Comedy,PG,7914724
 2005,54,Diary of a Mad Black Woman,2005/02/25,Lionsgate,Drama,PG-13,7863704
@@ -1157,20 +1157,20 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2005,56,Racing Stripes,2005/01/14,Warner Bros.,Comedy,PG,7764824
 2005,57,Sideways,2004/10/22,Fox Searchlight,Drama,R,7659609
 2005,58,Miss Congeniality 2: Armed and Fabulous,2005/03/24,Warner Bros.,Comedy,PG-13,7562871
-2005,59,Just Like Heaven,2005/09/16,Dreamworks SKG,Romantic-Comedy,PG-13,7537929
+2005,59,Just Like Heaven,2005/09/16,Dreamworks SKG,Romantic Comedy,PG-13,7537929
 2005,60,The Skeleton Key,2005/08/12,Universal,Horror,PG-13,7473902
 2005,61,Kingdom of Heaven,2005/05/06,20th Century Fox,Adventure,R,7394448
 2005,62,Boogeyman,2005/02/04,Sony Pictures,Horror,PG-13,7293663
 2005,63,The Legend of Zorro,2005/10/28,Sony Pictures,Adventure,PG,7110036
 2005,64,In Good Company,2004/12/29,Universal,Comedy,PG-13,7061578
 2005,65,The Family Stone,2005/12/16,20th Century Fox,Comedy,PG-13,6890739
-2005,66,Must Love Dogs,2005/07/29,Warner Bros.,Romantic-Comedy,PG-13,6847872
+2005,66,Must Love Dogs,2005/07/29,Warner Bros.,Romantic Comedy,PG-13,6847872
 2005,67,The Transporter 2,2005/09/02,20th Century Fox,Action,PG-13,6723222
 2005,68,Fever Pitch,2005/04/08,20th Century Fox,Comedy,PG-13,6563349
 2005,69,The Adventures of Sharkboy and Lavagirl in 3-D,2005/06/10,Miramax/Dimension,Adventure,PG,6111963
 2005,70,Sisterhood of the Traveling Pants,2005/06/01,Warner Bros.,Drama,PG,6092521
 2005,71,The Brothers Grimm,2005/08/26,Miramax/Dimension,Adventure,PG-13,5912580
-2005,72,Syriana,2005/11/23,Warner Bros.,Thriller-or-Suspense,R,5885336
+2005,72,Syriana,2005/11/23,Warner Bros.,Thriller/Suspense,R,5885336
 2005,73,Beauty Shop,2005/03/30,MGM,Comedy,PG-13,5671037
 2005,74,The Island,2005/07/22,Dreamworks SKG,Action,PG-13,5587973
 2005,75,Derailed,2005/11/11,Weinstein Co.,Action,R,5566299
@@ -1184,7 +1184,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2005,83,Because of Winn-Dixie,2005/02/18,20th Century Fox,Comedy,PG,5093142
 2005,84,Stealth,2005/07/29,Sony Pictures,Action,PG-13,5010412
 2005,85,House of Wax,2005/05/06,Warner Bros.,Horror,R,5002308
-2005,86,The Wedding Date,2005/02/04,Universal,Romantic-Comedy,PG-13,4949609
+2005,86,The Wedding Date,2005/02/04,Universal,Romantic Comedy,PG-13,4949609
 2005,87,Just Friends,2005/11/23,New Line,Comedy,PG-13,4913250
 2005,88,A History of Violence,2005/09/23,New Line,Drama,R,4867161
 2005,89,Get Rich or Die Tryin',2005/11/09,Paramount Pictures,Drama,R,4805809
@@ -1197,12 +1197,12 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2005,96,XXX: State of the Union,2005/04/29,Sony Pictures,Action,PG-13,4192501
 2005,97,Elizabethtown,2005/10/14,Paramount Pictures,Drama,PG-13,4188834
 2005,98,Serenity,2005/09/30,Universal,Action,PG-13,3980423
-2005,99,Dark Water,2005/07/08,Walt Disney,Thriller-or-Suspense,PG-13,3973961
+2005,99,Dark Water,2005/07/08,Walt Disney,Thriller/Suspense,PG-13,3973961
 2005,100,Aeon Flux,2005/12/02,Paramount Pictures,Action,PG-13,3891318
 2006,1,Pirates of the Caribbean: Dead Man's Chest,2006/07/07,Walt Disney,Adventure,PG-13,64628368
 2006,2,Cars,2006/06/09,Walt Disney,Comedy,G,37264577
 2006,3,X-Men: The Last Stand,2006/05/26,20th Century Fox,Action,PG-13,35780528
-2006,4,The Da Vinci Code,2006/05/19,Sony Pictures,Thriller-or-Suspense,PG-13,33211624
+2006,4,The Da Vinci Code,2006/05/19,Sony Pictures,Thriller/Suspense,PG-13,33211624
 2006,5,Superman Returns,2006/06/28,Warner Bros.,Adventure,PG-13,30552671
 2006,6,Ice Age: The Meltdown,2006/03/31,20th Century Fox,Adventure,PG,29821468
 2006,7,Happy Feet,2006/11/17,Warner Bros.,Adventure,PG,26865286
@@ -1214,12 +1214,12 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2006,13,Borat,2006/11/03,20th Century Fox,Comedy,R,19175788
 2006,14,The Devil Wears Prada,2006/06/30,20th Century Fox,Comedy,PG-13,19044345
 2006,15,The Departed,2006/10/06,Warner Bros.,Drama,R,18375513
-2006,16,The Break-Up,2006/06/02,Universal,Romantic-Comedy,PG-13,18122637
+2006,16,The Break-Up,2006/06/02,Universal,Romantic Comedy,PG-13,18122637
 2006,17,Night at the Museum,2006/12/22,20th Century Fox,Comedy,PG,17682771
 2006,18,The Pursuit of Happyness,2006/12/15,Sony Pictures,Drama,PG-13,15024682
 2006,19,Scary Movie 4,2006/04/14,Weinstein/Dimension,Comedy,PG-13,13848949
-2006,20,Failure to Launch,2006/03/10,Paramount Pictures,Romantic-Comedy,PG-13,13544304
-2006,21,Inside Man,2006/03/24,Universal,Thriller-or-Suspense,R,13531944
+2006,20,Failure to Launch,2006/03/10,Paramount Pictures,Romantic Comedy,PG-13,13544304
+2006,21,Inside Man,2006/03/24,Universal,Thriller/Suspense,R,13531944
 2006,22,Open Season,2006/09/29,Sony Pictures,Adventure,PG,12993169
 2006,23,The Santa Clause 3: The Escape Clause,2006/11/03,Walt Disney,Comedy,G,12755579
 2006,24,The Pink Panther,2006/02/10,Sony Pictures,Comedy,PG,12553660
@@ -1242,7 +1242,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2006,41,The Fast and the Furious: Tokyo Drift,2006/06/16,Universal,Action,PG-13,9559619
 2006,42,Underworld: Evolution,2006/01/20,Sony Pictures,Action,R,9514332
 2006,43,Flushed Away,2006/11/03,Paramount Pictures,Comedy,PG,9424903
-2006,44,Déjà Vu,2006/11/22,Walt Disney,Thriller-or-Suspense,PG-13,9400683
+2006,44,Déjà Vu,2006/11/22,Walt Disney,Thriller/Suspense,PG-13,9400683
 2006,45,The Shaggy Dog,2006/03/10,Walt Disney,Comedy,PG,9331842
 2006,46,Poseidon,2006/05/12,Warner Bros.,Adventure,PG-13,9263330
 2006,47,The Benchwarmers,2006/04/07,Sony Pictures,Comedy,PG-13,9136450
@@ -1255,13 +1255,13 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2006,54,The Omen,2006/06/06,20th Century Fox,Horror,R,8337005
 2006,55,Final Destination 3,2006/02/10,New Line,Horror,R,8259244
 2006,56,Charlotte's Web,2006/12/15,Paramount Pictures,Drama,G,8079166
-2006,57,The Prestige,2006/10/20,Walt Disney,Thriller-or-Suspense,PG-13,8011381
+2006,57,The Prestige,2006/10/20,Walt Disney,Thriller/Suspense,PG-13,8011381
 2006,58,The Lake House,2006/06/16,Warner Bros.,Drama,PG,7989329
 2006,59,Hoodwinked,2006/01/13,Weinstein Co.,Comedy,PG,7820101
 2006,60,Fun With Dick And Jane,2005/12/21,Sony Pictures,Comedy,PG-13,7701548
-2006,61,The Holiday,2006/12/08,Sony Pictures,Romantic-Comedy,PG-13,7646448
+2006,61,The Holiday,2006/12/08,Sony Pictures,Romantic Comedy,PG-13,7646448
 2006,62,King Kong,2005/12/14,Universal,Adventure,PG-13,7568658
-2006,63,Firewall,2006/02/10,Warner Bros.,Thriller-or-Suspense,PG-13,7442929
+2006,63,Firewall,2006/02/10,Warner Bros.,Thriller/Suspense,PG-13,7442929
 2006,64,Date Movie,2006/02/17,20th Century Fox,Comedy,PG-13,7411973
 2006,65,Rocky Balboa,2006/12/20,MGM,Drama,PG,7319180
 2006,66,When a Stranger Calls,2006/02/03,Sony Pictures,Horror,PG-13,7306902
@@ -1284,14 +1284,14 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2006,83,Dreamgirls,2006/12/25,Paramount Pictures,Musical,PG-13,5658686
 2006,84,16 Blocks,2006/03/03,Warner Bros.,Action,PG-13,5632845
 2006,85,Accepted,2006/08/18,Universal,Comedy,PG-13,5584745
-2006,86,The Sentinel,2006/04/21,20th Century Fox,Thriller-or-Suspense,PG-13,5539037
+2006,86,The Sentinel,2006/04/21,20th Century Fox,Thriller/Suspense,PG-13,5539037
 2006,87,The Nativity Story,2006/12/01,New Line,Drama,PG,5538407
 2006,88,Blood Diamond,2006/12/08,Warner Bros.,Action,R,5454432
 2006,89,The Good Shepherd,2006/12/22,Universal,Drama,R,5353663
 2006,90,Deck the Halls,2006/11/22,20th Century Fox,Comedy,PG,5305948
 2006,91,Take the Lead,2006/04/07,New Line,Drama,PG-13,5304132
-2006,92,Snakes on a Plane,2006/08/18,New Line,Thriller-or-Suspense,R,5194017
-2006,93,She's the Man,2006/03/17,Paramount Pictures,Romantic-Comedy,PG-13,5173917
+2006,92,Snakes on a Plane,2006/08/18,New Line,Thriller/Suspense,R,5194017
+2006,93,She's the Man,2006/03/17,Paramount Pictures,Romantic Comedy,PG-13,5173917
 2006,94,Flags of Our Fathers,2006/10/20,Paramount Pictures,Drama,R,5130133
 2006,95,Munich,2005/12/23,Universal,Drama,R,5054739
 2006,96,Cheaper by the Dozen 2,2005/12/21,20th Century Fox,Comedy,PG,4924907
@@ -1304,7 +1304,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2007,3,Transformers,2007/07/02,Paramount Pictures,Action,PG-13,46402062
 2007,4,Pirates of the Caribbean: At World's End,2007/05/24,Walt Disney,Adventure,PG-13,44973898
 2007,5,Harry Potter and the Order of the Phoenix,2007/07/11,Warner Bros.,Adventure,PG-13,42442549
-2007,6,The Bourne Ultimatum,2007/08/03,Universal,Thriller-or-Suspense,PG-13,33062655
+2007,6,The Bourne Ultimatum,2007/08/03,Universal,Thriller/Suspense,PG-13,33062655
 2007,7,300,2007/03/09,Warner Bros.,Action,R,30612636
 2007,8,Ratatouille,2007/06/29,Walt Disney,Comedy,G,30006635
 2007,9,I am Legend,2007/12/14,Warner Bros.,Horror,PG-13,29960694
@@ -1312,7 +1312,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2007,11,National Treasure: The Book of Secrets,2007/12/21,Walt Disney,Adventure,PG,24835871
 2007,12,Wild Hogs,2007/03/02,Walt Disney,Comedy,PG-13,24449648
 2007,13,Alvin and the Chipmunks,2007/12/14,20th Century Fox,Comedy,PG,22330297
-2007,14,Knocked Up,2007/06/01,Universal,Romantic-Comedy,R,21622349
+2007,14,Knocked Up,2007/06/01,Universal,Romantic Comedy,R,21622349
 2007,15,Rush Hour 3,2007/08/10,New Line,Action,PG-13,20367146
 2007,16,Night at the Museum,2006/12/22,20th Century Fox,Comedy,PG,19628068
 2007,17,Live Free or Die Hard,2007/06/27,20th Century Fox,Action,PG-13,19553692
@@ -1320,7 +1320,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2007,19,American Gangster,2007/11/02,Universal,Drama,R,18771909
 2007,20,Bee Movie,2007/11/02,Paramount Pictures,Comedy,PG,18098596
 2007,21,Superbad,2007/08/17,Sony Pictures,Comedy,R,17654538
-2007,22,Enchanted,2007/11/21,Walt Disney,Romantic-Comedy,PG,17415834
+2007,22,Enchanted,2007/11/21,Walt Disney,Romantic Comedy,PG,17415834
 2007,23,I Now Pronounce You Chuck and Larry,2007/07/20,Universal,Comedy,PG-13,17401930
 2007,24,Hairspray,2007/07/20,New Line,Musical,PG,17277885
 2007,25,Blades of Glory,2007/03/30,Paramount Pictures,Comedy,PG-13,17237579
@@ -1332,7 +1332,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2007,31,The Game Plan,2007/09/28,Walt Disney,Comedy,PG,13006318
 2007,32,Bridge to Terabithia,2007/02/16,Walt Disney,Drama,PG,11952636
 2007,33,Beowulf,2007/11/16,Paramount Pictures,Adventure,PG-13,11803081
-2007,34,Disturbia,2007/04/13,Paramount Pictures,Thriller-or-Suspense,PG-13,11746943
+2007,34,Disturbia,2007/04/13,Paramount Pictures,Thriller/Suspense,PG-13,11746943
 2007,35,1408,2007/06/22,MGM,Horror,R,10463027
 2007,36,Fred Claus,2007/11/09,Warner Bros.,Comedy,PG,10377534
 2007,37,Dreamgirls,2006/12/25,Paramount Pictures,Musical,PG-13,9636854
@@ -1342,44 +1342,44 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2007,41,Stomp the Yard,2007/01/12,Sony Pictures,Drama,PG-13,8918055
 2007,42,Surf's Up,2007/06/08,Sony Pictures,Adventure,PG,8556350
 2007,43,Halloween,2007/08/31,MGM,Horror,R,8469353
-2007,44,Why Did I Get Married?,2007/10/12,Lionsgate,Romantic-Comedy,PG-13,8023913
+2007,44,Why Did I Get Married?,2007/10/12,Lionsgate,Romantic Comedy,PG-13,8023913
 2007,45,TMNT,2007/03/23,Warner Bros.,Action,PG,7870508
 2007,46,3:10 to Yuma,2007/09/07,Lionsgate,Western,R,7791702
 2007,47,Resident Evil: Extinction,2007/09/21,Sony Pictures,Action,R,7361726
-2007,48,Music and Lyrics,2007/02/14,Warner Bros.,Romantic-Comedy,PG-13,7350667
+2007,48,Music and Lyrics,2007/02/14,Warner Bros.,Romantic Comedy,PG-13,7350667
 2007,49,Are We Done Yet?,2007/04/04,Sony Pictures,Comedy,PG,7218391
 2007,50,This Christmas,2007/11/21,Sony Pictures,Drama,PG-13,7139815
-2007,51,Premonition,2007/03/16,Sony Pictures,Thriller-or-Suspense,PG-13,6955320
+2007,51,Premonition,2007/03/16,Sony Pictures,Thriller/Suspense,PG-13,6955320
 2007,52,The Kingdom,2007/09/28,Universal,Action,R,6899309
-2007,53,Dan in Real Life,2007/10/26,Walt Disney,Romantic-Comedy,PG-13,6850351
-2007,54,Shooter,2007/03/23,Paramount Pictures,Thriller-or-Suspense,R,6831915
+2007,53,Dan in Real Life,2007/10/26,Walt Disney,Romantic Comedy,PG-13,6850351
+2007,54,Shooter,2007/03/23,Paramount Pictures,Thriller/Suspense,R,6831915
 2007,55,No Country for Old Men,2007/11/21,Miramax,Action,R,6505776
-2007,56,License to Wed,2007/07/03,Warner Bros.,Romantic-Comedy,PG,6366252
+2007,56,License to Wed,2007/07/03,Warner Bros.,Romantic Comedy,PG,6366252
 2007,57,Underdog,2007/08/03,Walt Disney,Adventure,PG,6360553
-2007,58,No Reservations,2007/07/27,Warner Bros.,Romantic-Comedy,PG,6265694
+2007,58,No Reservations,2007/07/27,Warner Bros.,Romantic Comedy,PG,6265694
 2007,59,Because I Said So,2007/02/02,Universal,Comedy,PG-13,6202622
 2007,60,Charlie Wilson's War,2007/12/21,Universal,Drama,R,6061528
 2007,61,Epic Movie,2007/01/26,20th Century Fox,Comedy,PG-13,5776070
 2007,62,30 Days of Night,2007/10/19,Sony Pictures,Horror,R,5751307
 2007,63,Hitman,2007/11/21,20th Century Fox,Action,R,5704753
 2007,64,Michael Clayton,2007/10/12,Warner Bros.,Drama,R,5692935
-2007,65,Fracture,2007/04/20,New Line,Thriller-or-Suspense,R,5669287
+2007,65,Fracture,2007/04/20,New Line,Thriller/Suspense,R,5669287
 2007,66,Stardust,2007/08/10,Paramount Pictures,Adventure,PG-13,5615543
 2007,67,Pan's Labyrinth,2006/12/29,Picturehouse,Horror,R,5387496
 2007,68,The Brave One,2007/09/14,Warner Bros.,Drama,R,5347936
-2007,69,The Heartbreak Kid,2007/10/05,Paramount Pictures,Romantic-Comedy,R,5346985
+2007,69,The Heartbreak Kid,2007/10/05,Paramount Pictures,Romantic Comedy,R,5346985
 2007,70,Freedom Writers,2007/01/05,Paramount Pictures,Drama,PG-13,5320581
 2007,71,Smokin' Aces,2007/01/26,Universal,Comedy,R,5183536
 2007,72,The Messengers,2007/02/02,Sony Pictures,Horror,PG-13,5141690
-2007,73,The Number 23,2007/02/23,New Line,Thriller-or-Suspense,R,5115285
-2007,74,Good Luck Chuck,2007/09/21,Lionsgate,Romantic-Comedy,R,5089723
-2007,75,Children of Men,2006/12/25,Universal,Thriller-or-Suspense,R,4977465
+2007,73,The Number 23,2007/02/23,New Line,Thriller/Suspense,R,5115285
+2007,74,Good Luck Chuck,2007/09/21,Lionsgate,Romantic Comedy,R,5089723
+2007,75,Children of Men,2006/12/25,Universal,Thriller/Suspense,R,4977465
 2007,76,Mr. Bean's Holiday,2007/08/24,Universal,Comedy,G,4840431
-2007,77,Zodiac,2007/03/02,Paramount Pictures,Thriller-or-Suspense,R,4808151
-2007,78,Breach,2007/02/16,Universal,Thriller-or-Suspense,PG-13,4796639
+2007,77,Zodiac,2007/03/02,Paramount Pictures,Thriller/Suspense,R,4808151
+2007,78,Breach,2007/02/16,Universal,Thriller/Suspense,PG-13,4796639
 2007,79,Balls of Fury,2007/08/29,Focus Features,Comedy,PG-13,4780078
 2007,80,Juno,2007/12/05,Fox Searchlight,Comedy,PG-13,4574130
-2007,81,Daddy's Little Girls,2007/02/14,Lionsgate,Romantic-Comedy,PG-13,4559153
+2007,81,Daddy's Little Girls,2007/02/14,Lionsgate,Romantic Comedy,PG-13,4559153
 2007,82,Mr. Magorium's Wonder Emporium,2007/11/16,20th Century Fox,Comedy,G,4519936
 2007,83,The Water Horse: Legend of the Deep,2007/12/25,Sony Pictures,Drama,PG,4480155
 2007,84,Sweeney Todd: The Demon Barber of Fleet Street,2007/12/21,Paramount Pictures,Musical,R,4449107
@@ -1388,13 +1388,13 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2007,87,Charlotte's Web,2006/12/15,Paramount Pictures,Drama,G,4370227
 2007,88,28 Weeks Later,2007/05/11,20th Century Fox,Horror,R,4162633
 2007,89,We Own the Night,2007/10/12,Sony Pictures,Drama,R,4151624
-2007,90,Mr. Brooks,2007/06/01,MGM,Thriller-or-Suspense,R,4138985
+2007,90,Mr. Brooks,2007/06/01,MGM,Thriller/Suspense,R,4138985
 2007,91,The Queen,2006/09/30,Miramax,Drama,PG-13,4105393
-2007,92,"P.S., I Love You",2007/12/21,Warner Bros.,Romantic-Comedy,PG-13,4055460
-2007,93,Hannibal Rising,2007/02/09,Weinstein Co.,Thriller-or-Suspense,R,4021762
+2007,92,"P.S., I Love You",2007/12/21,Warner Bros.,Romantic Comedy,PG-13,4055460
+2007,93,Hannibal Rising,2007/02/09,Weinstein Co.,Thriller/Suspense,R,4021762
 2007,94,The Nanny Diaries,2007/08/24,MGM,Comedy,PG-13,3768411
 2007,95,Mr. Woodcock,2007/09/14,New Line,Comedy,PG-13,3749925
-2007,96,Nancy Drew,2007/06/15,Warner Bros.,Thriller-or-Suspense,PG,3718704
+2007,96,Nancy Drew,2007/06/15,Warner Bros.,Thriller/Suspense,PG,3718704
 2007,97,The Mist,2007/11/21,MGM,Horror,R,3682517
 2007,98,The Reaping,2007/04/05,Warner Bros.,Horror,R,3652065
 2007,99,Grindhouse,2007/04/06,Weinstein/Dimension,Horror,R,3638232
@@ -1422,7 +1422,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2008,21,Marley & Me,2008/12/25,20th Century Fox,Comedy,PG,14855717
 2008,22,The Mummy: Tomb of the Dragon Emperor,2008/08/01,Universal,Adventure,PG-13,14274621
 2008,23,Journey to the Center of the Earth,2008/07/11,Warner Bros.,Adventure,PG,14164954
-2008,24,Eagle Eye,2008/09/26,Paramount Pictures,Thriller-or-Suspense,PG-13,14122799
+2008,24,Eagle Eye,2008/09/26,Paramount Pictures,Thriller/Suspense,PG-13,14122799
 2008,25,Step Brothers,2008/07/25,Sony Pictures,Comedy,R,13992868
 2008,26,You Don't Mess With the Zohan,2008/06/06,Sony Pictures,Comedy,PG-13,13930200
 2008,27,"10,000 B.C.",2008/03/07,Warner Bros.,Adventure,PG-13,13201142
@@ -1431,37 +1431,37 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2008,30,High School Musical 3: Senior Year,2008/10/24,Walt Disney,Musical,G,12566057
 2008,31,The Pineapple Express,2008/08/06,Sony Pictures,Comedy,R,12164537
 2008,32,Bedtime Stories,2008/12/25,Walt Disney,Comedy,PG,11913533
-2008,33,21,2008/03/28,Sony Pictures,Thriller-or-Suspense,PG-13,11303532
-2008,34,What Happens in Vegas...,2008/05/09,20th Century Fox,Romantic-Comedy,PG-13,11180731
+2008,33,21,2008/03/28,Sony Pictures,Thriller/Suspense,PG-13,11303532
+2008,34,What Happens in Vegas...,2008/05/09,20th Century Fox,Romantic Comedy,PG-13,11180731
 2008,35,Jumper,2008/02/14,20th Century Fox,Adventure,PG-13,11166035
 2008,36,Cloverfield,2008/01/18,Paramount Pictures,Action,PG-13,11148807
 2008,37,Yes Man,2008/12/19,Warner Bros.,Comedy,PG-13,11073452
 2008,38,The Curious Case of Benjamin Button,2008/12/25,Paramount Pictures,Drama,PG-13,11044162
-2008,39,27 Dresses,2008/01/18,20th Century Fox,Romantic-Comedy,PG-13,10697584
+2008,39,27 Dresses,2008/01/18,20th Century Fox,Romantic Comedy,PG-13,10697584
 2008,40,Hellboy 2: The Golden Army,2008/07/11,Universal,Action,PG-13,10583078
 2008,41,The Day the Earth Stood Still,2008/12/12,20th Century Fox,Adventure,PG-13,10365495
-2008,42,Vantage Point,2008/02/22,Sony Pictures,Thriller-or-Suspense,PG-13,10064945
+2008,42,Vantage Point,2008/02/22,Sony Pictures,Thriller/Suspense,PG-13,10064945
 2008,43,The Spiderwick Chronicles,2008/02/14,Paramount Pictures,Adventure,PG,9915746
 2008,44,Fool's Gold,2008/02/08,Warner Bros.,Adventure,PG-13,9781482
 2008,45,Role Models,2008/11/07,Universal,Comedy,R,9290214
-2008,46,Hannah Montana/Miley Cyrus: Best of Both Worlds Concert Tour,2008/02/01,Walt Disney,Concert-or-Performance,G,9092170
-2008,47,The Happening,2008/06/13,20th Century Fox,Thriller-or-Suspense,R,8984244
+2008,46,Hannah Montana/Miley Cyrus: Best of Both Worlds Concert Tour,2008/02/01,Walt Disney,Concert/Performance,G,9092170
+2008,47,The Happening,2008/06/13,20th Century Fox,Thriller/Suspense,R,8984244
 2008,48,Alvin and the Chipmunks,2007/12/14,20th Century Fox,Comedy,PG,8871105
 2008,49,Forgetting Sarah Marshall,2008/04/18,Universal,Comedy,R,8798393
-2008,50,Valkyrie,2008/12/25,United Artists,Thriller-or-Suspense,PG-13,8458763
+2008,50,Valkyrie,2008/12/25,United Artists,Thriller/Suspense,PG-13,8458763
 2008,51,Baby Mama,2008/04/25,Universal,Comedy,PG-13,8425378
-2008,52,Burn After Reading,2008/09/12,Focus Features,Black-Comedy,R,8406037
+2008,52,Burn After Reading,2008/09/12,Focus Features,Black Comedy,R,8406037
 2008,53,Seven Pounds,2008/12/19,Sony Pictures,Drama,PG-13,8377061
 2008,54,Step Up 2 the Streets,2008/02/14,Walt Disney,Drama,PG-13,8080471
 2008,55,Saw V,2008/10/24,Lionsgate,Horror,R,7903450
-2008,56,The Strangers,2008/05/30,Focus Features,Thriller-or-Suspense,R,7325572
+2008,56,The Strangers,2008/05/30,Focus Features,Thriller/Suspense,R,7325572
 2008,57,The Forbidden Kingdom,2008/04/18,Lionsgate,Action,PG-13,7252823
 2008,58,I am Legend,2007/12/14,Warner Bros.,Horror,PG-13,7000479
 2008,59,National Treasure: The Book of Secrets,2007/12/21,Walt Disney,Adventure,PG,6837145
 2008,60,The House Bunny,2008/08/22,Sony Pictures,Comedy,PG-13,6718299
 2008,61,Nim's Island,2008/04/04,20th Century Fox,Adventure,PG,6686179
 2008,62,Australia,2008/11/26,20th Century Fox,Drama,PG-13,6502328
-2008,63,Made of Honor,2008/05/02,Sony Pictures,Romantic-Comedy,PG-13,6408458
+2008,63,Made of Honor,2008/05/02,Sony Pictures,Romantic Comedy,PG-13,6408458
 2008,64,College Road Trip,2008/03/07,Walt Disney,Comedy,G,6352427
 2008,65,The Sisterhood of the Traveling Pants 2,2008/08/06,Warner Bros.,Adventure,PG-13,6140664
 2008,66,Speed Racer,2008/05/09,Warner Bros.,Action,PG,6120580
@@ -1472,33 +1472,33 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2008,71,Meet the Browns,2008/03/21,Lionsgate,Comedy,PG-13,5846154
 2008,72,Nights in Rodanthe,2008/09/26,Warner Bros.,Drama,PG-13,5822059
 2008,73,Max Payne,2008/10/17,20th Century Fox,Action,PG-13,5665352
-2008,74,Righteous Kill,2008/09/12,Overture Films,Thriller-or-Suspense,R,5582369
+2008,74,Righteous Kill,2008/09/12,Overture Films,Thriller/Suspense,R,5582369
 2008,75,There Will Be Blood,2007/12/26,Paramount Vantage,Drama,R,5542547
-2008,76,Body of Lies,2008/10/10,Warner Bros.,Thriller-or-Suspense,R,5475680
-2008,77,Lakeview Terrace,2008/09/19,Sony Pictures,Thriller-or-Suspense,PG-13,5468454
+2008,76,Body of Lies,2008/10/10,Warner Bros.,Thriller/Suspense,R,5475680
+2008,77,Lakeview Terrace,2008/09/19,Sony Pictures,Thriller/Suspense,PG-13,5468454
 2008,78,Meet the Spartans,2008/01/25,20th Century Fox,Comedy,PG-13,5325025
 2008,79,Harold & Kumar Escape from Guantanamo Bay,2008/04/25,Warner Bros.,Comedy,R,5307622
 2008,80,First Sunday,2008/01/11,Sony Pictures,Comedy,PG-13,5282990
 2008,81,The Secret Life of Bees,2008/10/17,Fox Searchlight,Drama,PG-13,5226366
 2008,82,The Family That Preys,2008/09/12,Lionsgate,Comedy,PG-13,5167868
 2008,83,Death Race,2008/08/22,Universal,Action,R,5057943
-2008,84,Changeling,2008/10/24,Universal,Thriller-or-Suspense,R,4973165
+2008,84,Changeling,2008/10/24,Universal,Thriller/Suspense,R,4973165
 2008,85,Star Wars: The Clone Wars,2008/08/15,Warner Bros.,Adventure,PG,4897152
 2008,86,Semi-Pro,2008/02/29,New Line,Comedy,R,4662911
 2008,87,Fireproof,2008/09/26,Samuel Goldwyn Films,Drama,PG,4631830
 2008,88,Drillbit Taylor,2008/03/21,Paramount Pictures,Comedy,PG-13,4576895
-2008,89,"Definitely, Maybe",2008/02/14,Universal,Romantic-Comedy,PG-13,4490480
+2008,89,"Definitely, Maybe",2008/02/14,Universal,Romantic Comedy,PG-13,4490480
 2008,90,The Love Guru,2008/06/20,Paramount Pictures,Comedy,PG-13,4489665
 2008,91,Atonement,2007/12/07,Focus Features,Drama,R,4432388
 2008,92,Transporter 3,2008/11/26,Lionsgate,Action,PG-13,4417140
 2008,93,Quarantine,2008/10/10,Sony Pictures,Horror,R,4413901
 2008,94,Nick and Norah's Infinite Playlist,2008/10/03,Sony Pictures,Drama,PG-13,4385416
-2008,95,The Eye,2008/02/01,Lionsgate,Thriller-or-Suspense,PG-13,4375863
-2008,96,Leatherheads,2008/04/04,Universal,Romantic-Comedy,PG-13,4369629
+2008,95,The Eye,2008/02/01,Lionsgate,Thriller/Suspense,PG-13,4375863
+2008,96,Leatherheads,2008/04/04,Universal,Romantic Comedy,PG-13,4369629
 2008,97,Zack and Miri Make a Porno,2008/10/31,Weinstein Co.,Comedy,R,4359444
 2008,98,Mirrors,2008/08/15,20th Century Fox,Horror,R,4274574
 2008,99,Space Chimps,2008/07/18,20th Century Fox,Adventure,G,4193032
-2008,100,The Bank Job,2008/03/07,Lionsgate,Thriller-or-Suspense,R,4186721
+2008,100,The Bank Job,2008/03/07,Lionsgate,Thriller/Suspense,R,4186721
 2009,1,Transformers: Revenge of the Fallen,2009/06/24,Paramount Pictures,Action,PG-13,53614916
 2009,2,Avatar,2009/12/18,20th Century Fox,Action,PG-13,46948653
 2009,3,Harry Potter and the Half-Blood Prince,2009/07/15,Warner Bros.,Adventure,PG,40261226
@@ -1511,42 +1511,42 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2009,10,Ice Age: Dawn of the Dinosaurs,2009/07/01,20th Century Fox,Adventure,PG,26209827
 2009,11,X-Men Origins: Wolverine,2009/05/01,20th Century Fox,Action,PG-13,23984421
 2009,12,Night at the Museum: Battle of the Smithsonian,2009/05/22,20th Century Fox,Comedy,PG,23632496
-2009,13,The Proposal,2009/06/19,Walt Disney,Romantic-Comedy,PG-13,21861071
+2009,13,The Proposal,2009/06/19,Walt Disney,Romantic Comedy,PG-13,21861071
 2009,14,2012,2009/11/13,Sony Pictures,Action,PG-13,21792284
 2009,15,Alvin and the Chipmunks: The Squeakquel,2009/12/23,20th Century Fox,Comedy,PG,20788925
 2009,16,Fast & Furious,2009/04/03,Universal,Action,PG-13,20675235
 2009,17,G.I. Joe: The Rise of Cobra,2009/08/07,Paramount Pictures,Action,PG-13,20026866
 2009,18,Paul Blart: Mall Cop,2009/01/16,Sony Pictures,Comedy,PG,19511490
-2009,19,Taken,2009/01/30,20th Century Fox,Thriller-or-Suspense,PG-13,19333465
+2009,19,Taken,2009/01/30,20th Century Fox,Thriller/Suspense,PG-13,19333465
 2009,20,Sherlock Holmes,2009/12/25,Warner Bros.,Adventure,PG-13,18495392
 2009,21,Gran Torino,2009/01/09,Warner Bros.,Drama,R,18436633
 2009,22,Disney's A Christmas Carol,2009/11/06,Walt Disney,Drama,PG,18325856
-2009,23,Angels & Demons,2009/05/15,Sony Pictures,Thriller-or-Suspense,PG-13,17783446
+2009,23,Angels & Demons,2009/05/15,Sony Pictures,Thriller/Suspense,PG-13,17783446
 2009,24,Terminator Salvation,2009/05/21,Warner Bros.,Action,PG-13,16709663
 2009,25,Cloudy with a Chance of Meatballs,2009/09/18,Sony Pictures,Comedy,PG,16568654
 2009,26,Inglourious Basterds,2009/08/21,Weinstein Co.,Action,R,16103279
 2009,27,G-Force,2009/07/24,Walt Disney,Adventure,PG,15924903
-2009,28,District 9,2009/08/14,Sony Pictures,Thriller-or-Suspense,R,15419498
+2009,28,District 9,2009/08/14,Sony Pictures,Thriller/Suspense,R,15419498
 2009,29,Slumdog Millionaire,2008/11/12,Fox Searchlight,Drama,R,15020547
 2009,30,Couples Retreat,2009/10/09,Universal,Comedy,PG-13,14468234
 2009,31,Paranormal Activity,2009/09/25,Paramount Pictures,Horror,R,14380613
 2009,32,Watchmen,2009/03/06,Warner Bros.,Action,R,14334640
 2009,33,Public Enemies,2009/07/01,Universal,Drama,R,12947282
 2009,34,Julie & Julia,2009/08/07,Sony Pictures,Comedy,PG-13,12550056
-2009,35,He's Just Not That Into You,2009/02/06,Warner Bros.,Romantic-Comedy,PG-13,12527154
+2009,35,He's Just Not That Into You,2009/02/06,Warner Bros.,Romantic Comedy,PG-13,12527154
 2009,36,Madea Goes To Jail,2009/02/20,Lionsgate,Comedy,PG-13,12067778
-2009,37,The Ugly Truth,2009/07/24,Sony Pictures,Romantic-Comedy,R,11855361
+2009,37,The Ugly Truth,2009/07/24,Sony Pictures,Romantic Comedy,R,11855361
 2009,38,The Princess and the Frog,2009/12/11,Walt Disney,Adventure,G,11447912
-2009,39,Knowing,2009/03/20,Summit Entertainment,Thriller-or-Suspense,PG-13,10661017
+2009,39,Knowing,2009/03/20,Summit Entertainment,Thriller/Suspense,PG-13,10661017
 2009,40,Hannah Montana the Movie,2009/04/10,Walt Disney,Drama,G,10610159
 2009,41,Where the Wild Things Are,2009/10/16,Warner Bros.,Adventure,PG,10208865
 2009,42,Zombieland,2009/10/02,Sony Pictures,Comedy,R,10078704
 2009,43,Coraline,2009/02/06,Focus Features,Adventure,PG,10038163
 2009,44,Hotel for Dogs,2009/01/16,Paramount Pictures,Comedy,PG,9757140
-2009,45,Law Abiding Citizen,2009/10/16,Overture Films,Thriller-or-Suspense,R,9723841
+2009,45,Law Abiding Citizen,2009/10/16,Overture Films,Thriller/Suspense,R,9723841
 2009,46,Michael Jackson's This Is It,2009/10/28,Sony Pictures,Documentary,PG,9612135
 2009,47,"I Love You, Man",2009/03/20,Paramount Pictures,Comedy,R,9601735
-2009,48,Obsessed,2009/04/24,Sony Pictures,Thriller-or-Suspense,PG-13,9101552
+2009,48,Obsessed,2009/04/24,Sony Pictures,Thriller/Suspense,PG-13,9101552
 2009,49,Race to Witch Mountain,2009/03/13,Walt Disney,Adventure,PG,8956346
 2009,50,The Final Destination,2009/08/28,Warner Bros.,Horror,R,8863693
 2009,51,The Taking of Pelham 123,2009/06/12,Sony Pictures,Action,R,8726974
@@ -1554,10 +1554,10 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2009,53,17 Again,2009/04/17,Warner Bros.,Comedy,PG-13,8555609
 2009,54,The Time Traveler's Wife,2009/08/14,Warner Bros.,Drama,PG-13,8455313
 2009,55,Brüno,2009/07/10,Universal,Comedy,R,8007270
-2009,56,It’s Complicated,2009/12/25,Universal,Romantic-Comedy,R,7890512
+2009,56,It’s Complicated,2009/12/25,Universal,Romantic Comedy,R,7890512
 2009,57,Bride Wars,2009/01/09,20th Century Fox,Comedy,PG,7828735
 2009,58,The Haunting in Connecticut,2009/03/27,Lionsgate,Horror,PG-13,7385269
-2009,59,Ghosts of Girlfriends Past,2009/05/01,Warner Bros.,Romantic-Comedy,PG-13,7366670
+2009,59,Ghosts of Girlfriends Past,2009/05/01,Warner Bros.,Romantic Comedy,PG-13,7366670
 2009,60,Funny People,2009/07/31,Universal,Comedy,R,6914006
 2009,61,I Can Do Bad All By Myself,2009/09/11,Lionsgate,Comedy,PG-13,6897856
 2009,62,My Bloody Valentine,2009/01/16,Lionsgate,Horror,R,6872793
@@ -1567,34 +1567,34 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2009,66,Old Dogs,2009/11/25,Walt Disney,Comedy,PG,6298610
 2009,67,Underworld 3: Rise of the Lycans,2009/01/23,Sony Pictures,Action,R,6106975
 2009,68,Up in the Air,2009/12/04,Paramount Pictures,Drama,R,5916702
-2009,69,Confessions of a Shopaholic,2009/02/13,Walt Disney,Romantic-Comedy,PG,5903647
+2009,69,Confessions of a Shopaholic,2009/02/13,Walt Disney,Romantic Comedy,PG,5903647
 2009,70,Precious (Based on the Novel Push by Sapphire),2009/11/06,Lionsgate,Drama,R,5834683
 2009,71,Year One,2009/06/19,Sony Pictures,Comedy,PG-13,5778303
 2009,72,The Unborn,2009/01/09,Universal,Horror,PG-13,5689388
 2009,73,Drag Me To Hell,2009/05/29,Universal,Horror,PG-13,5613416
 2009,74,Orphan,2009/07/24,Warner Bros.,Drama,R,5546167
-2009,75,Duplicity,2009/03/20,Universal,Thriller-or-Suspense,PG-13,5409710
+2009,75,Duplicity,2009/03/20,Universal,Thriller/Suspense,PG-13,5409710
 2009,76,Planet 51,2009/11/20,Sony Pictures,Adventure,PG,5276075
 2009,77,Surrogates,2009/09/25,Walt Disney,Action,PG-13,5143703
 2009,78,Ninja Assassin,2009/11/25,Warner Bros.,Action,R,4999037
-2009,79,State of Play,2009/04/17,Universal,Thriller-or-Suspense,PG-13,4935727
+2009,79,State of Play,2009/04/17,Universal,Thriller/Suspense,PG-13,4935727
 2009,80,Notorious,2009/01/16,Fox Searchlight,Drama,R,4912491
 2009,81,Marley & Me,2008/12/25,20th Century Fox,Comedy,PG,4865294
 2009,82,The Pink Panther 2,2009/02/06,Sony Pictures,Comedy,PG,4789730
-2009,83,All About Steve,2009/09/04,20th Century Fox,Romantic-Comedy,PG-13,4515054
+2009,83,All About Steve,2009/09/04,20th Century Fox,Romantic Comedy,PG-13,4515054
 2009,84,Halloween 2,2009/08/28,Weinstein/Dimension,Horror,R,4452396
-2009,85,The Informant,2009/09/18,Warner Bros.,Thriller-or-Suspense,R,4442243
+2009,85,The Informant,2009/09/18,Warner Bros.,Thriller/Suspense,R,4442243
 2009,86,The Last House on the Left,2009/03/13,Universal,Horror,R,4366962
-2009,87,(500) Days of Summer,2009/08/07,Fox Searchlight,Romantic-Comedy,PG-13,4323422
-2009,88,The Men Who Stare at Goats,2009/11/06,Overture Films,Black-Comedy,R,4269124
+2009,87,(500) Days of Summer,2009/08/07,Fox Searchlight,Romantic Comedy,PG-13,4323422
+2009,88,The Men Who Stare at Goats,2009/11/06,Overture Films,Black Comedy,R,4269124
 2009,89,earth,2009/04/22,Walt Disney,Documentary,G,4268210
 2009,90,The Soloist,2009/04/24,Paramount Pictures,Drama,PG-13,4247145
-2009,91,Push,2009/02/06,Summit Entertainment,Thriller-or-Suspense,PG-13,4241536
+2009,91,Push,2009/02/06,Summit Entertainment,Thriller/Suspense,PG-13,4241536
 2009,92,9,2009/09/09,Focus Features,Adventure,PG-13,4233319
 2009,93,Toy Story 3D Double Feature,2009/10/02,Walt Disney,Adventure,G,4093659
 2009,94,The Reader,2008/12/10,Weinstein Co.,Drama,R,4085443
 2009,95,Invictus,2009/12/11,Warner Bros.,Drama,PG-13,4078193
-2009,96,The Stepfather,2009/10/16,Sony Pictures,Thriller-or-Suspense,PG-13,3875008
+2009,96,The Stepfather,2009/10/16,Sony Pictures,Thriller/Suspense,PG-13,3875008
 2009,97,The Uninvited,2009/01/30,Paramount Pictures,Horror,PG-13,3812909
 2009,98,Defiance,2009/01/16,Paramount Vantage,Drama,R,3792560
 2009,99,Saw VI,2009/10/23,Lionsgate,Horror,R,3692439
@@ -1604,7 +1604,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2010,3,Alice in Wonderland,2010/03/05,Walt Disney,Adventure,PG,42356287
 2010,4,Iron Man 2,2010/05/07,Paramount Pictures,Adventure,PG-13,39598648
 2010,5,The Twilight Saga: Eclipse,2010/06/30,Summit Entertainment,Drama,PG-13,38090209
-2010,6,Inception,2010/07/16,Warner Bros.,Thriller-or-Suspense,PG-13,37080970
+2010,6,Inception,2010/07/16,Warner Bros.,Thriller/Suspense,PG-13,37080970
 2010,7,Harry Potter and the Deathly Hallows: Part I,2010/11/19,Warner Bros.,Adventure,PG-13,35935769
 2010,8,Despicable Me,2010/07/09,Universal,Comedy,PG,31838178
 2010,9,Shrek Forever After,2010/05/21,Paramount Pictures,Adventure,PG,30258148
@@ -1616,11 +1616,11 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2010,15,MegaMind,2010/11/05,Paramount Pictures,Adventure,PG,18275287
 2010,16,The Last Airbender,2010/07/01,Paramount Pictures,Adventure,PG,16701164
 2010,17,Tron: Legacy,2010/12/17,Walt Disney,Adventure,PG,16641932
-2010,18,Shutter Island,2010/02/19,Paramount Pictures,Thriller-or-Suspense,R,16224706
+2010,18,Shutter Island,2010/02/19,Paramount Pictures,Thriller/Suspense,R,16224706
 2010,19,The Other Guys,2010/08/06,Sony Pictures,Comedy,PG-13,15110263
-2010,20,Salt,2010/07/23,Sony Pictures,Thriller-or-Suspense,PG-13,14995104
+2010,20,Salt,2010/07/23,Sony Pictures,Thriller/Suspense,PG-13,14995104
 2010,21,Jackass 3D,2010/10/15,Paramount Pictures,Comedy,R,14842765
-2010,22,Valentine's Day,2010/02/12,Warner Bros.,Romantic-Comedy,PG-13,14003251
+2010,22,Valentine's Day,2010/02/12,Warner Bros.,Romantic Comedy,PG-13,14003251
 2010,23,Robin Hood,2010/05/14,Universal,Action,PG-13,13369727
 2010,24,The Expendables,2010/08/13,Lionsgate,Action,R,13063184
 2010,25,Little Fockers,2010/12/22,Universal,Comedy,PG-13,13000785
@@ -1643,7 +1643,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2010,42,Knight and Day,2010/06/23,20th Century Fox,Action,PG-13,9686063
 2010,43,Dinner for Schmucks,2010/07/30,Paramount Pictures,Comedy,PG-13,9255556
 2010,44,Sherlock Holmes,2009/12/25,Warner Bros.,Adventure,PG-13,8911691
-2010,45,The Bounty Hunter,2010/03/19,Sony Pictures,Romantic-Comedy,PG-13,8499522
+2010,45,The Bounty Hunter,2010/03/19,Sony Pictures,Romantic Comedy,PG-13,8499522
 2010,46,Yogi Bear,2010/12/17,Warner Bros.,Adventure,PG,8334010
 2010,47,Diary of a Wimpy Kid,2010/03/19,20th Century Fox,Comedy,PG,8238736
 2010,48,Alvin and the Chipmunks: The Squeakquel,2009/12/23,20th Century Fox,Comedy,PG,8073216
@@ -1658,16 +1658,16 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2010,57,Easy A,2010/09/17,Sony Pictures,Comedy,PG-13,7401960
 2010,58,Takers,2010/08/27,Sony Pictures,Drama,PG-13,7318722
 2010,59,Legend of the Guardians: The Owls of Ga'Hoole,2010/09/24,Warner Bros.,Adventure,PG,7040535
-2010,60,The Tourist,2010/12/10,Sony Pictures,Thriller-or-Suspense,PG-13,6924359
-2010,61,It’s Complicated,2009/12/25,Universal,Romantic-Comedy,R,6787901
+2010,60,The Tourist,2010/12/10,Sony Pictures,Thriller/Suspense,PG-13,6924359
+2010,61,It’s Complicated,2009/12/25,Universal,Romantic Comedy,R,6787901
 2010,62,Resident Evil: Afterlife,2010/09/10,Sony Pictures,Horror,R,6740601
 2010,63,Letters to Juliet,2010/05/14,Summit Entertainment,Drama,PG,6721477
-2010,64,Life as We Know It,2010/10/08,Warner Bros.,Romantic-Comedy,PG-13,6702979
+2010,64,Life as We Know It,2010/10/08,Warner Bros.,Romantic Comedy,PG-13,6702979
 2010,65,Wall Street 2: Money Never Sleeps,2010/09/24,20th Century Fox,Drama,PG-13,6650775
 2010,66,Predators,2010/07/09,20th Century Fox,Action,R,6590708
 2010,67,Hot Tub Time Machine,2010/03/26,MGM,Comedy,R,6371338
-2010,68,Kick-Ass,2010/04/16,Lionsgate,Black-Comedy,R,6092687
-2010,69,Black Swan,2010/12/03,Fox Searchlight,Thriller-or-Suspense,R,6059289
+2010,68,Kick-Ass,2010/04/16,Lionsgate,Black Comedy,R,6092687
+2010,69,Black Swan,2010/12/03,Fox Searchlight,Thriller/Suspense,R,6059289
 2010,70,The Blind Side,2009/11/20,Warner Bros.,Drama,PG-13,6018176
 2010,71,Killers,2010/06/04,Lionsgate,Action,PG-13,5964507
 2010,72,The Fighter,2010/12/10,Paramount Pictures,Drama,R,5879449
@@ -1679,22 +1679,22 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2010,78,Death at a Funeral,2010/04/16,Sony Pictures,Comedy,R,5416901
 2010,79,Step Up 3D,2010/08/06,Walt Disney,Drama,PG-13,5373919
 2010,80,The Last Exorcism,2010/08/27,Lionsgate,Horror,PG-13,5200804
-2010,81,Legion,2010/01/22,Sony Pictures,Thriller-or-Suspense,R,5091011
+2010,81,Legion,2010/01/22,Sony Pictures,Thriller/Suspense,R,5091011
 2010,82,Up in the Air,2009/12/04,Paramount Pictures,Drama,R,4999761
 2010,83,The Crazies,2010/02/26,Overture Films,Horror,R,4958630
 2010,84,Crazy Heart,2009/12/16,Fox Searchlight,Drama,R,4913758
 2010,85,Burlesque,2010/11/24,Sony Pictures,Drama,PG-13,4782454
 2010,86,For Colored Girls,2010/11/05,Lionsgate,Drama,R,4775256
 2010,87,Invictus,2009/12/11,Warner Bros.,Drama,PG-13,4751757
-2010,88,The Back-up Plan,2010/04/23,CBS Films,Romantic-Comedy,PG-13,4751585
+2010,88,The Back-up Plan,2010/04/23,CBS Films,Romantic Comedy,PG-13,4751585
 2010,89,Vampires Suck,2010/08/18,20th Century Fox,Comedy,PG-13,4646578
-2010,90,The American,2010/09/01,Focus Features,Thriller-or-Suspense,R,4512848
+2010,90,The American,2010/09/01,Focus Features,Thriller/Suspense,R,4512848
 2010,91,Green Zone,2010/03/12,Universal,Drama,R,4499029
 2010,92,Devil,2010/09/17,Universal,Horror,PG-13,4268651
 2010,93,Marmaduke,2010/06/04,20th Century Fox,Comedy,PG,4264232
-2010,94,Hereafter,2010/10/22,Warner Bros.,Thriller-or-Suspense,PG-13,4146082
-2010,95,When in Rome,2010/01/29,Walt Disney,Romantic-Comedy,PG-13,4142032
-2010,96,She's Out of My League,2010/03/12,Paramount Pictures,Romantic-Comedy,R,4057143
+2010,94,Hereafter,2010/10/22,Warner Bros.,Thriller/Suspense,PG-13,4146082
+2010,95,When in Rome,2010/01/29,Walt Disney,Romantic Comedy,PG-13,4142032
+2010,96,She's Out of My League,2010/03/12,Paramount Pictures,Romantic Comedy,R,4057143
 2010,97,Scott Pilgrim vs. The World,2010/08/13,Universal,Comedy,PG-13,4006504
 2010,98,Love and Other Drugs,2010/11/24,20th Century Fox,Drama,R,3962876
 2010,99,Charlie St. Cloud,2010/07/30,Universal,Drama,PG-13,3955166
@@ -1718,7 +1718,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2011,17,The Smurfs,2011/07/29,Sony Pictures,Adventure,PG,17984130
 2011,18,Mission: Impossible—Ghost Protocol,2011/12/21,Paramount Pictures,Action,PG-13,17804117
 2011,19,Sherlock Holmes: A Game of Shadows,2011/12/16,Warner Bros.,Action,PG-13,17264845
-2011,20,Super 8,2011/06/10,Paramount Pictures,Thriller-or-Suspense,PG-13,16015659
+2011,20,Super 8,2011/06/10,Paramount Pictures,Thriller/Suspense,PG-13,16015659
 2011,21,Rango,2011/03/04,Paramount Pictures,Adventure,PG,15570947
 2011,22,Horrible Bosses,2011/07/08,Warner Bros.,Comedy,R,14822012
 2011,23,Green Lantern,2011/06/17,Warner Bros.,Action,PG-13,14703805
@@ -1726,7 +1726,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2011,25,The Lion King,1994/06/15,Walt Disney,Adventure,G,13864686
 2011,26,Hop,2011/04/01,Universal,Comedy,PG,13629925
 2011,27,Paranormal Activity 3,2011/10/21,Paramount Pictures,Horror,R,13115741
-2011,28,Just Go With It,2011/02/11,Sony Pictures,Romantic-Comedy,PG-13,12992195
+2011,28,Just Go With It,2011/02/11,Sony Pictures,Romantic Comedy,PG-13,12992195
 2011,29,Cowboys and Aliens,2011/07/29,Universal,Action,PG-13,12656817
 2011,30,Bad Teacher,2011/06/24,Sony Pictures,Comedy,R,12647270
 2011,31,Gnomeo and Juliet,2011/02/11,Walt Disney,Comedy,G,12606263
@@ -1738,27 +1738,27 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2011,37,Battle: Los Angeles,2011/03/11,Sony Pictures,Action,PG-13,10536245
 2011,38,Immortals,2011/11/11,Relativity,Action,R,10423329
 2011,39,The Muppets ,2011/11/23,Walt Disney,Comedy,PG,10407244
-2011,40,Zookeeper,2011/07/08,Sony Pictures,Romantic-Comedy,PG,10133778
-2011,41,Limitless,2011/03/18,Relativity,Thriller-or-Suspense,PG-13,9993626
+2011,40,Zookeeper,2011/07/08,Sony Pictures,Romantic Comedy,PG,10133778
+2011,41,Limitless,2011/03/18,Relativity,Thriller/Suspense,PG-13,9993626
 2011,42,Tower Heist,2011/11/04,Universal,Comedy,PG-13,9685022
-2011,43,Contagion,2011/09/09,Warner Bros.,Thriller-or-Suspense,PG-13,9540744
+2011,43,Contagion,2011/09/09,Warner Bros.,Thriller/Suspense,PG-13,9540744
 2011,44,Moneyball,2011/09/23,Sony Pictures,Drama,PG-13,9452918
-2011,45,Justin Bieber:  Never Say Never,2011/02/11,Paramount Pictures,Concert-or-Performance,G,9207303
+2011,45,Justin Bieber:  Never Say Never,2011/02/11,Paramount Pictures,Concert/Performance,G,9207303
 2011,46,Dolphin Tale,2011/09/23,Warner Bros.,Drama,PG,9081459
 2011,47,Jack and Jill,2011/11/11,Sony Pictures,Comedy,PG,9041317
-2011,48,No Strings Attached,2011/01/21,Paramount Pictures,Romantic-Comedy,R,8910747
+2011,48,No Strings Attached,2011/01/21,Paramount Pictures,Romantic Comedy,R,8910747
 2011,49,Mr. Popper's Penguins,2011/06/17,20th Century Fox,Adventure,PG,8603336
-2011,50,Unknown,2011/02/18,Warner Bros.,Thriller-or-Suspense,PG-13,8031072
-2011,51,The Adjustment Bureau,2011/03/04,Universal,Thriller-or-Suspense,PG-13,7880914
+2011,50,Unknown,2011/02/18,Warner Bros.,Thriller/Suspense,PG-13,8031072
+2011,51,The Adjustment Bureau,2011/03/04,Universal,Thriller/Suspense,PG-13,7880914
 2011,52,Happy Feet Two,2011/11/18,Warner Bros.,Adventure,PG,7688003
-2011,53,Black Swan,2010/12/03,Fox Searchlight,Thriller-or-Suspense,R,7458624
+2011,53,Black Swan,2010/12/03,Fox Searchlight,Thriller/Suspense,R,7458624
 2011,54,Water for Elephants,2011/04/22,20th Century Fox,Drama,PG-13,7403495
-2011,55,The Lincoln Lawyer,2011/03/18,Lionsgate,Thriller-or-Suspense,R,7315157
-2011,56,Midnight in Paris,2011/05/20,Sony Pictures Classics,Romantic-Comedy,PG-13,7109423
-2011,57,Friends with Benefits,2011/07/22,Sony Pictures,Romantic-Comedy,R,7036917
-2011,58,The Girl with the Dragon Tattoo,2011/12/20,Sony Pictures,Thriller-or-Suspense,R,7009442
+2011,55,The Lincoln Lawyer,2011/03/18,Lionsgate,Thriller/Suspense,R,7315157
+2011,56,Midnight in Paris,2011/05/20,Sony Pictures Classics,Romantic Comedy,PG-13,7109423
+2011,57,Friends with Benefits,2011/07/22,Sony Pictures,Romantic Comedy,R,7036917
+2011,58,The Girl with the Dragon Tattoo,2011/12/20,Sony Pictures,Thriller/Suspense,R,7009442
 2011,59,I am Number Four,2011/02/18,Walt Disney,Adventure,PG-13,6948352
-2011,60,Source Code,2011/04/01,Summit Entertainment,Thriller-or-Suspense,PG-13,6899398
+2011,60,Source Code,2011/04/01,Summit Entertainment,Thriller/Suspense,PG-13,6899398
 2011,61,Insidious ,2011/04/01,FilmDistrict,Horror,R,6810737
 2011,62,Madea's Big Happy Family,2011/04/22,Lionsgate,Drama,PG-13,6727022
 2011,63,Diary of a Wimpy Kid: Rodrick Rules,2011/03/25,20th Century Fox,Comedy,PG,6645465
@@ -1766,7 +1766,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2011,65,The Adventures of Tintin,2011/12/21,Paramount Pictures,Adventure,PG,6481772
 2011,66,Hugo,2011/11/23,Paramount Pictures,Adventure,PG,6344703
 2011,67,The Dilemma,2011/01/14,Universal,Comedy,PG-13,6112899
-2011,68,New Year’s Eve,2011/12/09,Warner Bros.,Romantic-Comedy,PG-13,5959372
+2011,68,New Year’s Eve,2011/12/09,Warner Bros.,Romantic Comedy,PG-13,5959372
 2011,69,The Fighter,2010/12/10,Paramount Pictures,Drama,R,5955631
 2011,70,Little Fockers,2010/12/22,Universal,Comedy,PG-13,5783406
 2011,71,Arthur Christmas,2011/11/23,Sony Pictures,Adventure,PG,5778087
@@ -1779,29 +1779,29 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2011,78,War Horse,2011/12/25,Walt Disney,Drama,PG-13,5101106
 2011,79,The Descendants,2011/11/16,Fox Searchlight,Drama,R,5083943
 2011,80,Hanna,2011/04/08,Focus Features,Drama,PG-13,5076811
-2011,81,Something Borrowed,2011/05/06,Warner Bros.,Romantic-Comedy,PG-13,4923895
+2011,81,Something Borrowed,2011/05/06,Warner Bros.,Romantic Comedy,PG-13,4923895
 2011,82,Spy Kids: All the Time in the World,2011/08/19,Weinstein/Dimension,Adventure,PG,4859568
 2011,83,Scream 4,2011/04/15,Weinstein/Dimension,Horror,R,4814745
 2011,84,"Big Mommas: Like Father, Like Son",2011/02/18,20th Century Fox,Comedy,PG-13,4781263
-2011,85,Red Riding Hood,2011/03/11,Warner Bros.,Thriller-or-Suspense,PG-13,4749327
+2011,85,Red Riding Hood,2011/03/11,Warner Bros.,Thriller/Suspense,PG-13,4749327
 2011,86,Paul,2011/03/18,Universal,Comedy,R,4717900
-2011,87,The Roommate,2011/02/04,Sony Pictures,Thriller-or-Suspense,PG-13,4703670
-2011,88,Jumping the Broom,2011/05/06,Sony Pictures,Romantic-Comedy,PG-13,4703076
+2011,87,The Roommate,2011/02/04,Sony Pictures,Thriller/Suspense,PG-13,4703670
+2011,88,Jumping the Broom,2011/05/06,Sony Pictures,Romantic Comedy,PG-13,4703076
 2011,89,The Change-Up,2011/08/05,Universal,Comedy,R,4696522
-2011,90,In Time,2011/10/28,20th Century Fox,Thriller-or-Suspense,PG-13,4675462
+2011,90,In Time,2011/10/28,20th Century Fox,Thriller/Suspense,PG-13,4675462
 2011,91,30 Minutes or Less,2011/08/12,Sony Pictures,Comedy,R,4672625
-2011,92,Colombiana,2011/08/26,Sony Pictures,Thriller-or-Suspense,PG-13,4623689
+2011,92,Colombiana,2011/08/26,Sony Pictures,Thriller/Suspense,PG-13,4623689
 2011,93,J. Edgar,2011/11/09,Warner Bros.,Drama,R,4621795
 2011,94,Sucker Punch,2011/03/25,Warner Bros.,Action,R,4589218
-2011,95,Larry Crowne,2011/07/01,Universal,Romantic-Comedy,PG-13,4490321
-2011,96,50/50,2011/09/30,Summit Entertainment,Black-Comedy,R,4415651
+2011,95,Larry Crowne,2011/07/01,Universal,Romantic Comedy,PG-13,4490321
+2011,96,50/50,2011/09/30,Summit Entertainment,Black Comedy,R,4415651
 2011,97,A Very Harold & Kumar 3D Christmas,2011/11/04,Warner Bros.,Comedy,R,4404608
 2011,98,Drive,2011/09/16,FilmDistrict,Action,R,4392565
 2011,99,Yogi Bear,2010/12/17,Warner Bros.,Adventure,PG,4349392
 2011,100,Courageous,2011/09/30,Sony Pictures,Drama,PG-13,4292045
 2012,1,The Avengers,2012/05/04,Walt Disney,Action,PG-13,78301450
 2012,2,The Dark Knight Rises,2012/07/20,Warner Bros.,Action,PG-13,56298881
-2012,3,The Hunger Games,2012/03/23,Lionsgate,Thriller-or-Suspense,PG-13,51257624
+2012,3,The Hunger Games,2012/03/23,Lionsgate,Thriller/Suspense,PG-13,51257624
 2012,4,Skyfall,2012/11/09,Sony Pictures,Action,PG-13,37286980
 2012,5,"The Twilight Saga: Breaking Dawn, Part 2",2012/11/16,Lionsgate,Drama,PG-13,36323285
 2012,6,The Hobbit: An Unexpected Journey,2012/12/14,Warner Bros.,Adventure,PG-13,33145087
@@ -1816,26 +1816,26 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2012,15,Snow White and the Huntsman,2012/06/01,Universal,Adventure,PG-13,19489542
 2012,16,Hotel Transylvania,2012/09/28,Sony Pictures,Comedy,PG,18363361
 2012,17,Lincoln,2012/11/09,Walt Disney,Drama,PG-13,18101638
-2012,18,Taken 2,2012/10/05,20th Century Fox,Thriller-or-Suspense,PG-13,17498085
+2012,18,Taken 2,2012/10/05,20th Century Fox,Thriller/Suspense,PG-13,17498085
 2012,19,21 Jump Street,2012/03/16,Sony Pictures,Comedy,R,17392922
 2012,20,Prometheus,2012/06/08,20th Century Fox,Adventure,R,15889080
-2012,21,Safe House ,2012/02/10,Universal,Thriller-or-Suspense,R,15851963
+2012,21,Safe House ,2012/02/10,Universal,Thriller/Suspense,R,15851963
 2012,22,The Vow,2012/02/10,Sony Pictures,Drama,PG-13,15705280
 2012,23,Magic Mike,2012/06/29,Warner Bros.,Comedy,R,14286629
-2012,24,The Bourne Legacy,2012/08/10,Universal,Thriller-or-Suspense,PG-13,14221591
-2012,25,Argo,2012/10/12,Warner Bros.,Thriller-or-Suspense,R,13832527
+2012,24,The Bourne Legacy,2012/08/10,Universal,Thriller/Suspense,PG-13,14221591
+2012,25,Argo,2012/10/12,Warner Bros.,Thriller/Suspense,R,13832527
 2012,26,Django Unchained,2012/12/25,Weinstein Co.,Western,R,13351774
 2012,27,Journey 2: The Mysterious Island,2012/02/10,Warner Bros.,Adventure,PG,13047775
 2012,28,Les Miserables,2012/12/25,Universal,Musical,PG-13,13002894
 2012,29,Rise of the Guardians,2012/11/21,Paramount Pictures,Adventure,PG,12214531
 2012,30,Flight,2012/11/02,Paramount Pictures,Drama,R,11619141
-2012,31,Think Like a Man,2012/04/20,Sony Pictures,Romantic-Comedy,PG-13,11500905
+2012,31,Think Like a Man,2012/04/20,Sony Pictures,Romantic Comedy,PG-13,11500905
 2012,32,Life of Pi,2012/11/21,20th Century Fox,Drama,PG,11437121
 2012,33,The Campaign,2012/08/10,Warner Bros.,Comedy,R,10918058
 2012,34,The Expendables 2,2012/08/17,Lionsgate,Action,R,10681933
 2012,35,Wrath of the Titans,2012/03/30,Warner Bros.,Adventure,PG-13,10511316
 2012,36,Beauty and the Beast,2002/06/21,Walt Disney,Musical,G,10253672
-2012,37,Dark Shadows,2012/05/11,Warner Bros.,Black-Comedy,PG-13,10015973
+2012,37,Dark Shadows,2012/05/11,Warner Bros.,Black Comedy,PG-13,10015973
 2012,38,John Carter ,2012/03/09,Walt Disney,Adventure,PG-13,9178226
 2012,39,Act of Valor,2012/02/24,Relativity,Action,R,8795583
 2012,40,Mission: Impossible—Ghost Protocol,2011/12/21,Paramount Pictures,Action,PG-13,8569253
@@ -1846,32 +1846,32 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2012,45,Mirror Mirror,2012/03/30,Relativity,Adventure,PG,8157684
 2012,46,Jack Reacher,2012/12/21,Paramount Pictures,Drama,PG-13,8127790
 2012,47,Pitch Perfect,2012/10/05,Universal,Comedy,PG-13,8122595
-2012,48,Chronicle,2012/02/03,20th Century Fox,Thriller-or-Suspense,PG-13,8112459
-2012,49,Hope Springs,2012/08/08,Sony Pictures,Romantic-Comedy,PG-13,7981910
+2012,48,Chronicle,2012/02/03,20th Century Fox,Thriller/Suspense,PG-13,8112459
+2012,49,Hope Springs,2012/08/08,Sony Pictures,Romantic Comedy,PG-13,7981910
 2012,50,Underworld: Awakening,2012/01/20,Sony Pictures,Action,R,7829276
 2012,51,The Lucky One,2012/04/20,Warner Bros.,Drama,PG-13,7595117
 2012,52,The Dictator,2012/05/16,Paramount Pictures,Comedy,R,7493746
 2012,53,Total Recall,2012/08/03,Sony Pictures,Action,PG-13,7396729
-2012,54,Titanic,1997/12/19,Paramount Pictures,Thriller-or-Suspense,PG-13,7272016
+2012,54,Titanic,1997/12/19,Paramount Pictures,Thriller/Suspense,PG-13,7272016
 2012,55,American Reunion,2012/04/06,Universal,Comedy,R,7130506
 2012,56,ParaNorman,2012/08/17,Focus Features,Comedy,PG,7035559
-2012,57,This Means War,2012/02/17,20th Century Fox,Romantic-Comedy,PG-13,6879496
+2012,57,This Means War,2012/02/17,20th Century Fox,Romantic Comedy,PG-13,6879496
 2012,58,Project X,2012/03/02,Warner Bros.,Comedy,R,6875862
-2012,59,The Woman in Black,2012/02/03,CBS Films,Thriller-or-Suspense,PG-13,6825790
+2012,59,The Woman in Black,2012/02/03,CBS Films,Thriller/Suspense,PG-13,6825790
 2012,60,This is 40,2012/12/21,Universal,Comedy,R,6815979
 2012,61,Paranormal Activity 4,2012/10/19,Paramount Pictures,Horror,R,6771398
 2012,62,The Devil Inside,2012/01/06,Paramount Pictures,Horror,R,6691324
 2012,63,Parental Guidance,2012/12/25,20th Century Fox,Comedy,PG,6575338
 2012,64,The Odd Life of Timothy Green,2012/08/15,Walt Disney,Drama,PG,6513104
 2012,65,Ghost Rider: Spirit of Vengeance,2012/02/17,Sony Pictures,Action,PG-13,6504271
-2012,66,The Grey,2012/01/27,Open Road,Thriller-or-Suspense,R,6479916
+2012,66,The Grey,2012/01/27,Open Road,Thriller/Suspense,R,6479916
 2012,67,Sherlock Holmes: A Game of Shadows,2011/12/16,Warner Bros.,Action,PG-13,6273643
 2012,68,Red Tails,2012/01/20,20th Century Fox,Action,PG-13,6265876
 2012,69,The Possession,2012/08/31,Lionsgate,Horror,PG-13,6172184
 2012,70,Diary of a Wimpy Kid: Dog Days,2012/08/03,20th Century Fox,Comedy,PG,6156867
-2012,71,Sinister,2012/10/12,Lionsgate,Thriller-or-Suspense,R,6041068
-2012,72,Savages,2012/07/06,Universal,Thriller-or-Suspense,R,5945113
-2012,73,The Girl with the Dragon Tattoo,2011/12/20,Sony Pictures,Thriller-or-Suspense,R,5895843
+2012,71,Sinister,2012/10/12,Lionsgate,Thriller/Suspense,R,6041068
+2012,72,Savages,2012/07/06,Universal,Thriller/Suspense,R,5945113
+2012,73,The Girl with the Dragon Tattoo,2011/12/20,Sony Pictures,Thriller/Suspense,R,5895843
 2012,74,The Best Exotic Marigold Hotel,2012/05/04,Fox Searchlight,Comedy,PG-13,5827090
 2012,75,Moonrise Kingdom,2012/05/25,Focus Features,Drama,PG-13,5717646
 2012,76,The Three Stooges,2012/04/13,20th Century Fox,Comedy,PG,5570128
@@ -1880,9 +1880,9 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2012,79,Star Wars Ep. I: The Phantom Menace,1999/05/19,20th Century Fox,Adventure,PG,5459344
 2012,80,Resident Evil: Retribution,2012/09/14,Sony Pictures,Action,R,5319790
 2012,81,The Descendants,2011/11/16,Fox Searchlight,Drama,R,5315238
-2012,82,The Cabin in the Woods,2012/04/13,Lionsgate,Thriller-or-Suspense,R,5285587
-2012,83,What to Expect When You're Expecting,2012/05/18,Lionsgate,Romantic-Comedy,PG-13,5169874
-2012,84,End of Watch,2012/09/21,Open Road,Thriller-or-Suspense,R,5137163
+2012,82,The Cabin in the Woods,2012/04/13,Lionsgate,Thriller/Suspense,R,5285587
+2012,83,What to Expect When You're Expecting,2012/05/18,Lionsgate,Romantic Comedy,PG-13,5169874
+2012,84,End of Watch,2012/09/21,Open Road,Thriller/Suspense,R,5137163
 2012,85,Finding Nemo,2003/05/30,Walt Disney,Adventure,G,5125099
 2012,86,The Artist,2011/11/25,Weinstein Co.,Drama,PG-13,4977732
 2012,87,War Horse,2011/12/25,Walt Disney,Drama,PG-13,4953716
@@ -1905,7 +1905,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2013,4,Frozen,2013/11/27,Walt Disney,Adventure,PG,36493447
 2013,5,Man of Steel,2013/06/14,Warner Bros.,Action,PG-13,35798956
 2013,6,Monsters University,2013/06/21,Walt Disney,Adventure,G,33024394
-2013,7,Gravity,2013/10/04,Warner Bros.,Thriller-or-Suspense,PG-13,31441779
+2013,7,Gravity,2013/10/04,Warner Bros.,Thriller/Suspense,PG-13,31441779
 2013,8,Fast and Furious 6,2013/05/24,Universal,Action,PG-13,29357915
 2013,9,Oz the Great and Powerful,2013/03/08,Walt Disney,Adventure,PG,28877121
 2013,10,The Hobbit: The Desolation of Smaug,2013/12/13,Warner Bros.,Adventure,PG-13,28174617
@@ -1921,7 +1921,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2013,20,Grown Ups 2,2013/07/12,Sony Pictures,Comedy,PG-13,16441392
 2013,21,The Wolverine,2013/07/26,20th Century Fox,Action,PG-13,16304655
 2013,22,G.I. Joe: Retaliation,2013/03/27,Paramount Pictures,Action,PG-13,15070487
-2013,23,Now You See Me,2013/05/31,Lionsgate,Thriller-or-Suspense,PG-13,14480195
+2013,23,Now You See Me,2013/05/31,Lionsgate,Thriller/Suspense,PG-13,14480195
 2013,24,Cloudy with a Chance of Meatballs 2,2013/09/27,Sony Pictures,Adventure,PG,14466695
 2013,25,Lee Daniels' The Butler,2013/08/16,Weinstein Co.,Drama,PG-13,14304263
 2013,26,The Hangover 3,2013/05/23,Warner Bros.,Comedy,R,13800746
@@ -1931,32 +1931,32 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2013,30,Pacific Rim,2013/07/12,Warner Bros.,Action,PG-13,12521882
 2013,31,Jackass Presents: Bad Grandpa,2013/10/25,Paramount Pictures,Comedy,R,12500054
 2013,32,This is the End,2013/06/12,Sony Pictures,Comedy,R,12480959
-2013,33,Olympus Has Fallen,2013/03/22,FilmDistrict,Thriller-or-Suspense,R,12168215
+2013,33,Olympus Has Fallen,2013/03/22,FilmDistrict,Thriller/Suspense,R,12168215
 2013,34,Silver Linings Playbook,2012/11/16,Weinstein Co.,Drama,R,11982311
 2013,35,42,2013/04/12,Warner Bros.,Drama,PG-13,11687603
 2013,36,Elysium,2013/08/09,Sony Pictures,Action,R,11445278
 2013,37,Zero Dark Thirty,2012/12/19,Sony Pictures,Drama,R,11231805
 2013,38,Disney Planes,2013/08/09,Walt Disney,Comedy,PG,11104868
 2013,39,The Lone Ranger,2013/07/02,Walt Disney,Western,PG-13,10984269
-2013,40,Oblivion,2013/04/19,Universal,Thriller-or-Suspense,PG-13,10960299
-2013,41,American Hustle,2013/12/13,Sony Pictures,Black-Comedy,R,10814652
+2013,40,Oblivion,2013/04/19,Universal,Thriller/Suspense,PG-13,10960299
+2013,41,American Hustle,2013/12/13,Sony Pictures,Black Comedy,R,10814652
 2013,42,Insidious Chapter 2,2013/09/13,FilmDistrict,Horror,PG-13,10281235
 2013,43,Turbo,2013/07/17,20th Century Fox,Adventure,PG,10212562
 2013,44,2 Guns,2013/08/02,Universal,Action,R,9300425
-2013,45,White House Down,2013/06/28,Sony Pictures,Thriller-or-Suspense,PG-13,8991855
+2013,45,White House Down,2013/06/28,Sony Pictures,Thriller/Suspense,PG-13,8991855
 2013,46,Mama,2013/01/18,Universal,Horror,PG-13,8810354
 2013,47,Safe Haven,2013/02/14,Relativity,Drama,PG-13,8782179
 2013,48,The Smurfs 2,2013/07/31,Sony Pictures,Adventure,PG,8735274
 2013,49,The Best Man Holiday,2013/11/15,Universal,Comedy,R,8670686
 2013,50,Percy Jackson: Sea of Monsters,2013/08/07,20th Century Fox,Adventure,PG,8427824
 2013,51,A Good Day to Die Hard,2013/02/14,20th Century Fox,Action,R,8284034
-2013,52,Warm Bodies,2013/02/01,Lionsgate,Romantic-Comedy,PG-13,8164903
+2013,52,Warm Bodies,2013/02/01,Lionsgate,Romantic Comedy,PG-13,8164903
 2013,53,Jack the Giant Slayer,2013/03/01,Warner Bros.,Adventure,PG-13,8018155
-2013,54,The Purge,2013/06/07,Universal,Thriller-or-Suspense,R,7930272
-2013,55,The Wolf of Wall Street,2013/12/25,Paramount Pictures,Black-Comedy,R,7764510
+2013,54,The Purge,2013/06/07,Universal,Thriller/Suspense,R,7930272
+2013,55,The Wolf of Wall Street,2013/12/25,Paramount Pictures,Black Comedy,R,7764510
 2013,56,Last Vegas,2013/11/01,CBS Films,Comedy,PG-13,7762892
 2013,57,Ender's Game,2013/11/01,Lionsgate,Adventure,PG-13,7583868
-2013,58,Prisoners,2013/09/20,Warner Bros.,Thriller-or-Suspense,R,7503358
+2013,58,Prisoners,2013/09/20,Warner Bros.,Thriller/Suspense,R,7503358
 2013,59,After Earth,2013/05/31,Sony Pictures,Action,PG-13,7444292
 2013,60,Saving Mr. Banks,2013/12/20,Walt Disney,Drama,PG-13,7251940
 2013,61,Escape From Planet Earth,2013/02/15,Weinstein Co.,Adventure,PG,7012666
@@ -1966,7 +1966,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2013,65,Evil Dead,2013/04/05,Sony Pictures,Horror,R,6671569
 2013,66,RED 2,2013/07/19,Lionsgate,Action,PG-13,6551360
 2013,67,Tyler Perry's Temptation,2013/03/29,Lionsgate,Drama,PG-13,6393032
-2013,68,The Call,2013/03/15,Sony Pictures,Thriller-or-Suspense,R,6380366
+2013,68,The Call,2013/03/15,Sony Pictures,Thriller/Suspense,R,6380366
 2013,69,Tyler Perry's A Madea Christmas,2013/12/13,Lionsgate,Comedy,PG-13,6178016
 2013,70,Pain & Gain,2013/04/26,Paramount Pictures,Action,R,6134722
 2013,71,Gangster Squad,2013/01/11,Warner Bros.,Drama,R,5658167
@@ -1975,32 +1975,32 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2013,74,Les Miserables,2012/12/25,Universal,Musical,PG-13,5572783
 2013,75,The Internship,2013/06/07,20th Century Fox,Comedy,PG-13,5494804
 2013,76,Instructions Not Included,2013/08/30,Lionsgate,Comedy,PG-13,5469521
-2013,77,Snitch,2013/02/22,Lionsgate,Thriller-or-Suspense,PG-13,5280499
+2013,77,Snitch,2013/02/22,Lionsgate,Thriller/Suspense,PG-13,5280499
 2013,78,Riddick,2013/09/06,Universal,Action,R,5169143
 2013,79,A Haunted House,2013/01/11,Open Road,Comedy,R,4925176
 2013,80,The Hobbit: An Unexpected Journey,2012/12/14,Warner Bros.,Adventure,PG-13,4817795
 2013,81,12 Years a Slave,2013/10/18,Fox Searchlight,Drama,R,4732113
 2013,82,Lincoln,2012/11/09,Walt Disney,Drama,PG-13,4688674
-2013,83,The Family,2013/09/13,Relativity,Black-Comedy,R,4540926
+2013,83,The Family,2013/09/13,Relativity,Black Comedy,R,4540926
 2013,84,Carrie,2013/10/18,Sony Pictures,Horror,R,4337837
 2013,85,Life of Pi,2012/11/21,20th Century Fox,Drama,PG,4175588
 2013,86,R.I.P.D.,2013/07/19,Universal,Action,PG-13,4135160
 2013,87,Blue Jasmine,2013/07/26,Sony Pictures Classics,Comedy,PG-13,4027630
 2013,88,47 Ronin,2013/12/25,Universal,Action,PG-13,4020624
-2013,89,Kevin Hart: Let Me Explain,2013/07/03,Lionsgate,Concert-or-Performance,R,3966057
-2013,90,Side Effects,2013/02/08,Open Road,Thriller-or-Suspense,R,3957288
+2013,89,Kevin Hart: Let Me Explain,2013/07/03,Lionsgate,Concert/Performance,R,3966057
+2013,90,Side Effects,2013/02/08,Open Road,Thriller/Suspense,R,3957288
 2013,91,Scary Movie 5,2013/04/12,Weinstein Co.,Comedy,PG-13,3937981
 2013,92,Walking with Dinosaurs,2013/12/20,20th Century Fox,Adventure,PG,3855373
 2013,93,The Mortal Instruments: City of Bones,2013/08/21,Sony Pictures,Adventure,PG-13,3833385
 2013,94,Delivery Man,2013/11/22,Walt Disney,Comedy,PG-13,3673608
-2013,95,One Direction: This is Us,2013/08/30,Sony Pictures,Concert-or-Performance,PG,3551460
+2013,95,One Direction: This is Us,2013/08/30,Sony Pictures,Concert/Performance,PG,3551460
 2013,96,Kick-Ass 2,2013/08/16,Universal,Action,R,3541941
 2013,97,Rush,2013/09/20,Universal,Drama,R,3314590
-2013,98,The Host,2013/03/29,Open Road,Thriller-or-Suspense,PG-13,3274747
+2013,98,The Host,2013/03/29,Open Road,Thriller/Suspense,PG-13,3274747
 2013,99,The World's End,2013/08/23,Focus Features,Comedy,R,3198628
-2013,100,Argo,2012/10/12,Warner Bros.,Thriller-or-Suspense,R,3188017
+2013,100,Argo,2012/10/12,Warner Bros.,Thriller/Suspense,R,3188017
 2014,1,Guardians of the Galaxy,2014/08/01,Walt Disney,Adventure,PG-13,40765637
-2014,2,The Hunger Games: Mockingjay - Part 1,2014/11/21,Lionsgate,Thriller-or-Suspense,PG-13,39624786
+2014,2,The Hunger Games: Mockingjay - Part 1,2014/11/21,Lionsgate,Thriller/Suspense,PG-13,39624786
 2014,3,Captain America: The Winter Soldier,2014/04/04,Walt Disney,Action,PG-13,31792773
 2014,4,The Lego Movie,2014/02/07,Warner Bros.,Adventure,PG,31552597
 2014,5,Transformers: Age of Extinction,2014/06/27,Paramount Pictures,Action,PG-13,30041502
@@ -2015,7 +2015,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2014,14,Teenage Mutant Ninja Turtles,2014/08/08,Paramount Pictures,Adventure,PG-13,23403274
 2014,15,Interstellar,2014/11/07,Paramount Pictures,Adventure,PG-13,22374797
 2014,16,How to Train Your Dragon 2,2014/06/13,20th Century Fox,Adventure,PG,21664984
-2014,17,Gone Girl,2014/10/03,20th Century Fox,Thriller-or-Suspense,R,20407198
+2014,17,Gone Girl,2014/10/03,20th Century Fox,Thriller/Suspense,R,20407198
 2014,18,Divergent,2014/03/21,Lionsgate,Adventure,PG-13,18475874
 2014,19,Neighbors,2014/05/09,Universal,Comedy,R,18370477
 2014,20,Ride Along,2014/01/17,Universal,Comedy,PG-13,16426262
@@ -2026,7 +2026,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2014,25,Mr. Peabody & Sherman,2014/03/07,20th Century Fox,Adventure,PG,13648277
 2014,26,300: Rise of an Empire,2014/03/07,Warner Bros.,Action,R,13045293
 2014,27,Frozen,2013/11/27,Walt Disney,Adventure,PG,12735162
-2014,28,The Maze Runner,2014/09/19,20th Century Fox,Thriller-or-Suspense,PG-13,12514322
+2014,28,The Maze Runner,2014/09/19,20th Century Fox,Thriller/Suspense,PG-13,12514322
 2014,29,The Equalizer,2014/09/26,Sony Pictures,Action,R,12415688
 2014,30,Noah,2014/03/28,Paramount Pictures,Drama,PG-13,12386786
 2014,31,Edge of Tomorrow,2014/06/06,Warner Bros.,Action,PG-13,12265147
@@ -2045,11 +2045,11 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2014,44,The Monuments Men,2014/02/07,Sony Pictures,Drama,PG-13,9550993
 2014,45,Hercules,2014/07/25,Paramount Pictures,Action,PG-13,8897015
 2014,46,Annie,2014/12/19,Sony Pictures,Musical,PG,8869078
-2014,47,The Purge: Anarchy,2014/07/18,Universal,Thriller-or-Suspense,R,8759186
+2014,47,The Purge: Anarchy,2014/07/18,Universal,Thriller/Suspense,R,8759186
 2014,48,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014/10/10,Walt Disney,Comedy,PG,8082333
-2014,49,Think Like a Man Too,2014/06/20,Sony Pictures,Romantic-Comedy,PG-13,7959447
+2014,49,Think Like a Man Too,2014/06/20,Sony Pictures,Romantic Comedy,PG-13,7959447
 2014,50,The Nut Job,2014/01/17,Open Road,Adventure,PG,7864325
-2014,51,American Hustle,2013/12/13,Sony Pictures,Black-Comedy,R,7612568
+2014,51,American Hustle,2013/12/13,Sony Pictures,Black Comedy,R,7612568
 2014,52,Exodus: Gods and Kings,2014/12/12,20th Century Fox,Drama,PG-13,7508315
 2014,53,God’s Not Dead,2014/03/21,Pure Flix Entertainment,Drama,PG,7436442
 2014,54,Son of God,2014/02/28,20th Century Fox,Drama,PG-13,7307229
@@ -2057,21 +2057,21 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2014,56,The Grand Budapest Hotel,2014/03/07,Fox Searchlight,Comedy,R,7230846
 2014,57,RoboCop,2014/02/12,Sony Pictures,Action,PG-13,7173440
 2014,58,Dracula Untold,2014/10/10,Universal,Action,PG-13,6853351
-2014,59,The Hundred-Foot Journey,2014/08/08,Walt Disney,Romantic-Comedy,PG,6638364
-2014,60,The Wolf of Wall Street,2013/12/25,Paramount Pictures,Black-Comedy,R,6582035
+2014,59,The Hundred-Foot Journey,2014/08/08,Walt Disney,Romantic Comedy,PG,6638364
+2014,60,The Wolf of Wall Street,2013/12/25,Paramount Pictures,Black Comedy,R,6582035
 2014,61,Horrible Bosses 2,2014/11/26,Warner Bros.,Comedy,R,6494916
-2014,62,No Good Deed,2014/09/12,Sony Pictures,Thriller-or-Suspense,PG-13,6431289
+2014,62,No Good Deed,2014/09/12,Sony Pictures,Thriller/Suspense,PG-13,6431289
 2014,63,Muppets Most Wanted,2014/03/21,Walt Disney,Comedy,PG,6264246
 2014,64,Ouija,2014/10/24,Universal,Horror,PG-13,6224725
 2014,65,The Boxtrolls,2014/09/26,Focus Features,Adventure,PG,6195675
 2014,66,Jack Ryan: Shadow Recruit,2014/01/17,Paramount Pictures,Action,PG-13,6190625
 2014,67,If I Stay,2014/08/22,Warner Bros.,Drama,PG-13,6178071
 2014,68,The Book of Life,2014/10/17,20th Century Fox,Adventure,PG,6066601
-2014,69,About Last Night,2014/02/14,Sony Pictures,Romantic-Comedy,R,5953204
-2014,70,Into the Storm,2014/08/08,Warner Bros.,Thriller-or-Suspense,PG-13,5826461
+2014,69,About Last Night,2014/02/14,Sony Pictures,Romantic Comedy,R,5953204
+2014,70,Into the Storm,2014/08/08,Warner Bros.,Thriller/Suspense,PG-13,5826461
 2014,71,The Judge,2014/10/10,Warner Bros.,Drama,R,5760478
 2014,72,Jersey Boys,2014/06/20,Warner Bros.,Drama,R,5758508
-2014,73,Blended,2014/05/23,Warner Bros.,Romantic-Comedy,PG-13,5665941
+2014,73,Blended,2014/05/23,Warner Bros.,Romantic Comedy,PG-13,5665941
 2014,74,The Giver,2014/08/15,Weinstein Co.,Drama,PG-13,5519017
 2014,75,Need for Speed,2014/03/14,Walt Disney,Action,PG-13,5332742
 2014,76,St. Vincent,2014/10/24,Weinstein Co.,Comedy,PG-13,5321694
@@ -2081,12 +2081,12 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2014,80,The Expendables 3,2014/08/15,Lionsgate,Action,PG-13,4813040
 2014,81,Earth to Echo,2014/07/02,Relativity,Adventure,PG,4765586
 2014,82,Sex Tape,2014/07/18,Sony Pictures,Comedy,R,4717683
-2014,83,August:  Osage County,2013/12/25,Weinstein Co.,Black-Comedy,R,4560235
+2014,83,August:  Osage County,2013/12/25,Weinstein Co.,Black Comedy,R,4560235
 2014,84,Million Dollar Arm,2014/05/16,Walt Disney,Drama,PG,4461194
 2014,85,This is Where I Leave You,2014/09/19,Warner Bros.,Comedy,R,4197835
-2014,86,Nightcrawler,2014/10/31,Open Road,Thriller-or-Suspense,R,3914710
+2014,86,Nightcrawler,2014/10/31,Open Road,Thriller/Suspense,R,3914710
 2014,87,Chef,2014/05/09,Open Road,Comedy,R,3846267
-2014,88,3 Days to Kill,2014/02/21,Relativity,Thriller-or-Suspense,PG-13,3757405
+2014,88,3 Days to Kill,2014/02/21,Relativity,Thriller/Suspense,PG-13,3757405
 2014,89,Deliver Us from Evil,2014/07/02,Sony Pictures,Horror,R,3742609
 2014,90,Get on Up,2014/08/01,Universal,Drama,PG-13,3741730
 2014,91,The Imitation Game,2014/11/28,Weinstein Co.,Drama,PG-13,3729753
@@ -2096,7 +2096,7 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2014,95,Oculus,2014/04/11,Relativity,Horror,R,3389870
 2014,96,The Gambler,2014/12/10,Paramount Pictures,Drama,R,3378979
 2014,97,The Best of Me,2014/10/17,Relativity,Drama,PG-13,3272920
-2014,98,That Awkward Moment,2014/01/31,FilmDistrict,Romantic-Comedy,R,3190814
+2014,98,That Awkward Moment,2014/01/31,FilmDistrict,Romantic Comedy,R,3190814
 2014,99,A Walk Among the Tombstones,2014/09/19,Universal,Action,R,3184539
 2014,100,Wild,2014/12/03,Fox Searchlight,Drama,R,3167797
 2015,1,Star Wars Ep. VII: The Force Awakens,2015/12/18,Walt Disney,Adventure,PG-13,88043765
@@ -2106,8 +2106,8 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2015,5,Furious 7,2015/04/03,Universal,Action,PG-13,41640914
 2015,6,American Sniper,2014/12/25,Warner Bros.,Drama,R,41268930
 2015,7,Minions,2015/07/10,Universal,Adventure,PG,39863080
-2015,8,The Hunger Games: Mockingjay - Part 2,2015/11/20,Lionsgate,Thriller-or-Suspense,PG-13,32524957
-2015,9,The Martian,2015/10/02,20th Century Fox,Thriller-or-Suspense,PG-13,26798429
+2015,8,The Hunger Games: Mockingjay - Part 2,2015/11/20,Lionsgate,Thriller/Suspense,PG-13,32524957
+2015,9,The Martian,2015/10/02,20th Century Fox,Thriller/Suspense,PG-13,26798429
 2015,10,Cinderella,2015/03/13,Walt Disney,Drama,PG,23861370
 2015,11,Spectre,2015/11/06,Sony Pictures,Action,PG-13,23467768
 2015,12,Mission: Impossible—Rogue Nation,2015/07/31,Paramount Pictures,Action,PG-13,23136699
@@ -2133,44 +2133,44 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2015,32,Get Hard,2015/03/27,Warner Bros.,Comedy,R,10724964
 2015,33,Terminator: Genisys,2015/07/01,Paramount Pictures,Action,PG-13,10647800
 2015,34,Taken 3,2015/01/09,20th Century Fox,Action,PG-13,10587950
-2015,35,Maze Runner: The Scorch Trials,2015/09/18,20th Century Fox,Thriller-or-Suspense,PG-13,9686903
+2015,35,Maze Runner: The Scorch Trials,2015/09/18,20th Century Fox,Thriller/Suspense,PG-13,9686903
 2015,36,Ted 2,2015/06/26,Universal,Comedy,R,9642328
 2015,37,Goosebumps,2015/10/16,Sony Pictures,Horror,PG,9415194
 2015,38,Pixels,2015/07/24,Sony Pictures,Comedy,PG-13,9341350
 2015,39,Paddington,2015/01/16,Weinstein Co.,Adventure,PG,9041942
 2015,40,The Intern,2015/09/25,Warner Bros.,Comedy,PG-13,8981181
 2015,41,Paul Blart: Mall Cop 2,2015/04/17,Sony Pictures,Comedy,PG,8426831
-2015,42,Bridge of Spies,2015/10/16,Walt Disney,Thriller-or-Suspense,PG-13,8376056
+2015,42,Bridge of Spies,2015/10/16,Walt Disney,Thriller/Suspense,PG-13,8376056
 2015,43,War Room,2015/08/28,Sony Pictures,Drama,PG,8041532
 2015,44,Alvin and the Chipmunks: The Road Chip,2015/12/18,20th Century Fox,Adventure,PG,8024549
 2015,45,Magic Mike XXL,2015/07/01,Warner Bros.,Comedy,R,7830730
-2015,46,The Visit,2015/09/11,Universal,Thriller-or-Suspense,PG-13,7723845
+2015,46,The Visit,2015/09/11,Universal,Thriller/Suspense,PG-13,7723845
 2015,47,The Wedding Ringer,2015/01/16,Sony Pictures,Comedy,R,7646525
 2015,48,Black Mass,2015/09/18,Warner Bros.,Drama,R,7422974
 2015,49,Sisters,2015/12/18,Universal,Comedy,R,7340938
 2015,50,The Imitation Game,2014/11/28,Weinstein Co.,Drama,PG-13,7194905
 2015,51,Vacation,2015/07/29,Warner Bros.,Comedy,R,6985075
-2015,52,The Perfect Guy,2015/09/11,Sony Pictures,Thriller-or-Suspense,PG-13,6763689
+2015,52,The Perfect Guy,2015/09/11,Sony Pictures,Thriller/Suspense,PG-13,6763689
 2015,53,Fantastic Four,2015/08/07,20th Century Fox,Action,PG-13,6656885
-2015,54,Focus,2015/02/27,Warner Bros.,Romantic-Comedy,PG-13,6389438
+2015,54,Focus,2015/02/27,Warner Bros.,Romantic Comedy,PG-13,6389438
 2015,55,Southpaw,2015/07/24,Weinstein Co.,Drama,R,6218499
 2015,56,Insidious Chapter 3,2015/06/05,Focus Features,Horror,PG-13,6194372
 2015,57,Selma,2014/12/25,Paramount Pictures,Drama,PG-13,5932201
 2015,58,Jupiter Ascending,2015/02/06,Warner Bros.,Action,PG-13,5632564
 2015,59,Poltergeist,2015/05/22,20th Century Fox,Horror,PG-13,5625756
-2015,60,Sicario,2015/09/18,Lionsgate,Thriller-or-Suspense,R,5554444
+2015,60,Sicario,2015/09/18,Lionsgate,Thriller/Suspense,R,5554444
 2015,61,The Man From U.N.C.L.E.,2015/08/14,Warner Bros.,Action,PG-13,5390878
 2015,62,"McFarland, USA",2015/02/20,Walt Disney,Drama,PG,5276426
-2015,63,The Gift,2015/08/07,STX Entertainment,Thriller-or-Suspense,R,5194218
-2015,64,Everest,2015/09/18,Universal,Thriller-or-Suspense,PG-13,5137538
+2015,63,The Gift,2015/08/07,STX Entertainment,Thriller/Suspense,R,5194218
+2015,64,Everest,2015/09/18,Universal,Thriller/Suspense,PG-13,5137538
 2015,65,The Night Before,2015/11/20,Sony Pictures,Comedy,R,5098132
 2015,66,Max,2015/06/26,Warner Bros.,Adventure,PG,5060053
 2015,67,The Age of Adaline,2015/04/24,Lionsgate,Drama,PG-13,5056912
-2015,68,Krampus,2015/12/04,Universal,Black-Comedy,PG-13,5015151
+2015,68,Krampus,2015/12/04,Universal,Black Comedy,PG-13,5015151
 2015,69,Joy,2015/12/25,20th Century Fox,Drama,PG-13,4569521
 2015,70,The Longest Ride,2015/04/10,20th Century Fox,Drama,PG-13,4442006
 2015,71,Into the Woods,2014/12/25,Walt Disney,Musical,PG,4404592
-2015,72,The Boy Next Door,2015/01/23,Universal,Thriller-or-Suspense,R,4202061
+2015,72,The Boy Next Door,2015/01/23,Universal,Thriller/Suspense,R,4202061
 2015,73,Pan,2015/10/09,Warner Bros.,Adventure,PG,4161523
 2015,74,Hot Pursuit,2015/05/08,Warner Bros.,Comedy,PG-13,4102040
 2015,75,The Hobbit: The Battle of the Five Armies,2014/12/17,Warner Bros.,Adventure,PG-13,4094634
@@ -2188,13 +2188,13 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2015,87,Unbroken,2014/12/25,Universal,Drama,PG-13,3319857
 2015,88,Sinister 2,2015/08/21,Focus Features,Horror,R,3290741
 2015,89,The Last Witch Hunter,2015/10/23,Lionsgate,Action,PG-13,3246460
-2015,90,No Escape,2015/08/26,Weinstein Co.,Thriller-or-Suspense,R,3237114
+2015,90,No Escape,2015/08/26,Weinstein Co.,Thriller/Suspense,R,3237114
 2015,91,Spotlight,2015/11/06,Open Road,Drama,R,3215773
 2015,92,Ricki and the Flash,2015/08/07,Sony Pictures,Drama,PG-13,3181748
 2015,93,Run All Night,2015/03/13,Warner Bros.,Action,R,3138985
 2015,94,Love the Coopers,2015/11/13,CBS Films,Comedy,PG-13,3107207
 2015,95,The Lazarus Effect,2015/02/27,Lionsgate,Horror,PG-13,3060684
-2015,96,Ex Machina,2015/04/10,A24,Thriller-or-Suspense,R,3017908
+2015,96,Ex Machina,2015/04/10,A24,Thriller/Suspense,R,3017908
 2015,97,Concussion,2015/12/25,Sony Pictures,Drama,PG-13,2997230
 2015,98,Night at the Museum: Secret of the Tomb,2014/12/19,20th Century Fox,Adventure,PG,2835046
 2015,99,In the Heart of the Sea,2015/12/11,Warner Bros.,Adventure,PG-13,2817339
@@ -2233,25 +2233,25 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2016,32,Ride Along 2,2016/01/15,Universal,Comedy,PG-13,10504356
 2016,33,Don’t Breathe,2016/08/26,Sony Pictures,Horror,R,10314205
 2016,34,Miss Peregrine’s Home for Peculiar Children,2016/09/30,20th Century Fox,Adventure,PG-13,10054715
-2016,35,The Accountant,2016/10/14,Warner Bros.,Thriller-or-Suspense,R,9934324
+2016,35,The Accountant,2016/10/14,Warner Bros.,Thriller/Suspense,R,9934324
 2016,36,Teenage Mutant Ninja Turtles: Out of the Shadows,2016/06/03,Paramount Pictures,Adventure,PG-13,9485734
 2016,37,The Purge: Election Year,2016/07/01,Universal,Horror,R,9137854
 2016,38,Alice Through the Looking Glass,2016/05/27,Walt Disney,Adventure,PG,8906633
 2016,39,Pete’s Dragon,2016/08/12,Walt Disney,Adventure,PG,8813081
-2016,40,The Girl on the Train,2016/10/07,Universal,Thriller-or-Suspense,R,8716189
+2016,40,The Girl on the Train,2016/10/07,Universal,Thriller/Suspense,R,8716189
 2016,41,Tyler Perry’s Boo! A Madea Halloween,2016/10/21,Lionsgate,Comedy,PG-13,8463161
 2016,42,Storks,2016/09/23,Warner Bros.,Adventure,PG,8376942
-2016,43,10 Cloverfield Lane,2016/03/11,Paramount Pictures,Thriller-or-Suspense,PG-13,8333294
+2016,43,10 Cloverfield Lane,2016/03/11,Paramount Pictures,Thriller/Suspense,PG-13,8333294
 2016,44,Lights Out,2016/07/22,Warner Bros.,Horror,PG-13,7776743
 2016,45,The Divergent Series: Allegiant,2016/03/18,Lionsgate,Action,PG-13,7651335
-2016,46,Now You See Me 2,2016/06/10,Lionsgate,Thriller-or-Suspense,PG-13,7523183
+2016,46,Now You See Me 2,2016/06/10,Lionsgate,Thriller/Suspense,PG-13,7523183
 2016,47,Hacksaw Ridge,2016/11/04,Lionsgate,Drama,R,7468967
 2016,48,Ice Age: Collision Course,2016/07/22,20th Century Fox,Adventure,PG,7406128
 2016,49,The Boss,2016/04/08,Universal,Comedy,R,7292203
 2016,50,London Has Fallen,2016/03/04,Focus Features,Action,R,7228238
 2016,51,Miracles from Heaven,2016/03/16,Sony Pictures,Drama,PG,7133540
 2016,52,Deepwater Horizon,2016/09/30,Lionsgate,Drama,PG-13,7102141
-2016,53,Passengers,2016/12/21,Sony Pictures,Thriller-or-Suspense,PG-13,7082560
+2016,53,Passengers,2016/12/21,Sony Pictures,Thriller/Suspense,PG-13,7082560
 2016,54,My Big Fat Greek Wedding 2,2016/03/25,Universal,Comedy,PG-13,6900532
 2016,55,Jack Reacher: Never Go Back,2016/10/21,Paramount Pictures,Action,PG-13,6771620
 2016,56,Daddy’s Home,2015/12/25,Paramount Pictures,Comedy,PG-13,6528008
@@ -2265,36 +2265,36 @@ year,rank,movie_name,release_date,distributor_name,genre,mpaa_rating,num_tickets
 2016,64,Kubo and the Two Strings,2016/08/19,Focus Features,Adventure,PG,5551802
 2016,65,The Huntsman: Winter’s War,2016/04/22,Universal,Action,PG-13,5549481
 2016,66,Warcraft,2016/06/10,Universal,Action,PG-13,5459613
-2016,67,How to be Single,2016/02/12,Warner Bros.,Romantic-Comedy,R,5415435
+2016,67,How to be Single,2016/02/12,Warner Bros.,Romantic Comedy,R,5415435
 2016,68,Mike and Dave Need Wedding Dates,2016/07/08,20th Century Fox,Comedy,R,5319037
 2016,69,War Dogs,2016/08/19,Warner Bros.,Comedy,R,4975089
 2016,70,Almost Christmas,2016/11/11,Universal,Drama,PG-13,4855815
-2016,71,Money Monster,2016/05/13,Sony Pictures,Thriller-or-Suspense,R,4741280
+2016,71,Money Monster,2016/05/13,Sony Pictures,Thriller/Suspense,R,4741280
 2016,72,Assassin’s Creed,2016/12/21,20th Century Fox,Action,PG-13,4592088
 2016,73,Allied,2016/11/23,Paramount Pictures,Drama,R,4577912
-2016,74,Nerve,2016/07/27,Lionsgate,Thriller-or-Suspense,PG-13,4460534
+2016,74,Nerve,2016/07/27,Lionsgate,Thriller/Suspense,PG-13,4460534
 2016,75,The Big Short,2015/12/11,Paramount Pictures,Drama,R,4301085
 2016,76,Risen,2016/02/19,Sony Pictures,Drama,PG-13,4263587
-2016,77,The Nice Guys,2016/05/20,Warner Bros.,Black-Comedy,R,4192111
+2016,77,The Nice Guys,2016/05/20,Warner Bros.,Black Comedy,R,4192111
 2016,78,The Boy,2016/01/22,STX Entertainment,Horror,PG-13,4140989
 2016,79,Dirty Grandpa,2016/01/22,Lionsgate,Comedy,R,4114810
 2016,80,Ouija: Origin of Evil,2016/10/21,Universal,Horror,PG-13,4062948
 2016,81,The 5th Wave,2016/01/22,Sony Pictures,Action,PG-13,4036182
 2016,82,Why Him?,2016/12/23,20th Century Fox,Comedy,R,4000836
 2016,83,La La Land,2016/12/09,Lionsgate,Musical,PG-13,3961689
-2016,84,Inferno,2016/10/28,Sony Pictures,Thriller-or-Suspense,PG-13,3958135
-2016,85,Mother’s Day,2016/04/29,Open Road,Romantic-Comedy,PG-13,3756399
+2016,84,Inferno,2016/10/28,Sony Pictures,Thriller/Suspense,PG-13,3958135
+2016,85,Mother’s Day,2016/04/29,Open Road,Romantic Comedy,PG-13,3756399
 2016,86,Gods of Egypt,2016/02/26,Lionsgate,Adventure,PG-13,3601556
 2016,87,"Hail, Caesar!",2016/02/05,Universal,Comedy,PG-13,3477482
-2016,88,When the Bough Breaks,2016/09/09,Sony Pictures,Thriller-or-Suspense,PG-13,3439029
+2016,88,When the Bough Breaks,2016/09/09,Sony Pictures,Thriller/Suspense,PG-13,3439029
 2016,89,Fences,2016/12/16,Paramount Pictures,Drama,PG-13,3438568
 2016,90,Zoolander 2,2016/02/12,Paramount Pictures,Comedy,PG-13,3335109
 2016,91,"Hello, My Name is Doris",2016/03/11,Roadside Attractions,Drama,R,3323895
 2016,92,Manchester-by-the Sea,2016/11/18,Roadside Attractions,Drama,R,3291410
-2016,93,The Finest Hours,2016/01/29,Walt Disney,Thriller-or-Suspense,PG,3187232
+2016,93,The Finest Hours,2016/01/29,Walt Disney,Thriller/Suspense,PG,3187232
 2016,94,Florence Foster Jenkins,2016/08/12,Paramount Pictures,Drama,PG-13,3165753
 2016,95,Hell or High Water,2016/08/12,Lionsgate,Western,R,3122294
-2016,96,The Forest,2016/01/08,Focus / Gramercy,Thriller-or-Suspense,PG-13,3074481
+2016,96,The Forest,2016/01/08,Focus / Gramercy,Thriller/Suspense,PG-13,3074481
 2016,97,Ben-Hur,2016/08/19,Paramount Pictures,Drama,PG-13,3053234
 2016,98,Collateral Beauty,2016/12/16,Warner Bros.,Drama,PG-13,2984594
 2016,99,Sisters,2015/12/18,Universal,Comedy,R,2908732
