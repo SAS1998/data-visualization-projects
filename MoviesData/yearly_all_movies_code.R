@@ -58,23 +58,26 @@ groupedBarPlotter = function(data, grouping, aggType) {
 }
 
 percentGroupedBarPlotter = function(data, grouping) {
-  resultPlot = ggplot(data=data, aes(x=year, y=tickets)) +
+  data <- data[order(data$tickets), ]
+  resultPlot = ggplot(data=data, aes(x=year, y=tickets, order=group)) +
     geom_bar(aes(fill=group), stat="identity") +
     ggtitle(paste("Movie Tickets Sold by ", grouping, sep="")) + 
     xlab("Year") + ylab(paste("Percentage of Tickets Sold", sep="")) + 
     scale_fill_discrete(name=grouping) + 
-    scale_x_continuous(breaks=seq(1994,2016,by=1), labels=seq(1994,2016,by=1)) + 
+    scale_x_continuous(breaks=seq(1994,2016,by=2), labels=seq(1994,2016,by=2)) + 
     scale_y_continuous(breaks=seq(0,100,by=100), labels=seq(0,100,by=100)) +
     theme(
       panel.grid.minor.x=element_blank(), 
       panel.grid.minor.y=element_blank(), 
+      plot.margin = unit(c(4,4,4,4), "lines"),
       aspect.ratio=1, 
       text=element_text(size=36), 
       plot.title=element_text(size=38),
       legend.text=element_text(size=30),
-      legend.key.size = unit(2.2, 'lines'),
+      legend.key.size = unit(2.8, "lines"),
       axis.text=element_text(size=26)
     ) +
+    guides(colour = guide_legend(reverse=T)) +
     coord_flip()
   
   resultPlot
@@ -104,6 +107,11 @@ movies$distributor_name = factor(movies$distributor_name, levels=top_dist)
 yearly_ticket_sum = aggregate(movies$num_tickets_sold, by=list(year=as.numeric(movies$year)), FUN=sum)
 movies$year_ticket_total = unlist(lapply(yearly_ticket_sum$x, function(i) {rep(i, 100)}))
 movies$ticket_percent_of_year = (movies$num_tickets_sold / movies$year_ticket_total) * 100
+
+top_genre = c("Adventure", "Comedy", "Action", "Drama", "Thriller/Suspense", "Horror", "Romantic Comedy", "Musical", "Documentary", "Black Comedy", "Other")
+movies$genre = as.character(movies$genre)
+movies$genre[which(!(movies$genre %in% top_genre))] = "Other"
+movies$genre = factor(movies$genre, levels=top_genre)
 
 #################################################
 # aggregated stacked bar plots
@@ -176,13 +184,6 @@ do.call(grid.arrange, list(grobs=plots, ncol=3, top=textGrob("Top 100 Movies (19
 #################################################
 # REPEAT ABOVE STEPS WITH PERCENTAGES
 #################################################
-# sumAgg_genre_percent_plot = NULL
-# sumAgg_MpaaRating_percent_plot = NULL
-# sumAgg_distributor_percent_plot = NULL
-# sumAgg_dow_percent_plot = NULL
-# sumAgg_season_percent_plot = NULL
-# sumAgg_month_percent_plot = NULL
-
 generateAllPlots = function() {
   # agg tickets by genre stacked by year
   sumAgg_genre_percent = sumAggregater(movies$ticket_percent_of_year, list(movies$year, movies$genre))
@@ -201,7 +202,7 @@ generateAllPlots = function() {
   
   # agg tickets by dow stacked by year
   sumAgg_dow_percent = sumAggregater(movies$ticket_percent_of_year, list(movies$year, movies$release_dow))
-  sumAgg_dow_percent_plot = percentGroupedBarPlotter(sumAgg_dow_percent, "Release Day of Week")
+  sumAgg_dow_percent_plot = percentGroupedBarPlotter(sumAgg_dow_percent, "Release DoW")
   sumAgg_dow_percent_plot
   
   # agg tickets by month stacked by year
@@ -224,32 +225,20 @@ generateAllPlots = function() {
 #----------------------------------
 # combine all ggplots
 #----------------------------------
-plot_list = list(
-  sumAgg_genre_percent_plot, 
-  sumAgg_MpaaRating_percent_plot, 
-  sumAgg_distributor_percent_plot,
-  sumAgg_dow_percent_plot, 
-  sumAgg_season_percent_plot,
-  sumAgg_month_percent_plot
-) 
+plot_2x3 = generateAllPlots()
+png("comboPercent3200x3600.png", width=3200, height=3600, units="px") 
+grid.draw(plot_2x3)
+dev.off()
 
-plot_6x1 = rbind(
-  sumAgg_genre_percent_plot, 
-  sumAgg_MpaaRating_percent_plot, 
-  sumAgg_distributor_percent_plot,
-  sumAgg_dow_percent_plot, 
-  sumAgg_season_percent_plot,
-  sumAgg_month_percent_plot
+#----------------------------------
+# combine genre/distributor plots
+#----------------------------------
+grobs = list(
+  ggplotGrob(sumAgg_genre_percent_plot), 
+  ggplotGrob(sumAgg_distributor_percent_plot)
 )
 
-# method 1
-do.call(grid.arrange, list(grobs=grobs, ncol=2, top=textGrob("Top-Grossing 100 Movies from 1994-2016", gp=gpar(fontface="bold", fontsize=24))))
-
-# method 2
-plot_2x3 = generateAllPlots()
-grid.newpage()
-grid.draw(plot_2x3)
-
-# method 3
-grid.arrange(grobs=plots, ncol=1, nrow=5, top=textGrob("Top-Grossing 100 Movies from 1994-2016", gp=gpar(fontface="bold", fontsize=24)))
+png("2comboPercent3000x1500.png", width=3000, height=1500, units="px") 
+do.call(grid.arrange, list(grobs=grobs, ncol=2, top=textGrob("100 Top-Grossing Movies of 1994-2016", y=-1, gp=gpar(fontface="bold", fontsize=48))))
+dev.off()
 
