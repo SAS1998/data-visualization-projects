@@ -60,7 +60,7 @@ groupedBarPlotter = function(data, grouping, aggType) {
 percentGroupedBarPlotter = function(data, grouping) {
   data <- data[order(data$tickets), ]
   resultPlot = ggplot(data=data, aes(x=year, y=tickets, order=group)) +
-    geom_bar(aes(fill=group), stat="identity") +
+    geom_col(aes(fill=group), position = position_stack(reverse = TRUE)) +
     ggtitle(paste("Movie Tickets Sold by ", grouping, sep="")) + 
     xlab("Year") + ylab(paste("Percentage of Tickets Sold", sep="")) + 
     scale_fill_discrete(name=grouping) + 
