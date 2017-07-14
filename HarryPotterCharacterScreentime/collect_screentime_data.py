@@ -13,12 +13,12 @@ movie_titles = [
 ]
 
 def get_html():
-	print "\tgetting html for movies table..."	
+	print "\nGetting html for movies table..."	
 	url_string = "http://www.imdb.com/list/ls031310246/"
 	os.system("curl " + url_string + " > hp_onscreen_time.txt")
 
 def get_data_from_html():
-	print "\tparsing html file..."
+	print "\nParsing html file..."
 
 	file = open("hp_onscreen_time.txt")
 	content = file.readlines()
@@ -32,6 +32,7 @@ def get_data_from_html():
 	for line in content:
 		if line.startswith(CHAR_NAME_LINE_START):
 			character = line.split(CHAR_NAME_LINE_START)[1].split(">")[1].split("</a></b>")[0]
+			character = character.replace("</a", "")
 		elif line.startswith(SCREENTIME_INFO_LINE_START):
 			character_desc_map[character] = line
 
@@ -47,13 +48,13 @@ def get_data_from_html():
 				movie_time_split = time_string.split(":")
 				if ("x" not in movie_time_split and "15<br/>* ...Deathly Hallows, Part I" not in movie_time_split):
 					if len(movie_time_split) == 1:
-						movie_time_min = int(movie_time_split[0]) * 60
+						movie_time_min = int(movie_time_split[0])
 					elif len(movie_time_split) == 2:
 						if (movie_time_split[0] == ""):
-							movie_time_min = int(movie_time_split[1])
+							movie_time_min = int(movie_time_split[1]) / 60.0
 						else:
-							movie_time_min += int(movie_time_split[0]) * 60
-							movie_time_min += int(movie_time_split[1])
+							movie_time_min += int(movie_time_split[0])
+							movie_time_min += int(movie_time_split[1]) / 60.0
 
 			datum = {}
 			datum["character"] = character
@@ -65,7 +66,7 @@ def get_data_from_html():
 	return data
 
 def write_to_csv(data):
-	print "writing to csv file..."
+	print "\nWriting to csv file..."
 	csv_file = open('screentime.csv', 'w')
 	csv_writer = csv.writer(csv_file, delimiter=',')
 	csv_writer.writerow(['character', 'movie', 'time'])
@@ -79,6 +80,6 @@ def main():
 	get_html()
 	data = get_data_from_html()
 	write_to_csv(data)
-	print "Done!"
+	print "\nDone!"
 
 main()

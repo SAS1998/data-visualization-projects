@@ -8,7 +8,7 @@
                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <script>
 var addClickstreamHeadersToAjax = function(xhr) {
-    xhr.setRequestHeader("x-imdb-parent-id", "1ZMYT851SWV5NM2YCPBH");
+    xhr.setRequestHeader("x-imdb-parent-id", "091T6N7KQEFQ8EWJ498V");
 };
 </script>
 
@@ -43,7 +43,7 @@ tinygpt.set_targeting({
 'c' : ['1'],
 'id' : ['ls031310246'],
 'bpx' : ['1'],
-'u': ['203414106165'],
+'u': ['877463893741'],
 'oe': ['utf-8']
 });
 tinygpt.send();
@@ -87,13 +87,13 @@ generic.monitoring.set_forester_info("main");
 generic.monitoring.set_twilight_info(
 "main",
 "UNKNOWN",
-"6c9b9a5ed09db0239ec63e769dc18611c1f34ff0",
-"2017-07-14T02%3A41%3A17GMT",
+"962190f897d75c4bef9fe32dd2c7d9700fd75879",
+"2017-07-14T03%3A34%3A03GMT",
 "https://s.media-imdb.com/twilight/?",
 "consumer");
 generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 15523;
-generic.days_to_midnight = 0.179664358496666;
+generic.seconds_to_midnight = 12357;
+generic.days_to_midnight = 0.1430208384990692;
 },"Generic not defined, skipping monitoring setup.");
 </script>
 <script src="https://images-na.ssl-images-amazon.com/images/G/01/dacx/sf/DAsf-1.34_FX1._V275812351_.js"></script>
@@ -158,8 +158,8 @@ ad_utils.register_ad('top_ad');
 }
 });
 </script>
-<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=203414106165;ord=203414106165?" frameborder="0" id="top_ad" marginwidth="0" marginheight="0" name="top_ad" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="85" width="0" height="85" ></iframe> </div>
-<noscript> <a href="http://pubads.g.doubleclick.net/gampad/jump?&iu=4215/imdb2.consumer.main/lists&sz=728x90|1008x150|1008x200|1008x30|970x250|9x1&t=p%3Dtop%26p%3Dt%26fv%3D1%26id%3Dls031310246%26ab%3Df%26bpx%3D1%26c%3D1&tile=0&c=203414106165" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?&iu=4215/imdb2.consumer.main/lists&sz=728x90|1008x150|1008x200|1008x30|970x250|9x1&t=p%3Dtop%26p%3Dt%26fv%3D1%26id%3Dls031310246%26ab%3Df%26bpx%3D1%26c%3D1&tile=0&c=203414106165" border="0" alt="advertisement" /> </a> </noscript>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=877463893741;ord=877463893741?" frameborder="0" id="top_ad" marginwidth="0" marginheight="0" name="top_ad" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="85" width="0" height="85" ></iframe> </div>
+<noscript> <a href="http://pubads.g.doubleclick.net/gampad/jump?&iu=4215/imdb2.consumer.main/lists&sz=728x90|1008x150|1008x200|1008x30|970x250|9x1&t=p%3Dtop%26p%3Dt%26fv%3D1%26id%3Dls031310246%26ab%3Df%26bpx%3D1%26c%3D1&tile=0&c=877463893741" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?&iu=4215/imdb2.consumer.main/lists&sz=728x90|1008x150|1008x200|1008x30|970x250|9x1&t=p%3Dtop%26p%3Dt%26fv%3D1%26id%3Dls031310246%26ab%3Df%26bpx%3D1%26c%3D1&tile=0&c=877463893741" border="0" alt="advertisement" /> </a> </noscript>
 <div id="top_ad_reflow_helper"></div>
 <script id="top_ad_rendering">
 doWithAds(function(){
@@ -337,19 +337,19 @@ ad_utils.gpt.render_ad('top_ad');
     <li itemprop="headline">
         <a     href="/news/ni61302633/?ref_=nb_nwt_1"    >
             &#x27;Where&#x27;d You Go, Bernadette?&#x27; Gets a Mother&#x27;s Day Release</a><br />
-            <span class="time">3 hours ago
+            <span class="time">4 hours ago
 </span>
     </li>
     <li itemprop="headline">
         <a     href="/news/ni61302509/?ref_=nb_nwt_2"    >
             R.L. Stine&#x2019;s &#x2018;Fear Street&#x2019; in Development for Three Fox Movies</a><br />
-            <span class="time">3 hours ago
+            <span class="time">4 hours ago
 </span>
     </li>
     <li itemprop="headline">
         <a     href="/news/ni61301998/?ref_=nb_nwt_3"    >
             &#x2018;Walking Dead&#x2019; Shuts Down Production in Wake of Stuntman&#x2019;s On-Set Fall</a><br />
-            <span class="time">7 hours ago
+            <span class="time">8 hours ago
 </span>
     </li>
 </ul>
@@ -520,7 +520,7 @@ ad_utils.register_ad('injected_navstrip');
 }
 });
 </script>
-<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=203414106165;ord=203414106165?" frameborder="0" id="injected_navstrip" marginwidth="0" marginheight="0" name="injected_navstrip" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="0" width="0" height="0" ></iframe> </div>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=877463893741;ord=877463893741?" frameborder="0" id="injected_navstrip" marginwidth="0" marginheight="0" name="injected_navstrip" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="0" width="0" height="0" ></iframe> </div>
 <div id="injected_navstrip_reflow_helper"></div>
 <script id="injected_navstrip_rendering">
 doWithAds(function(){
@@ -559,7 +559,7 @@ ad_utils.register_ad('injected_billboard');
 }
 });
 </script>
-<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=203414106165;ord=203414106165?" frameborder="0" id="injected_billboard" marginwidth="0" marginheight="0" name="injected_billboard" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="0" width="0" height="0" ></iframe> </div>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=877463893741;ord=877463893741?" frameborder="0" id="injected_billboard" marginwidth="0" marginheight="0" name="injected_billboard" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="0" width="0" height="0" ></iframe> </div>
 <div id="injected_billboard_reflow_helper"></div>
 <script id="injected_billboard_rendering">
 doWithAds(function(){
@@ -2552,8 +2552,8 @@ ad_utils.register_ad('top_rhs');
 }
 });
 </script>
-<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=203414106165;ord=203414106165?" frameborder="0" id="top_rhs" marginwidth="0" marginheight="0" name="top_rhs" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="300" data-original-height="250" width="300" height="250" ></iframe> </div>
-<noscript> <a href="http://pubads.g.doubleclick.net/gampad/jump?&iu=4215/imdb2.consumer.main/lists&sz=300x250|300x600|11x1&t=p%3Dtr%26fv%3D1%26id%3Dls031310246%26ab%3Df%26bpx%3D1%26c%3D1&tile=1&c=203414106165" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?&iu=4215/imdb2.consumer.main/lists&sz=300x250|300x600|11x1&t=p%3Dtr%26fv%3D1%26id%3Dls031310246%26ab%3Df%26bpx%3D1%26c%3D1&tile=1&c=203414106165" border="0" alt="advertisement" /> </a> </noscript>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=877463893741;ord=877463893741?" frameborder="0" id="top_rhs" marginwidth="0" marginheight="0" name="top_rhs" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="300" data-original-height="250" width="300" height="250" ></iframe> </div>
+<noscript> <a href="http://pubads.g.doubleclick.net/gampad/jump?&iu=4215/imdb2.consumer.main/lists&sz=300x250|300x600|11x1&t=p%3Dtr%26fv%3D1%26id%3Dls031310246%26ab%3Df%26bpx%3D1%26c%3D1&tile=1&c=877463893741" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?&iu=4215/imdb2.consumer.main/lists&sz=300x250|300x600|11x1&t=p%3Dtr%26fv%3D1%26id%3Dls031310246%26ab%3Df%26bpx%3D1%26c%3D1&tile=1&c=877463893741" border="0" alt="advertisement" /> </a> </noscript>
 <div id="top_rhs_reflow_helper"></div>
 <div id="top_rhs_after" class="after_ad" style="visibility:hidden;">
 <a class="yesScript" href="#" onclick="ad_utils.show_ad_feedback('top_rhs');return false;" id="ad_feedback_top_rhs">ad feedback</a>
@@ -3014,7 +3014,7 @@ An <img id="amazon_logo" align="middle" style="width:80px;height:19px;border:0 n
                     "r=1",
                     "rP=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls031310246%2F",
                     "encoding=server",
-                    "cb=203414106165"  
+                    "cb=877463893741"  
                 ];
         
             if (document.getElementById('sis_pixel_sitewide')) {
@@ -3055,13 +3055,13 @@ c15:""
 
 <script>
     doWithAds(function(){
-        (new Image()).src = "http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=203414106165&ord=203414106165";
+        (new Image()).src = "http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=877463893741&ord=877463893741";
     },"unable to request AAN pixel");
 </script>
 
 <!-- end ads footer -->
 <script src="http://i.media-imdb.com/images/SFa4be5baa8d51e22640d81fa1e6773c7c/js/app/clickstream/rvi.js" ></script>
-<!-- h=iop1a447e i=2017-07-13 s=legacy(default) t='Thu Jul 13 19:41:17 2017' -->
+<!-- h=iop1d9f i=2017-07-13 s=legacy(default) t='Thu Jul 13 20:34:03 2017' -->
         </body>
 </html>
 
