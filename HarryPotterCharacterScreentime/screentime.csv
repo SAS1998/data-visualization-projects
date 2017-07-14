@@ -1,0 +1,777 @@
+character,movie,time
+Professor Albus Dumbledore</a,Philosopher's/Sorcerer's Stone,585
+Professor Albus Dumbledore</a,Chamber of Secrets,645
+Professor Albus Dumbledore</a,Prisoner of Azkaban,375
+Professor Albus Dumbledore</a,Goblet of Fire,855
+Professor Albus Dumbledore</a,Order of the Phoenix,450
+Professor Albus Dumbledore</a,Half-Blood Prince,1335
+Professor Albus Dumbledore</a,"Deathly Hallows, Part I",45
+Professor Albus Dumbledore</a,"Deathly Hallows, Part II",345
+Romilda Vane</a,Philosopher's/Sorcerer's Stone,0
+Romilda Vane</a,Chamber of Secrets,0
+Romilda Vane</a,Prisoner of Azkaban,0
+Romilda Vane</a,Goblet of Fire,0
+Romilda Vane</a,Order of the Phoenix,0
+Romilda Vane</a,Half-Blood Prince,60
+Romilda Vane</a,"Deathly Hallows, Part I",15
+Romilda Vane</a,"Deathly Hallows, Part II",45
+Minister Rufus Scrimgeour</a,Philosopher's/Sorcerer's Stone,0
+Minister Rufus Scrimgeour</a,Chamber of Secrets,0
+Minister Rufus Scrimgeour</a,Prisoner of Azkaban,0
+Minister Rufus Scrimgeour</a,Goblet of Fire,0
+Minister Rufus Scrimgeour</a,Order of the Phoenix,0
+Minister Rufus Scrimgeour</a,Half-Blood Prince,0
+Minister Rufus Scrimgeour</a,"Deathly Hallows, Part I",0
+Minister Rufus Scrimgeour</a,"Deathly Hallows, Part II",0
+Neville Longbottom</a,Philosopher's/Sorcerer's Stone,195
+Neville Longbottom</a,Chamber of Secrets,75
+Neville Longbottom</a,Prisoner of Azkaban,180
+Neville Longbottom</a,Goblet of Fire,255
+Neville Longbottom</a,Order of the Phoenix,540
+Neville Longbottom</a,Half-Blood Prince,90
+Neville Longbottom</a,"Deathly Hallows, Part I",15
+Neville Longbottom</a,"Deathly Hallows, Part II",345
+Ron Weasley</a,Philosopher's/Sorcerer's Stone,1695
+Ron Weasley</a,Chamber of Secrets,2295
+Ron Weasley</a,Prisoner of Azkaban,1275
+Ron Weasley</a,Goblet of Fire,1230
+Ron Weasley</a,Order of the Phoenix,1260
+Ron Weasley</a,Half-Blood Prince,1305
+Ron Weasley</a,"Deathly Hallows, Part I",2145
+Ron Weasley</a,"Deathly Hallows, Part II",1500
+Barty Crouch Jr.</a,Philosopher's/Sorcerer's Stone,0
+Barty Crouch Jr.</a,Chamber of Secrets,0
+Barty Crouch Jr.</a,Prisoner of Azkaban,0
+Barty Crouch Jr.</a,Goblet of Fire,975
+Barty Crouch Jr.</a,Order of the Phoenix,0
+Barty Crouch Jr.</a,Half-Blood Prince,0
+Barty Crouch Jr.</a,"Deathly Hallows, Part I",0
+Barty Crouch Jr.</a,"Deathly Hallows, Part II",0
+Lily Potter</a,Philosopher's/Sorcerer's Stone,75
+Lily Potter</a,Chamber of Secrets,0
+Lily Potter</a,Prisoner of Azkaban,0
+Lily Potter</a,Goblet of Fire,15
+Lily Potter</a,Order of the Phoenix,15
+Lily Potter</a,Half-Blood Prince,0
+Lily Potter</a,"Deathly Hallows, Part I",0
+Lily Potter</a,"Deathly Hallows, Part II",105
+Amycus Carrow</a,Philosopher's/Sorcerer's Stone,0
+Amycus Carrow</a,Chamber of Secrets,0
+Amycus Carrow</a,Prisoner of Azkaban,0
+Amycus Carrow</a,Goblet of Fire,0
+Amycus Carrow</a,Order of the Phoenix,0
+Amycus Carrow</a,Half-Blood Prince,45
+Amycus Carrow</a,"Deathly Hallows, Part I",15
+Amycus Carrow</a,"Deathly Hallows, Part II",60
+Padma Patil</a,Philosopher's/Sorcerer's Stone,0
+Padma Patil</a,Chamber of Secrets,0
+Padma Patil</a,Prisoner of Azkaban,0
+Padma Patil</a,Goblet of Fire,105
+Padma Patil</a,Order of the Phoenix,90
+Padma Patil</a,Half-Blood Prince,15
+Padma Patil</a,"Deathly Hallows, Part I",15
+Padma Patil</a,"Deathly Hallows, Part II",60
+Madam Pomfrey</a,Philosopher's/Sorcerer's Stone,0
+Madam Pomfrey</a,Chamber of Secrets,75
+Madam Pomfrey</a,Prisoner of Azkaban,0
+Madam Pomfrey</a,Goblet of Fire,0
+Madam Pomfrey</a,Order of the Phoenix,0
+Madam Pomfrey</a,Half-Blood Prince,45
+Madam Pomfrey</a,"Deathly Hallows, Part I",15
+Madam Pomfrey</a,"Deathly Hallows, Part II",15
+Oliver Wood</a,Philosopher's/Sorcerer's Stone,165
+Oliver Wood</a,Chamber of Secrets,105
+Oliver Wood</a,Prisoner of Azkaban,0
+Oliver Wood</a,Goblet of Fire,0
+Oliver Wood</a,Order of the Phoenix,0
+Oliver Wood</a,Half-Blood Prince,0
+Oliver Wood</a,"Deathly Hallows, Part I",0
+Oliver Wood</a,"Deathly Hallows, Part II",0
+Aberforth Dumbledore</a,Philosopher's/Sorcerer's Stone,0
+Aberforth Dumbledore</a,Chamber of Secrets,0
+Aberforth Dumbledore</a,Prisoner of Azkaban,0
+Aberforth Dumbledore</a,Goblet of Fire,0
+Aberforth Dumbledore</a,Order of the Phoenix,0
+Aberforth Dumbledore</a,Half-Blood Prince,0
+Aberforth Dumbledore</a,"Deathly Hallows, Part I",15
+Aberforth Dumbledore</a,"Deathly Hallows, Part II",195
+Parvati Patil</a,Philosopher's/Sorcerer's Stone,0
+Parvati Patil</a,Chamber of Secrets,0
+Parvati Patil</a,Prisoner of Azkaban,75
+Parvati Patil</a,Goblet of Fire,105
+Parvati Patil</a,Order of the Phoenix,90
+Parvati Patil</a,Half-Blood Prince,15
+Parvati Patil</a,"Deathly Hallows, Part I",0
+Parvati Patil</a,"Deathly Hallows, Part II",0
+Filius Flitwick</a,Philosopher's/Sorcerer's Stone,60
+Filius Flitwick</a,Chamber of Secrets,15
+Filius Flitwick</a,Prisoner of Azkaban,45
+Filius Flitwick</a,Goblet of Fire,45
+Filius Flitwick</a,Order of the Phoenix,30
+Filius Flitwick</a,Half-Blood Prince,30
+Filius Flitwick</a,"Deathly Hallows, Part I",90
+Filius Flitwick</a,"Deathly Hallows, Part II",90
+Blaise Zabini</a,Philosopher's/Sorcerer's Stone,0
+Blaise Zabini</a,Chamber of Secrets,0
+Blaise Zabini</a,Prisoner of Azkaban,0
+Blaise Zabini</a,Goblet of Fire,0
+Blaise Zabini</a,Order of the Phoenix,0
+Blaise Zabini</a,Half-Blood Prince,60
+Blaise Zabini</a,"Deathly Hallows, Part I",90
+Blaise Zabini</a,"Deathly Hallows, Part II",90
+Mary Cattermole</a,Philosopher's/Sorcerer's Stone,0
+Mary Cattermole</a,Chamber of Secrets,0
+Mary Cattermole</a,Prisoner of Azkaban,0
+Mary Cattermole</a,Goblet of Fire,0
+Mary Cattermole</a,Order of the Phoenix,0
+Mary Cattermole</a,Half-Blood Prince,0
+Mary Cattermole</a,"Deathly Hallows, Part I",105
+Mary Cattermole</a,"Deathly Hallows, Part II",0
+Madame Olympe Maxime</a,Philosopher's/Sorcerer's Stone,0
+Madame Olympe Maxime</a,Chamber of Secrets,0
+Madame Olympe Maxime</a,Prisoner of Azkaban,0
+Madame Olympe Maxime</a,Goblet of Fire,180
+Madame Olympe Maxime</a,Order of the Phoenix,0
+Madame Olympe Maxime</a,Half-Blood Prince,0
+Madame Olympe Maxime</a,"Deathly Hallows, Part I",15
+Madame Olympe Maxime</a,"Deathly Hallows, Part II",0
+Albus Severus Potter</a,Philosopher's/Sorcerer's Stone,0
+Albus Severus Potter</a,Chamber of Secrets,0
+Albus Severus Potter</a,Prisoner of Azkaban,0
+Albus Severus Potter</a,Goblet of Fire,0
+Albus Severus Potter</a,Order of the Phoenix,0
+Albus Severus Potter</a,Half-Blood Prince,0
+Albus Severus Potter</a,"Deathly Hallows, Part I",105
+Albus Severus Potter</a,"Deathly Hallows, Part II",105
+Fleur Delacour</a,Philosopher's/Sorcerer's Stone,0
+Fleur Delacour</a,Chamber of Secrets,0
+Fleur Delacour</a,Prisoner of Azkaban,0
+Fleur Delacour</a,Goblet of Fire,270
+Fleur Delacour</a,Order of the Phoenix,0
+Fleur Delacour</a,Half-Blood Prince,0
+Fleur Delacour</a,"Deathly Hallows, Part I",90
+Fleur Delacour</a,"Deathly Hallows, Part II",30
+Nearly Headless Nick</a,Philosopher's/Sorcerer's Stone,45
+Nearly Headless Nick</a,Chamber of Secrets,45
+Nearly Headless Nick</a,Prisoner of Azkaban,0
+Nearly Headless Nick</a,Goblet of Fire,0
+Nearly Headless Nick</a,Order of the Phoenix,0
+Nearly Headless Nick</a,Half-Blood Prince,0
+Nearly Headless Nick</a,"Deathly Hallows, Part I",0
+Nearly Headless Nick</a,"Deathly Hallows, Part II",0
+Professor Severus Snape</a,Philosopher's/Sorcerer's Stone,240
+Professor Severus Snape</a,Chamber of Secrets,270
+Professor Severus Snape</a,Prisoner of Azkaban,345
+Professor Severus Snape</a,Goblet of Fire,285
+Professor Severus Snape</a,Order of the Phoenix,240
+Professor Severus Snape</a,Half-Blood Prince,555
+Professor Severus Snape</a,"Deathly Hallows, Part I",75
+Professor Severus Snape</a,"Deathly Hallows, Part II",585
+Harry Potter</a,Philosopher's/Sorcerer's Stone,4365
+Harry Potter</a,Chamber of Secrets,5025
+Harry Potter</a,Prisoner of Azkaban,4470
+Harry Potter</a,Goblet of Fire,3795
+Harry Potter</a,Order of the Phoenix,3705
+Harry Potter</a,Half-Blood Prince,4020
+Harry Potter</a,"Deathly Hallows, Part I",4095
+Harry Potter</a,"Deathly Hallows, Part II",2880
+Bartemius &#x27;Barty&#x27; Crouch</a,Philosopher's/Sorcerer's Stone,0
+Bartemius &#x27;Barty&#x27; Crouch</a,Chamber of Secrets,0
+Bartemius &#x27;Barty&#x27; Crouch</a,Prisoner of Azkaban,0
+Bartemius &#x27;Barty&#x27; Crouch</a,Goblet of Fire,315
+Bartemius &#x27;Barty&#x27; Crouch</a,Order of the Phoenix,0
+Bartemius &#x27;Barty&#x27; Crouch</a,Half-Blood Prince,0
+Bartemius &#x27;Barty&#x27; Crouch</a,"Deathly Hallows, Part I",0
+Bartemius &#x27;Barty&#x27; Crouch</a,"Deathly Hallows, Part II",0
+Dolores Umbridge</a,Philosopher's/Sorcerer's Stone,0
+Dolores Umbridge</a,Chamber of Secrets,0
+Dolores Umbridge</a,Prisoner of Azkaban,0
+Dolores Umbridge</a,Goblet of Fire,0
+Dolores Umbridge</a,Order of the Phoenix,855
+Dolores Umbridge</a,Half-Blood Prince,0
+Dolores Umbridge</a,"Deathly Hallows, Part I",105
+Dolores Umbridge</a,"Deathly Hallows, Part II",0
+Colin Creevey</a,Philosopher's/Sorcerer's Stone,0
+Colin Creevey</a,Chamber of Secrets,75
+Colin Creevey</a,Prisoner of Azkaban,0
+Colin Creevey</a,Goblet of Fire,0
+Colin Creevey</a,Order of the Phoenix,0
+Colin Creevey</a,Half-Blood Prince,0
+Colin Creevey</a,"Deathly Hallows, Part I",0
+Colin Creevey</a,"Deathly Hallows, Part II",0
+Mr. Ollivander</a,Philosopher's/Sorcerer's Stone,180
+Mr. Ollivander</a,Chamber of Secrets,0
+Mr. Ollivander</a,Prisoner of Azkaban,0
+Mr. Ollivander</a,Goblet of Fire,0
+Mr. Ollivander</a,Order of the Phoenix,0
+Mr. Ollivander</a,Half-Blood Prince,0
+Mr. Ollivander</a,"Deathly Hallows, Part I",60
+Mr. Ollivander</a,"Deathly Hallows, Part II",195
+Remus Lupin</a,Philosopher's/Sorcerer's Stone,0
+Remus Lupin</a,Chamber of Secrets,0
+Remus Lupin</a,Prisoner of Azkaban,1155
+Remus Lupin</a,Goblet of Fire,0
+Remus Lupin</a,Order of the Phoenix,75
+Remus Lupin</a,Half-Blood Prince,120
+Remus Lupin</a,"Deathly Hallows, Part I",120
+Remus Lupin</a,"Deathly Hallows, Part II",90
+Lee Jordan</a,Philosopher's/Sorcerer's Stone,45
+Lee Jordan</a,Chamber of Secrets,15
+Lee Jordan</a,Prisoner of Azkaban,0
+Lee Jordan</a,Goblet of Fire,0
+Lee Jordan</a,Order of the Phoenix,0
+Lee Jordan</a,Half-Blood Prince,0
+Lee Jordan</a,"Deathly Hallows, Part I",0
+Lee Jordan</a,"Deathly Hallows, Part II",0
+Death Eater Yaxley</a,Philosopher's/Sorcerer's Stone,0
+Death Eater Yaxley</a,Chamber of Secrets,0
+Death Eater Yaxley</a,Prisoner of Azkaban,0
+Death Eater Yaxley</a,Goblet of Fire,0
+Death Eater Yaxley</a,Order of the Phoenix,0
+Death Eater Yaxley</a,Half-Blood Prince,0
+Death Eater Yaxley</a,"Deathly Hallows, Part I",120
+Death Eater Yaxley</a,"Deathly Hallows, Part II",0
+Nymphadora Tonks</a,Philosopher's/Sorcerer's Stone,0
+Nymphadora Tonks</a,Chamber of Secrets,0
+Nymphadora Tonks</a,Prisoner of Azkaban,0
+Nymphadora Tonks</a,Goblet of Fire,0
+Nymphadora Tonks</a,Order of the Phoenix,105
+Nymphadora Tonks</a,Half-Blood Prince,105
+Nymphadora Tonks</a,"Deathly Hallows, Part I",60
+Nymphadora Tonks</a,"Deathly Hallows, Part II",30
+Fred Weasley</a,Philosopher's/Sorcerer's Stone,90
+Fred Weasley</a,Chamber of Secrets,150
+Fred Weasley</a,Prisoner of Azkaban,165
+Fred Weasley</a,Goblet of Fire,270
+Fred Weasley</a,Order of the Phoenix,300
+Fred Weasley</a,Half-Blood Prince,45
+Fred Weasley</a,"Deathly Hallows, Part I",120
+Fred Weasley</a,"Deathly Hallows, Part II",45
+Bogrod</a,Philosopher's/Sorcerer's Stone,0
+Bogrod</a,Chamber of Secrets,0
+Bogrod</a,Prisoner of Azkaban,0
+Bogrod</a,Goblet of Fire,0
+Bogrod</a,Order of the Phoenix,0
+Bogrod</a,Half-Blood Prince,0
+Bogrod</a,"Deathly Hallows, Part I",180
+Bogrod</a,"Deathly Hallows, Part II",180
+Professor Gilderoy Lockhart</a,Philosopher's/Sorcerer's Stone,0
+Professor Gilderoy Lockhart</a,Chamber of Secrets,630
+Professor Gilderoy Lockhart</a,Prisoner of Azkaban,0
+Professor Gilderoy Lockhart</a,Goblet of Fire,0
+Professor Gilderoy Lockhart</a,Order of the Phoenix,0
+Professor Gilderoy Lockhart</a,Half-Blood Prince,0
+Professor Gilderoy Lockhart</a,"Deathly Hallows, Part I",0
+Professor Gilderoy Lockhart</a,"Deathly Hallows, Part II",0
+Aunt Petunia Dursley</a,Philosopher's/Sorcerer's Stone,180
+Aunt Petunia Dursley</a,Chamber of Secrets,90
+Aunt Petunia Dursley</a,Prisoner of Azkaban,135
+Aunt Petunia Dursley</a,Goblet of Fire,0
+Aunt Petunia Dursley</a,Order of the Phoenix,75
+Aunt Petunia Dursley</a,Half-Blood Prince,0
+Aunt Petunia Dursley</a,"Deathly Hallows, Part I",15
+Aunt Petunia Dursley</a,"Deathly Hallows, Part II",0
+Vincent Crabbe</a,Philosopher's/Sorcerer's Stone,45
+Vincent Crabbe</a,Chamber of Secrets,75
+Vincent Crabbe</a,Prisoner of Azkaban,120
+Vincent Crabbe</a,Goblet of Fire,45
+Vincent Crabbe</a,Order of the Phoenix,75
+Vincent Crabbe</a,Half-Blood Prince,15
+Vincent Crabbe</a,"Deathly Hallows, Part I",0
+Vincent Crabbe</a,"Deathly Hallows, Part II",0
+Mrs. Molly Weasley</a,Philosopher's/Sorcerer's Stone,30
+Mrs. Molly Weasley</a,Chamber of Secrets,135
+Mrs. Molly Weasley</a,Prisoner of Azkaban,45
+Mrs. Molly Weasley</a,Goblet of Fire,0
+Mrs. Molly Weasley</a,Order of the Phoenix,105
+Mrs. Molly Weasley</a,Half-Blood Prince,75
+Mrs. Molly Weasley</a,"Deathly Hallows, Part I",75
+Mrs. Molly Weasley</a,"Deathly Hallows, Part II",120
+Sybil Trelawney</a,Philosopher's/Sorcerer's Stone,0
+Sybil Trelawney</a,Chamber of Secrets,0
+Sybil Trelawney</a,Prisoner of Azkaban,165
+Sybil Trelawney</a,Goblet of Fire,0
+Sybil Trelawney</a,Order of the Phoenix,120
+Sybil Trelawney</a,Half-Blood Prince,0
+Sybil Trelawney</a,"Deathly Hallows, Part I",15
+Sybil Trelawney</a,"Deathly Hallows, Part II",15
+Katie Bell</a,Philosopher's/Sorcerer's Stone,30
+Katie Bell</a,Chamber of Secrets,30
+Katie Bell</a,Prisoner of Azkaban,0
+Katie Bell</a,Goblet of Fire,0
+Katie Bell</a,Order of the Phoenix,0
+Katie Bell</a,Half-Blood Prince,60
+Katie Bell</a,"Deathly Hallows, Part I",45
+Katie Bell</a,"Deathly Hallows, Part II",45
+Arthur Weasley</a,Philosopher's/Sorcerer's Stone,0
+Arthur Weasley</a,Chamber of Secrets,150
+Arthur Weasley</a,Prisoner of Azkaban,105
+Arthur Weasley</a,Goblet of Fire,150
+Arthur Weasley</a,Order of the Phoenix,210
+Arthur Weasley</a,Half-Blood Prince,165
+Arthur Weasley</a,"Deathly Hallows, Part I",105
+Arthur Weasley</a,"Deathly Hallows, Part II",60
+Igor Karkaroff</a,Philosopher's/Sorcerer's Stone,0
+Igor Karkaroff</a,Chamber of Secrets,0
+Igor Karkaroff</a,Prisoner of Azkaban,0
+Igor Karkaroff</a,Goblet of Fire,195
+Igor Karkaroff</a,Order of the Phoenix,0
+Igor Karkaroff</a,Half-Blood Prince,0
+Igor Karkaroff</a,"Deathly Hallows, Part I",0
+Igor Karkaroff</a,"Deathly Hallows, Part II",0
+Mundungus Fletcher</a,Philosopher's/Sorcerer's Stone,0
+Mundungus Fletcher</a,Chamber of Secrets,0
+Mundungus Fletcher</a,Prisoner of Azkaban,0
+Mundungus Fletcher</a,Goblet of Fire,0
+Mundungus Fletcher</a,Order of the Phoenix,0
+Mundungus Fletcher</a,Half-Blood Prince,0
+Mundungus Fletcher</a,"Deathly Hallows, Part I",180
+Mundungus Fletcher</a,"Deathly Hallows, Part II",0
+Professor Quirinus Quirrell</a,Philosopher's/Sorcerer's Stone,420
+Professor Quirinus Quirrell</a,Chamber of Secrets,0
+Professor Quirinus Quirrell</a,Prisoner of Azkaban,0
+Professor Quirinus Quirrell</a,Goblet of Fire,0
+Professor Quirinus Quirrell</a,Order of the Phoenix,0
+Professor Quirinus Quirrell</a,Half-Blood Prince,0
+Professor Quirinus Quirrell</a,"Deathly Hallows, Part I",0
+Professor Quirinus Quirrell</a,"Deathly Hallows, Part II",0
+Uncle Vernon Dursley</a,Philosopher's/Sorcerer's Stone,240
+Uncle Vernon Dursley</a,Chamber of Secrets,150
+Uncle Vernon Dursley</a,Prisoner of Azkaban,180
+Uncle Vernon Dursley</a,Goblet of Fire,0
+Uncle Vernon Dursley</a,Order of the Phoenix,75
+Uncle Vernon Dursley</a,Half-Blood Prince,0
+Uncle Vernon Dursley</a,"Deathly Hallows, Part I",15
+Uncle Vernon Dursley</a,"Deathly Hallows, Part II",0
+Angelina Johnson</a,Philosopher's/Sorcerer's Stone,30
+Angelina Johnson</a,Chamber of Secrets,30
+Angelina Johnson</a,Prisoner of Azkaban,30
+Angelina Johnson</a,Goblet of Fire,15
+Angelina Johnson</a,Order of the Phoenix,0
+Angelina Johnson</a,Half-Blood Prince,0
+Angelina Johnson</a,"Deathly Hallows, Part I",0
+Angelina Johnson</a,"Deathly Hallows, Part II",0
+Xenophilius Lovegood</a,Philosopher's/Sorcerer's Stone,0
+Xenophilius Lovegood</a,Chamber of Secrets,0
+Xenophilius Lovegood</a,Prisoner of Azkaban,0
+Xenophilius Lovegood</a,Goblet of Fire,0
+Xenophilius Lovegood</a,Order of the Phoenix,0
+Xenophilius Lovegood</a,Half-Blood Prince,0
+Xenophilius Lovegood</a,"Deathly Hallows, Part I",300
+Xenophilius Lovegood</a,"Deathly Hallows, Part II",0
+James Potter</a,Philosopher's/Sorcerer's Stone,60
+James Potter</a,Chamber of Secrets,0
+James Potter</a,Prisoner of Azkaban,0
+James Potter</a,Goblet of Fire,15
+James Potter</a,Order of the Phoenix,30
+James Potter</a,Half-Blood Prince,0
+James Potter</a,"Deathly Hallows, Part I",0
+James Potter</a,"Deathly Hallows, Part II",30
+Argus Filch</a,Philosopher's/Sorcerer's Stone,75
+Argus Filch</a,Chamber of Secrets,105
+Argus Filch</a,Prisoner of Azkaban,75
+Argus Filch</a,Goblet of Fire,45
+Argus Filch</a,Order of the Phoenix,135
+Argus Filch</a,Half-Blood Prince,15
+Argus Filch</a,"Deathly Hallows, Part I",30
+Argus Filch</a,"Deathly Hallows, Part II",30
+Bellatrix Lestrange</a,Philosopher's/Sorcerer's Stone,0
+Bellatrix Lestrange</a,Chamber of Secrets,0
+Bellatrix Lestrange</a,Prisoner of Azkaban,0
+Bellatrix Lestrange</a,Goblet of Fire,0
+Bellatrix Lestrange</a,Order of the Phoenix,120
+Bellatrix Lestrange</a,Half-Blood Prince,225
+Bellatrix Lestrange</a,"Deathly Hallows, Part I",180
+Bellatrix Lestrange</a,"Deathly Hallows, Part II",105
+Lord Voldemort</a,Philosopher's/Sorcerer's Stone,120
+Lord Voldemort</a,Chamber of Secrets,405
+Lord Voldemort</a,Prisoner of Azkaban,0
+Lord Voldemort</a,Goblet of Fire,390
+Lord Voldemort</a,Order of the Phoenix,135
+Lord Voldemort</a,Half-Blood Prince,255
+Lord Voldemort</a,"Deathly Hallows, Part I",300
+Lord Voldemort</a,"Deathly Hallows, Part II",630
+Kingsley Shacklebolt</a,Philosopher's/Sorcerer's Stone,0
+Kingsley Shacklebolt</a,Chamber of Secrets,0
+Kingsley Shacklebolt</a,Prisoner of Azkaban,0
+Kingsley Shacklebolt</a,Goblet of Fire,0
+Kingsley Shacklebolt</a,Order of the Phoenix,150
+Kingsley Shacklebolt</a,Half-Blood Prince,0
+Kingsley Shacklebolt</a,"Deathly Hallows, Part I",60
+Kingsley Shacklebolt</a,"Deathly Hallows, Part II",60
+Elphias Doge</a,Philosopher's/Sorcerer's Stone,0
+Elphias Doge</a,Chamber of Secrets,0
+Elphias Doge</a,Prisoner of Azkaban,0
+Elphias Doge</a,Goblet of Fire,0
+Elphias Doge</a,Order of the Phoenix,0
+Elphias Doge</a,Half-Blood Prince,0
+Elphias Doge</a,"Deathly Hallows, Part I",60
+Elphias Doge</a,"Deathly Hallows, Part II",0
+Viktor Krum</a,Philosopher's/Sorcerer's Stone,0
+Viktor Krum</a,Chamber of Secrets,0
+Viktor Krum</a,Prisoner of Azkaban,0
+Viktor Krum</a,Goblet of Fire,0
+Viktor Krum</a,Order of the Phoenix,0
+Viktor Krum</a,Half-Blood Prince,0
+Viktor Krum</a,"Deathly Hallows, Part I",0
+Viktor Krum</a,"Deathly Hallows, Part II",0
+Hermione Granger</a,Philosopher's/Sorcerer's Stone,1395
+Hermione Granger</a,Chamber of Secrets,930
+Hermione Granger</a,Prisoner of Azkaban,2085
+Hermione Granger</a,Goblet of Fire,990
+Hermione Granger</a,Order of the Phoenix,1380
+Hermione Granger</a,Half-Blood Prince,1200
+Hermione Granger</a,"Deathly Hallows, Part I",2760
+Hermione Granger</a,"Deathly Hallows, Part II",1560
+Cho Chang</a,Philosopher's/Sorcerer's Stone,0
+Cho Chang</a,Chamber of Secrets,0
+Cho Chang</a,Prisoner of Azkaban,0
+Cho Chang</a,Goblet of Fire,105
+Cho Chang</a,Order of the Phoenix,210
+Cho Chang</a,Half-Blood Prince,15
+Cho Chang</a,"Deathly Hallows, Part I",75
+Cho Chang</a,"Deathly Hallows, Part II",75
+Minerva McGonagall</a,Philosopher's/Sorcerer's Stone,450
+Minerva McGonagall</a,Chamber of Secrets,345
+Minerva McGonagall</a,Prisoner of Azkaban,105
+Minerva McGonagall</a,Goblet of Fire,270
+Minerva McGonagall</a,Order of the Phoenix,120
+Minerva McGonagall</a,Half-Blood Prince,225
+Minerva McGonagall</a,"Deathly Hallows, Part I",210
+Minerva McGonagall</a,"Deathly Hallows, Part II",210
+Cedric Diggory</a,Philosopher's/Sorcerer's Stone,0
+Cedric Diggory</a,Chamber of Secrets,0
+Cedric Diggory</a,Prisoner of Azkaban,0
+Cedric Diggory</a,Goblet of Fire,480
+Cedric Diggory</a,Order of the Phoenix,15
+Cedric Diggory</a,Half-Blood Prince,0
+Cedric Diggory</a,"Deathly Hallows, Part I",0
+Cedric Diggory</a,"Deathly Hallows, Part II",0
+Lavender Brown</a,Philosopher's/Sorcerer's Stone,0
+Lavender Brown</a,Chamber of Secrets,0
+Lavender Brown</a,Prisoner of Azkaban,60
+Lavender Brown</a,Goblet of Fire,0
+Lavender Brown</a,Order of the Phoenix,0
+Lavender Brown</a,Half-Blood Prince,210
+Lavender Brown</a,"Deathly Hallows, Part I",60
+Lavender Brown</a,"Deathly Hallows, Part II",60
+Seamus Finnigan</a,Philosopher's/Sorcerer's Stone,105
+Seamus Finnigan</a,Chamber of Secrets,60
+Seamus Finnigan</a,Prisoner of Azkaban,105
+Seamus Finnigan</a,Goblet of Fire,90
+Seamus Finnigan</a,Order of the Phoenix,105
+Seamus Finnigan</a,Half-Blood Prince,30
+Seamus Finnigan</a,"Deathly Hallows, Part I",15
+Seamus Finnigan</a,"Deathly Hallows, Part II",75
+Fat Lady in Painting</a,Philosopher's/Sorcerer's Stone,15
+Fat Lady in Painting</a,Chamber of Secrets,0
+Fat Lady in Painting</a,Prisoner of Azkaban,45
+Fat Lady in Painting</a,Goblet of Fire,0
+Fat Lady in Painting</a,Order of the Phoenix,0
+Fat Lady in Painting</a,Half-Blood Prince,0
+Fat Lady in Painting</a,"Deathly Hallows, Part I",0
+Fat Lady in Painting</a,"Deathly Hallows, Part II",0
+The Sorting Hat</a,Philosopher's/Sorcerer's Stone,120
+The Sorting Hat</a,Chamber of Secrets,45
+The Sorting Hat</a,Prisoner of Azkaban,0
+The Sorting Hat</a,Goblet of Fire,0
+The Sorting Hat</a,Order of the Phoenix,0
+The Sorting Hat</a,Half-Blood Prince,0
+The Sorting Hat</a,"Deathly Hallows, Part I",15
+The Sorting Hat</a,"Deathly Hallows, Part II",15
+Madame Hooch</a,Philosopher's/Sorcerer's Stone,105
+Madame Hooch</a,Chamber of Secrets,0
+Madame Hooch</a,Prisoner of Azkaban,0
+Madame Hooch</a,Goblet of Fire,0
+Madame Hooch</a,Order of the Phoenix,0
+Madame Hooch</a,Half-Blood Prince,0
+Madame Hooch</a,"Deathly Hallows, Part I",0
+Madame Hooch</a,"Deathly Hallows, Part II",0
+Helena Ravenclaw</a,Philosopher's/Sorcerer's Stone,0
+Helena Ravenclaw</a,Chamber of Secrets,0
+Helena Ravenclaw</a,Prisoner of Azkaban,0
+Helena Ravenclaw</a,Goblet of Fire,0
+Helena Ravenclaw</a,Order of the Phoenix,0
+Helena Ravenclaw</a,Half-Blood Prince,0
+Helena Ravenclaw</a,"Deathly Hallows, Part I",135
+Helena Ravenclaw</a,"Deathly Hallows, Part II",135
+Peter Pettigrew</a,Philosopher's/Sorcerer's Stone,15
+Peter Pettigrew</a,Chamber of Secrets,30
+Peter Pettigrew</a,Prisoner of Azkaban,150
+Peter Pettigrew</a,Goblet of Fire,210
+Peter Pettigrew</a,Order of the Phoenix,0
+Peter Pettigrew</a,Half-Blood Prince,15
+Peter Pettigrew</a,"Deathly Hallows, Part I",60
+Peter Pettigrew</a,"Deathly Hallows, Part II",15
+Draco Malfoy</a,Philosopher's/Sorcerer's Stone,255
+Draco Malfoy</a,Chamber of Secrets,420
+Draco Malfoy</a,Prisoner of Azkaban,240
+Draco Malfoy</a,Goblet of Fire,120
+Draco Malfoy</a,Order of the Phoenix,75
+Draco Malfoy</a,Half-Blood Prince,495
+Draco Malfoy</a,"Deathly Hallows, Part I",135
+Draco Malfoy</a,"Deathly Hallows, Part II",150
+Luna Lovegood</a,Philosopher's/Sorcerer's Stone,0
+Luna Lovegood</a,Chamber of Secrets,0
+Luna Lovegood</a,Prisoner of Azkaban,0
+Luna Lovegood</a,Goblet of Fire,0
+Luna Lovegood</a,Order of the Phoenix,555
+Luna Lovegood</a,Half-Blood Prince,195
+Luna Lovegood</a,"Deathly Hallows, Part I",150
+Luna Lovegood</a,"Deathly Hallows, Part II",135
+Percy Weasley</a,Philosopher's/Sorcerer's Stone,105
+Percy Weasley</a,Chamber of Secrets,90
+Percy Weasley</a,Prisoner of Azkaban,45
+Percy Weasley</a,Goblet of Fire,0
+Percy Weasley</a,Order of the Phoenix,30
+Percy Weasley</a,Half-Blood Prince,0
+Percy Weasley</a,"Deathly Hallows, Part I",30
+Percy Weasley</a,"Deathly Hallows, Part II",30
+Alecto Carrow</a,Philosopher's/Sorcerer's Stone,0
+Alecto Carrow</a,Chamber of Secrets,0
+Alecto Carrow</a,Prisoner of Azkaban,0
+Alecto Carrow</a,Goblet of Fire,0
+Alecto Carrow</a,Order of the Phoenix,0
+Alecto Carrow</a,Half-Blood Prince,45
+Alecto Carrow</a,"Deathly Hallows, Part I",15
+Alecto Carrow</a,"Deathly Hallows, Part II",60
+Stan Shunpike</a,Philosopher's/Sorcerer's Stone,0
+Stan Shunpike</a,Chamber of Secrets,0
+Stan Shunpike</a,Prisoner of Azkaban,120
+Stan Shunpike</a,Goblet of Fire,0
+Stan Shunpike</a,Order of the Phoenix,0
+Stan Shunpike</a,Half-Blood Prince,0
+Stan Shunpike</a,"Deathly Hallows, Part I",0
+Stan Shunpike</a,"Deathly Hallows, Part II",0
+Rubeus Hagrid</a,Philosopher's/Sorcerer's Stone,990
+Rubeus Hagrid</a,Chamber of Secrets,495
+Rubeus Hagrid</a,Prisoner of Azkaban,315
+Rubeus Hagrid</a,Goblet of Fire,225
+Rubeus Hagrid</a,Order of the Phoenix,165
+Rubeus Hagrid</a,Half-Blood Prince,240
+Rubeus Hagrid</a,"Deathly Hallows, Part I",255
+Rubeus Hagrid</a,"Deathly Hallows, Part II",60
+Alicia Spinnet</a,Philosopher's/Sorcerer's Stone,45
+Alicia Spinnet</a,Chamber of Secrets,30
+Alicia Spinnet</a,Prisoner of Azkaban,0
+Alicia Spinnet</a,Goblet of Fire,0
+Alicia Spinnet</a,Order of the Phoenix,0
+Alicia Spinnet</a,Half-Blood Prince,0
+Alicia Spinnet</a,"Deathly Hallows, Part I",0
+Alicia Spinnet</a,"Deathly Hallows, Part II",0
+Alastor &#x27;Mad-&#xAD;Eye&#x27; Moody</a,Philosopher's/Sorcerer's Stone,0
+Alastor &#x27;Mad-&#xAD;Eye&#x27; Moody</a,Chamber of Secrets,0
+Alastor &#x27;Mad-&#xAD;Eye&#x27; Moody</a,Prisoner of Azkaban,0
+Alastor &#x27;Mad-&#xAD;Eye&#x27; Moody</a,Goblet of Fire,30
+Alastor &#x27;Mad-&#xAD;Eye&#x27; Moody</a,Order of the Phoenix,90
+Alastor &#x27;Mad-&#xAD;Eye&#x27; Moody</a,Half-Blood Prince,0
+Alastor &#x27;Mad-&#xAD;Eye&#x27; Moody</a,"Deathly Hallows, Part I",90
+Alastor &#x27;Mad-&#xAD;Eye&#x27; Moody</a,"Deathly Hallows, Part II",0
+Fenrir Greyback</a,Philosopher's/Sorcerer's Stone,0
+Fenrir Greyback</a,Chamber of Secrets,0
+Fenrir Greyback</a,Prisoner of Azkaban,0
+Fenrir Greyback</a,Goblet of Fire,0
+Fenrir Greyback</a,Order of the Phoenix,0
+Fenrir Greyback</a,Half-Blood Prince,75
+Fenrir Greyback</a,"Deathly Hallows, Part I",45
+Fenrir Greyback</a,"Deathly Hallows, Part II",45
+Kreacher</a,Philosopher's/Sorcerer's Stone,0
+Kreacher</a,Chamber of Secrets,0
+Kreacher</a,Prisoner of Azkaban,0
+Kreacher</a,Goblet of Fire,0
+Kreacher</a,Order of the Phoenix,45
+Kreacher</a,Half-Blood Prince,0
+Kreacher</a,"Deathly Hallows, Part I",135
+Kreacher</a,"Deathly Hallows, Part II",0
+Lucius Malfoy</a,Philosopher's/Sorcerer's Stone,0
+Lucius Malfoy</a,Chamber of Secrets,405
+Lucius Malfoy</a,Prisoner of Azkaban,0
+Lucius Malfoy</a,Goblet of Fire,90
+Lucius Malfoy</a,Order of the Phoenix,180
+Lucius Malfoy</a,Half-Blood Prince,0
+Lucius Malfoy</a,"Deathly Hallows, Part I",150
+Lucius Malfoy</a,"Deathly Hallows, Part II",90
+Cornelius Fudge</a,Philosopher's/Sorcerer's Stone,0
+Cornelius Fudge</a,Chamber of Secrets,150
+Cornelius Fudge</a,Prisoner of Azkaban,180
+Cornelius Fudge</a,Goblet of Fire,60
+Cornelius Fudge</a,Order of the Phoenix,165
+Cornelius Fudge</a,Half-Blood Prince,0
+Cornelius Fudge</a,"Deathly Hallows, Part I",0
+Cornelius Fudge</a,"Deathly Hallows, Part II",0
+Bill Weasley</a,Philosopher's/Sorcerer's Stone,0
+Bill Weasley</a,Chamber of Secrets,0
+Bill Weasley</a,Prisoner of Azkaban,0
+Bill Weasley</a,Goblet of Fire,0
+Bill Weasley</a,Order of the Phoenix,0
+Bill Weasley</a,Half-Blood Prince,0
+Bill Weasley</a,"Deathly Hallows, Part I",75
+Bill Weasley</a,"Deathly Hallows, Part II",30
+George Weasley</a,Philosopher's/Sorcerer's Stone,90
+George Weasley</a,Chamber of Secrets,150
+George Weasley</a,Prisoner of Azkaban,165
+George Weasley</a,Goblet of Fire,270
+George Weasley</a,Order of the Phoenix,300
+George Weasley</a,Half-Blood Prince,45
+George Weasley</a,"Deathly Hallows, Part I",135
+George Weasley</a,"Deathly Hallows, Part II",60
+Professor Horace Slughorn</a,Philosopher's/Sorcerer's Stone,0
+Professor Horace Slughorn</a,Chamber of Secrets,0
+Professor Horace Slughorn</a,Prisoner of Azkaban,0
+Professor Horace Slughorn</a,Goblet of Fire,0
+Professor Horace Slughorn</a,Order of the Phoenix,0
+Professor Horace Slughorn</a,Half-Blood Prince,1080
+Professor Horace Slughorn</a,"Deathly Hallows, Part I",45
+Professor Horace Slughorn</a,"Deathly Hallows, Part II",45
+Griphook</a,Philosopher's/Sorcerer's Stone,45
+Griphook</a,Chamber of Secrets,0
+Griphook</a,Prisoner of Azkaban,0
+Griphook</a,Goblet of Fire,0
+Griphook</a,Order of the Phoenix,0
+Griphook</a,Half-Blood Prince,0
+Griphook</a,"Deathly Hallows, Part I",60
+Griphook</a,"Deathly Hallows, Part II",330
+Firenze</a,Philosopher's/Sorcerer's Stone,0
+Firenze</a,Chamber of Secrets,0
+Firenze</a,Prisoner of Azkaban,0
+Firenze</a,Goblet of Fire,0
+Firenze</a,Order of the Phoenix,0
+Firenze</a,Half-Blood Prince,0
+Firenze</a,"Deathly Hallows, Part I",0
+Firenze</a,"Deathly Hallows, Part II",0
+Ginny Weasley</a,Philosopher's/Sorcerer's Stone,15
+Ginny Weasley</a,Chamber of Secrets,285
+Ginny Weasley</a,Prisoner of Azkaban,30
+Ginny Weasley</a,Goblet of Fire,210
+Ginny Weasley</a,Order of the Phoenix,405
+Ginny Weasley</a,Half-Blood Prince,525
+Ginny Weasley</a,"Deathly Hallows, Part I",120
+Ginny Weasley</a,"Deathly Hallows, Part II",225
+Professor Pomona Sprout</a,Philosopher's/Sorcerer's Stone,0
+Professor Pomona Sprout</a,Chamber of Secrets,90
+Professor Pomona Sprout</a,Prisoner of Azkaban,0
+Professor Pomona Sprout</a,Goblet of Fire,0
+Professor Pomona Sprout</a,Order of the Phoenix,0
+Professor Pomona Sprout</a,Half-Blood Prince,0
+Professor Pomona Sprout</a,"Deathly Hallows, Part I",30
+Professor Pomona Sprout</a,"Deathly Hallows, Part II",30
+Amos Diggory</a,Philosopher's/Sorcerer's Stone,0
+Amos Diggory</a,Chamber of Secrets,0
+Amos Diggory</a,Prisoner of Azkaban,0
+Amos Diggory</a,Goblet of Fire,90
+Amos Diggory</a,Order of the Phoenix,0
+Amos Diggory</a,Half-Blood Prince,0
+Amos Diggory</a,"Deathly Hallows, Part I",0
+Amos Diggory</a,"Deathly Hallows, Part II",0
+Narcissa Malfoy</a,Philosopher's/Sorcerer's Stone,0
+Narcissa Malfoy</a,Chamber of Secrets,0
+Narcissa Malfoy</a,Prisoner of Azkaban,0
+Narcissa Malfoy</a,Goblet of Fire,0
+Narcissa Malfoy</a,Order of the Phoenix,0
+Narcissa Malfoy</a,Half-Blood Prince,165
+Narcissa Malfoy</a,"Deathly Hallows, Part I",150
+Narcissa Malfoy</a,"Deathly Hallows, Part II",90
+Grawp</a,Philosopher's/Sorcerer's Stone,0
+Grawp</a,Chamber of Secrets,0
+Grawp</a,Prisoner of Azkaban,0
+Grawp</a,Goblet of Fire,0
+Grawp</a,Order of the Phoenix,105
+Grawp</a,Half-Blood Prince,0
+Grawp</a,"Deathly Hallows, Part I",0
+Grawp</a,"Deathly Hallows, Part II",0
+Scabior</a,Philosopher's/Sorcerer's Stone,0
+Scabior</a,Chamber of Secrets,0
+Scabior</a,Prisoner of Azkaban,0
+Scabior</a,Goblet of Fire,0
+Scabior</a,Order of the Phoenix,0
+Scabior</a,Half-Blood Prince,0
+Scabior</a,"Deathly Hallows, Part I",165
+Scabior</a,"Deathly Hallows, Part II",45
+Mrs. Arabella Figg</a,Philosopher's/Sorcerer's Stone,0
+Mrs. Arabella Figg</a,Chamber of Secrets,0
+Mrs. Arabella Figg</a,Prisoner of Azkaban,0
+Mrs. Arabella Figg</a,Goblet of Fire,0
+Mrs. Arabella Figg</a,Order of the Phoenix,90
+Mrs. Arabella Figg</a,Half-Blood Prince,0
+Mrs. Arabella Figg</a,"Deathly Hallows, Part I",0
+Mrs. Arabella Figg</a,"Deathly Hallows, Part II",0
+Dudley Dursley</a,Philosopher's/Sorcerer's Stone,165
+Dudley Dursley</a,Chamber of Secrets,75
+Dudley Dursley</a,Prisoner of Azkaban,105
+Dudley Dursley</a,Goblet of Fire,0
+Dudley Dursley</a,Order of the Phoenix,225
+Dudley Dursley</a,Half-Blood Prince,0
+Dudley Dursley</a,"Deathly Hallows, Part I",15
+Dudley Dursley</a,"Deathly Hallows, Part II",0
+Aunt Marge</a,Philosopher's/Sorcerer's Stone,0
+Aunt Marge</a,Chamber of Secrets,0
+Aunt Marge</a,Prisoner of Azkaban,165
+Aunt Marge</a,Goblet of Fire,0
+Aunt Marge</a,Order of the Phoenix,0
+Aunt Marge</a,Half-Blood Prince,0
+Aunt Marge</a,"Deathly Hallows, Part I",0
+Aunt Marge</a,"Deathly Hallows, Part II",0
+Nigel</a,Philosopher's/Sorcerer's Stone,0
+Nigel</a,Chamber of Secrets,0
+Nigel</a,Prisoner of Azkaban,0
+Nigel</a,Goblet of Fire,30
+Nigel</a,Order of the Phoenix,75
+Nigel</a,Half-Blood Prince,15
+Nigel</a,"Deathly Hallows, Part I",15
+Nigel</a,"Deathly Hallows, Part II",45
+Sirius Black</a,Philosopher's/Sorcerer's Stone,0
+Sirius Black</a,Chamber of Secrets,0
+Sirius Black</a,Prisoner of Azkaban,690
+Sirius Black</a,Goblet of Fire,75
+Sirius Black</a,Order of the Phoenix,450
+Sirius Black</a,Half-Blood Prince,0
+Sirius Black</a,"Deathly Hallows, Part I",30
+Sirius Black</a,"Deathly Hallows, Part II",30
+Moaning Myrtle</a,Philosopher's/Sorcerer's Stone,0
+Moaning Myrtle</a,Chamber of Secrets,90
+Moaning Myrtle</a,Prisoner of Azkaban,0
+Moaning Myrtle</a,Goblet of Fire,75
+Moaning Myrtle</a,Order of the Phoenix,0
+Moaning Myrtle</a,Half-Blood Prince,0
+Moaning Myrtle</a,"Deathly Hallows, Part I",0
+Moaning Myrtle</a,"Deathly Hallows, Part II",0
+Cormac McLaggen</a,Philosopher's/Sorcerer's Stone,0
+Cormac McLaggen</a,Chamber of Secrets,0
+Cormac McLaggen</a,Prisoner of Azkaban,0
+Cormac McLaggen</a,Goblet of Fire,0
+Cormac McLaggen</a,Order of the Phoenix,0
+Cormac McLaggen</a,Half-Blood Prince,90
+Cormac McLaggen</a,"Deathly Hallows, Part I",15
+Cormac McLaggen</a,"Deathly Hallows, Part II",45
+Dobby</a,Philosopher's/Sorcerer's Stone,0
+Dobby</a,Chamber of Secrets,450
+Dobby</a,Prisoner of Azkaban,0
+Dobby</a,Goblet of Fire,0
+Dobby</a,Order of the Phoenix,0
+Dobby</a,Half-Blood Prince,0
+Dobby</a,"Deathly Hallows, Part I",225
+Dobby</a,"Deathly Hallows, Part II",0
+Gregory Goyle</a,Philosopher's/Sorcerer's Stone,30
+Gregory Goyle</a,Chamber of Secrets,75
+Gregory Goyle</a,Prisoner of Azkaban,120
+Gregory Goyle</a,Goblet of Fire,45
+Gregory Goyle</a,Order of the Phoenix,75
+Gregory Goyle</a,Half-Blood Prince,15
+Gregory Goyle</a,"Deathly Hallows, Part I",15
+Gregory Goyle</a,"Deathly Hallows, Part II",75
+Dean Thomas</a,Philosopher's/Sorcerer's Stone,75
+Dean Thomas</a,Chamber of Secrets,60
+Dean Thomas</a,Prisoner of Azkaban,45
+Dean Thomas</a,Goblet of Fire,60
+Dean Thomas</a,Order of the Phoenix,75
+Dean Thomas</a,Half-Blood Prince,30
+Dean Thomas</a,"Deathly Hallows, Part I",60
+Dean Thomas</a,"Deathly Hallows, Part II",60
+Rita Skeeter</a,Philosopher's/Sorcerer's Stone,0
+Rita Skeeter</a,Chamber of Secrets,0
+Rita Skeeter</a,Prisoner of Azkaban,0
+Rita Skeeter</a,Goblet of Fire,195
+Rita Skeeter</a,Order of the Phoenix,0
+Rita Skeeter</a,Half-Blood Prince,0
+Rita Skeeter</a,"Deathly Hallows, Part I",15
+Rita Skeeter</a,"Deathly Hallows, Part II",0

@@ -1,0 +1,3068 @@
+    
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+        <head>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script>
+var addClickstreamHeadersToAjax = function(xhr) {
+    xhr.setRequestHeader("x-imdb-parent-id", "0YECPBJ39R1JRTBCJSK5");
+};
+</script>
+
+                <title>IMDb: Characters By Screen Time: Harry Potter - a list by ninewheels0</title>
+<link rel="canonical" href="http://www.imdb.com/list/ls031310246/" /><meta property="og:url" content="http://www.imdb.com/list/ls031310246/" />
+
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFc25df55df212e779731eda38c3806095/css/min/lists.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFee9c9a814eba8342b847680ef4330580/css2/site/consumer-navbar-mega.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFa88e6ba92e5894e7909b0d2ef5d21e79/css2/site/consumer-navbar-suggestionsearch.css" ><meta name="description" value="Tabulated by watching through scene-by-scene at normal speed with an iPhone stop-watch, and rounding to the nearest quarter of a minute." /><meta property="og:description" content="Tabulated by watching through scene-by-scene at normal speed with an iPhone stop-watch, and rounding to the nearest quarter of a minute." /><meta property="fb:app_id" content="127059960673829" /><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFb39ff7041558a52d1f1eb34ef4946a11/css/min/video-colorbox.css" ><meta property="og:image" content="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0NDY4ODg1MF5BMl5BanBnXkFtZTcwODI3NjgyMw@@._V1._SX140_CR0,0,140,209_.jpg"/><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFb5b382ca09318d0ee66710ec5a88d2ce/css2/app/facebook/comments.css" ><meta property="og:type" content="article" /><meta property="og:site_name" content="IMDb" /><meta property="og:title" content="IMDb: Characters By Screen Time: Harry Potter - a list by ninewheels0" />
+<!-- start m/s/a/_g_a_s , head -->
+<script>
+window.ads_js_start = new Date().getTime();
+var imdbads = imdbads || {}; imdbads.cmd = imdbads.cmd || [];
+</script>
+<!-- begin SRA -->
+<script>
+!function a(b,c,d){function e(g,h){if(!c[g]){if(!b[g]){var i="function"==typeof require&&require;if(!h&&i)return i(g,!0);if(f)return f(g,!0);var j=new Error("Cannot find module '"+g+"'");throw j.code="MODULE_NOT_FOUND",j}var k=c[g]={exports:{}};b[g][0].call(k.exports,function(a){var c=b[g][1][a];return e(c?c:a)},k,k.exports,a,b,c,d)}return c[g].exports}for(var f="function"==typeof require&&require,g=0;g<d.length;g++)e(d[g]);return e}({1:[function(a,b,c){"use strict";a(2)},{2:2}],2:[function(a,b,c){"use strict";!function(){var a,b,c=function(a){return"[object Array]"===Object.prototype.toString.call(a)},d=function(a,b){for(var c=0;c<a.length;c++)c in a&&b.call(null,a[c],c)},e=[],f=!1,g=!1,h=function(){var a=[],b=[],c={};return d(e,function(e){var f="";d(e.dartsite.split("/"),function(b){""!==b&&(b in c||(c[b]=a.length,a.push(b)),f+="/"+c[b])}),b.push(f)}),{iu_parts:a,enc_prev_ius:b}},i=function(){var a=[];return d(e,function(b){var c=[];d(b.sizes,function(a){c.push(a.join("x"))}),a.push(c.join("|"))}),a},j=function(){var a=[];return d(e,function(b){a.push(k(b.targeting))}),a.join("|")},k=function(a,b){var c,d=[];for(var e in a){c=[];for(var f=0;f<a[e].length;f++)c.push(encodeURIComponent(a[e][f]));b?d.push(e+"="+encodeURIComponent(c.join(","))):d.push(e+"="+c.join(","))}return d.join("&")},l=function(){var a=+new Date;g||document.readyState&&"loaded"!==document.readyState||(g=!0,f&&imdbads.cmd.push(function(){for(var b=0;b<e.length;b++)generic.monitoring.record_metric(e[b].name+".fail",csm.duration(a))}))};window.tinygpt={define_slot:function(a,b,c,d){e.push({dartsite:a.replace(/\/$/,""),sizes:b,name:c,targeting:d})},set_targeting:function(b){a=b},callback:function(a){var c,d,f={},g=+new Date;try{for(var h=0;h<e.length;h++)c=e[h].dartsite,d=e[h].name,a[h][c]?f[d]=a[h][c]:window.console&&console.error&&console.error("Unable to correlate GPT response for "+d);imdbads.cmd.push(function(){for(var a=0;a<e.length;a++)ad_utils.slot_events.trigger(e[a].name,"request",{timestamp:b}),ad_utils.slot_events.trigger(e[a].name,"tagdeliver",{timestamp:g});ad_utils.gpt.handle_response(f)})}catch(i){window.console&&console.error&&console.error("Exception in GPT callback: "+i.message)}},send:function(){var d,g,m=[],n=function(a,b){c(b)&&(b=b.join(",")),b&&m.push(a+"="+encodeURIComponent(""+b))};if(0===e.length)return void tinygpt.callback({});n("gdfp_req","1"),n("correlator",Math.floor(4503599627370496*Math.random())),n("output","json_html"),n("callback","tinygpt.callback"),n("impl","fifs"),n("json_a","1");var o=h();n("iu_parts",o.iu_parts),n("enc_prev_ius",o.enc_prev_ius),n("prev_iu_szs",i()),n("prev_scp",j()),n("cust_params",k(a,!0)),d=document.createElement("script"),g=document.getElementsByTagName("script")[0],d.async=!0,d.type="text/javascript",d.src="http://pubads.g.doubleclick.net/gampad/ads?"+m.join("&"),d.id="tinygpt",d.onload=d.onerror=d.onreadystatechange=l,f=!0,g.parentNode.insertBefore(d,g),b=+new Date}}}()},{}]},{},[1]);</script>
+<script>
+tinygpt.define_slot('/4215/imdb2.consumer.main/lists',
+[[300,250],[300,600],[11,1]],
+'top_rhs',
+{
+'p': ['tr']
+});
+tinygpt.define_slot('/4215/imdb2.consumer.main/lists',
+[[728,90],[1008,150],[1008,200],[1008,30],[970,250],[9,1]],
+'top_ad',
+{
+'p': ['top','t']
+});
+tinygpt.set_targeting({
+'fv' : ['1'],
+'ab' : ['f'],
+'c' : ['1'],
+'id' : ['ls031310246'],
+'bpx' : ['1'],
+'u': ['196679806076'],
+'oe': ['utf-8']
+});
+tinygpt.send();
+</script>
+<!-- begin ads header -->
+<script src="https://ia.media-imdb.com/images/G/01/imdbads/js/collections/tarnhelm-4202764665._CB506304699_.js"></script>
+<script id="ads_doWithAds">
+doWithAds = function(inside, failureMessage){
+if ('consoleLog' in window &&
+'generic' in window &&
+'ad_utils' in window &&
+'custom' in window &&
+'monitoring' in generic &&
+'document_is_ready' in generic) {
+try{
+inside.call(this);
+}catch(e) {
+if ( window.ueLogError ) {
+if(typeof failureMessage !== 'undefined'){
+e.message = failureMessage;
+}
+e.attribution = "Advertising";
+e.logLevel = "ERROR";
+ueLogError(e);
+}
+if( (document.location.hash.match('debug=1')) &&
+(typeof failureMessage !== 'undefined') ){
+console.error(failureMessage);
+}
+}
+} else {
+if( (document.location.hash.match('debug=1')) &&
+(typeof failureMessage !== 'undefined') ){
+console.error(failureMessage);
+}
+}
+};
+</script><script id="ads_monitoring_setup">
+doWithAds(function(){
+generic.monitoring.set_forester_info("main");
+generic.monitoring.set_twilight_info(
+"main",
+"UNKNOWN",
+"3b1bbc936a31ec8da3384ec1d775cd542471daad",
+"2017-07-14T01%3A15%3A12GMT",
+"https://s.media-imdb.com/twilight/?",
+"consumer");
+generic.monitoring.start_timing("page_load");
+generic.seconds_to_midnight = 20688;
+generic.days_to_midnight = 0.2394444495439529;
+},"Generic not defined, skipping monitoring setup.");
+</script>
+<script src="https://images-na.ssl-images-amazon.com/images/G/01/dacx/sf/DAsf-1.34_FX1._V275812351_.js"></script>
+<script id="ads_safeframe_setup">
+doWithAds(function(){
+if (typeof DAsf != 'undefined' && typeof DAsf.registerCustomMessageListener === 'function') {
+DAsf.registerCustomMessageListener('adFeedback', window.ad_utils.show_ad_feedback);
+DAsf.registerCustomMessageListener('sendMetrics', window.generic.monitoring.update_sf_slot_metrics);
+DAsf.registerCustomMessageListener('expand', window.ad_utils.expand_overlay);
+DAsf.registerCustomMessageListener('collapse', window.ad_utils.collapse_overlay);
+}
+},"ads js missing, skipping safeframe setup.");
+</script>
+<script id="ads_general_setup">
+doWithAds(function(){
+generic.monitoring.record_metric("ads_js_request_to_done", (new Date().getTime()) - window.ads_js_start);
+generic.send_csm_head_metrics && generic.send_csm_head_metrics();
+ad_utils.set_slots_on_page({ 'injected_billboard':1, 'injected_navstrip':1, 'bottom_ad':1, 'top_ad':1, 'top_rhs':1 });
+custom.full_page.data_url = "https://ia.media-imdb.com/images/G/01/imdbads/js/graffiti_data-538221799._CB536725280_.js";
+consoleLog('advertising initialized','ads');
+},"ads js missing, skipping general setup.");
+var _gaq = _gaq || [];
+_gaq.push(['_setCustomVar', 4, 'ads_abtest_treatment', 'f']);
+</script>
+<script>doWithAds(function() { ad_utils.ads_header.done(); });</script>
+<!-- end ads header --><!-- end m/s/a/_g_a_s , head -->
+
+<script src="http://i.media-imdb.com/images/SFd27a377a4866ce46bc384cb601e44fcc/js/cc/yesScript.js" ></script>        </head>
+        <body id="styleguide-v2" class="fixed">
+            <div id="hidden_pre_root_content">
+<!-- start m/s/a/_g_a_s , body -->
+<!-- end m/s/a/_g_a_s , body -->
+
+            </div>
+            <div id="wrapper">
+                <div id="root">
+
+
+
+
+
+
+
+<div id="nb20" class="navbarSprite">
+    <div id="supertab">
+
+
+
+<!-- begin TOP_AD -->
+<div id="top_ad_wrapper" class="dfp_slot">
+<script>
+window.generic = window.generic || {};
+generic.alphalfaComponents = {
+"alphalfa-container.html" : "https://ia.media-imdb.com/images/G/01/imdbads/alphalfa-container-253150330._CB522736199_.html",
+"js/collections/alphalfa.js" : "https://ia.media-imdb.com/images/G/01/imdbads/js/collections/alphalfa-3292747090._CB522736629_.js"
+};
+</script>
+<script type="text/javascript">
+doWithAds(function(){
+if ('dfp_slot' != 'injected_slot') {
+ad_utils.register_ad('top_ad');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=196679806076;ord=196679806076?" frameborder="0" id="top_ad" marginwidth="0" marginheight="0" name="top_ad" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="85" width="0" height="85" ></iframe> </div>
+<noscript> <a href="http://pubads.g.doubleclick.net/gampad/jump?&iu=4215/imdb2.consumer.main/lists&sz=728x90|1008x150|1008x200|1008x30|970x250|9x1&t=p%3Dtop%26p%3Dt%26fv%3D1%26id%3Dls031310246%26ab%3Df%26bpx%3D1%26c%3D1&tile=0&c=196679806076" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?&iu=4215/imdb2.consumer.main/lists&sz=728x90|1008x150|1008x200|1008x30|970x250|9x1&t=p%3Dtop%26p%3Dt%26fv%3D1%26id%3Dls031310246%26ab%3Df%26bpx%3D1%26c%3D1&tile=0&c=196679806076" border="0" alt="advertisement" /> </a> </noscript>
+<div id="top_ad_reflow_helper"></div>
+<script id="top_ad_rendering">
+doWithAds(function(){
+if ('dfp_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('top_ad');
+} else {
+ad_utils.gpt.render_ad('top_ad');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End TOP_AD --><!-- _get_ad_for_slot(TOP_AD) -->
+</div>
+	<div id="navbar">
+        <noscript><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF52e6b9f11712d3ec552179f6c869b63a/css2/site/consumer-navbar-no-js.css"></noscript>
+		<span id="home_img_holder">            <a     href="/?ref_=nv_home"    id='home_img' class='navbarSprite' title='Home' ></a>
+
+            <span class="alt_logo">
+                <a     href="/?ref_=nv_home"    title='Home' >IMDb</a>
+            </span>
+        </span>
+
+
+<form    action="/find"    method="get" id="navbar-form" class="nav-searchbar-inner" accept-charset="utf-8" >
+
+<div id="nb_search" >
+
+  <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+  <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+  <input type="hidden" name="ref_" value="nv_sr_fn" />
+  <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more..." >
+  <div class="quicksearch_dropdown_wrapper">
+
+<select
+    class="quicksearch_dropdown navbarSprite"
+    name="s"
+    id="quicksearch"
+    onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+
+    <option  
+     value="all">All</option>
+    <option  
+     value="tt">Titles</option>
+    <option  
+     value="ep">TV Episodes</option>
+    <option  
+     value="nm">Names</option>
+    <option  
+     value="co">Companies</option>
+    <option  
+     value="kw">Keywords</option>
+    <option  
+     value="ch">Characters</option>
+    <option  
+     value="qu">Quotes</option>
+    <option  
+     value="bi">Bios</option>
+    <option  
+     value="pl">Plots</option>
+</select>
+
+  </div>
+
+<div id="navbar-suggestionsearch"></div>
+</div>
+
+</form>
+
+
+<div id="megaMenu">
+    <ul id="consumer_main_nav" class="main_nav">
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navTitleMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="/movies-in-theaters/?ref_=nv_tp_inth_1"    >Movies</a>,
+                <a     href="/chart/toptv/?ref_=nv_tp_tv250_2"    >TV</a><br />
+                & <a     href="/showtimes/?ref_=nv_tp_sh_3"    >Showtimes</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu1" class="sub_nav">
+                <div id="titleAd"></div>
+                <div class="subNavListContainer">
+                    <h5>MOVIES</h5>
+                    <ul>
+                        
+                        <li><a     href="/movies-in-theaters/?ref_=nv_mv_inth_1"    >In Theaters</a></li>
+                        <li><a     href="/showtimes/?ref_=nv_mv_sh_2"    >Showtimes & Tickets</a></li>
+                        <li><a     href="/trailers/?ref_=nv_mv_tr_3"    >Latest Trailers</a></li>
+                        <li><a     href="/movies-coming-soon/?ref_=nv_mv_cs_4"    >Coming Soon</a></li>
+                        <li><a     href="/calendar/?ref_=nv_mv_cal_5"    >Release Calendar</a></li>
+                        <li><a     href="/chart/top/?ref_=nv_mv_250_6"    >Top Rated Movies</a></li>
+                        <li><a     href="/chart/moviemeter/?ref_=nv_mv_mpm_7"    >Most Popular Movies</a></li>
+                    </ul>
+                    <h5>CHARTS & TRENDS</h5>
+                    <ul>
+                        <li><a     href="/chart/?ref_=nv_ch_cht_1"    >Box Office</a></li>
+                        <li><a     href="/search/title?count=100&groups=oscar_best_picture_winners&sort=year,desc&ref_=nv_ch_osc_2"    >Oscar Winners</a></li>
+                        <li><a     href="/genre/?ref_=nv_ch_gr_3"    >Most Popular by Genre</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>TV & VIDEO</h5>
+                    <ul>
+                        <li><a     href="/tv/?ref_=nv_tvv_tv_1"    >IMDb TV</a></li>
+                        <li><a     href="/tvgrid/?ref_=nv_tvv_ls_2"    >On Tonight</a></li>
+                        <li><a     href="/chart/toptv/?ref_=nv_tvv_250_3"    >Top Rated TV Shows</a></li>
+                        <li><a     href="/chart/tvmeter?ref_=nv_tvv_mptv_4"    >Most Popular TV Shows</a></li>
+                        <li><a     href="/feature/watch-now-on-amazon/?ref_=nv_tvv_wn_5"    >Watch Now on Amazon</a></li>
+                        <li><a     href="/sections/dvd/?ref_=nv_tvv_dvd_6"    >DVD & Blu-Ray</a></li>
+                    </ul>
+                    <h5>SPECIAL FEATURES</h5>
+                    <ul>
+                        <li><a     href="/amazon-originals/?ref_=nv_sf_ams_1"    >Amazon Originals</a></li>
+                        <li><a     href="/streaming/?ref_=nv_sf_st_2"    >Streaming</a></li>
+                        <li><a     href="/amazon-originals/summer-movie-guide/ls064175482/?ref_=nv_sf_smg_3"    >Summer Movie Guide</a></li>
+                        <li><a     href="/imdbpicks/?ref_=nv_sf_picks_4"    >IMDb Picks</a></li>
+                        <li><a     href="/superheroes/?ref_=nv_sf_supr_5"    >Superheroes</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNameMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="/search/name?gender=male,female&ref_=nv_tp_cel_1"    >Celebs</a>,
+                <a     href="/awards-central/?ref_=nv_tp_awrd_2"    >Events</a><br />
+                & <a     href="/gallery/rg784964352?ref_=nv_tp_ph_3"    >Photos</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu2" class="sub_nav">
+                <div id="nameAd"></div>
+                <div class="subNavListContainer">
+                    <h5>CELEBS</h5>
+                    <ul>
+                        <li><a     href="/search/name?birth_monthday=7-13&refine=birth_monthday&ref_=nv_cel_brn_1"    >Born Today</a></li>
+                        <li><a     href="/news/celebrity?ref_=nv_cel_nw_2"    >Celebrity News</a></li>
+                        <li><a     href="/search/name?gender=male,female&ref_=nv_cel_m_3"    >Most Popular Celebs</a></li>
+                    </ul>
+                    <h5>PHOTOS</h5>
+                    <ul>
+                        <li><a     href="/gallery/rg784964352?ref_=nv_ph_ls_1"    >Latest Stills</a></li>
+                        <li><a     href="/gallery/rg1528338944?ref_=nv_ph_lp_2"    >Latest Posters</a></li>
+                        <li><a     href="/gallery/rg2465176320?ref_=nv_ph_lv_3"    >Photos We Love</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>EVENTS</h5>
+                    <ul>
+                        <li><a     href="/awards-central/?ref_=nv_ev_awrd_1"    >Awards Central</a></li>
+                        <li><a     href="/oscars/?ref_=nv_ev_acd_2"    >Oscars</a></li>
+                        <li><a     href="/golden-globes/?ref_=nv_ev_gg_3"    >Golden Globes</a></li>
+                        <li><a     href="/sundance/?ref_=nv_ev_sun_4"    >Sundance</a></li>
+                        <li><a     href="/cannes/?ref_=nv_ev_can_5"    >Cannes</a></li>
+                        <li><a     href="/comic-con/?ref_=nv_ev_comic_6"    >Comic-Con</a></li>
+                        <li><a     href="/emmys/?ref_=nv_ev_rte_7"    >Emmy Awards</a></li>
+			<li><a     href="/venice/?ref_=nv_ev_venice_8"    >Venice Film Festival</a></li>
+                        <li><a     href="/toronto/?ref_=nv_ev_tff_9"    >Toronto Film Festival</a></li>
+			<li><a     href="/festival-central/?ref_=nv_ev_fc_10"    >Festival Central</a></li>
+			<li><a     href="/festival-central/tribeca/?ref_=nv_ev_tff_11"    >Tribeca</a></li>
+                        <li><a     href="/event/all/?ref_=nv_ev_all_12"    >All Events</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNewsMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="/news/top?ref_=nv_tp_nw_1"    >News</a> &amp;<br />
+                <a     href="/czone/?ref_=nv_cm_cz_2"    >Community</a>
+            </p>
+            <span class="downArrow"></span>
+            <div id="navMenu3" class="sub_nav">
+                <div id="latestHeadlines">
+                    <div class="subNavListContainer">
+                        <h5>LATEST HEADLINES</h5>
+                        
+<ul>
+    <li itemprop="headline">
+        <a     href="/news/ni61302633/?ref_=nb_nwt_1"    >
+            &#x27;Where&#x27;d You Go, Bernadette?&#x27; Gets a Mother&#x27;s Day Release</a><br />
+            <span class="time">1 hour ago
+</span>
+    </li>
+    <li itemprop="headline">
+        <a     href="/news/ni61302509/?ref_=nb_nwt_2"    >
+            R.L. Stine&#x2019;s &#x2018;Fear Street&#x2019; in Development for Three Fox Movies</a><br />
+            <span class="time">2 hours ago
+</span>
+    </li>
+    <li itemprop="headline">
+        <a     href="/news/ni61301998/?ref_=nb_nwt_3"    >
+            &#x2018;Walking Dead&#x2019; Shuts Down Production in Wake of Stuntman&#x2019;s On-Set Fall</a><br />
+            <span class="time">6 hours ago
+</span>
+    </li>
+</ul>
+
+                    </div>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>NEWS</h5>
+                    <ul>
+                        <li><a     href="/news/top?ref_=nv_nw_tp_1"    >Top News</a></li>
+                        <li><a     href="/news/movie?ref_=nv_nw_mv_2"    >Movie News</a></li>
+                        <li><a     href="/news/tv?ref_=nv_nw_tv_3"    >TV News</a></li>
+                        <li><a     href="/news/celebrity?ref_=nv_nw_cel_4"    >Celebrity News</a></li>
+                        <li><a     href="/news/indie?ref_=nv_nw_ind_5"    >Indie News</a></li>
+                    </ul>
+                    <h5>COMMUNITY</h5>
+                    <ul>
+                        <li><a     href="/czone/?ref_=nv_cm_cz_2"    >Contributor Zone</a></li>
+                        <li><a     href="/poll/?ref_=nv_cm_pl_3"    >Polls</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navWatchlistMenu" aria-haspopup="true">
+            
+<p class="navCategory singleLine watchlist"><a     href="/list/watchlist?ref_=nv_wl_all_0"    >Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div id="navMenu4" class="sub_nav">
+    <h5>
+        RECENTLY ADDED
+    </h5> 
+    <ul id="navWatchlist">
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.watchlistTeaserData = [
+        {
+            href : "/register/login",
+            id : "wlLogin",
+        src  : "http://i.media-imdb.com/images/SF77aec4b719e703a39cac8d5566a9a0e0/navbar/watchlist_slot1_logged_out.jpg"
+        }
+,        {
+        href : "/search/title?count=100&title_type=feature,tv_series",
+        src  : "http://i.media-imdb.com/images/SF58fa0cd127839460ec17b7302830564f/navbar/watchlist_slot2_popular.jpg"
+        }
+,        {
+        href : "/chart/top",
+        src  : "http://i.media-imdb.com/images/SFe1df4328a14bfcbe6b5cf6fad771c2e4/navbar/watchlist_slot3_top250.jpg"
+        }
+    ];
+    </script>
+</div>
+
+        </li>
+        <li class="spacer"></li>
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.navbarAdSlots = {"nameAd":{"clickThru":"http://www.imdb.com/name/nm0000190/","imageUrl":"http://ia.media-imdb.com/images/M/MV5BNzY4NTM5ODM0N15BMl5BanBnXkFtZTcwMzIxMjMyOQ@@._V1._SX250_CR0,0,250,315_BR10_CT10_.jpg","rank":"174","headline":"Matthew McConaughey"},"titleAd":{"clickThru":"http://www.imdb.com/title/tt0116282/","imageUrl":"http://ia.media-imdb.com/images/M/MV5BMTQwNTAzMTU4M15BMl5BanBnXkFtZTcwMDgzNDY3Mw@@._V1._SY325_CR80,5,410,315_.jpg","titleYears":"1996","titleDisplayBase":{"displayTitleTypeOriginal":"movie","primaryTitleText":"Fargo","titleId":"tt0116282","displayTitleType":"movie","regionalTitleTexts":[{"region":"AR","title":"Fargo"},{"language":"bg","region":"BG","title":"Ð¤Ð°ÑÐ³Ð¾"},{"region":"BR","title":"Fargo: Uma ComÃ©dia De Erros"},{"language":"fr","region":"CA","title":"Fargo"},{"region":"CZ","title":"Fargo"},{"region":"DE","title":"Fargo - Blutiger Schnee"},{"region":"DK","title":"Fargo"},{"region":"ES","title":"Fargo"},{"region":"FR","title":"Fargo"},{"region":"GR","title":"Fargo"},{"region":"HU","title":"Fargo"},{"region":"JP","title":"FÃ¢go"},{"language":"en","region":"JP","title":"Fargo"},{"region":"MX","title":"Fargo, secuestro voluntario"},{"region":"PL","title":"Fargo"},{"region":"PT","title":"Fargo"},{"region":"RS","title":"Fargo"},{"region":"RU","title":"Ð¤Ð°ÑÐ³Ð¾"},{"region":"SI","title":"Fargo"},{"region":"SK","title":"Fargo"},{"language":"tr","region":"TR","title":"Fargo"},{"region":"UA","title":"Ð¤Ð°ÑÐ³Ð¾"},{"region":"US","title":"Fargo"},{"region":"UY","title":"Fargo"}],"year":"1996"},"rank":"164","headline":"Fargo"}};
+    </script>
+</div>
+
+
+
+<div id="nb_extra">
+    <ul id="nb_extra_nav" class="main_nav">
+        <li class="css_nav_item" id="navProMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"    >
+                    <img alt="IMDbPro Menu" src="http://i.media-imdb.com/images/SF4fdfd2dc36b14ed0aabc4f2ccf847c0f/navbar/imdbpro_logo_nb.png" />
+                </a>
+            </p>
+            <span class="downArrow"></span>
+            <div id="navMenuPro" class="imdb-pro-ad sub_nav">
+                <a    id="proLink"     href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"   class="imdb-pro-ad__link"
+    >
+                    <div id="proAd" class="imdb-pro-ad__image">
+                        <img alt="Go to IMDbPro" height="180" width="174"
+                             src="http://i.media-imdb.com/images/SF3cf48fa843440b070cb5b77469e1d3ae/navbar/imdbpro_menu_user.png"
+                             srcset="http://i.media-imdb.com/images/SF3cf48fa843440b070cb5b77469e1d3ae/navbar/imdbpro_menu_user.png 1x,
+                                     http://i.media-imdb.com/images/SFb98bc5e7183c9e552c0cc0a4de074b33/navbar/imdbpro_menu_user_2x.png 2x" />
+                    </div>
+                    <section class="imdb-pro-ad__content">
+                        <h1 class="imdb-pro-ad__title">The leading information resource for the entertainment industry</h1>
+                        <p class="imdb-pro-ad__line">Find industry contacts &amp; talent representation</p>
+                        <p class="imdb-pro-ad__line">Manage your photos, credits, &amp; more</p>
+                        <p class="imdb-pro-ad__line">Showcase yourself on IMDb &amp; Amazon</p>
+                        <span role="button" class="imdb-pro-ad__button">Go to IMDbPro</a>
+                    </section>
+                </a>
+            </div>
+        </li>
+        <li><span class="ghost">|</span></li>
+        <li>
+            <a     href="/help/?ref_=nb_hlp"    >
+                Help</a>
+        </li>
+        <li class="social">
+            
+
+
+<a href="https://www.facebook.com/imdb"    title="Follow IMDb on Facebook"
+  target="_blank" >
+  <span class="desktop-sprite follow-facebook"></span>
+</a>
+
+
+<a href="https://twitter.com/imdb"    title="Follow IMDb on Twitter"
+  target="_blank" >
+  <span class="desktop-sprite follow-twitter"></span>
+</a>
+
+
+<a href="https://instagram.com/imdb/"    title="Follow IMDb on Instagram"
+  target="_blank" >
+  <span class="desktop-sprite follow-instagram"></span>
+</a>
+
+        </li>
+    </ul>
+    <script>
+        if (!('imdb' in window)) { window.imdb = {}; }
+        window.imdb.proMenuTeaser = {
+            imageUrl : "http://i.media-imdb.com/images/SF3cf48fa843440b070cb5b77469e1d3ae/navbar/imdbpro_menu_user.png"
+        };
+    </script> 
+</div>
+
+
+<div id="nb_personal">
+
+<ul id="consumer_user_nav" class="main_nav">
+  <li class="css_nav_item no_arrow" id="navUserMenu" aria-haspopup="true">
+        <p class="navCategory singleLine">
+            <a id="facebook-signin-link" class="signin-button" href="https://graph.facebook.com/v2.8/oauth/authorize?client_id=127059960673829&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fregistration%2Ffacebookhandler%2F&scope=email%2Cuser_about_me%2Cuser_birthday&state=eyJ1IjoiaHR0cHM6Ly93d3cuaW1kYi5jb20iLCI0OWU2YyI6ImRhMjkifQ%3D%3D">
+				<span class="facebook-logo"></span>
+                <span class="signin-facebook-text">Sign in with Facebook</span>
+            </a>               
+            <a    id="nblogin"    rel=login href="/registration/signin?ref_=nv_usr_lgin_1"   class="signin-other-options-text"
+    >
+                Other Sign in options
+            </a>
+        </p>
+    </li>
+</ul>
+
+
+</div>
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<!-- begin INJECTED_NAVSTRIP -->
+<div id="injected_navstrip_wrapper" class="injected_slot">
+<script type="text/javascript">
+doWithAds(function(){
+if ('injected_slot' != 'injected_slot') {
+ad_utils.register_ad('injected_navstrip');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=196679806076;ord=196679806076?" frameborder="0" id="injected_navstrip" marginwidth="0" marginheight="0" name="injected_navstrip" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="0" width="0" height="0" ></iframe> </div>
+<div id="injected_navstrip_reflow_helper"></div>
+<script id="injected_navstrip_rendering">
+doWithAds(function(){
+if ('injected_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('injected_navstrip');
+} else {
+ad_utils.gpt.render_ad('injected_navstrip');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End INJECTED_NAVSTRIP --><!-- _get_ad_for_slot(INJECTED_NAVSTRIP) -->
+
+
+
+        
+
+
+
+
+
+
+
+
+
+<div id="pagecontent">
+
+
+
+
+<!-- begin INJECTED_BILLBOARD -->
+<div id="injected_billboard_wrapper" class="injected_slot">
+<script type="text/javascript">
+doWithAds(function(){
+if ('injected_slot' != 'injected_slot') {
+ad_utils.register_ad('injected_billboard');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=196679806076;ord=196679806076?" frameborder="0" id="injected_billboard" marginwidth="0" marginheight="0" name="injected_billboard" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="0" width="0" height="0" ></iframe> </div>
+<div id="injected_billboard_reflow_helper"></div>
+<script id="injected_billboard_rendering">
+doWithAds(function(){
+if ('injected_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('injected_billboard');
+} else {
+ad_utils.gpt.render_ad('injected_billboard');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End INJECTED_BILLBOARD --><!-- _get_ad_for_slot(INJECTED_BILLBOARD) -->
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="content-2-wide" class="redesign">
+  <div id="main">
+        
+
+
+
+    <div class="article listo list_characters" data-list-class="LIST" data-list-type="Characters" data-list-id="ls031310246" data-items-per-page="100" data-author-id="ur51880615">
+      <div class="disable-pane"><img class="center-spinner" src="/images/spinning-progress-large.gif"></div>
+      <div class="rightcornerlink">      <a href="http://rss.imdb.com/list/ls031310246"><img src="http://i.media-imdb.com/images/SFb57d5ddb1c1208f549520b6186629f28/rss2.gif" height="16" width="16" border="0" alt="RSS" title="Subscribe" class="absmiddle"></a> 
+</div>
+      <a name="page_top"></a>
+      <h1 class="header">Characters By Screen Time: Harry Potter</h1>
+      <div class="byline">by <a     href="/user/ur51880615/"    >ninewheels0</a>&nbsp;created 17 Dec 2015&nbsp;<span class="">|</span> last updated - 1 month ago</div>
+      <div class="description" id="view-list-desc">Tabulated by watching through scene-by-scene at normal speed with an iPhone stop-watch, and rounding to the nearest quarter of a minute.</div>
+<div class="clear"></div>
+
+<div class="header">
+  <div class="spacer"></div>
+  <div class="nav">
+    <div class="desc" data-size="97">
+ Showing all 97 Characters
+</div>
+    <div class="sort">Sort by: <select class="sort_field" disabled><option selected value="listorian" data-direction="asc">List order<option value="created" data-direction="desc">Date added</select>
+<button class="small sort_direction btn sort_asc" disabled data-direction="asc">&nbsp;</button>
+    </div>
+  </div>
+  <div class="views" data-current="detail">View:
+<a data-view="grid" class="grid"></a>
+<a data-view="detail" class="detail active"></a>
+<a data-view="compact" class="compact"></a>
+  </div>
+  <div class="bulk">
+    <a href="/register/login" rel="login">Log in</a> to copy items to your own lists.
+  </div>
+</div>
+
+
+      <div class="list detail">
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0000985/"    ><div class="hover-over-image zero-z-index" data-const="ch0000985">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0NDY4ODg1MF5BMl5BanBnXkFtZTcwODI3NjgyMw@@._V1._SX140_CR0,0,140,209_.jpg" height="209" width="140" alt="Image of Harry Potter" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">1.</div>
+<div class="info">
+<b><a     href="/character/ch0000985/"    >Harry Potter</a></b>
+<div class="secondary"><a href="/title/tt1201607/">Harry Potter and the Deathly Hallows: Part 2</a> <span class="year_type">(2011)</span>, <a href="/name/nm0705356/">Daniel Radcliffe</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>539:15 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;72:45&gt;<br/>* ...Chamber of Secrets &lt;83:45&gt;<br/>* ...Prisoner of Azkaban &lt;74:30&gt;<br/>* ...Goblet of Fire &lt;63:15&gt;<br/>* ...Order of the Phoenix &lt;61:45&gt;<br/>* ...Half-Blood Prince &lt;67&gt;<br/>* ...Deathly Hallows, Part I &lt;68:15&gt;<br/>* ...Deathly Hallows, Part II &lt;48&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0000991/"    ><div class="hover-over-image zero-z-index" data-const="ch0000991">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyMDM1MTQzOF5BMl5BanBnXkFtZTYwMzg0NTg3._V1._SX140_CR0,0,140,209_.jpg" height="209" width="140" alt="Image of Ron Weasley" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">2.</div>
+<div class="info">
+<b><a     href="/character/ch0000991/"    >Ron Weasley</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0342488/">Rupert Grint</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>211:45 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;28:15&gt;<br/>* ...Chamber of Secrets &lt;38:15&gt;<br/>* ...Prisoner of Azkaban &lt;21:15&gt;<br/>* ...Goblet of Fire &lt;20:30&gt;<br/>* ...Order of the Phoenix &lt;21&gt;<br/>* ...Half-Blood Prince &lt;21:45&gt;<br/>* ...Deathly Hallows, Part I &lt;35:45&gt;<br/>* ...Deathly Hallows, Part II &lt;25&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0000986/"    ><div class="hover-over-image zero-z-index" data-const="ch0000986">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4MzU1MTkxMl5BMl5BanBnXkFtZTcwMDM4NTk2Mg@@._V1._SX140_CR0,0,140,209_.jpg" height="209" width="140" alt="Image of Hermione Granger" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">3.</div>
+<div class="info">
+<b><a     href="/character/ch0000986/"    >Hermione Granger</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0914612/">Emma Watson</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>205 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;23:15&gt;<br/>* ...Chamber of Secrets &lt;15:30&gt;<br/>* ...Prisoner of Azkaban &lt;34:45&gt;<br/>* ...Goblet of Fire &lt;16:30&gt;<br/>* ...Order of the Phoenix &lt;23&gt;<br/>* ...Half-Blood Prince &lt;20&gt;<br/>* ...Deathly Hallows, Part I &lt;46&gt;<br/>* ...Deathly Hallows, Part II &lt;26&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0000998/"    ><div class="hover-over-image zero-z-index" data-const="ch0000998">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BODZhNDA1ZjctZDNiNS00Njc3LWIxM2EtZGFkNTIzMGM5ZjE5XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1._SX140_CR0,0,140,209_.jpg" height="209" width="140" alt="Image of Professor Albus Dumbledore" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">4.</div>
+<div class="info">
+<b><a     href="/character/ch0000998/"    >Professor Albus Dumbledore</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0001321/">Richard Harris</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>77:15 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;9:45&gt;<br/>* ...Chamber of Secrets &lt;10:45&gt;<br/>* ...Prisoner of Azkaban &lt;6:15&gt;<br/>* ...Goblet of Fire &lt;14:15&gt;<br/>* ...Order of the Phoenix &lt;7:30&gt;<br/>* ...Half-Blood Prince &lt;22:15&gt;<br/>* ...Deathly Hallows, Part I &lt;:45&gt;<br/>* ...Deathly Hallows, Part II &lt;5:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001008/"    ><div class="hover-over-image zero-z-index" data-const="ch0001008">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MDgyNzIwOV5BMl5BanBnXkFtZTcwMDMzNDc3Mw@@._V1._SY209_CR90,0,140,209_.jpg" height="209" width="140" alt="Image of Rubeus Hagrid" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">5.</div>
+<div class="info">
+<b><a     href="/character/ch0001008/"    >Rubeus Hagrid</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0001059/">Robbie Coltrane</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>45:45 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;16:30&gt;<br/>* ...Chamber of Secrets &lt;8:15&gt;<br/>* ...Prisoner of Azkaban &lt;5:15&gt;<br/>* ...Goblet of Fire &lt;3:45&gt;<br/>* ...Order of the Phoenix &lt;2:45&gt;<br/>* ...Half-Blood Prince &lt;4&gt;<br/>* ...Deathly Hallows, Part I &lt;4:15&gt;<br/>* ...Deathly Hallows, Part II &lt;1&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0000988/"    ><div class="hover-over-image zero-z-index" data-const="ch0000988">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwNzgwNjY4Ml5BMl5BanBnXkFtZTcwMTExODcwNg@@._V1._SY209_CR87,0,140,209_.jpg" height="209" width="140" alt="Image of Professor Severus Snape" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">6.</div>
+<div class="info">
+<b><a     href="/character/ch0000988/"    >Professor Severus Snape</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0000614/">Alan Rickman</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>43:15 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;4&gt;<br/>* ...Chamber of Secrets &lt;4:30&gt;<br/>* ...Prisoner of Azkaban &lt;5:45&gt;<br/>* ...Goblet of Fire &lt;4:45&gt;<br/>* ...Order of the Phoenix &lt;4&gt;<br/>* ...Half-Blood Prince &lt;9:15&gt;<br/>* ...Deathly Hallows, Part I &lt;1:15&gt;<br/>* ...Deathly Hallows, Part II &lt;9:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0000989/"    ><div class="hover-over-image zero-z-index" data-const="ch0000989">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNzU2MTMwOF5BMl5BanBnXkFtZTcwMTQwMDY4NQ@@._V1._SY209_CR116,0,140,209_.jpg" height="209" width="140" alt="Image of Lord Voldemort" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">7.</div>
+<div class="info">
+<b><a     href="/character/ch0000989/"    >Lord Voldemort</a></b>
+<div class="secondary"><a href="/title/tt0330373/">Harry Potter and the Goblet of Fire</a> <span class="year_type">(2005)</span>, <a href="/name/nm0000146/">Ralph Fiennes</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>37:15 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;2&gt;<br/>* ...Chamber of Secrets &lt;6:45&gt;<br/>* ...Goblet of Fire &lt;6:30&gt;<br/>* ...Order of the Phoenix &lt;2:15&gt;<br/>* ...Half-Blood Prince &lt;4:15&gt;<br/>* ...Deathly Hallows, Part I &lt;5&gt;<br/>* ...Deathly Hallows, Part II &lt;10:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0000994/"    ><div class="hover-over-image zero-z-index" data-const="ch0000994">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5MjUyOTUwOV5BMl5BanBnXkFtZTcwNzQyODgwNA@@._V1._SY209_CR115,0,140,209_.jpg" height="209" width="140" alt="Image of Draco Malfoy" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">8.</div>
+<div class="info">
+<b><a     href="/character/ch0000994/"    >Draco Malfoy</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0271657/">Tom Felton</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>31:30 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;4:15&gt;<br/>* ...Chamber of Secrets &lt;7&gt;<br/>* ...Prisoner of Azkaban &lt;4&gt;<br/>* ...Goblet of Fire &lt;2&gt;<br/>* ...Order of the Phoenix &lt;1:15&gt;<br/>* ...Half-Blood Prince &lt;8:15&gt;<br/>* ...Deathly Hallows, Part I &lt;2:15&gt;<br/>* ...Deathly Hallows, Part II &lt;2:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0000999/"    ><div class="hover-over-image zero-z-index" data-const="ch0000999">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNjQ0NTMzN15BMl5BanBnXkFtZTYwODAyNTg3._V1._SY209_CR8,0,140,209_.jpg" height="209" width="140" alt="Image of Ginny Weasley" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">9.</div>
+<div class="info">
+<b><a     href="/character/ch0000999/"    >Ginny Weasley</a></b>
+<div class="secondary"><a href="/title/tt0295297/">Harry Potter and the Chamber of Secrets</a> <span class="year_type">(2002)</span>, <a href="/name/nm0942247/">Bonnie Wright</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>30:15 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;:15&gt;<br/>* ...Chamber of Secrets &lt;4:45&gt;<br/>* ...Prisoner of Azkaban &lt;:30&gt;<br/>* ...Goblet of Fire &lt;3:30&gt;<br/>* ...Order of the Phoenix &lt;6:45&gt;<br/>* ...Half-Blood Prince &lt;8:45&gt;<br/>* ...Deathly Hallows, Part I &lt;2&gt;<br/>* ...Deathly Hallows, Part II &lt;3:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001000/"    ><div class="hover-over-image zero-z-index" data-const="ch0001000">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MTUwNDU3MV5BMl5BanBnXkFtZTcwMjcwMDY4NQ@@._V1._SY209_CR87,0,140,209_.jpg" height="209" width="140" alt="Image of Minerva McGonagall" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">10.</div>
+<div class="info">
+<b><a     href="/character/ch0001000/"    >Minerva McGonagall</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0001749/">Maggie Smith</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>28:45 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;7:30&gt;<br/>* ...Chamber of Secrets &lt;5:45&gt;<br/>* ...Prisoner of Azkaban &lt;1:45&gt;<br/>* ...Goblet of Fire &lt;4:30&gt;<br/>* ...Order of the Phoenix &lt;2&gt;<br/>* ...Half-Blood Prince &lt;3:45&gt;<br/>* ...Deathly Hallows, Part II &lt;3:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001021/"    ><div class="hover-over-image zero-z-index" data-const="ch0001021">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0MTg2NTA2OV5BMl5BanBnXkFtZTYwODUyNTg3._V1._SY209_CR87,0,140,209_.jpg" height="209" width="140" alt="Image of Neville Longbottom" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">11.</div>
+<div class="info">
+<b><a     href="/character/ch0001021/"    >Neville Longbottom</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0507535/">Matthew Lewis</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>28:15 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;3:15&gt;<br/>* ...Chamber of Secrets &lt;1:15&gt;<br/>* ...Prisoner of Azkaban &lt;3&gt;<br/>* ...Goblet of Fire &lt;4:15&gt;<br/>* ...Order of the Phoenix &lt;9&gt;<br/>* ...Half-Blood Prince &lt;1:30&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<br/>* ...Deathly Hallows, Part II &lt;5:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001002/"    ><div class="hover-over-image zero-z-index" data-const="ch0001002">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyNDMzMzIyOV5BMl5BanBnXkFtZTcwNTI3NjgyMw@@._V1._SY209_CR93,0,140,209_.jpg" height="209" width="140" alt="Image of Remus Lupin" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">12.</div>
+<div class="info">
+<b><a     href="/character/ch0001002/"    >Remus Lupin</a></b>
+<div class="secondary"><a href="/title/tt0304141/">Harry Potter and the Prisoner of Azkaban</a> <span class="year_type">(2004)</span>, <a href="/name/nm0000667/">David Thewlis</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>26 minutes<br/><br/>* ...Prisoner of Azkaban &lt;19:15&gt;<br/>* ...Order of the Phoenix &lt;1:15&gt;<br/>* ...Half-Blood Prince &lt;2&gt;<br/>* ...Deathly Hallows, Part I &lt;2&gt;<br/>* ...Deathly Hallows, Part II &lt;1:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0000987/"    ><div class="hover-over-image zero-z-index" data-const="ch0000987">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Sirius Black" title="Image of Sirius Black"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MTgxMDE2M15BMl5BanBnXkFtZTcwMDQxODcwNg@@._V1._SY209_CR176,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">13.</div>
+<div class="info">
+<b><a     href="/character/ch0000987/"    >Sirius Black</a></b>
+<div class="secondary"><a href="/title/tt0304141/">Harry Potter and the Prisoner of Azkaban</a> <span class="year_type">(2004)</span>, <a href="/name/nm0000198/">Gary Oldman</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>20:45 minutes<br/><br/>* ...Prisoner of Azkaban &lt;11:30&gt;<br/>* ...Goblet of Fire &lt;1:15&gt;<br/>* ...Order of the Phoenix &lt;7:30&gt;<br/>* ...Deathly Hallows, Part II &lt;:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001020/"    ><div class="hover-over-image zero-z-index" data-const="ch0001020">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of George Weasley" title="Image of George Weasley"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3ODMzMDM5NV5BMl5BanBnXkFtZTcwMjEyODgwNA@@._V1._SY209_CR115,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">14.</div>
+<div class="info">
+<b><a     href="/character/ch0001020/"    >George Weasley</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0962360/">Oliver Phelps</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>20 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;1:30&gt;<br/>* ...Chamber of Secrets &lt;2:30&gt;<br/>* ...Prisoner of Azkaban &lt;2:45&gt;<br/>* ...Goblet of Fire &lt;4:30&gt;<br/>* ...Order of the Phoenix &lt;5&gt;<br/>* ...Half-Blood Prince &lt;:45&gt;<br/>* ...Deathly Hallows, Part I &lt;2:15&gt;<br/>* ...Deathly Hallows, Part II &lt;1&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001016/"    ><div class="hover-over-image zero-z-index" data-const="ch0001016">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Fred Weasley" title="Image of Fred Weasley"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3ODMzMDM5NV5BMl5BanBnXkFtZTcwMjEyODgwNA@@._V1._SY209_CR115,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">15.</div>
+<div class="info">
+<b><a     href="/character/ch0001016/"    >Fred Weasley</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0962359/">James Phelps</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>19:30 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;1:30&gt;<br/>* ...Chamber of Secrets &lt;2:30&gt;<br/>* ...Prisoner of Azkaban &lt;2:45&gt;<br/>* ...Goblet of Fire &lt;4:30&gt;<br/>* ...Order of the Phoenix &lt;5&gt;<br/>* ...Half-Blood Prince &lt;:45&gt;<br/>* ...Deathly Hallows, Part I &lt;2&gt;<br/>* ...Deathly Hallows, Part II &lt;:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0027270/"    ><div class="hover-over-image zero-z-index" data-const="ch0027270">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Professor Horace Slughorn" title="Image of Professor Horace Slughorn"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MjY0MTU0NF5BMl5BanBnXkFtZTcwMjY4NTk2Mg@@._V1._SY209_CR103,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">16.</div>
+<div class="info">
+<b><a     href="/character/ch0027270/"    >Professor Horace Slughorn</a></b>
+<div class="secondary"><a href="/title/tt0417741/">Harry Potter and the Half-Blood Prince</a> <span class="year_type">(2009)</span>, <a href="/name/nm0000980/">Jim Broadbent</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>18:45 minutes<br/><br/>* ...Half-Blood Prince &lt;18&gt;<br/>* ...Deathly Hallows, Part II &lt;:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001007/"    ><div class="hover-over-image zero-z-index" data-const="ch0001007">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Luna Lovegood" title="Image of Luna Lovegood"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMzk4OTkyMjY1MF5BMl5BanBnXkFtZTcwMjg3Njc3MQ@@._V1._SX140_CR0,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">17.</div>
+<div class="info">
+<b><a     href="/character/ch0001007/"    >Luna Lovegood</a></b>
+<div class="secondary"><a href="/title/tt0373889/">Harry Potter and the Order of the Phoenix</a> <span class="year_type">(2007)</span>, <a href="/name/nm2121541/">Evanna Lynch</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>17:15 minutes<br/><br/>* ...Order of the Phoenix &lt;9:15&gt;<br/>* ...Half-Blood Prince &lt;3:15&gt;<br/>* ...Deathly Hallows, Part I &lt;2:30&gt;<br/>* ...Deathly Hallows, Part II &lt;2:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0000996/"    ><div class="hover-over-image zero-z-index" data-const="ch0000996">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Barty Crouch Jr." title="Image of Barty Crouch Jr."
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BOWY2NzFlNjItMGExMS00NzE0LTlmMjAtZDhiMzUxZWQ2ZTY3XkEyXkFqcGdeQXVyMzQ3Nzk5MTU@._V1._SY209_CR25,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">18.</div>
+<div class="info">
+<b><a     href="/character/ch0000996/"    >Barty Crouch Jr.</a></b>
+<div class="secondary"><a href="/title/tt0330373/">Harry Potter and the Goblet of Fire</a> <span class="year_type">(2005)</span>, <a href="/name/nm0855039/">David Tennant</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>16:15 minutes<br/><br/>* ...Goblet of Fire &lt;16:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001012/"    ><div class="hover-over-image zero-z-index" data-const="ch0001012">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Dolores Umbridge" title="Image of Dolores Umbridge"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2NDU5MTE1MF5BMl5BanBnXkFtZTYwMTYwNTg3._V1._SY209_CR8,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">19.</div>
+<div class="info">
+<b><a     href="/character/ch0001012/"    >Dolores Umbridge</a></b>
+<div class="secondary"><a href="/title/tt0373889/">Harry Potter and the Order of the Phoenix</a> <span class="year_type">(2007)</span>, <a href="/name/nm0001767/">Imelda Staunton</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>16 minutes<br/><br/>* ...Order of the Phoenix &lt;14:15&gt;<br/>* ...Deathly Hallows, Part I &lt;1:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001029/"    ><div class="hover-over-image zero-z-index" data-const="ch0001029">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Arthur Weasley" title="Image of Arthur Weasley"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4NDY2MTMyMV5BMl5BanBnXkFtZTYwNzIxNTg3._V1._SX140_CR0,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">20.</div>
+<div class="info">
+<b><a     href="/character/ch0001029/"    >Arthur Weasley</a></b>
+<div class="secondary"><a href="/title/tt0295297/">Harry Potter and the Chamber of Secrets</a> <span class="year_type">(2002)</span>, <a href="/name/nm0931247/">Mark Williams</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>15:45 minutes<br/><br/>* ...Chamber of Secrets &lt;2:30&gt;<br/>* ...Prisoner of Azkaban &lt;1:45&gt;<br/>* ...Goblet of Fire &lt;2:30&gt;<br/>* ...Order of the Phoenix &lt;3:30&gt;<br/>* ...Half-Blood Prince &lt;2:45&gt;<br/>* ...Deathly Hallows, Part I &lt;1:45&gt;<br/>* ...Deathly Hallows, Part II &lt;1&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0000995/"    ><div class="hover-over-image zero-z-index" data-const="ch0000995">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Lucius Malfoy" title="Image of Lucius Malfoy"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMDI0MzUyM15BMl5BanBnXkFtZTYwODU1MDg3._V1._SY209_CR19,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">21.</div>
+<div class="info">
+<b><a     href="/character/ch0000995/"    >Lucius Malfoy</a></b>
+<div class="secondary"><a href="/title/tt0295297/">Harry Potter and the Chamber of Secrets</a> <span class="year_type">(2002)</span>, <a href="/name/nm0005042/">Jason Isaacs</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>15:15 minutes<br/><br/>* ...Chamber of Secrets &lt;6:45&gt;<br/>* ...Goblet of Fire &lt;1:30&gt;<br/>* ...Order of the Phoenix &lt;3&gt;<br/>* ...Deathly Hallows, Part I &lt;2:30&gt;<br/>* ...Deathly Hallows, Part II &lt;1:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001024/"    ><div class="hover-over-image zero-z-index" data-const="ch0001024">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Dobby" title="Image of Dobby"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMzU3MDE3MTc2NF5BMl5BanBnXkFtZTcwMjU1MTcwNA@@._V1._SY209_CR91,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">22.</div>
+<div class="info">
+<b><a     href="/character/ch0001024/"    >Dobby</a></b>
+<div class="secondary"><a href="/title/tt0295297/">Harry Potter and the Chamber of Secrets</a> <span class="year_type">(2002)</span>, <a href="/name/nm0429363/">Toby Jones</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>11:15 minutes<br/><br/>* ...Chamber of Secrets &lt;7:30&gt;<br/>* ...Deathly Hallows, Part I &lt;3:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0515197/"    ><div class="hover-over-image zero-z-index" data-const="ch0515197">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Uncle Vernon Dursley" title="Image of Uncle Vernon Dursley"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0Nzg0OTg2N15BMl5BanBnXkFtZTYwNTg0NTg3._V1._SY209_CR88,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">23.</div>
+<div class="info">
+<b><a     href="/character/ch0515197/"    >Uncle Vernon Dursley</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0341743/">Richard Griffiths</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>11 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;4&gt;<br/>* ...Chamber of Secrets &lt;2:30&gt;<br/>* ...Prisoner of Azkaban &lt;3&gt;<br/>* ...Order of the Phoenix &lt;1:15&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0000990/"    ><div class="hover-over-image zero-z-index" data-const="ch0000990">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Bellatrix Lestrange" title="Image of Bellatrix Lestrange"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0NTkzMTc1OV5BMl5BanBnXkFtZTcwNDQ4NTk2Mg@@._V1._SY209_CR115,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">24.</div>
+<div class="info">
+<b><a     href="/character/ch0000990/"    >Bellatrix Lestrange</a></b>
+<div class="secondary"><a href="/title/tt0373889/">Harry Potter and the Order of the Phoenix</a> <span class="year_type">(2007)</span>, <a href="/name/nm0000307/">Helena Bonham Carter</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>10:30 minutes<br/><br/>* ...Order of the Phoenix &lt;2&gt;<br/>* ...Half-Blood Prince &lt;3:45&gt;<br/>* ...Deathly Hallows, Part I &lt;3&gt;<br/>* ...Deathly Hallows, Part II &lt;1:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001001/"    ><div class="hover-over-image zero-z-index" data-const="ch0001001">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Professor Gilderoy Lockhart" title="Image of Professor Gilderoy Lockhart"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1OTM5MTI5NF5BMl5BanBnXkFtZTYwNzY1MDg3._V1._SY209_CR8,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">25.</div>
+<div class="info">
+<b><a     href="/character/ch0001001/"    >Professor Gilderoy Lockhart</a></b>
+<div class="secondary"><a href="/title/tt0295297/">Harry Potter and the Chamber of Secrets</a> <span class="year_type">(2002)</span>, <a href="/name/nm0000110/">Kenneth Branagh</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>10:30 minutes<br/><br/>* ...Chamber of Secrets &lt;10:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001009/"    ><div class="hover-over-image zero-z-index" data-const="ch0001009">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Mrs. Molly Weasley" title="Image of Mrs. Molly Weasley"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BNDQyNTgyMDU5MV5BMl5BanBnXkFtZTcwNTUwMDY4NQ@@._V1._SY209_CR116,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">26.</div>
+<div class="info">
+<b><a     href="/character/ch0001009/"    >Mrs. Molly Weasley</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0910278/">Julie Walters</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>9:45 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;:30&gt;<br/>* ...Chamber of Secrets &lt;2:15&gt;<br/>* ...Prisoner of Azkaban &lt;:45&gt;<br/>* ...Order of the Phoenix &lt;1:45&gt;<br/>* ...Half-Blood Prince &lt;1:15&gt;<br/>* ...Deathly Hallows, Part I &lt;1:15&gt;<br/>* ...Deathly Hallows, Part II &lt;2&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001039/"    ><div class="hover-over-image zero-z-index" data-const="ch0001039">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Seamus Finnigan" title="Image of Seamus Finnigan"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMmIyNTcxZTEtZWExNi00N2JjLWI1ZTQtOWQ3MTQxNGZkMWJlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjczOTIyOTU@._V1._SY209_CR3,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">27.</div>
+<div class="info">
+<b><a     href="/character/ch0001039/"    >Seamus Finnigan</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0614912/">Devon Murray</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>9:45 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;1:45&gt;<br/>* ...Chamber of Secrets &lt;1&gt;<br/>* ...Prisoner of Azkaban &lt;1:45&gt;<br/>* ...Goblet of Fire &lt;1:30&gt;<br/>* ...Order of the Phoenix &lt;1:45&gt;<br/>* ...Half-Blood Prince &lt;:30&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<br/>* ...Deathly Hallows, Part II &lt;1:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001032/"    ><div class="hover-over-image zero-z-index" data-const="ch0001032">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Dudley Dursley" title="Image of Dudley Dursley"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0Nzg0OTg2N15BMl5BanBnXkFtZTYwNTg0NTg3._V1._SY209_CR88,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">28.</div>
+<div class="info">
+<b><a     href="/character/ch0001032/"    >Dudley Dursley</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0577982/">Harry Melling</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>9:45 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;2:45&gt;<br/>* ...Chamber of Secrets &lt;1:15&gt;<br/>* ...Prisoner of Azkaban &lt;1:45&gt;<br/>* ...Order of the Phoenix &lt;3:45&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001037/"    ><div class="hover-over-image zero-z-index" data-const="ch0001037">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Cornelius Fudge" title="Image of Cornelius Fudge"
+
+     src="http://i.media-imdb.com/images/SFd8baa66b3dedf9a5e6ce2be3bbd48ac7/nopicture/medium/name.png" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">29.</div>
+<div class="info">
+<b><a     href="/character/ch0001037/"    >Cornelius Fudge</a></b>
+<div class="secondary"><a href="/title/tt0295297/">Harry Potter and the Chamber of Secrets</a> <span class="year_type">(2002)</span>, <a href="/name/nm0362735/">Robert Hardy</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>9:15 minutes<br/><br/>* ...Chamber of Secrets &lt;2:30&gt;<br/>* ...Prisoner of Azkaban &lt;3&gt;<br/>* ...Goblet of Fire &lt;1&gt;<br/>* ...Order of the Phoenix &lt;2:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001011/"    ><div class="hover-over-image zero-z-index" data-const="ch0001011">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Peter Pettigrew" title="Image of Peter Pettigrew"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1NDI2OTU4Ml5BMl5BanBnXkFtZTcwODcxNjUwNA@@._V1._SY209_CR87,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">30.</div>
+<div class="info">
+<b><a     href="/character/ch0001011/"    >Peter Pettigrew</a></b>
+<div class="secondary"><a href="/title/tt0304141/">Harry Potter and the Prisoner of Azkaban</a> <span class="year_type">(2004)</span>, <a href="/name/nm0001758/">Timothy Spall</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>8:15 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;:15&gt;<br/>* ...Chamber of Secrets &lt;:30&gt;<br/>* ...Prisoner of Azkaban &lt;2:30&gt;<br/>* ...Goblet of Fire &lt;3:30&gt;<br/>* ...Half-Blood Prince &lt;:15&gt;<br/>* ...Deathly Hallows, Part I &lt;1&gt;<br/>* ...Deathly Hallows, Part II &lt;:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001015/"    ><div class="hover-over-image zero-z-index" data-const="ch0001015">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Aunt Petunia Dursley" title="Image of Aunt Petunia Dursley"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0Nzg0OTg2N15BMl5BanBnXkFtZTYwNTg0NTg3._V1._SY209_CR88,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">31.</div>
+<div class="info">
+<b><a     href="/character/ch0001015/"    >Aunt Petunia Dursley</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0789716/">Fiona Shaw</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>8:15 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;3&gt;<br/>* ...Chamber of Secrets &lt;1:30&gt;<br/>* ...Prisoner of Azkaban &lt;2:15&gt;<br/>* ...Order of the Phoenix &lt;1:15&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001018/"    ><div class="hover-over-image zero-z-index" data-const="ch0001018">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Cedric Diggory" title="Image of Cedric Diggory"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNTQxMDY3OF5BMl5BanBnXkFtZTYwMjM3MDg2._V1._SY209_CR3,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">32.</div>
+<div class="info">
+<b><a     href="/character/ch0001018/"    >Cedric Diggory</a></b>
+<div class="secondary"><a href="/title/tt0330373/">Harry Potter and the Goblet of Fire</a> <span class="year_type">(2005)</span>, <a href="/name/nm1500155/">Robert Pattinson</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>8:15 minutes<br/><br/>* ...Goblet of Fire &lt;8&gt;<br/>* ...Order of the Phoenix &lt;:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001038/"    ><div class="hover-over-image zero-z-index" data-const="ch0001038">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Argus Filch" title="Image of Argus Filch"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5MzcwMzQ2NF5BMl5BanBnXkFtZTYwMzc2MDg3._V1._SY209_CR7,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">33.</div>
+<div class="info">
+<b><a     href="/character/ch0001038/"    >Argus Filch</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0103195/">David Bradley</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>8 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;1:15&gt;<br/>* ...Chamber of Secrets &lt;1:45&gt;<br/>* ...Prisoner of Azkaban &lt;1:15&gt;<br/>* ...Goblet of Fire &lt;:45&gt;<br/>* ...Order of the Phoenix &lt;2:15&gt;<br/>* ...Half-Blood Prince &lt;:15&gt;<br/>* ...Deathly Hallows, Part II &lt;:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0000992/"    ><div class="hover-over-image zero-z-index" data-const="ch0000992">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Mr. Ollivander" title="Image of Mr. Ollivander"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BNDE1ZGU4YmYtNDA4MC00NmZlLWI3YjMtZDQzNDJiOTFhYmI1XkEyXkFqcGdeQXVyMjMxMDgyNzU@._V1._SY209_CR88,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">34.</div>
+<div class="info">
+<b><a     href="/character/ch0000992/"    >Mr. Ollivander</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0000457/">John Hurt</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>7:15 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;3&gt;<br/>* ...Deathly Hallows, Part I &lt;1&gt;<br/>* ...Deathly Hallows, Part II &lt;3:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0028386/"    ><div class="hover-over-image zero-z-index" data-const="ch0028386">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Griphook" title="Image of Griphook"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BOTU2MTk3ODE4Nl5BMl5BanBnXkFtZTcwODQwMDY4NQ@@._V1._SY209_CR116,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">35.</div>
+<div class="info">
+<b><a     href="/character/ch0028386/"    >Griphook</a></b>
+<div class="secondary"><a href="/title/tt1201607/">Harry Potter and the Deathly Hallows: Part 2</a> <span class="year_type">(2011)</span>, <a href="/name/nm0001116/">Warwick Davis</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>7:15 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;:45&gt;<br/>* ...Deathly Hallows, Part I &lt;1&gt;<br/>* ...Deathly Hallows, Part II &lt;5:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001025/"    ><div class="hover-over-image zero-z-index" data-const="ch0001025">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Professor Quirinus Quirrell" title="Image of Professor Quirinus Quirrell"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1NzIxNzU2OF5BMl5BanBnXkFtZTYwNzU0NTg3._V1._SX140_CR0,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">36.</div>
+<div class="info">
+<b><a     href="/character/ch0001025/"    >Professor Quirinus Quirrell</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0001324/">Ian Hart</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>7 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;7&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001014/"    ><div class="hover-over-image zero-z-index" data-const="ch0001014">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Cho Chang" title="Image of Cho Chang"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzNjkwMDUzN15BMl5BanBnXkFtZTYwMjQ3MDg2._V1._SY209_CR5,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">37.</div>
+<div class="info">
+<b><a     href="/character/ch0001014/"    >Cho Chang</a></b>
+<div class="secondary"><a href="/title/tt0330373/">Harry Potter and the Goblet of Fire</a> <span class="year_type">(2005)</span>, <a href="/name/nm1648520/">Katie Leung</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>6:45 minutes<br/><br/>* ...Goblet of Fire &lt;1:45&gt;<br/>* ...Order of the Phoenix &lt;3:30&gt;<br/>* ...Half-Blood Prince &lt;:15&gt;<br/>* ...Deathly Hallows, Part II &lt;1:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0041850/"    ><div class="hover-over-image zero-z-index" data-const="ch0041850">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Narcissa Malfoy" title="Image of Narcissa Malfoy"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzODU3NjMyNl5BMl5BanBnXkFtZTcwODkzMjA4NQ@@._V1._SY209_CR172,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">38.</div>
+<div class="info">
+<b><a     href="/character/ch0041850/"    >Narcissa Malfoy</a></b>
+<div class="secondary"><a href="/title/tt0417741/">Harry Potter and the Half-Blood Prince</a> <span class="year_type">(2009)</span>, <a href="/name/nm0567031/">Helen McCrory</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>6:45 minutes<br/><br/>* ...Half-Blood Prince &lt;2:45&gt;<br/>* ...Deathly Hallows, Part I &lt;2:30&gt;<br/>* ...Deathly Hallows, Part II &lt;1:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0385744/"    ><div class="hover-over-image zero-z-index" data-const="ch0385744">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Dean Thomas" title="Image of Dean Thomas"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjNkOWY0MzgtNDk1Yi00NDRhLTg3YTAtZTRhMzcwNzM0ODA0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjczOTIyOTU@._V1._SY209_CR16,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">39.</div>
+<div class="info">
+<b><a     href="/character/ch0385744/"    >Dean Thomas</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0257917/">Alfred Enoch</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>6:45 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;1:15&gt;<br/>* ...Chamber of Secrets &lt;1&gt;<br/>* ...Prisoner of Azkaban &lt;:45&gt;<br/>* ...Goblet of Fire &lt;1&gt;<br/>* ...Order of the Phoenix &lt;1:15&gt;<br/>* ...Half-Blood Prince &lt;:30&gt;<br/>* ...Deathly Hallows, Part II &lt;1&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0028424/"    ><div class="hover-over-image zero-z-index" data-const="ch0028424">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Fleur Delacour" title="Image of Fleur Delacour"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI2NDg2Mjc2OV5BMl5BanBnXkFtZTcwOTc0NjUwNA@@._V1._SY209_CR87,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">40.</div>
+<div class="info">
+<b><a     href="/character/ch0028424/"    >Fleur Delacour</a></b>
+<div class="secondary"><a href="/title/tt0330373/">Harry Potter and the Goblet of Fire</a> <span class="year_type">(2005)</span>, <a href="/name/nm0993242/">Clémence Poésy</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>6:30 minutes<br/><br/>* ...Goblet of Fire &lt;4:30&gt;<br/>* ...Deathly Hallows, Part I &lt;1:30&gt;<br/>* ...Deathly Hallows, Part II &lt;:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0045137/"    ><div class="hover-over-image zero-z-index" data-const="ch0045137">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Lavender Brown" title="Image of Lavender Brown"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3OTU5NTk0OV5BMl5BanBnXkFtZTcwNzQ4NTk2Mg@@._V1._SY209_CR115,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">41.</div>
+<div class="info">
+<b><a     href="/character/ch0045137/"    >Lavender Brown</a></b>
+<div class="secondary"><a href="/title/tt0417741/">Harry Potter and the Half-Blood Prince</a> <span class="year_type">(2009)</span>, <a href="/name/nm2728165/">Jessie Cave</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>5:30 minutes<br/><br/>* ...Prisoner of Azkaban &lt;1&gt;<br/>* ...Half-Blood Prince &lt;3:30&gt;<br/>* ...Deathly Hallows, Part II &lt;1&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001050/"    ><div class="hover-over-image zero-z-index" data-const="ch0001050">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Gregory Goyle" title="Image of Gregory Goyle"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5MjQwNTM0OV5BMl5BanBnXkFtZTYwNTc1MDg3._V1._SY209_CR14,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">42.</div>
+<div class="info">
+<b><a     href="/character/ch0001050/"    >Gregory Goyle</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0378830/">Josh Herdman</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>5:30 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;:30&gt;<br/>* ...Chamber of Secrets &lt;1:15&gt;<br/>* ...Prisoner of Azkaban &lt;2&gt;<br/>* ...Goblet of Fire &lt;:45&gt;<br/>* ...Order of the Phoenix &lt;1:15&gt;<br/>* ...Half-Blood Prince &lt;:15&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<br/>* ...Deathly Hallows, Part II &lt;1:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001005/"    ><div class="hover-over-image zero-z-index" data-const="ch0001005">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Filius Flitwick" title="Image of Filius Flitwick"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTIyNTA4MTIyOF5BMl5BanBnXkFtZTYwOTU0NTg3._V1._SY209_CR5,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">43.</div>
+<div class="info">
+<b><a     href="/character/ch0001005/"    >Filius Flitwick</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0001116/">Warwick Davis</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>5:15 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;1&gt;<br/>* ...Chamber of Secrets &lt;:15&gt;<br/>* ...Prisoner of Azkaban &lt;:45&gt;<br/>* ...Goblet of Fire &lt;:45&gt;<br/>* ...Order of the Phoenix &lt;:30&gt;<br/>* ...Half-Blood Prince &lt;:30&gt;<br/>* ...Deathly Hallows, Part II &lt;1:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001022/"    ><div class="hover-over-image zero-z-index" data-const="ch0001022">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Viktor Krum" title="Image of Viktor Krum"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwMTI2ODc0Nl5BMl5BanBnXkFtZTcwNjI1NjUwNA@@._V1._SY209_CR179,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">44.</div>
+<div class="info">
+<b><a     href="/character/ch0001022/"    >Viktor Krum</a></b>
+<div class="secondary"><a href="/title/tt0330373/">Harry Potter and the Goblet of Fire</a> <span class="year_type">(2005)</span>, <a href="/name/nm1648506/">Stanislav Yanevski</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>5:15 minutes<br/><br/>* ...Goblet of Fire &lt;5:15<br/>* ...Deathly Hallows, Part I &lt;x&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0223626/"    ><div class="hover-over-image zero-z-index" data-const="ch0223626">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Bartemius &#x27;Barty&#x27; Crouch" title="Image of Bartemius &#x27;Barty&#x27; Crouch"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0OTU0NTc5MV5BMl5BanBnXkFtZTcwNjg0NjUwNA@@._V1._SY209_CR87,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">45.</div>
+<div class="info">
+<b><a     href="/character/ch0223626/"    >Bartemius &#x27;Barty&#x27; Crouch</a></b>
+<div class="secondary"><a href="/title/tt0330373/">Harry Potter and the Goblet of Fire</a> <span class="year_type">(2005)</span>, <a href="/name/nm0516181/">Roger Lloyd Pack</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>5:15 minutes<br/><br/>* ...Goblet of Fire &lt;5:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0000993/"    ><div class="hover-over-image zero-z-index" data-const="ch0000993">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Sybil Trelawney" title="Image of Sybil Trelawney"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1Njc1NzQzM15BMl5BanBnXkFtZTcwOTQ4NjgyMw@@._V1._SY209_CR87,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">46.</div>
+<div class="info">
+<b><a     href="/character/ch0000993/"    >Sybil Trelawney</a></b>
+<div class="secondary"><a href="/title/tt0304141/">Harry Potter and the Prisoner of Azkaban</a> <span class="year_type">(2004)</span>, <a href="/name/nm0000668/">Emma Thompson</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>5 minutes<br/><br/>* ...Prisoner of Azkaban &lt;2:45&gt;<br/>* ...Order of the Phoenix &lt;2&gt;<br/>* ...Deathly Hallows, Part II &lt;:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001010/"    ><div class="hover-over-image zero-z-index" data-const="ch0001010">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Nymphadora Tonks" title="Image of Nymphadora Tonks"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2MDczMTg2M15BMl5BanBnXkFtZTcwNzc5MDQ1NQ@@._V1._SY209_CR172,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">47.</div>
+<div class="info">
+<b><a     href="/character/ch0001010/"    >Nymphadora Tonks</a></b>
+<div class="secondary"><a href="/title/tt0373889/">Harry Potter and the Order of the Phoenix</a> <span class="year_type">(2007)</span>, <a href="/name/nm1164730/">Natalia Tena</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>5 minutes<br/><br/>* ...Order of the Phoenix &lt;1:45&gt;<br/>* ...Half-Blood Prince &lt;1:45&gt;<br/>* ...Deathly Hallows, Part I &lt;1&gt;<br/>* ...Deathly Hallows, Part II &lt;:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0143399/"    ><div class="hover-over-image zero-z-index" data-const="ch0143399">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Xenophilius Lovegood" title="Image of Xenophilius Lovegood"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2NzI0ODA4N15BMl5BanBnXkFtZTcwMjQyODgwNA@@._V1._SY209_CR115,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">48.</div>
+<div class="info">
+<b><a     href="/character/ch0143399/"    >Xenophilius Lovegood</a></b>
+<div class="secondary"><a href="/title/tt0926084/">Harry Potter and the Deathly Hallows: Part 1</a> <span class="year_type">(2010)</span>, <a href="/name/nm0406975/">Rhys Ifans</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>5 minutes<br/><br/>* ...Deathly Hallows, Part I &lt;5&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001026/"    ><div class="hover-over-image zero-z-index" data-const="ch0001026">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Percy Weasley" title="Image of Percy Weasley"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNzgyODI3MF5BMl5BanBnXkFtZTcwNjMwMDY4NQ@@._V1._SY209_CR87,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">49.</div>
+<div class="info">
+<b><a     href="/character/ch0001026/"    >Percy Weasley</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0710242/">Chris Rankin</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>5 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;1:45&gt;<br/>* ...Chamber of Secrets &lt;1:30&gt;<br/>* ...Prisoner of Azkaban &lt;:45&gt;<br/>* ...Order of the Phoenix &lt;:30&gt;<br/>* ...Deathly Hallows, Part II &lt;:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001047/"    ><div class="hover-over-image zero-z-index" data-const="ch0001047">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Parvati Patil" title="Image of Parvati Patil"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BNzUyODUyMjcxOF5BMl5BanBnXkFtZTcwMzcyNjUwNA@@._V1._SY209_CR64,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">50.</div>
+<div class="info">
+<b><a     href="/character/ch0001047/"    >Parvati Patil</a></b>
+<div class="secondary"><a href="/title/tt0330373/">Harry Potter and the Goblet of Fire</a> <span class="year_type">(2005)</span>, <a href="/name/nm1715231/">Shefali Chowdhury</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>4:45 minutes<br/><br/>* ...Prisoner of Azkaban &lt;1:15&gt;<br/>* ...Goblet of Fire &lt;1:45&gt;<br/>* ...Order of the Phoenix &lt;1:30&gt;<br/>* ...Half-Blood Prince &lt;:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001044/"    ><div class="hover-over-image zero-z-index" data-const="ch0001044">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Padma Patil" title="Image of Padma Patil"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BZjU2NzZhNWQtZDZhNi00Yzg3LTg0ZjktNTNhMTRiMDZjOGU5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjczOTIyOTU@._V1._SY209_CR21,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">51.</div>
+<div class="info">
+<b><a     href="/character/ch0001044/"    >Padma Patil</a></b>
+<div class="secondary"><a href="/title/tt0330373/">Harry Potter and the Goblet of Fire</a> <span class="year_type">(2005)</span>, <a href="/name/nm1715136/">Afshan Azad</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>4:45 minutes<br/><br/>* ...Goblet of Fire &lt;1:45&gt;<br/>* ...Order of the Phoenix &lt;1:30&gt;<br/>* ...Half-Blood Prince &lt;:15&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<br/>* ...Deathly Hallows, Part II &lt;1&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0385802/"    ><div class="hover-over-image zero-z-index" data-const="ch0385802">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Kingsley Shacklebolt" title="Image of Kingsley Shacklebolt"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5OTE3MTA1OV5BMl5BanBnXkFtZTcwNzUwMDY4NQ@@._V1._SY209_CR172,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">52.</div>
+<div class="info">
+<b><a     href="/character/ch0385802/"    >Kingsley Shacklebolt</a></b>
+<div class="secondary"><a href="/title/tt0373889/">Harry Potter and the Order of the Phoenix</a> <span class="year_type">(2007)</span>, <a href="/name/nm0364711/">George Harris</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>4:30 minutes<br/><br/>* ...Order of the Phoenix &lt;2:30&gt;<br/>* ...Deathly Hallows, Part I &lt;1&gt;<br/>* ...Deathly Hallows, Part II &lt;1&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001017/"    ><div class="hover-over-image zero-z-index" data-const="ch0001017">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Oliver Wood" title="Image of Oliver Wood"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0NjcxOTE1MF5BMl5BanBnXkFtZTYwMjc0NTg3._V1._SY209_CR88,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">53.</div>
+<div class="info">
+<b><a     href="/character/ch0001017/"    >Oliver Wood</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0081801/">Sean Biggerstaff</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>4:30 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;2:45&gt;<br/>* ...Chamber of Secrets &lt;1:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001046/"    ><div class="hover-over-image zero-z-index" data-const="ch0001046">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Vincent Crabbe" title="Image of Vincent Crabbe"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5MjQwNTM0OV5BMl5BanBnXkFtZTYwNTc1MDg3._V1._SY209_CR14,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">54.</div>
+<div class="info">
+<b><a     href="/character/ch0001046/"    >Vincent Crabbe</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0915488/">Jamie Waylett</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>4:15 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;:45&gt;<br/>* ...Chamber of Secrets &lt;1:15&gt;<br/>* ...Prisoner of Azkaban &lt;2&gt;<br/>* ...Goblet of Fire &lt;:45&gt;<br/>* ...Order of the Phoenix &lt;1:15&gt;<br/>* ...Half-Blood Prince &lt;:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001023/"    ><div class="hover-over-image zero-z-index" data-const="ch0001023">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Lily Potter" title="Image of Lily Potter"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3MjIxMTE3Nl5BMl5BanBnXkFtZTcwOTc3MDI5Mw@@._V1._SY209_CR105,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">55.</div>
+<div class="info">
+<b><a     href="/character/ch0001023/"    >Lily Potter</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0813893/">Geraldine Somerville</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>4 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;1:15&gt;<br/>* ...Chamber of Secrets &lt;x&gt;<br/>* ...Prisoner of Azkaban &lt;x&gt;<br/>* ...Goblet of Fire &lt;:15&gt;<br/>* ...Order of the Phoenix &lt;:15&gt;<br/>* ...Half-Blood Prince &lt;x&gt;<br/>* ...Deathly Hallows, Part I &lt;x&gt;<br/>* ...Deathly Hallows, Part II &lt;1:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0000997/"    ><div class="hover-over-image zero-z-index" data-const="ch0000997">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Alastor &#x27;Mad-&#xAD;Eye&#x27; Moody" title="Image of Alastor &#x27;Mad-&#xAD;Eye&#x27; Moody"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NTEyMDE1OF5BMl5BanBnXkFtZTcwNTA1NjUwNA@@._V1._SY209_CR87,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">56.</div>
+<div class="info">
+<b><a     href="/character/ch0000997/"    >Alastor &#x27;Mad-&#xAD;Eye&#x27; Moody</a></b>
+<div class="secondary"><a href="/title/tt0330373/">Harry Potter and the Goblet of Fire</a> <span class="year_type">(2005)</span>, <a href="/name/nm0322407/">Brendan Gleeson</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>3:30 minutes<br/><br/>* ...Goblet of Fire &lt;:30&gt;<br/>* ...Order of the Phoenix &lt;1:30&gt;<br/>* ...Deathly Hallows, Part I &lt;1:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0031947/"    ><div class="hover-over-image zero-z-index" data-const="ch0031947">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Aberforth Dumbledore" title="Image of Aberforth Dumbledore"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4NTQ1OTc1NF5BMl5BanBnXkFtZTcwNjEwMDY4NQ@@._V1._SY209_CR87,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">57.</div>
+<div class="info">
+<b><a     href="/character/ch0031947/"    >Aberforth Dumbledore</a></b>
+<div class="secondary"><a href="/title/tt0373889/">Harry Potter and the Order of the Phoenix</a> <span class="year_type">(2007)</span>, <a href="/name/nm0573143/">Jim McManus</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>3:30 minutes<br/><br/>* ...Order of the Phoenix &lt;x&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<br/>* ...Deathly Hallows, Part II &lt;3:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001004/"    ><div class="hover-over-image zero-z-index" data-const="ch0001004">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Rita Skeeter" title="Image of Rita Skeeter"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTEwNTE5OTE1MTZeQTJeQWpwZ15BbWU3MDQwNTY1MDQ@._V1._SY209_CR87,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">58.</div>
+<div class="info">
+<b><a     href="/character/ch0001004/"    >Rita Skeeter</a></b>
+<div class="secondary"><a href="/title/tt0330373/">Harry Potter and the Goblet of Fire</a> <span class="year_type">(2005)</span>, <a href="/name/nm0001669/">Miranda Richardson</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>3:30 minutes<br/><br/>* ...Goblet of Fire &lt;3:15&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0150625/"    ><div class="hover-over-image zero-z-index" data-const="ch0150625">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Scabior" title="Image of Scabior"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxNDA2MTM0Ml5BMl5BanBnXkFtZTcwODQyODgwNA@@._V1._SY209_CR115,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">59.</div>
+<div class="info">
+<b><a     href="/character/ch0150625/"    >Scabior</a></b>
+<div class="secondary"><a href="/title/tt0926084/">Harry Potter and the Deathly Hallows: Part 1</a> <span class="year_type">(2010)</span>, <a href="/name/nm0602941/">Nick Moran</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>3:30 minutes<br/><br/>* ...Deathly Hallows, Part I &lt;2:45&gt;<br/>* ...Deathly Hallows, Part II &lt;:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0083455/"    ><div class="hover-over-image zero-z-index" data-const="ch0083455">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Madame Olympe Maxime" title="Image of Madame Olympe Maxime"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MjQ3NjE4OF5BMl5BanBnXkFtZTcwNzk0NjUwNA@@._V1._SY209_CR87,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">60.</div>
+<div class="info">
+<b><a     href="/character/ch0083455/"    >Madame Olympe Maxime</a></b>
+<div class="secondary"><a href="/title/tt0330373/">Harry Potter and the Goblet of Fire</a> <span class="year_type">(2005)</span>, <a href="/name/nm0209428/">Frances de la Tour</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>3:15 minutes<br/><br/>* ...Goblet of Fire &lt;3&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001052/"    ><div class="hover-over-image zero-z-index" data-const="ch0001052">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Igor Karkaroff" title="Image of Igor Karkaroff"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMDE3NTU0MV5BMl5BanBnXkFtZTcwODg0NjUwNA@@._V1._SY209_CR87,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">61.</div>
+<div class="info">
+<b><a     href="/character/ch0001052/"    >Igor Karkaroff</a></b>
+<div class="secondary"><a href="/title/tt0330373/">Harry Potter and the Goblet of Fire</a> <span class="year_type">(2005)</span>, <a href="/name/nm0084759/">Predrag Bjelac</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>3:15 minutes<br/><br/>* ...Goblet of Fire &lt;3:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001058/"    ><div class="hover-over-image zero-z-index" data-const="ch0001058">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Nigel" title="Image of Nigel"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2Nzg4ODc4MF5BMl5BanBnXkFtZTcwNzAwMjk0Mg@@._V1._SY209_CR176,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">62.</div>
+<div class="info">
+<b><a     href="/character/ch0001058/"    >Nigel</a></b>
+<div class="secondary"><a href="/title/tt0417741/">Harry Potter and the Half-Blood Prince</a> <span class="year_type">(2009)</span>, <a href="/name/nm1701576/">William Melling</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>3 minutes<br/><br/>* ...Goblet of Fire &lt;:30&gt;<br/>* ...Order of the Phoenix &lt;1:15&gt;<br/>* ...Half-Blood Prince &lt;:15&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<br/>* ...Deathly Hallows, Part II &lt;:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001049/"    ><div class="hover-over-image zero-z-index" data-const="ch0001049">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Kreacher" title="Image of Kreacher"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3NDc3ODA2OV5BMl5BanBnXkFtZTYwNDgwNTg3._V1._SY209_CR103,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">63.</div>
+<div class="info">
+<b><a     href="/character/ch0001049/"    >Kreacher</a></b>
+<div class="secondary"><a href="/title/tt0373889/">Harry Potter and the Order of the Phoenix</a> <span class="year_type">(2007)</span>, <a href="/name/nm0061063/">Timothy Bateson</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>3 minutes<br/><br/>* ...Order of the Phoenix &lt;:45&gt;<br/>* ...Deathly Hallows, Part I &lt;2:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0138249/"    ><div class="hover-over-image zero-z-index" data-const="ch0138249">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Mundungus Fletcher" title="Image of Mundungus Fletcher"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyODY2MjE2M15BMl5BanBnXkFtZTcwNTIyODgwNA@@._V1._SY209_CR134,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">64.</div>
+<div class="info">
+<b><a     href="/character/ch0138249/"    >Mundungus Fletcher</a></b>
+<div class="secondary"><a href="/title/tt0926084/">Harry Potter and the Deathly Hallows: Part 1</a> <span class="year_type">(2010)</span>, <a href="/name/nm0511580/">Andy Linden</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>3 minutes<br/><br/>* ...Deathly Hallows, Part I &lt;3&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0252583/"    ><div class="hover-over-image zero-z-index" data-const="ch0252583">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Bogrod" title="Image of Bogrod"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0NDAxNTYwOV5BMl5BanBnXkFtZTcwNzEwMDY4NQ@@._V1._SY209_CR87,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">65.</div>
+<div class="info">
+<b><a     href="/character/ch0252583/"    >Bogrod</a></b>
+<div class="secondary"><a href="/title/tt1201607/">Harry Potter and the Deathly Hallows: Part 2</a> <span class="year_type">(2011)</span>, <a href="/name/nm1697773/">Jon Key</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>3 minutes<br/><br/>* ...Deathly Hallows, Part II &lt;3&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001041/"    ><div class="hover-over-image zero-z-index" data-const="ch0001041">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of The Sorting Hat" title="Image of The Sorting Hat"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwOTMzNzkxNV5BMl5BanBnXkFtZTYwMzY0NTg3._V1._SY209_CR90,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">66.</div>
+<div class="info">
+<b><a     href="/character/ch0001041/"    >The Sorting Hat</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0680587/">Leslie Phillips</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>3 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;2&gt;<br/>* ...Chamber of Secrets &lt;:45&gt;<br/>* ...Deathly Hallows, Part II &lt;:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001034/"    ><div class="hover-over-image zero-z-index" data-const="ch0001034">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of James Potter" title="Image of James Potter"
+
+     src="http://i.media-imdb.com/images/SFd8baa66b3dedf9a5e6ce2be3bbd48ac7/nopicture/medium/name.png" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">67.</div>
+<div class="info">
+<b><a     href="/character/ch0001034/"    >James Potter</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0712628/">Adrian Rawlins</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>2:45 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;1&gt;<br/>* ...Chamber of Secrets &lt;x&gt;<br/>* ...Prisoner of Azkaban &lt;x&gt;<br/>* ...Goblet of Fire &lt;:15&gt;<br/>* ...Order of the Phoenix &lt;:30&gt;<br/>* ...Deathly Hallows, Part I &lt;x&gt;<br/>* ...Deathly Hallows, Part II &lt;:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0054398/"    ><div class="hover-over-image zero-z-index" data-const="ch0054398">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Katie Bell" title="Image of Katie Bell"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwNjMxNTExOF5BMl5BanBnXkFtZTYwMDE2MDg3._V1._SY209_CR90,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">68.</div>
+<div class="info">
+<b><a     href="/character/ch0054398/"    >Katie Bell</a></b>
+<div class="secondary"><a href="/title/tt0295297/">Harry Potter and the Chamber of Secrets</a> <span class="year_type">(2002)</span>, <a href="/name/nm1092552/">Emily Dale</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>2:45 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;:30&gt;<br/>* ...Chamber of Secrets &lt;:30&gt;<br/>* ...Half-Blood Prince &lt;1&gt;<br/>* ...Deathly Hallows, Part II &lt;:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001013/"    ><div class="hover-over-image zero-z-index" data-const="ch0001013">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Moaning Myrtle" title="Image of Moaning Myrtle"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BN2VjYzFmMmItMzYyMi00ZjM1LWI4Y2QtMzg3ZGE2ZDY2MDJkXkEyXkFqcGdeQXVyNTg3Njg4ODI@._V1._SY209_CR116,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">69.</div>
+<div class="info">
+<b><a     href="/character/ch0001013/"    >Moaning Myrtle</a></b>
+<div class="secondary"><a href="/title/tt0295297/">Harry Potter and the Chamber of Secrets</a> <span class="year_type">(2002)</span>, <a href="/name/nm0376602/">Shirley Henderson</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>2:45 minutes<br/><br/>* ...Chamber of Secrets &lt;1:30&gt;<br/>* ...Goblet of Fire &lt;1:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001035/"    ><div class="hover-over-image zero-z-index" data-const="ch0001035">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Aunt Marge" title="Image of Aunt Marge"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyNjUwODYxOV5BMl5BanBnXkFtZTYwMTI0NTk2._V1._SY209_CR81,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">70.</div>
+<div class="info">
+<b><a     href="/character/ch0001035/"    >Aunt Marge</a></b>
+<div class="secondary"><a href="/title/tt0304141/">Harry Potter and the Prisoner of Azkaban</a> <span class="year_type">(2004)</span>, <a href="/name/nm0274913/">Pam Ferris</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>2:45 minutes<br/><br/>* ...Prisoner of Azkaban &lt;2:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0209595/"    ><div class="hover-over-image zero-z-index" data-const="ch0209595">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Minister Rufus Scrimgeour" title="Image of Minister Rufus Scrimgeour"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1MzMzMDU5Nl5BMl5BanBnXkFtZTcwNzAyODgwNA@@._V1._SY209_CR115,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">71.</div>
+<div class="info">
+<b><a     href="/character/ch0209595/"    >Minister Rufus Scrimgeour</a></b>
+<div class="secondary"><a href="/title/tt0926084/">Harry Potter and the Deathly Hallows: Part 1</a> <span class="year_type">(2010)</span>, <a href="/name/nm0631490/">Bill Nighy</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>2:30 minutes<br/><br/>* ...Deathly Hallows Part I &lt;2:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0062286/"    ><div class="hover-over-image zero-z-index" data-const="ch0062286">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Blaise Zabini" title="Image of Blaise Zabini"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BNmZlNjMxZjAtYzZjZi00YWNmLWJjMTgtZGQ2YWY0NGQ4YzlmXkEyXkFqcGdeQXVyNjczOTIyOTU@._V1._SY209_CR177,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">72.</div>
+<div class="info">
+<b><a     href="/character/ch0062286/"    >Blaise Zabini</a></b>
+<div class="secondary"><a href="/title/tt0417741/">Harry Potter and the Half-Blood Prince</a> <span class="year_type">(2009)</span>, <a href="/name/nm2857909/">Louis Cordice</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>2:30 minutes<br/><br/>* ...Half-Blood Prince &lt;1&gt;<br/>* ...Deathly Hallows, Part II &lt;1:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0059726/"    ><div class="hover-over-image zero-z-index" data-const="ch0059726">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Cormac McLaggen" title="Image of Cormac McLaggen"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMGEwODI0ZmYtMWQ5YS00ZWIwLWFiYzYtMGVmOWY2N2VjM2VjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjczOTIyOTU@._V1._SX140_CR0,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">73.</div>
+<div class="info">
+<b><a     href="/character/ch0059726/"    >Cormac McLaggen</a></b>
+<div class="secondary"><a href="/title/tt0417741/">Harry Potter and the Half-Blood Prince</a> <span class="year_type">(2009)</span>, <a href="/name/nm2238815/">Freddie Stroma</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>2:30 minutes<br/><br/>* ...Half-Blood Prince &lt;1:30&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<br/>* ...Deathly Hallows, Part II &lt;:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0142364/"    ><div class="hover-over-image zero-z-index" data-const="ch0142364">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Madam Pomfrey" title="Image of Madam Pomfrey"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2Nzg4ODc4MF5BMl5BanBnXkFtZTcwNzAwMjk0Mg@@._V1._SY209_CR176,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">74.</div>
+<div class="info">
+<b><a     href="/character/ch0142364/"    >Madam Pomfrey</a></b>
+<div class="secondary"><a href="/title/tt0295297/">Harry Potter and the Chamber of Secrets</a> <span class="year_type">(2002)</span>, <a href="/name/nm0428121/">Gemma Jones</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>2:15 minutes<br/><br/>* ...Chamber of Secrets &lt;1:15&gt;<br/>* ...Half-Blood Prince &lt;:45&gt;<br/>* ...Deathly Hallows, Part II &lt;:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0151291/"    ><div class="hover-over-image zero-z-index" data-const="ch0151291">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Helena Ravenclaw" title="Image of Helena Ravenclaw"
+
+     src="http://i.media-imdb.com/images/SFd8baa66b3dedf9a5e6ce2be3bbd48ac7/nopicture/medium/name.png" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">75.</div>
+<div class="info">
+<b><a     href="/character/ch0151291/"    >Helena Ravenclaw</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0949926/">Nina Young</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>2:15 minutes<br/><br/>* ...Deathly Hallows, Part II &lt;2:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001027/"    ><div class="hover-over-image zero-z-index" data-const="ch0001027">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Professor Pomona Sprout" title="Image of Professor Pomona Sprout"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BYjkxZjc2ZGItOTBlMS00MTY3LWExZjMtMDJjM2YzZjgwNjc4XkEyXkFqcGdeQXVyNjAwODA4Mw@@._V1._SY209_CR68,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">76.</div>
+<div class="info">
+<b><a     href="/character/ch0001027/"    >Professor Pomona Sprout</a></b>
+<div class="secondary"><a href="/title/tt0295297/">Harry Potter and the Chamber of Secrets</a> <span class="year_type">(2002)</span>, <a href="/name/nm0546816/">Miriam Margolyes</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>2 minutes<br/><br/>* ...Chamber of Secrets &lt;1:30&gt;<br/>* ...Deathly Hallows, Part II &lt;:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0098267/"    ><div class="hover-over-image zero-z-index" data-const="ch0098267">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Death Eater Yaxley" title="Image of Death Eater Yaxley"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BNzUxODUxMjE5NV5BMl5BanBnXkFtZTcwNjYyODgwNA@@._V1._SY209_CR105,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">77.</div>
+<div class="info">
+<b><a     href="/character/ch0098267/"    >Death Eater Yaxley</a></b>
+<div class="secondary"><a href="/title/tt0926084/">Harry Potter and the Deathly Hallows: Part 1</a> <span class="year_type">(2010)</span>, <a href="/name/nm0611932/">Peter Mullan</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>2 minutes<br/><br/>* ...Deathly Hallows, Part I &lt;2&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0230352/"    ><div class="hover-over-image zero-z-index" data-const="ch0230352">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Amycus Carrow" title="Image of Amycus Carrow"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3Nzc3NTQ1M15BMl5BanBnXkFtZTcwMTEwMDY4NQ@@._V1._SY209_CR93,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">78.</div>
+<div class="info">
+<b><a     href="/character/ch0230352/"    >Amycus Carrow</a></b>
+<div class="secondary"><a href="/title/tt1201607/">Harry Potter and the Deathly Hallows: Part 2</a> <span class="year_type">(2011)</span>, <a href="/name/nm0408591/">Ralph Ineson</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>2 minutes<br/><br/>* ...Half-Blood Prince &lt;:45&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<br/>* ...Deathly Hallows, Part II &lt;1&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0230351/"    ><div class="hover-over-image zero-z-index" data-const="ch0230351">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Alecto Carrow" title="Image of Alecto Carrow"
+
+     src="http://i.media-imdb.com/images/SFd8baa66b3dedf9a5e6ce2be3bbd48ac7/nopicture/medium/name.png" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">79.</div>
+<div class="info">
+<b><a     href="/character/ch0230351/"    >Alecto Carrow</a></b>
+<div class="secondary"><a href="/title/tt0926084/">Harry Potter and the Deathly Hallows: Part 1</a> <span class="year_type">(2010)</span>, <a href="/name/nm2993924/">Suzanne Toase</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>2 minutes<br/><br/>* ...Half-Blood Prince &lt;:45&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<br/>* ...Deathly Hallows, Part II &lt;1&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001036/"    ><div class="hover-over-image zero-z-index" data-const="ch0001036">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Stan Shunpike" title="Image of Stan Shunpike"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BNjU3NzA0OTA3OV5BMl5BanBnXkFtZTcwMzI3NjgyMw@@._V1._SY209_CR85,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">80.</div>
+<div class="info">
+<b><a     href="/character/ch0001036/"    >Stan Shunpike</a></b>
+<div class="secondary"><a href="/title/tt0304141/">Harry Potter and the Prisoner of Azkaban</a> <span class="year_type">(2004)</span>, <a href="/name/nm0408846/">Lee Ingleby</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>2 minutes<br/><br/>* ...Prisoner of Azkaban &lt;2&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0251604/"    ><div class="hover-over-image zero-z-index" data-const="ch0251604">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Albus Severus Potter" title="Image of Albus Severus Potter"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BYjlkMGM5Y2EtMTU1ZC00MDQ3LThhNDktZjZmZjY4MWI1ZGJjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjczOTIyOTU@._V1._SY209_CR139,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">81.</div>
+<div class="info">
+<b><a     href="/character/ch0251604/"    >Albus Severus Potter</a></b>
+<div class="secondary"><a href="/title/tt1201607/">Harry Potter and the Deathly Hallows: Part 2</a> <span class="year_type">(2011)</span>, <a href="/name/nm4096849/">Arthur Bowen</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1:45 minutes<br/><br/>* ...Deathly Hallows, Part II &lt;1:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0138238/"    ><div class="hover-over-image zero-z-index" data-const="ch0138238">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Bill Weasley" title="Image of Bill Weasley"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyNzY1NjM1NF5BMl5BanBnXkFtZTcwNzEyODgwNA@@._V1._SY209_CR115,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">82.</div>
+<div class="info">
+<b><a     href="/character/ch0138238/"    >Bill Weasley</a></b>
+<div class="secondary"><a href="/title/tt0926084/">Harry Potter and the Deathly Hallows: Part 1</a> <span class="year_type">(2010)</span>, <a href="/name/nm1727304/">Domhnall Gleeson</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1:45 minutes<br/><br/>* ...Deathly Hallows, Part I &lt;1:15&gt;<br/>* ...Deathly Hallows, Part II &lt;:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001042/"    ><div class="hover-over-image zero-z-index" data-const="ch0001042">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Angelina Johnson" title="Image of Angelina Johnson"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BY2I0N2RlMTItOTA3NC00ZTQ2LWEzMTEtYjE0MWRkNmRiODFhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjczOTIyOTU@._V1._SY209_CR4,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">83.</div>
+<div class="info">
+<b><a     href="/character/ch0001042/"    >Angelina Johnson</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm1092815/">Danielle Tabor</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1:45 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;:30&gt;<br/>* ...Chamber of Secrets &lt;:30&gt;<br/>* ...Prisoner of Azkaban &lt;:30&gt;<br/>* ...Goblet of Fire &lt;:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001028/"    ><div class="hover-over-image zero-z-index" data-const="ch0001028">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Madame Hooch" title="Image of Madame Hooch"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3MTcwMzUyNF5BMl5BanBnXkFtZTYwMzk0NTg3._V1._SX140_CR0,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">84.</div>
+<div class="info">
+<b><a     href="/character/ch0001028/"    >Madame Hooch</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0910738/">Zoë Wanamaker</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1:45 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;1:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0055327/"    ><div class="hover-over-image zero-z-index" data-const="ch0055327">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Romilda Vane" title="Image of Romilda Vane"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BOTkxMTgzMmEtZDc4ZC00ZGU3LWE4MTEtMDhjYzliY2IyNTE1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjczOTIyOTU@._V1._SY209_CR9,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">85.</div>
+<div class="info">
+<b><a     href="/character/ch0055327/"    >Romilda Vane</a></b>
+<div class="secondary"><a href="/title/tt0417741/">Harry Potter and the Half-Blood Prince</a> <span class="year_type">(2009)</span>, <a href="/name/nm2872264/">Anna Shaffer</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1:45 minutes<br/><br/>* ...Half-Blood Prince &lt;1&gt;<br/>* ...Deathly Hallows, Part I &lt;:15&gt;<br/>* ...Deathly Hallows, Part II &lt;:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0062531/"    ><div class="hover-over-image zero-z-index" data-const="ch0062531">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Fenrir Greyback" title="Image of Fenrir Greyback"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2ODU4NDk3M15BMl5BanBnXkFtZTcwMzM4NTk2Mg@@._V1._SY209_CR115,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">86.</div>
+<div class="info">
+<b><a     href="/character/ch0062531/"    >Fenrir Greyback</a></b>
+<div class="secondary"><a href="/title/tt0417741/">Harry Potter and the Half-Blood Prince</a> <span class="year_type">(2009)</span>, <a href="/name/nm0499270/">Dave Legeno</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1:45 minutes<br/><br/>* ...Half-Blood Prince &lt;1:15&gt;<br/>* ...Deathly Hallows, Part II &lt;:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0097683/"    ><div class="hover-over-image zero-z-index" data-const="ch0097683">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Grawp" title="Image of Grawp"
+
+     src="http://i.media-imdb.com/images/SFd8baa66b3dedf9a5e6ce2be3bbd48ac7/nopicture/medium/name.png" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">87.</div>
+<div class="info">
+<b><a     href="/character/ch0097683/"    >Grawp</a></b>
+<div class="secondary"><a href="/title/tt0373889/">Harry Potter and the Order of the Phoenix</a> <span class="year_type">(2007)</span>, <a href="/name/nm0560806/">Tony Maudsley</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1:45 minutes<br/><br/>* ...Order of the Phoenix &lt;1:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0211465/"    ><div class="hover-over-image zero-z-index" data-const="ch0211465">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Mary Cattermole" title="Image of Mary Cattermole"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMzczNTI5ODUyNF5BMl5BanBnXkFtZTcwMTMyODgwNA@@._V1._SY209_CR117,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">88.</div>
+<div class="info">
+<b><a     href="/character/ch0211465/"    >Mary Cattermole</a></b>
+<div class="secondary"><a href="/title/tt0926084/">Harry Potter and the Deathly Hallows: Part 1</a> <span class="year_type">(2010)</span>, <a href="/name/nm0281448/">Kate Fleetwood</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1:45 minutes<br/><br/>* ...Deathly Hallows, Part I &lt;1:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001006/"    ><div class="hover-over-image zero-z-index" data-const="ch0001006">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Nearly Headless Nick" title="Image of Nearly Headless Nick"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3MzIxMzUzOF5BMl5BanBnXkFtZTYwNTU2MDg3._V1._SY209_CR81,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">89.</div>
+<div class="info">
+<b><a     href="/character/ch0001006/"    >Nearly Headless Nick</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0000092/">John Cleese</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1:30 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;:45&gt;<br/>* ...Chamber of Secrets &lt;:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0001056/"    ><div class="hover-over-image zero-z-index" data-const="ch0001056">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Amos Diggory" title="Image of Amos Diggory"
+
+     src="http://i.media-imdb.com/images/SFd8baa66b3dedf9a5e6ce2be3bbd48ac7/nopicture/medium/name.png" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">90.</div>
+<div class="info">
+<b><a     href="/character/ch0001056/"    >Amos Diggory</a></b>
+<div class="secondary"><a href="/title/tt0330373/">Harry Potter and the Goblet of Fire</a> <span class="year_type">(2005)</span>, <a href="/name/nm0712575/">Jeff Rawle</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1:30 minutes<br/><br/>* ...Goblet of Fire &lt;1:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001045/"    ><div class="hover-over-image zero-z-index" data-const="ch0001045">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Mrs. Arabella Figg" title="Image of Mrs. Arabella Figg"
+
+     src="http://i.media-imdb.com/images/SFd8baa66b3dedf9a5e6ce2be3bbd48ac7/nopicture/medium/name.png" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">91.</div>
+<div class="info">
+<b><a     href="/character/ch0001045/"    >Mrs. Arabella Figg</a></b>
+<div class="secondary"><a href="/title/tt0373889/">Harry Potter and the Order of the Phoenix</a> <span class="year_type">(2007)</span>, <a href="/name/nm0402898/">Kathryn Hunter</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1:30 minutes<br/><br/>* ...Order of the Phoenix &lt;1:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0154255/"    ><div class="hover-over-image zero-z-index" data-const="ch0154255">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Firenze" title="Image of Firenze"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BZmNjODUyNjItZDczOS00NjlhLTg1ZGUtM2IzMjcwYTViNzAxXkEyXkFqcGdeQXVyNjAwODA4Mw@@._V1._SY209_CR91,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">92.</div>
+<div class="info">
+<b><a     href="/character/ch0154255/"    >Firenze</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm0269909/">Ray Fearon</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1:30 minutes<br/><br/>*...Philisopher's/Sorcerer's Stone &lt;1:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001054/"    ><div class="hover-over-image zero-z-index" data-const="ch0001054">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Colin Creevey" title="Image of Colin Creevey"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3MTQyNDgyMF5BMl5BanBnXkFtZTYwNzE2MDg3._V1._SY209_CR14,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">93.</div>
+<div class="info">
+<b><a     href="/character/ch0001054/"    >Colin Creevey</a></b>
+<div class="secondary"><a href="/title/tt0295297/">Harry Potter and the Chamber of Secrets</a> <span class="year_type">(2002)</span>, <a href="/name/nm1087234/">Hugh Mitchell</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1:15 minutes<br/><br/>* ...Chamber of Secrets &lt;1:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0092878/"    ><div class="hover-over-image zero-z-index" data-const="ch0092878">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Alicia Spinnet" title="Image of Alicia Spinnet"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0NjcxOTE1MF5BMl5BanBnXkFtZTYwMjc0NTg3._V1._SY209_CR88,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">94.</div>
+<div class="info">
+<b><a     href="/character/ch0092878/"    >Alicia Spinnet</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm1091399/">Leilah Sutherland</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1:15 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;:45&gt;<br/>* ...Chamber of Secrets &lt;:30&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001057/"    ><div class="hover-over-image zero-z-index" data-const="ch0001057">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Lee Jordan" title="Image of Lee Jordan"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMzcxM2NjZjYtN2VjOS00YWM5LThjY2ItODk2MGIzYmZkNzFmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjczOTIyOTU@._V1._SY209_CR112,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">95.</div>
+<div class="info">
+<b><a     href="/character/ch0001057/"    >Lee Jordan</a></b>
+<div class="secondary"><a href="/title/tt0241527/">Harry Potter and the Sorcerer&#x27;s Stone</a> <span class="year_type">(2001)</span>, <a href="/name/nm1009350/">Luke Youngblood</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;:45&gt;<br/>* ...Chamber of Secrets &lt;:15&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0048528/"    ><div class="hover-over-image zero-z-index" data-const="ch0048528">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Elphias Doge" title="Image of Elphias Doge"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1NDc5NjE1NF5BMl5BanBnXkFtZTYwNjkwNTg3._V1._SY209_CR111,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">96.</div>
+<div class="info">
+<b><a     href="/character/ch0048528/"    >Elphias Doge</a></b>
+<div class="secondary"><a href="/title/tt0373889/">Harry Potter and the Order of the Phoenix</a> <span class="year_type">(2007)</span>, <a href="/name/nm0142197/">Peter Cartwright</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1 minutes<br/><br/>* ...Deathly Hallows, Part I &lt;1&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0001030/"    ><div class="hover-over-image zero-z-index" data-const="ch0001030">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Fat Lady in Painting" title="Image of Fat Lady in Painting"
+
+     src="http://i.media-imdb.com/images/SFd8baa66b3dedf9a5e6ce2be3bbd48ac7/nopicture/medium/name.png" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">97.</div>
+<div class="info">
+<b><a     href="/character/ch0001030/"    >Fat Lady in Painting</a></b>
+<div class="secondary"><a href="/title/tt0304141/">Harry Potter and the Prisoner of Azkaban</a> <span class="year_type">(2004)</span>, <a href="/name/nm0294067/">Dawn French</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>1 minutes<br/><br/>* ...Philosopher's/Sorcerer's Stone &lt;:15&gt;<br/>* ...Prisoner of Azkaban &lt;:45&gt;<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+      </div>
+        <div class="see-more">
+            <div class="pages">
+                <div class="pagination">
+                   
+
+                </div>
+               <br clear="all">
+           </div>
+            <div class="create">
+
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+
+
+    
+<iframe id="Comments" class="facebook_comments" src="http://i.media-imdb.com/images/SFe32a6d39ada6dff5131a4374d705052c/facebook/comments.html#app_id=127059960673829&#x26;el_id=Comments&#x26;width=646&#x26;topic_path=%2Flist%2FZPyLxQqCSeo%2F&#x26;extra=49e6c%3Dda29" allowtransparency="true" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe>
+
+
+  </div>
+  <div id="sidebar">
+    <div class="aux-ad-widget-2">
+        
+
+
+
+<!-- begin TOP_RHS -->
+<div id="top_rhs_wrapper" class="dfp_slot">
+<script>
+window.generic = window.generic || {};
+generic.alphalfaComponents = {
+"alphalfa-container.html" : "https://ia.media-imdb.com/images/G/01/imdbads/alphalfa-container-253150330._CB522736199_.html",
+"js/collections/alphalfa.js" : "https://ia.media-imdb.com/images/G/01/imdbads/js/collections/alphalfa-3292747090._CB522736629_.js"
+};
+</script>
+<script type="text/javascript">
+doWithAds(function(){
+if ('dfp_slot' != 'injected_slot') {
+ad_utils.register_ad('top_rhs');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=196679806076;ord=196679806076?" frameborder="0" id="top_rhs" marginwidth="0" marginheight="0" name="top_rhs" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="300" data-original-height="250" width="300" height="250" ></iframe> </div>
+<noscript> <a href="http://pubads.g.doubleclick.net/gampad/jump?&iu=4215/imdb2.consumer.main/lists&sz=300x250|300x600|11x1&t=p%3Dtr%26fv%3D1%26id%3Dls031310246%26ab%3Df%26bpx%3D1%26c%3D1&tile=1&c=196679806076" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?&iu=4215/imdb2.consumer.main/lists&sz=300x250|300x600|11x1&t=p%3Dtr%26fv%3D1%26id%3Dls031310246%26ab%3Df%26bpx%3D1%26c%3D1&tile=1&c=196679806076" border="0" alt="advertisement" /> </a> </noscript>
+<div id="top_rhs_reflow_helper"></div>
+<div id="top_rhs_after" class="after_ad" style="visibility:hidden;">
+<a class="yesScript" href="#" onclick="ad_utils.show_ad_feedback('top_rhs');return false;" id="ad_feedback_top_rhs">ad feedback</a>
+</div>
+<script id="top_rhs_rendering">
+doWithAds(function(){
+if ('dfp_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('top_rhs');
+} else {
+ad_utils.gpt.render_ad('top_rhs');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End TOP_RHS --><!-- _get_ad_for_slot(TOP_RHS) -->
+
+    </div>
+
+    <div class="aux-content-widget-2">
+        <h3>List Activity</h3>
+        <div class="list-activity">
+            <p><strong>Views:</strong>&nbsp; 2,930 | last 3 days: 23
+</p>
+            <div class="report-this">
+                <span class="aside">
+                <a href="/listo/report?list=ls031310246">Report this list</a>
+                </span>
+            </div>
+            <hr>
+            <h3>Tell Your Friends</h3>
+            <div class="social_networking" style="width:100%">
+                <span>
+    <strong>Share</strong> this list:
+</span>
+
+
+<a onclick="(new Image()).src = '/list/_ajax/log?list_id=ls031310246&msg=share-twitter';
+window.open('http://twitter.com/home?status=IMDb%3A%20Characters%20By%20Screen%20Time%3A%20Harry%20Potter%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Flist%2Fls031310246%2F', 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/home?status=IMDb%3A%20Characters%20By%20Screen%20Time%3A%20Harry%20Potter%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Flist%2Fls031310246%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
+            </div>
+            
+            <script type="text/javascript">
+generic.monitoring.start_timing("facebook_like_iframe");
+</script>
+<div class="social_networking_like" style="width:100%"><iframe  id="iframe_like" name="fbLikeIFrame_0" class="social-iframe" scrolling="no" frameborder="0" allowTransparency="allowTransparency" width=280 height=24></iframe></div>
+
+        </div>
+    </div>
+
+    <div class="aux-content-widget-2">
+        <h3>Create a new list</h3>
+List your movie, TV & celebrity picks.
+&nbsp;&nbsp;
+<a href="/list/create" onclick="(new Image()).src='/rg/list/list-rhs-create/images/b.gif?link=%2Flist%2Fcreate';">Create a new list</a>&nbsp;&raquo;
+
+    </div>
+
+
+    <div class="aux-content-widget-2">
+        
+    
+
+
+<div class="">
+  <h3>Other Lists By ninewheels0</h3>
+  <div class="list-preview odd">
+<div class="list-preview-item-narrow">
+<a     href="/list/ls033828946/"    ><img 
+     height="86" 
+     width="86"
+     alt="image of character" title="image of character"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwOTI2MjEzNV5BMl5BanBnXkFtZTgwNzc5MDk1NDE@._V1._SX86_CR0,0,86,86_.jpg" class="" />
+</a></div>
+
+    <div class="list_name"><b><a     href="/list/ls033828946/"    >Characters By Screen Time: Marvel Cinematic Universe</a></b></div>
+    <div class="list_meta">a list of 293 characters</div>
+    <div class="clear">&nbsp;</div>
+  </div>
+  <div class="list-preview even">
+<div class="list-preview-item-narrow">
+<a     href="/list/ls068404406/"    ><img 
+     height="86" 
+     width="86"
+     alt="image of character" title="image of character"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMDM2Nzc5Nl5BMl5BanBnXkFtZTgwNzc0NTE0NjE@._V1._SX86_CR0,0,86,86_.jpg" class="" />
+</a></div>
+
+    <div class="list_name"><b><a     href="/list/ls068404406/"    >Characters By Screen Time: Into the Badlands</a></b></div>
+    <div class="list_meta">a list of 14 characters</div>
+    <div class="clear">&nbsp;</div>
+  </div>
+  <div class="list-preview odd">
+
+
+        <div class="list-preview-item-narrow">
+<a     href="/list/ls058305058/"    ><img 
+     height="86" 
+     width="86"
+     alt="image of name" title="image of name"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1MzE4MjAzMV5BMl5BanBnXkFtZTcwMjA2MTMyMw@@._V1._SX86_CR0,0,86,86_.jpg" class="" />
+</a></div>
+
+    <div class="list_name"><b><a     href="/list/ls058305058/"    >Fan Cast: X-Men</a></b></div>
+    <div class="list_meta">a list of 32 people</div>
+    <div class="clear">&nbsp;</div>
+  </div>
+  <div class="list-preview even">
+<div class="list-preview-item-narrow">
+<a     href="/list/ls072544477/"    ><img 
+     height="86" 
+     width="86"
+     alt="image of character" title="image of character"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BNmVlNmU4MDQtMWQ2My00OWVhLTliY2QtYzNhMDJhNjczMGIyL2ltYWdlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1._SY86_CR16,0,86,86_.jpg" class="" />
+</a></div>
+
+    <div class="list_name"><b><a     href="/list/ls072544477/"    >Characters By Screen Time: X-Men</a></b></div>
+    <div class="list_meta">a list of 56 characters</div>
+    <div class="clear">&nbsp;</div>
+  </div>
+  <div class="list-preview odd">
+<div class="list-preview-item-narrow">
+<a     href="/list/ls036115103/"    ><img 
+     height="86" 
+     width="86"
+     alt="image of character" title="image of character"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BZmE1YjFkNGQtMjYyNC00NmFjLTkyNjQtNDMxYzc5ZTQ4MGZhXkEyXkFqcGdeQXVyNjczMDY1MzM@._V1._SY86_CR21,0,86,86_.jpg" class="" />
+</a></div>
+
+    <div class="list_name"><b><a     href="/list/ls036115103/"    >Characters By Screen Time: Marvel Cinematic Universe (movies only)</a></b></div>
+    <div class="list_meta">a list of 129 characters</div>
+    <div class="clear">&nbsp;</div>
+  </div>
+   <div class="see-more"><a     href="/user/ur51880615/lists"    >See all lists by ninewheels0</a>&nbsp;&raquo;</div>
+</div>
+
+    </div>
+
+    <div class="aux-content-widget-2">
+<h4 class="inline">Feedback?</h4>
+<a href="http://www.imdb.com/help/show_leaf?getsatisfaction">Tell us what you think about this feature.</a>
+</div>
+
+  </div>
+  <div class="clear">&nbsp;</div>
+</div>
+
+</div>
+
+
+
+
+<div id="footer" class="ft">
+  <div id="rvi-div">
+    <div class="recently-viewed">&nbsp;</div>
+    <br class="clear">
+  </div>
+
+  
+
+
+
+<!-- begin BOTTOM_AD -->
+<div id="bottom_ad_wrapper" class="cornerstone_slot">
+<script type="text/javascript">
+doWithAds(function(){
+if ('cornerstone_slot' != 'injected_slot') {
+ad_utils.register_ad('bottom_ad');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-blank-serverside frameborder="0" id="bottom_ad" marginwidth="0" marginheight="0" name="bottom_ad" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="728" data-original-height="90" width="728" height="90" ></iframe> </div>
+<div id="bottom_ad_reflow_helper"></div>
+<script id="bottom_ad_rendering">
+doWithAds(function(){
+if ('cornerstone_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('bottom_ad');
+} else {
+ad_utils.gpt.render_ad('bottom_ad');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End BOTTOM_AD --><!-- _get_ad_for_slot(BOTTOM_AD) -->
+
+
+  <div class="container footer-grid-wrapper">
+    <div class="grid-row footer-row">
+      <div class="grid-col outside">
+        <h3>IMDb Everywhere</h3>
+        <div class="app-links">
+          
+
+<a href="https://itunes.apple.com/app/imdb-movies-tv/id342792525"    title="Get the IMDb App on the Apple App Store"
+  target="_blank" >
+            <span class="desktop-sprite appstore-apple"></span>
+          </a>
+          
+
+<a href="https://play.google.com/store/apps/details?id=com.imdb.mobile"    title="Get the IMDb app on Google Play"
+  target="_blank" >
+            <span class="desktop-sprite appstore-google"></span>
+          </a>
+          
+
+<a href="http://www.amazon.com/IMDb-Mobile-LLC-Movies-TV/dp/B004GISARW/?amp&ref=mas_ba_imdb_dp&amp&pf_rd_m=ATVPDKIKX0DER&amp&pf_rd_s=right-1&amp&pf_rd_r=0H6RNAMSQ70FM7ATR0WN&amp&pf_rd_t=101&amp&pf_rd_p=1290998462&amp&pf_rd_i=2350149011&ref_=imdbref_ft_app_amazon&tag=imdb-fire-housead-20"    title="Get the IMDb app on Amazon Appstore for Android"
+  target="_blank" >
+            <span class="desktop-sprite appstore-amazon"></span>
+          </a>
+        </div>
+
+        <p>Find showtimes, watch trailers, browse photos, track your Watchlist and rate your favorite movies and TV shows on your phone or tablet!</p>
+
+        <a     href="http://m.imdb.com?ref=ft_mdot"   class="touchlink"
+    >IMDb Mobile site</a>
+      </div>
+      <div class="grid-col center">
+        <div class="link-bar icon-link-bar">
+          <h3>Follow IMDb on
+            <div>
+              
+
+
+<a href="https://www.facebook.com/imdb"    title="Follow IMDb on Facebook"
+  target="_blank" >
+  <span class="desktop-sprite follow-facebook"></span>
+</a>
+
+
+<a href="https://twitter.com/imdb"    title="Follow IMDb on Twitter"
+  target="_blank" >
+  <span class="desktop-sprite follow-twitter"></span>
+</a>
+
+
+<a href="https://instagram.com/imdb/"    title="Follow IMDb on Instagram"
+  target="_blank" >
+  <span class="desktop-sprite follow-instagram"></span>
+</a>
+
+            </div>
+          </h3>
+        </div>
+      </div>
+      <div class="grid-col outside">
+        <div class="grid-row">
+          <div class="grid-col grid-col-4">
+            <ul class="unstyled">
+              <li>
+
+<a     href="/?ref=ft_hm"    >Home</a></li>
+              <li>
+
+<a     href="/chart/top?ref=ft_250"    >Top Rated Movies</a></li>
+              <li>
+
+<a     href="/chart?ref=ft_cht"    >Box Office</a></li>
+              <li>
+
+<a     href="/sections/tv?ref=ft_tv"    >TV</a></li>
+              <li>
+
+<a     href="/movies-coming-soon?ref=ft_cs"    >Coming Soon</a></li>
+              <li>
+
+<a     href="/a2z?ref=ft_si"    >Site Index</a></li>
+              <li>
+
+<a     href="/search?ref=ft_sr"    >Search</a></li>
+              <li>
+
+<a     href="/movies-in-theaters?ref=ft_inth"    >In Theaters</a></li>
+            </ul>
+          </div>
+          <div class="grid-col grid-col-4">
+            <ul class="unstyled">
+              <li><a     href="/helpdesk/contact?ref=ft_con"    >Contact Us</a></li>
+              <li>
+              </li>
+              <li>
+
+<a     href="/news?ref=ft_nw"    >News</a></li>
+              <li class="spacer"></li>
+              <li>
+
+<a     href="/pressroom?ref=ft_pr"    >Press Room</a></li>
+              <li>
+
+<a     href="/advertising/?ref=ft_ad"    >Advertising</a></li>
+              <li>
+
+<a     href="/jobs?ref=ft_jb"    >Jobs</a></li>
+            </ul>
+          </div>
+          <div class="grid-col grid-col-4">
+            <ul class="unstyled">
+              <li><a href="http://pro.imdb.com/signup/index.html?rf=cons_ft_hm&amp;ref_=cons_ft_hm">IMDbPro</a></li>
+              <li><a href="http://www.boxofficemojo.com">Box Office Mojo</a></li>
+              <li><a href="http://www.withoutabox.com">Withoutabox</a></li>
+              <li class="spacer"></li>
+              <li>
+
+<a href="/help/show_article?conditions&ref=ft_cou"    >Conditions of Use</a></li>
+              <li>
+
+<a href="/privacy?ref=ft_pvc"    >Privacy Policy</a></li>
+              <li>
+
+<a href="//www.amazon.com/InterestBasedAds"    >Interest-Based Ads</a></li>
+              <li class="spacer"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="float-right">
+      
+
+<a href="/help/show_article?conditions"    >Copyright &copy;</a> 1990-2017
+      
+
+<a href="/help/"    >IMDb.com, Inc.</a>
+    </div>
+    <div>
+      
+An <img id="amazon_logo" align="middle" style="width:80px;height:19px;border:0 none" src="http://i.media-imdb.com/images/SF9bb191c6827273aa978cab39a3587950/b.gif" alt="Amazon.com"/> company.
+
+    </div>
+  </div>
+  
+  
+
+
+<table class="footer" id="amazon-affiliates">
+  <tr>
+    <td colspan="8">
+      Amazon Affiliates
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <a href="http://www.amazon.com/b?ie=UTF8&node=2676882011&tag=imdbpr1-20">
+          <span class="amazon-affiliate-site-name">Amazon Video</span><br>
+          <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.com/b?ie=UTF8&node=2676882011&tag=imdbpr1-20">
+          <span class="amazon-affiliate-site-name">Prime Video</span><br>
+          <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.de/b?ie=UTF8&node=284266&tag=imdbpr1-de-21">
+          <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.it/b?ie=UTF8&node=412606031&tag=imdbpr1-it-21">
+          <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.fr/b?ie=UTF8&node=405322&tag=imdbpr1-fr-21">
+          <span class="amazon-affiliate-site-name">Amazon France</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.in/movies-tv-shows/b/?ie=UTF&node=976416031&tag=imdbpr1-in-21">
+          <span class="amazon-affiliate-site-name">Amazon India</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.dpreview.com">
+          <span class="amazon-affiliate-site-name">DPReview</span><br>
+          <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.audible.com">
+          <span class="amazon-affiliate-site-name">Audible</span><br>
+          <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+
+                    </div>
+                </div>
+<script src="http://i.media-imdb.com/images/SF539be3987208630802e712857c51a6c9/js/jquery.js" ></script><script src="http://i.media-imdb.com/images/SF36b18edff049920b750040828a4f1ae4/js/jquery/ui-current.js" ></script><script src="http://i.media-imdb.com/images/SF478cec6a48c8de4413dbc404879752d1/js/jquery/plugins/jquery.colorbox-min.js" ></script><script type="text/imdblogin-js" id="login">
+    jQuery(document).ready(function(){
+        window.imdb.login_lightbox("https://secure.imdb.com",
+                       "http://www.imdb.com/list/ls031310246/");
+    });
+</script>
+<script src="http://i.media-imdb.com/images/SF69a064e4ee04de88620684d9a3c7d891/js/cc/loginbox.js" ></script><script src="http://i.media-imdb.com/images/SFa0f32e222aae0be9b65c2204ee716a34/js/navbar.js" ></script><script src="http://i.media-imdb.com/images/SF8f2969cb2414faf9dcba7d2e76a1b28d/js/cc/suggestionsearch.js" charset="UTF-8"></script><script src="http://i.media-imdb.com/images/SFf2291a6d83a10ae4af7d338f0c264c8b/js/cc/video/video-colorbox.js" ></script><script src="http://i.media-imdb.com/images/SF13b529abb2d7f5490100996dd20b6a68/js/jquery/plugins/jquery.appear-1.1.1.min.js" ></script><script src="http://i.media-imdb.com/images/SFc399b05bd79ba94ce3ef78cca4484d68/js/jquery/plugins/jquery.appear.imdb.js" ></script><script src="http://i.media-imdb.com/images/SF7072e2e7a925b100b742d4521b25dabb/js/json.js" ></script><script src="http://i.media-imdb.com/images/SFcc2370c81e496c0b1e687b60dea5c219/js/app/lists/view.js" ></script><script src="http://i.media-imdb.com/images/SF8101fc8e4a27099343e99cd9045298fe/js/app/hover/hover_over_image.js" ></script><script src="http://i.media-imdb.com/images/SF7cd6175852436cd7d03e71594c402ad2/js/cc/rating.js" ></script><script src="http://i.media-imdb.com/images/SF36b60e9ce86dfa44cf5077627accd834/js/cc/watchlist.js" ></script><script type="text/javascript">$('.hover-over-image').hover_over_image();</script><script type="text/javascript">jQuery('.listo').list_view({
+    start: 1,
+    listSize: 97,
+    limit: 97
+});
+</script><script src="http://i.media-imdb.com/images/SFe3ac5d3aeee340c2cd89ef0d3ca611f0/js/app/facebook/comments.js" ></script><script src="http://i.media-imdb.com/images/SF8e85b593be5bcc5a142ac1b486193b6f/js/app/lists/notify.js" ></script><script type="text/javascript">setTimeout(
+        function() { 
+            var url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=0&layout=standard&ref=list_detail%3Asb_atf%3Als031310246&href=http%3A%2F%2Fwww.imdb.com%2Flist%2FZPyLxQqCSeo%2F";
+            var like = document.getElementById('iframe_like');
+            if (like) {
+                like.src = url; 
+                like.onload = function () { 
+                    generic.monitoring.stop_timing('facebook_like_iframe', '', false); 
+                }; 
+            }
+        }
+        , 5
+);
+</script><!-- begin ads footer -->
+
+<!-- Begin SIS code --> 
+<iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" style="display: none;"></iframe>
+<script>
+    setTimeout(function(){
+        try{
+            //sis3.0 pixel
+            var url_sis3 = 'https://s.amazon-adsystem.com/iu3?',
+                params_sis3 = [
+                    "d=imdb.com",
+                    "a1=",
+                    "a2=0101a1823ca3d5d46ce03d4502edf28f095b20f780c29eddcddebefb2933fa9c1e98",
+                    "pId=",
+                    "r=1",
+                    "rP=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls031310246%2F",
+                    "encoding=server",
+                    "cb=196679806076"  
+                ];
+        
+            if (document.getElementById('sis_pixel_sitewide')) {
+                (document.getElementById('sis_pixel_sitewide')).src = url_sis3 + params_sis3.join('&');
+            }
+        }
+        catch(e){
+            if ('consoleLog' in window){
+                consoleLog('Pixel failure ' + e.toString(),'sis');
+            }
+            if (window.ueLogError) { 
+                window.ueLogError(e);
+            }
+        }
+    }, 20);
+</script>
+<!-- End SIS code -->
+
+<!-- begin comscore beacon -->
+<script type="text/javascript" src='https://ia.media-imdb.com/images/G/01/imdbads/js/beacon-1792157672._CB522736519_.js'></script>
+<script type="text/javascript">
+if(window.COMSCORE){
+COMSCORE.beacon({
+c1: 2,
+c2:"6034961",
+c3:"",
+c4:"http://www.imdb.com/list/ls031310246/",
+c5:"",
+c6:"",
+c15:""
+});
+}
+</script>
+<noscript>
+<img src="https://sb.scorecardresearch.com/p?c1=2&c2=6034961&c3=&c4=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls031310246%2F&c5=c6=&15=&cj=1"/>
+</noscript>
+<!-- end comscore beacon -->
+
+<script>
+    doWithAds(function(){
+        (new Image()).src = "http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=196679806076&ord=196679806076";
+    },"unable to request AAN pixel");
+</script>
+
+<!-- end ads footer -->
+<script src="http://i.media-imdb.com/images/SFa4be5baa8d51e22640d81fa1e6773c7c/js/app/clickstream/rvi.js" ></script>
+<!-- h=iop1ad i=2017-07-13 s=legacy(default) t='Thu Jul 13 18:15:12 2017' -->
+        </body>
+</html>
+
+
