@@ -38,7 +38,7 @@ plot = ggplot(data=data, aes(x=character, y=time, fill=movie)) +
   geom_col(position = position_stack(reverse = TRUE)) + 
   ggtitle("Screen Time of Harry Potter Characters") +
   xlab("Character") + ylab("Screen Time (minutes)") +
-  guides(colour = guide_legend(reverse=T)) + 
+  guides(colour = guide_legend(reverse=TRUE)) + 
   scale_y_continuous(breaks=seq(0,500,by=100), labels=seq(0,500,by=100)) +
   scale_fill_manual(name="Movie", values=set1_cols) +
   theme(
