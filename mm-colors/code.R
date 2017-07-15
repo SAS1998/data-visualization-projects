@@ -110,6 +110,7 @@ make_boxplot = function(data, isNorm, title, sub, xlab, ylab, filename) {
     geom_jitter(aes(color=variable),size=4,alpha=.2)+
     scale_color_manual(labels=colnames(data_count)[2:7], values=mm_colors) +
     scale_fill_manual(labels=colnames(data_count)[2:7], values=mm_colors) +
+    scale_x_discrete(labels=colnames(data_count)[2:7]) +
     guides(fill=FALSE,color=FALSE) +
     labs(
       title=title,
@@ -126,7 +127,7 @@ make_boxplot = function(data, isNorm, title, sub, xlab, ylab, filename) {
     )
   
   if (isNorm) {
-    g = g + scale_y_continuous(breaks=seq(0,70,10)) + scale_x_discrete(labels=colnames(data_count)[2:7])
+    g = g + scale_y_continuous(breaks=seq(0,70,10))
   } else {
     g = g + scale_y_continuous(breaks=seq(0,12,2))
   }
@@ -145,9 +146,9 @@ make_boxplot(data_count, FALSE, "M&M Color Counts per \"Fun Size\" Pack", "Count
 # summary stats TODO
 ###########################################################
 
-
-###########################################################
-# statistical significance analysis TODO
-###########################################################
-
-
+indices = c(2:7,9:14)
+data_sum = data.frame (
+  "color" = names(data)[indices],
+  "mean" = sapply(data[indices], mean),
+  "sd" = sapply(data[indices], sd)
+  )
