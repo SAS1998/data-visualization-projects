@@ -22,7 +22,7 @@ data_perc = data[,c(1,9:14)]
 
 #              red,      orange,    yellow,   green,    blue,     brown
 mm_colors = c("#EE3932","#FF7509", "#FCBB47","#57CD7F","#0168A3","#614126")
-
+mm_color_names = c("Red", "Orange", "Yellow", "Green", "Blue", "Brown")
 ###########################################################
 # heatmap
 ###########################################################
@@ -188,3 +188,51 @@ make_summary_plot(data_sum_perc, TRUE, "M&M Color Percentage per \"Fun Size\" Pa
 
 make_summary_plot(data_sum_counts, FALSE, "M&M Color Counts per \"Fun Size\" Pack", "Mean Counts with 95% CI (n=44)", 
              "Color", "Color Counts", "summary_plot.png")
+
+###########################################################
+# pvalues
+###########################################################
+
+pvalues = data.frame()
+for (i in 2:7) {
+  color1 = mm_color_names[i-1]
+  for (j in 2:7) {
+    color2 = mm_color_names[j-1]
+    if (i == j) {
+      # pvalues = rbind(pvalues, data.frame(color1=color1, color2=color2, pval=1))
+    } else {
+      x1 = data[i,]
+      x2 = data[j,]
+      xdiff = abs(x1 - x2)
+      ttest = t.test(x=xdiff, mu=0, conf.level=0.95)
+      pval = ttest$p.value
+      pvalues = rbind(pvalues, data.frame(color1=color1, color2=color2, pval=pval))
+    }
+  }
+}
+
+g = ggplot(pvalues, aes(x=color1, y=color2)) +
+  geom_tile(aes(fill=pval, alpha=0.8), color="white") +
+  geom_text(aes(label=round(pval,4)), size=3) +
+  scale_fill_gradient(low = "green", high = "white") +
+  # scale_fill_manual(values=mm_colors) +
+  guides(alpha="none", fill="none") +
+  # scale_x_continuous(breaks=seq(1,nrow(data)), labels=seq(1,nrow(data)))+
+  scale_y_discrete(limits=mm_color_names, labels=mm_color_names) +
+  labs(
+    title="M&M Color Distribution Paired P-Values",
+    # subtitle=,
+    x="Color",
+    y="Color"
+  ) +
+  theme(
+    panel.grid.major=element_blank(),
+    panel.grid.minor=element_blank(),
+    panel.background=element_blank(),
+    panel.border=element_rect(color="black", fill=NA)
+  )
+g
+ggsave("pvalues.png",height=7,width=7,dpi=300)
+
+
+
