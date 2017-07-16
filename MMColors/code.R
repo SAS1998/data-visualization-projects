@@ -47,7 +47,7 @@ make_heatmap = function(data, title, sub, xlab, ylab, filename) {
       panel.background=element_blank(),
       panel.border=element_rect(color="black", fill=NA)
     )
-  ggsave(filename, height=5, width=14, dpi=300)
+  ggsave(filename, height=5, width=15, dpi=300)
   g
 }
 
@@ -199,7 +199,7 @@ for (i in 2:7) {
   for (j in 2:7) {
     color2 = mm_color_names[j-1]
     if (i == j) {
-      # pvalues = rbind(pvalues, data.frame(color1=color1, color2=color2, pval=1))
+      pvalues = rbind(pvalues, data.frame(color1=color1, color2=color2, pval=1))
     } else {
       x1 = data[i,]
       x2 = data[j,]
@@ -220,8 +220,8 @@ g = ggplot(pvalues, aes(x=color1, y=color2)) +
   # scale_x_continuous(breaks=seq(1,nrow(data)), labels=seq(1,nrow(data)))+
   scale_y_discrete(limits=mm_color_names, labels=mm_color_names) +
   labs(
-    title="M&M Color Distribution Paired P-Values",
-    # subtitle=,
+    title="M&M \"Fun-Size\" Pack Color Distribution Paired P-Values",
+    subtitle="Two-Tailed Student's T-Test (n=44)",
     x="Color",
     y="Color"
   ) +
