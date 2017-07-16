@@ -143,7 +143,7 @@ make_boxplot(data_count, FALSE, "M&M Color Counts per \"Fun Size\" Pack", "Count
              "Color", "Color Counts", "boxplot.png")
 
 ###########################################################
-# summary stats TODO
+# summary stats
 ###########################################################
 
 indices = c(2:7,9:14)
@@ -152,3 +152,39 @@ data_sum = data.frame (
   "mean" = sapply(data[indices], mean),
   "sd" = sapply(data[indices], sd)
   )
+data_sum$upper = data_sum$mean + 1.96*(data_sum$sd/sqrt(nrow(data)))
+data_sum$lower = data_sum$mean - 1.96*(data_sum$sd/sqrt(nrow(data)))
+
+data_sum_counts = data_sum[1:6,]
+data_sum_perc = data_sum[7:12,]
+
+make_summary_plot = function(data, isNorm, title, sub, xlab, ylab, filename) {
+  data$color = factor(colnames(data_count)[2:7], levels=colnames(data_count)[2:7])
+  g = ggplot(data=data, aes(x=color, y=mean)) +
+    geom_bar(stat="identity",aes(fill=color),alpha=.8,color="black") +
+    geom_errorbar(aes(ymax=upper,ymin=lower),width=0.2,size=1,alpha=.5) +
+    scale_fill_manual("Color",values=mm_colors) +
+    guides(fill="none") +
+    labs(
+      title=title,
+      subtitle=sub,
+      x=xlab,
+      y=ylab
+      ) +
+    theme(
+      panel.grid.major=element_blank(),
+      panel.grid.minor=element_blank(),
+      panel.background=element_blank(),
+      panel.border=element_rect(color="black", fill=NA),
+      aspect.ratio=1
+    )
+  
+  ggsave(filename,height=7,width=7,dpi=300)
+  g
+}
+
+make_summary_plot(data_sum_perc, TRUE, "M&M Color Percentage per \"Fun Size\" Pack", "Mean Percentage with 95% CI (n=44)", 
+             "Color", "Color Percentage", "summary_plot_norm.png")
+
+make_summary_plot(data_sum_counts, FALSE, "M&M Color Counts per \"Fun Size\" Pack", "Mean Counts with 95% CI (n=44)", 
+             "Color", "Color Counts", "summary_plot.png")
