@@ -199,7 +199,7 @@ for (i in 2:7) {
   for (j in 2:7) {
     color2 = mm_color_names[j-1]
     if (i == j) {
-      pvalues = rbind(pvalues, data.frame(color1=color1, color2=color2, pval=1))
+      pvalues = rbind(pvalues, data.frame(color1=color1, color2=color2, pval=NA))
     } else {
       x1 = data[i,]
       x2 = data[j,]
