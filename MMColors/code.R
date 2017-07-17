@@ -51,10 +51,10 @@ make_heatmap = function(data, title, sub, xlab, ylab, filename) {
   g
 }
 
-make_heatmap(data_perc, "M&M Color Percentage per \"Fun Size\" Pack", "Normalized Heatmap (n=44)", 
+make_heatmap(data_perc, "M&M Color Percentage per \"Fun Size\" Pack", "Normalized Heatmap (n=67)", 
              "Pack Number", "Color", "heatmap_norm.png")
 
-make_heatmap(data_count, "M&M Color Counts per \"Fun Size\" Pack", "Counts Heatmap (n=44)", 
+make_heatmap(data_count, "M&M Color Counts per \"Fun Size\" Pack", "Counts Heatmap (n=67)", 
              "Pack Number", "Color", "heatmap.png")
 
 ###########################################################
@@ -82,22 +82,22 @@ make_stacked_barplot = function(data, isNorm, title, sub, xlab, ylab, filename) 
   
   if (isNorm) {
     g = g + scale_y_continuous(breaks=seq(0,100,10)) + 
-      scale_x_continuous(trans="reverse", breaks=seq(1,nrow(data)), labels=seq(1,nrow(data))) +
+      scale_x_continuous(trans="reverse", breaks=seq(1,nrow(data),2), labels=seq(1,nrow(data),2)) +
       coord_flip()
     
   } else {
     g = g + scale_y_continuous(breaks=seq(0,18,2)) +
-      scale_x_continuous(breaks=seq(1,nrow(data)), labels=seq(1,nrow(data)))
+      scale_x_continuous(breaks=seq(1,nrow(data),2), labels=seq(1,nrow(data),2))
   }
   
   ggsave(filename,height=7,width=7,dpi=500)
   g
 }
 
-make_stacked_barplot(data_perc, TRUE, "M&M Color Percentage per \"Fun Size\" Pack", "Normalized Stacked Bar Plot (n=44)", 
+make_stacked_barplot(data_perc, TRUE, "M&M Color Percentage per \"Fun Size\" Pack", "Normalized Stacked Bar Plot (n=67)", 
              "Pack Number", "Color Percentage", "stacked_barplot_norm.png")
 
-make_stacked_barplot(data_count, FALSE, "M&M Color Counts per \"Fun Size\" Pack", "Counts Stacked Bar Plot (n=44)", 
+make_stacked_barplot(data_count, FALSE, "M&M Color Counts per \"Fun Size\" Pack", "Counts Stacked Bar Plot (n=67)", 
                      "Pack Number", "Color Counts", "stacked_barplot.png")
 
 ###########################################################
@@ -136,10 +136,10 @@ make_boxplot = function(data, isNorm, title, sub, xlab, ylab, filename) {
   g
 }
 
-make_boxplot(data_perc, TRUE, "M&M Color Percentage per \"Fun Size\" Pack", "Normalized Box Plot (n=44)", 
+make_boxplot(data_perc, TRUE, "M&M Color Percentage per \"Fun Size\" Pack", "Normalized Box Plot (n=67)", 
              "Color", "Color Percentage", "boxplot_norm.png")
 
-make_boxplot(data_count, FALSE, "M&M Color Counts per \"Fun Size\" Pack", "Counts Box Plot (n=44)", 
+make_boxplot(data_count, FALSE, "M&M Color Counts per \"Fun Size\" Pack", "Counts Box Plot (n=67)", 
              "Color", "Color Counts", "boxplot.png")
 
 ###########################################################
@@ -183,10 +183,10 @@ make_summary_plot = function(data, isNorm, title, sub, xlab, ylab, filename) {
   g
 }
 
-make_summary_plot(data_sum_perc, TRUE, "M&M Color Percentage per \"Fun Size\" Pack", "Mean Percentage with 95% CI (n=44)", 
+make_summary_plot(data_sum_perc, TRUE, "M&M Color Percentage per \"Fun Size\" Pack", "Mean Percentage with 95% CI (n=67)", 
              "Color", "Color Percentage", "summary_plot_norm.png")
 
-make_summary_plot(data_sum_counts, FALSE, "M&M Color Counts per \"Fun Size\" Pack", "Mean Counts with 95% CI (n=44)", 
+make_summary_plot(data_sum_counts, FALSE, "M&M Color Counts per \"Fun Size\" Pack", "Mean Counts with 95% CI (n=67)", 
              "Color", "Color Counts", "summary_plot.png")
 
 ###########################################################
@@ -200,13 +200,15 @@ for (i in 2:7) {
     color2 = mm_color_names[j-1]
     if (i == j) {
       pvalues = rbind(pvalues, data.frame(color1=color1, color2=color2, pval=NA))
-    } else {
+    } else if (i < j) {
       x1 = data[i,]
       x2 = data[j,]
       xdiff = abs(x1 - x2)
       ttest = t.test(x=xdiff, mu=0, conf.level=0.95)
       pval = ttest$p.value
       pvalues = rbind(pvalues, data.frame(color1=color1, color2=color2, pval=pval))
+    } else {
+      pvalues = rbind(pvalues, data.frame(color1=color1, color2=color2, pval=NA))
     }
   }
 }
@@ -221,7 +223,7 @@ g = ggplot(pvalues, aes(x=color1, y=color2)) +
   scale_y_discrete(limits=mm_color_names, labels=mm_color_names) +
   labs(
     title="M&M \"Fun-Size\" Pack Color Distribution Paired P-Values",
-    subtitle="Two-Tailed Student's T-Test (n=44)",
+    subtitle="Two-Tailed Student's T-Test (n=67)",
     x="Color",
     y="Color"
   ) +
@@ -234,5 +236,6 @@ g = ggplot(pvalues, aes(x=color1, y=color2)) +
 g
 ggsave("pvalues.png",height=7,width=7,dpi=300)
 
+count(data$red == 0)
 
 
