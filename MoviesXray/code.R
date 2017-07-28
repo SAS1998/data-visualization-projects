@@ -22,7 +22,7 @@ g1 = ggplot(data=data) +
   theme(legend.position="none") +
   coord_flip()
 g1
-ggsave("thematrixcharacters.png",height=5,width=7,dpi=500)
+ggsave("plots/thematrixcharacters.png",height=5,width=7,dpi=500)
 
 
 ############################################################
