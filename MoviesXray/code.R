@@ -2,20 +2,32 @@ setwd("~/Developer/data-visualization-projects/MoviesXray")
 
 library(ggplot2)
 
+capitalizeFirstLetter = function(x) {
+  s = strsplit(x, " ")[[1]]
+  paste(toupper(substring(s, 1,1)), substring(s, 2),
+        sep="", collapse=" ")
+}
+
 files = list.files(path = "data/")
 
 for (i in 1:length(files)) {
   filename = files[i]
   movie_name = unlist(strsplit(filename, "-data.csv")[1])
-  movie_name_title
+  movie_name_title = capitalizeFirstLetter(gsub("-", " ", movie_name))
   
   data = read.csv(paste0("data/", files[i]))
   
   # clean up data
   data$start = data$start/1000
   data$end = data$end/1000
-  charactersOrder = as.character(unique(data[with(data, order(start)), 2]))
+  charactersOrder = as.character(unique(data[with(data, order(start)), 1]))
   data$character = factor(data$character, levels=rev(charactersOrder))
+  
+  # subset top N characters
+  N = 20
+  if (length(charactersOrder) > N) {
+    # TODO
+  }
   
   max_time = max(data$end)
   
@@ -34,7 +46,9 @@ for (i in 1:length(files)) {
   ggsave(paste0("plots/", movie_name, "-characters.png"), height=5, width=7, dpi=500)
 }
 
-############################################################
+###########################################################
+# Exploratory
+###########################################################
 
 ggplot(data=timeCharacterCount) + 
   geom_histogram(aes(timeCharacterCount), bins=max(timeCharacterCount)) +
