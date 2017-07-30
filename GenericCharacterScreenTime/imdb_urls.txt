@@ -1,0 +1,8 @@
+[Titles]
+Stranger Things
+Mr. Robot
+Westworld
+[URLS]
+http://www.imdb.com/list/ls062432534/
+http://www.imdb.com/list/ls062199544/
+http://www.imdb.com/list/ls066495103/

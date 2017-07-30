@@ -1,0 +1,1530 @@
+    
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+        <head>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script>
+var addClickstreamHeadersToAjax = function(xhr) {
+    xhr.setRequestHeader("x-imdb-parent-id", "0H4DMESV4C6HQGYWPWYG");
+};
+</script>
+
+                <title>IMDb: Characters By Screen Time: Westworld - a list by ninewheels0</title>
+<link rel="canonical" href="http://www.imdb.com/list/ls066495103/" /><meta property="og:url" content="http://www.imdb.com/list/ls066495103/" />
+
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFc25df55df212e779731eda38c3806095/css/min/lists.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFee9c9a814eba8342b847680ef4330580/css2/site/consumer-navbar-mega.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFa88e6ba92e5894e7909b0d2ef5d21e79/css2/site/consumer-navbar-suggestionsearch.css" ><meta name="description" value="Tabulated by watching through scene-by-scene at normal speed with an iPhone stop-watch, and rounding to the nearest quarter of a minute." /><meta property="og:description" content="Tabulated by watching through scene-by-scene at normal speed with an iPhone stop-watch, and rounding to the nearest quarter of a minute." /><meta property="fb:app_id" content="127059960673829" /><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFb39ff7041558a52d1f1eb34ef4946a11/css/min/video-colorbox.css" ><meta property="og:image" content="https://images-na.ssl-images-amazon.com/images/M/MV5BNGZhOWQ2ZWYtNmMwYi00NjI0LWI4N2QtMjA4NGJiNTUzMjk5XkEyXkFqcGdeQXVyNTc3NTEzMDU@._V1._SY209_CR87,0,140,209_.jpg"/><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFb5b382ca09318d0ee66710ec5a88d2ce/css2/app/facebook/comments.css" ><meta property="og:type" content="article" /><meta property="og:site_name" content="IMDb" /><meta property="og:title" content="IMDb: Characters By Screen Time: Westworld - a list by ninewheels0" />
+<!-- start m/s/a/_g_a_s , head -->
+<script>
+window.ads_js_start = new Date().getTime();
+var imdbads = imdbads || {}; imdbads.cmd = imdbads.cmd || [];
+</script>
+<!-- begin SRA -->
+<script>
+!function a(b,c,d){function e(g,h){if(!c[g]){if(!b[g]){var i="function"==typeof require&&require;if(!h&&i)return i(g,!0);if(f)return f(g,!0);var j=new Error("Cannot find module '"+g+"'");throw j.code="MODULE_NOT_FOUND",j}var k=c[g]={exports:{}};b[g][0].call(k.exports,function(a){var c=b[g][1][a];return e(c?c:a)},k,k.exports,a,b,c,d)}return c[g].exports}for(var f="function"==typeof require&&require,g=0;g<d.length;g++)e(d[g]);return e}({1:[function(a,b,c){"use strict";a(2)},{2:2}],2:[function(a,b,c){"use strict";!function(){var a,b,c=function(a){return"[object Array]"===Object.prototype.toString.call(a)},d=function(a,b){for(var c=0;c<a.length;c++)c in a&&b.call(null,a[c],c)},e=[],f=!1,g=!1,h=function(){var a=[],b=[],c={};return d(e,function(e){var f="";d(e.dartsite.split("/"),function(b){""!==b&&(b in c||(c[b]=a.length,a.push(b)),f+="/"+c[b])}),b.push(f)}),{iu_parts:a,enc_prev_ius:b}},i=function(){var a=[];return d(e,function(b){var c=[];d(b.sizes,function(a){c.push(a.join("x"))}),a.push(c.join("|"))}),a},j=function(){var a=[];return d(e,function(b){a.push(k(b.targeting))}),a.join("|")},k=function(a,b){var c,d=[];for(var e in a){c=[];for(var f=0;f<a[e].length;f++)c.push(encodeURIComponent(a[e][f]));b?d.push(e+"="+encodeURIComponent(c.join(","))):d.push(e+"="+c.join(","))}return d.join("&")},l=function(){var a=+new Date;g||document.readyState&&"loaded"!==document.readyState||(g=!0,f&&imdbads.cmd.push(function(){for(var b=0;b<e.length;b++)generic.monitoring.record_metric(e[b].name+".fail",csm.duration(a))}))};window.tinygpt={define_slot:function(a,b,c,d){e.push({dartsite:a.replace(/\/$/,""),sizes:b,name:c,targeting:d})},set_targeting:function(b){a=b},callback:function(a){var c,d,f={},g=+new Date;try{for(var h=0;h<e.length;h++)c=e[h].dartsite,d=e[h].name,a[h][c]?f[d]=a[h][c]:window.console&&console.error&&console.error("Unable to correlate GPT response for "+d);imdbads.cmd.push(function(){for(var a=0;a<e.length;a++)ad_utils.slot_events.trigger(e[a].name,"request",{timestamp:b}),ad_utils.slot_events.trigger(e[a].name,"tagdeliver",{timestamp:g});ad_utils.gpt.handle_response(f)})}catch(i){window.console&&console.error&&console.error("Exception in GPT callback: "+i.message)}},send:function(){var d,g,m=[],n=function(a,b){c(b)&&(b=b.join(",")),b&&m.push(a+"="+encodeURIComponent(""+b))};if(0===e.length)return void tinygpt.callback({});n("gdfp_req","1"),n("correlator",Math.floor(4503599627370496*Math.random())),n("output","json_html"),n("callback","tinygpt.callback"),n("impl","fifs"),n("json_a","1");var o=h();n("iu_parts",o.iu_parts),n("enc_prev_ius",o.enc_prev_ius),n("prev_iu_szs",i()),n("prev_scp",j()),n("cust_params",k(a,!0)),d=document.createElement("script"),g=document.getElementsByTagName("script")[0],d.async=!0,d.type="text/javascript",d.src="http://pubads.g.doubleclick.net/gampad/ads?"+m.join("&"),d.id="tinygpt",d.onload=d.onerror=d.onreadystatechange=l,f=!0,g.parentNode.insertBefore(d,g),b=+new Date}}}()},{}]},{},[1]);</script>
+<script>
+tinygpt.define_slot('/4215/imdb2.consumer.main/lists',
+[[728,90],[1008,150],[1008,200],[1008,30],[970,250],[9,1]],
+'top_ad',
+{
+'p': ['top','t']
+});
+tinygpt.define_slot('/4215/imdb2.consumer.main/lists',
+[[300,250],[300,600],[11,1]],
+'top_rhs',
+{
+'p': ['tr']
+});
+tinygpt.set_targeting({
+'fv' : ['1'],
+'ab' : ['f'],
+'c' : ['1'],
+'id' : ['ls066495103'],
+'bpx' : ['1'],
+'u': ['427106696619'],
+'oe': ['utf-8']
+});
+tinygpt.send();
+</script>
+<!-- begin ads header -->
+<script src="https://ia.media-imdb.com/images/G/01/imdbads/js/collections/tarnhelm-4202764665._CB506304699_.js"></script>
+<script id="ads_doWithAds">
+doWithAds = function(inside, failureMessage){
+if ('consoleLog' in window &&
+'generic' in window &&
+'ad_utils' in window &&
+'custom' in window &&
+'monitoring' in generic &&
+'document_is_ready' in generic) {
+try{
+inside.call(this);
+}catch(e) {
+if ( window.ueLogError ) {
+if(typeof failureMessage !== 'undefined'){
+e.message = failureMessage;
+}
+e.attribution = "Advertising";
+e.logLevel = "ERROR";
+ueLogError(e);
+}
+if( (document.location.hash.match('debug=1')) &&
+(typeof failureMessage !== 'undefined') ){
+console.error(failureMessage);
+}
+}
+} else {
+if( (document.location.hash.match('debug=1')) &&
+(typeof failureMessage !== 'undefined') ){
+console.error(failureMessage);
+}
+}
+};
+</script><script id="ads_monitoring_setup">
+doWithAds(function(){
+generic.monitoring.set_forester_info("main");
+generic.monitoring.set_twilight_info(
+"main",
+"UNKNOWN",
+"362494c33e49d64103fed09af65ab61f6d38aa7d",
+"2017-07-30T20%3A57%3A05GMT",
+"https://s.media-imdb.com/twilight/?",
+"consumer");
+generic.monitoring.start_timing("page_load");
+generic.seconds_to_midnight = 36175;
+generic.days_to_midnight = 0.4186921417713165;
+},"Generic not defined, skipping monitoring setup.");
+</script>
+<script src="https://images-na.ssl-images-amazon.com/images/G/01/dacx/sf/DAsf-1.34_FX1._V275812351_.js"></script>
+<script id="ads_safeframe_setup">
+doWithAds(function(){
+if (typeof DAsf != 'undefined' && typeof DAsf.registerCustomMessageListener === 'function') {
+DAsf.registerCustomMessageListener('adFeedback', window.ad_utils.show_ad_feedback);
+DAsf.registerCustomMessageListener('sendMetrics', window.generic.monitoring.update_sf_slot_metrics);
+DAsf.registerCustomMessageListener('expand', window.ad_utils.expand_overlay);
+DAsf.registerCustomMessageListener('collapse', window.ad_utils.collapse_overlay);
+}
+},"ads js missing, skipping safeframe setup.");
+</script>
+<script id="ads_general_setup">
+doWithAds(function(){
+generic.monitoring.record_metric("ads_js_request_to_done", (new Date().getTime()) - window.ads_js_start);
+generic.send_csm_head_metrics && generic.send_csm_head_metrics();
+ad_utils.set_slots_on_page({ 'injected_billboard':1, 'injected_navstrip':1, 'bottom_ad':1, 'top_ad':1, 'top_rhs':1 });
+custom.full_page.data_url = "https://ia.media-imdb.com/images/G/01/imdbads/js/graffiti_data-538221799._CB536725280_.js";
+consoleLog('advertising initialized','ads');
+},"ads js missing, skipping general setup.");
+var _gaq = _gaq || [];
+_gaq.push(['_setCustomVar', 4, 'ads_abtest_treatment', 'f']);
+</script>
+<script>doWithAds(function() { ad_utils.ads_header.done(); });</script>
+<!-- end ads header --><!-- end m/s/a/_g_a_s , head -->
+
+<script src="http://i.media-imdb.com/images/SFd27a377a4866ce46bc384cb601e44fcc/js/cc/yesScript.js" ></script>        </head>
+        <body id="styleguide-v2" class="fixed">
+            <div id="hidden_pre_root_content">
+<!-- start m/s/a/_g_a_s , body -->
+<!-- end m/s/a/_g_a_s , body -->
+
+            </div>
+            <div id="wrapper">
+                <div id="root">
+
+
+
+
+
+
+
+<div id="nb20" class="navbarSprite">
+    <div id="supertab">
+
+
+
+<!-- begin TOP_AD -->
+<div id="top_ad_wrapper" class="dfp_slot">
+<script>
+window.generic = window.generic || {};
+generic.alphalfaComponents = {
+"alphalfa-container.html" : "https://ia.media-imdb.com/images/G/01/imdbads/alphalfa-container-253150330._CB522736199_.html",
+"js/collections/alphalfa.js" : "https://ia.media-imdb.com/images/G/01/imdbads/js/collections/alphalfa-3292747090._CB522736629_.js"
+};
+</script>
+<script type="text/javascript">
+doWithAds(function(){
+if ('dfp_slot' != 'injected_slot') {
+ad_utils.register_ad('top_ad');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=427106696619;ord=427106696619?" frameborder="0" id="top_ad" marginwidth="0" marginheight="0" name="top_ad" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="85" width="0" height="85" ></iframe> </div>
+<noscript> <a href="http://pubads.g.doubleclick.net/gampad/jump?&iu=4215/imdb2.consumer.main/lists&sz=728x90|1008x150|1008x200|1008x30|970x250|9x1&t=p%3Dtop%26p%3Dt%26fv%3D1%26id%3Dls066495103%26ab%3Df%26bpx%3D1%26c%3D1&tile=0&c=427106696619" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?&iu=4215/imdb2.consumer.main/lists&sz=728x90|1008x150|1008x200|1008x30|970x250|9x1&t=p%3Dtop%26p%3Dt%26fv%3D1%26id%3Dls066495103%26ab%3Df%26bpx%3D1%26c%3D1&tile=0&c=427106696619" border="0" alt="advertisement" /> </a> </noscript>
+<div id="top_ad_reflow_helper"></div>
+<script id="top_ad_rendering">
+doWithAds(function(){
+if ('dfp_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('top_ad');
+} else {
+ad_utils.gpt.render_ad('top_ad');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End TOP_AD --><!-- _get_ad_for_slot(TOP_AD) -->
+</div>
+	<div id="navbar">
+        <noscript><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF52e6b9f11712d3ec552179f6c869b63a/css2/site/consumer-navbar-no-js.css"></noscript>
+		<span id="home_img_holder">            <a     href="/?ref_=nv_home"    id='home_img' class='navbarSprite' title='Home' ></a>
+
+            <span class="alt_logo">
+                <a     href="/?ref_=nv_home"    title='Home' >IMDb</a>
+            </span>
+        </span>
+
+
+<form    action="/find"    method="get" id="navbar-form" class="nav-searchbar-inner" accept-charset="utf-8" >
+
+<div id="nb_search" >
+
+  <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+  <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+  <input type="hidden" name="ref_" value="nv_sr_fn" />
+  <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more..." >
+  <div class="quicksearch_dropdown_wrapper">
+
+<select
+    class="quicksearch_dropdown navbarSprite"
+    name="s"
+    id="quicksearch"
+    onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+
+    <option  
+     value="all">All</option>
+    <option  
+     value="tt">Titles</option>
+    <option  
+     value="ep">TV Episodes</option>
+    <option  
+     value="nm">Names</option>
+    <option  
+     value="co">Companies</option>
+    <option  
+     value="kw">Keywords</option>
+    <option  
+     value="ch">Characters</option>
+    <option  
+     value="qu">Quotes</option>
+    <option  
+     value="bi">Bios</option>
+    <option  
+     value="pl">Plots</option>
+</select>
+
+  </div>
+
+<div id="navbar-suggestionsearch"></div>
+</div>
+
+</form>
+
+
+<div id="megaMenu">
+    <ul id="consumer_main_nav" class="main_nav">
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navTitleMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="/movies-in-theaters/?ref_=nv_tp_inth_1"    >Movies</a>,
+                <a     href="/chart/toptv/?ref_=nv_tp_tv250_2"    >TV</a><br />
+                & <a     href="/showtimes/?ref_=nv_tp_sh_3"    >Showtimes</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu1" class="sub_nav">
+                <div id="titleAd"></div>
+                <div class="subNavListContainer">
+                    <h5>MOVIES</h5>
+                    <ul>
+                        
+                        <li><a     href="/movies-in-theaters/?ref_=nv_mv_inth_1"    >In Theaters</a></li>
+                        <li><a     href="/showtimes/?ref_=nv_mv_sh_2"    >Showtimes & Tickets</a></li>
+                        <li><a     href="/trailers/?ref_=nv_mv_tr_3"    >Latest Trailers</a></li>
+                        <li><a     href="/movies-coming-soon/?ref_=nv_mv_cs_4"    >Coming Soon</a></li>
+                        <li><a     href="/calendar/?ref_=nv_mv_cal_5"    >Release Calendar</a></li>
+                        <li><a     href="/chart/top/?ref_=nv_mv_250_6"    >Top Rated Movies</a></li>
+                        <li><a     href="/chart/moviemeter/?ref_=nv_mv_mpm_7"    >Most Popular Movies</a></li>
+                    </ul>
+                    <h5>CHARTS & TRENDS</h5>
+                    <ul>
+                        <li><a     href="/chart/?ref_=nv_ch_cht_1"    >Box Office</a></li>
+                        <li><a     href="/search/title?count=100&groups=oscar_best_picture_winners&sort=year,desc&ref_=nv_ch_osc_2"    >Oscar Winners</a></li>
+                        <li><a     href="/genre/?ref_=nv_ch_gr_3"    >Most Popular by Genre</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>TV & VIDEO</h5>
+                    <ul>
+                        <li><a     href="/tv/?ref_=nv_tvv_tv_1"    >IMDb TV</a></li>
+                        <li><a     href="/tvgrid/?ref_=nv_tvv_ls_2"    >On Tonight</a></li>
+                        <li><a     href="/chart/toptv/?ref_=nv_tvv_250_3"    >Top Rated TV Shows</a></li>
+                        <li><a     href="/chart/tvmeter?ref_=nv_tvv_mptv_4"    >Most Popular TV Shows</a></li>
+                        <li><a     href="/feature/watch-now-on-amazon/?ref_=nv_tvv_wn_5"    >Watch Now on Amazon</a></li>
+                        <li><a     href="/sections/dvd/?ref_=nv_tvv_dvd_6"    >DVD & Blu-Ray</a></li>
+                    </ul>
+                    <h5>SPECIAL FEATURES</h5>
+                    <ul>
+                        <li><a     href="/amazon-originals/?ref_=nv_sf_ams_1"    >Amazon Originals</a></li>
+                        <li><a     href="/streaming/?ref_=nv_sf_st_2"    >Streaming</a></li>
+                        <li><a     href="/comic-con/?ref_=nv_sf_ccn_3"    >Comic-Con</a></li>
+                        <li><a     href="/imdbpicks/?ref_=nv_sf_picks_4"    >IMDb Picks</a></li>
+                        <li><a     href="/superheroes/?ref_=nv_sf_supr_5"    >Superheroes</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNameMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="/search/name?gender=male,female&ref_=nv_tp_cel_1"    >Celebs</a>,
+                <a     href="/awards-central/?ref_=nv_tp_awrd_2"    >Events</a><br />
+                & <a     href="/gallery/rg784964352?ref_=nv_tp_ph_3"    >Photos</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu2" class="sub_nav">
+                <div id="nameAd"></div>
+                <div class="subNavListContainer">
+                    <h5>CELEBS</h5>
+                    <ul>
+                        <li><a     href="/search/name?birth_monthday=7-30&refine=birth_monthday&ref_=nv_cel_brn_1"    >Born Today</a></li>
+                        <li><a     href="/news/celebrity?ref_=nv_cel_nw_2"    >Celebrity News</a></li>
+                        <li><a     href="/search/name?gender=male,female&ref_=nv_cel_m_3"    >Most Popular Celebs</a></li>
+                    </ul>
+                    <h5>PHOTOS</h5>
+                    <ul>
+                        <li><a     href="/gallery/rg784964352?ref_=nv_ph_ls_1"    >Latest Stills</a></li>
+                        <li><a     href="/gallery/rg1528338944?ref_=nv_ph_lp_2"    >Latest Posters</a></li>
+                        <li><a     href="/gallery/rg2465176320?ref_=nv_ph_lv_3"    >Photos We Love</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>EVENTS</h5>
+                    <ul>
+                        <li><a     href="/awards-central/?ref_=nv_ev_awrd_1"    >Awards Central</a></li>
+                        <li><a     href="/oscars/?ref_=nv_ev_acd_2"    >Oscars</a></li>
+                        <li><a     href="/golden-globes/?ref_=nv_ev_gg_3"    >Golden Globes</a></li>
+                        <li><a     href="/sundance/?ref_=nv_ev_sun_4"    >Sundance</a></li>
+                        <li><a     href="/cannes/?ref_=nv_ev_can_5"    >Cannes</a></li>
+                        <li><a     href="/comic-con/?ref_=nv_ev_comic_6"    >Comic-Con</a></li>
+                        <li><a     href="/emmys/?ref_=nv_ev_rte_7"    >Emmy Awards</a></li>
+			<li><a     href="/venice/?ref_=nv_ev_venice_8"    >Venice Film Festival</a></li>
+                        <li><a     href="/toronto/?ref_=nv_ev_tff_9"    >Toronto Film Festival</a></li>
+			<li><a     href="/festival-central/?ref_=nv_ev_fc_10"    >Festival Central</a></li>
+			<li><a     href="/festival-central/tribeca/?ref_=nv_ev_tff_11"    >Tribeca</a></li>
+                        <li><a     href="/event/all/?ref_=nv_ev_all_12"    >All Events</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNewsMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="/news/top?ref_=nv_tp_nw_1"    >News</a> &amp;<br />
+                <a     href="/czone/?ref_=nv_cm_cz_2"    >Community</a>
+            </p>
+            <span class="downArrow"></span>
+            <div id="navMenu3" class="sub_nav">
+                <div id="latestHeadlines">
+                    <div class="subNavListContainer">
+                        <h5>LATEST HEADLINES</h5>
+                        
+<ul>
+    <li itemprop="headline">
+        <a     href="/news/ni61356114/?ref_=nb_nwt_1"    >
+            &#x27;Dunkirk&#x27; Holds Off &#x27;Emoji&#x27; and &#x27;Atomic Blonde&#x27; for Second Weekend at #1</a><br />
+            <span class="time">6 hours ago
+</span>
+    </li>
+    <li itemprop="headline">
+        <a     href="/news/ni61354853/?ref_=nb_nwt_2"    >
+            Joanne Froggatt on &#x2018;Downton Abbey&#x2019; Movie: &#x2018;Nothing Has Happened&#x2019;</a><br />
+            <span class="time">23 hours ago
+</span>
+    </li>
+    <li itemprop="headline">
+        <a     href="/news/ni61354886/?ref_=nb_nwt_3"    >
+            AMC Embracing Horror, Sci-Fi With Rainn Wilson, &#x2018;Arrival&#x2019; Team Projects in Development</a><br />
+            <span class="time">23 hours ago
+</span>
+    </li>
+</ul>
+
+                    </div>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>NEWS</h5>
+                    <ul>
+                        <li><a     href="/news/top?ref_=nv_nw_tp_1"    >Top News</a></li>
+                        <li><a     href="/news/movie?ref_=nv_nw_mv_2"    >Movie News</a></li>
+                        <li><a     href="/news/tv?ref_=nv_nw_tv_3"    >TV News</a></li>
+                        <li><a     href="/news/celebrity?ref_=nv_nw_cel_4"    >Celebrity News</a></li>
+                        <li><a     href="/news/indie?ref_=nv_nw_ind_5"    >Indie News</a></li>
+                    </ul>
+                    <h5>COMMUNITY</h5>
+                    <ul>
+                        <li><a     href="/czone/?ref_=nv_cm_cz_2"    >Contributor Zone</a></li>
+                        <li><a     href="/poll/?ref_=nv_cm_pl_3"    >Polls</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navWatchlistMenu" aria-haspopup="true">
+            
+<p class="navCategory singleLine watchlist"><a     href="/list/watchlist?ref_=nv_wl_all_0"    >Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div id="navMenu4" class="sub_nav">
+    <h5>
+        RECENTLY ADDED
+    </h5> 
+    <ul id="navWatchlist">
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.watchlistTeaserData = [
+        {
+            href : "/register/login",
+            id : "wlLogin",
+        src  : "http://i.media-imdb.com/images/SF77aec4b719e703a39cac8d5566a9a0e0/navbar/watchlist_slot1_logged_out.jpg"
+        }
+,        {
+        href : "/search/title?count=100&title_type=feature,tv_series",
+        src  : "http://i.media-imdb.com/images/SF58fa0cd127839460ec17b7302830564f/navbar/watchlist_slot2_popular.jpg"
+        }
+,        {
+        href : "/chart/top",
+        src  : "http://i.media-imdb.com/images/SFe1df4328a14bfcbe6b5cf6fad771c2e4/navbar/watchlist_slot3_top250.jpg"
+        }
+    ];
+    </script>
+</div>
+
+        </li>
+        <li class="spacer"></li>
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.navbarAdSlots = {"nameAd":{"clickThru":"http://www.imdb.com/name/nm0350453/","imageUrl":"http://ia.media-imdb.com/images/M/MV5BMjAwMDQ0MjQzMF5BMl5BanBnXkFtZTcwNDczNjQ4NA@@._V1._SX250_CR0,0,250,315_.jpg","rank":"169","headline":"Jake Gyllenhaal"},"titleAd":{"clickThru":"http://www.imdb.com/title/tt0120382/","imageUrl":"http://ia.media-imdb.com/images/M/MV5BMTM4NjU1MDcyNV5BMl5BanBnXkFtZTcwODM0ODcxNA@@._V1._SY315_CR20,0,410,315_.jpg","titleYears":"1998","titleDisplayBase":{"displayTitleTypeOriginal":"movie","primaryTitleText":"The Truman Show","titleId":"tt0120382","displayTitleType":"movie","regionalTitleTexts":[{"region":"AR","title":"The Truman Show"},{"region":"AT","title":"Die Truman Show"},{"language":"bg","region":"BG","title":"Ð¨Ð¾ÑÑÐ¾ Ð½Ð° Ð¢ÑÑÐ¼Ð°Ð½"},{"region":"BR","title":"O Show de Truman"},{"language":"fr","region":"CA","title":"Le show Truman"},{"region":"CZ","title":"Truman Show"},{"region":"DE","title":"Die Truman Show"},{"region":"DK","title":"The Truman Show"},{"region":"EE","title":"Trumani show"},{"region":"ES","title":"El show de Truman (Una vida en directo)"},{"region":"FI","title":"Truman Show"},{"region":"FR","title":"The Truman Show"},{"region":"GR","title":"ÎÏÎ½ÏÎ±Î½Î® Î¼ÎµÏÎ¬Î´Î¿ÏÎ·"},{"region":"HR","title":"Trumanov show"},{"region":"HU","title":"Truman Show"},{"region":"IS","title":"Truman ÃÃ¡tturinn"},{"region":"LT","title":"Trumeno sou"},{"region":"MX","title":"The Truman Show: Historia de una vida"},{"region":"PL","title":"Truman Show"},{"region":"PT","title":"The Truman Show - A Vida em Directo"},{"region":"RS","title":"Trumanov Å¡ou"},{"region":"RU","title":"Ð¨Ð¾Ñ Ð¢ÑÑÐ¼Ð°Ð½Ð°"},{"region":"SE","title":"Truman Show"},{"region":"SI","title":"Trumanov show"},{"language":"tr","region":"TR","title":"Truman Show"},{"region":"UA","title":"Ð¨Ð¾Ñ Ð¢ÑÑÐ¼ÐµÐ½Ð°"},{"region":"US","title":"The Truman Show"}],"year":"1998"},"rank":"209","headline":"The Truman Show"}};
+    </script>
+</div>
+
+
+
+<div id="nb_extra">
+    <ul id="nb_extra_nav" class="main_nav">
+        <li class="css_nav_item" id="navProMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"    >
+                    <img alt="IMDbPro Menu" src="http://i.media-imdb.com/images/SF4fdfd2dc36b14ed0aabc4f2ccf847c0f/navbar/imdbpro_logo_nb.png" />
+                </a>
+            </p>
+            <span class="downArrow"></span>
+            <div id="navMenuPro" class="imdb-pro-ad sub_nav">
+                <a    id="proLink"     href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"   class="imdb-pro-ad__link"
+    >
+                    <div id="proAd" class="imdb-pro-ad__image">
+                        <img alt="Go to IMDbPro" height="180" width="174"
+                             src="http://i.media-imdb.com/images/SF3cf48fa843440b070cb5b77469e1d3ae/navbar/imdbpro_menu_user.png"
+                             srcset="http://i.media-imdb.com/images/SF3cf48fa843440b070cb5b77469e1d3ae/navbar/imdbpro_menu_user.png 1x,
+                                     http://i.media-imdb.com/images/SFb98bc5e7183c9e552c0cc0a4de074b33/navbar/imdbpro_menu_user_2x.png 2x" />
+                    </div>
+                    <section class="imdb-pro-ad__content">
+                        <h1 class="imdb-pro-ad__title">The leading information resource for the entertainment industry</h1>
+                        <p class="imdb-pro-ad__line">Find industry contacts &amp; talent representation</p>
+                        <p class="imdb-pro-ad__line">Manage your photos, credits, &amp; more</p>
+                        <p class="imdb-pro-ad__line">Showcase yourself on IMDb &amp; Amazon</p>
+                        <span role="button" class="imdb-pro-ad__button">Go to IMDbPro</a>
+                    </section>
+                </a>
+            </div>
+        </li>
+        <li><span class="ghost">|</span></li>
+        <li>
+            <a     href="/help/?ref_=nb_hlp"    >
+                Help</a>
+        </li>
+        <li class="social">
+            
+
+
+<a href="https://www.facebook.com/imdb"    title="Follow IMDb on Facebook"
+  target="_blank" >
+  <span class="desktop-sprite follow-facebook"></span>
+</a>
+
+
+<a href="https://twitter.com/imdb"    title="Follow IMDb on Twitter"
+  target="_blank" >
+  <span class="desktop-sprite follow-twitter"></span>
+</a>
+
+
+<a href="https://instagram.com/imdb/"    title="Follow IMDb on Instagram"
+  target="_blank" >
+  <span class="desktop-sprite follow-instagram"></span>
+</a>
+
+        </li>
+    </ul>
+    <script>
+        if (!('imdb' in window)) { window.imdb = {}; }
+        window.imdb.proMenuTeaser = {
+            imageUrl : "http://i.media-imdb.com/images/SF3cf48fa843440b070cb5b77469e1d3ae/navbar/imdbpro_menu_user.png"
+        };
+    </script> 
+</div>
+
+
+<div id="nb_personal">
+
+<ul id="consumer_user_nav" class="main_nav">
+  <li class="css_nav_item no_arrow" id="navUserMenu" aria-haspopup="true">
+        <p class="navCategory singleLine">
+            <a id="facebook-signin-link" class="signin-button" href="https://graph.facebook.com/v2.8/oauth/authorize?client_id=127059960673829&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fregistration%2Ffacebookhandler%2F&scope=email%2Cuser_about_me%2Cuser_birthday&state=eyJ1IjoiaHR0cHM6Ly93d3cuaW1kYi5jb20iLCI0OWU2YyI6ImRhMjkifQ%3D%3D">
+				<span class="facebook-logo"></span>
+                <span class="signin-facebook-text">Sign in with Facebook</span>
+            </a>               
+            <a    id="nblogin"    rel=login href="/registration/signin?ref_=nv_usr_lgin_1"   class="signin-other-options-text"
+    >
+                Other Sign in options
+            </a>
+        </p>
+    </li>
+</ul>
+
+
+</div>
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<!-- begin INJECTED_NAVSTRIP -->
+<div id="injected_navstrip_wrapper" class="injected_slot">
+<script type="text/javascript">
+doWithAds(function(){
+if ('injected_slot' != 'injected_slot') {
+ad_utils.register_ad('injected_navstrip');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=427106696619;ord=427106696619?" frameborder="0" id="injected_navstrip" marginwidth="0" marginheight="0" name="injected_navstrip" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="0" width="0" height="0" ></iframe> </div>
+<div id="injected_navstrip_reflow_helper"></div>
+<script id="injected_navstrip_rendering">
+doWithAds(function(){
+if ('injected_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('injected_navstrip');
+} else {
+ad_utils.gpt.render_ad('injected_navstrip');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End INJECTED_NAVSTRIP --><!-- _get_ad_for_slot(INJECTED_NAVSTRIP) -->
+
+
+
+        
+
+
+
+
+
+
+
+
+
+<div id="pagecontent">
+
+
+
+
+<!-- begin INJECTED_BILLBOARD -->
+<div id="injected_billboard_wrapper" class="injected_slot">
+<script type="text/javascript">
+doWithAds(function(){
+if ('injected_slot' != 'injected_slot') {
+ad_utils.register_ad('injected_billboard');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=427106696619;ord=427106696619?" frameborder="0" id="injected_billboard" marginwidth="0" marginheight="0" name="injected_billboard" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="0" width="0" height="0" ></iframe> </div>
+<div id="injected_billboard_reflow_helper"></div>
+<script id="injected_billboard_rendering">
+doWithAds(function(){
+if ('injected_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('injected_billboard');
+} else {
+ad_utils.gpt.render_ad('injected_billboard');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End INJECTED_BILLBOARD --><!-- _get_ad_for_slot(INJECTED_BILLBOARD) -->
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="content-2-wide" class="redesign">
+  <div id="main">
+        
+
+
+
+    <div class="article listo list_characters" data-list-class="LIST" data-list-type="Characters" data-list-id="ls066495103" data-items-per-page="100" data-author-id="ur51880615">
+      <div class="disable-pane"><img class="center-spinner" src="/images/spinning-progress-large.gif"></div>
+      <div class="rightcornerlink">      <a href="http://rss.imdb.com/list/ls066495103"><img src="http://i.media-imdb.com/images/SFb57d5ddb1c1208f549520b6186629f28/rss2.gif" height="16" width="16" border="0" alt="RSS" title="Subscribe" class="absmiddle"></a> 
+</div>
+      <a name="page_top"></a>
+      <h1 class="header">Characters By Screen Time: Westworld</h1>
+      <div class="byline">by <a     href="/user/ur51880615/"    >ninewheels0</a>&nbsp;created 7 months ago&nbsp;<span class="">|</span> last updated - 7 months ago</div>
+      <div class="description" id="view-list-desc">Tabulated by watching through scene-by-scene at normal speed with an iPhone stop-watch, and rounding to the nearest quarter of a minute.</div>
+<div class="clear"></div>
+
+<div class="header">
+  <div class="spacer"></div>
+  <div class="nav">
+    <div class="desc" data-size="20">
+ Showing all 20 Characters
+</div>
+    <div class="sort">Sort by: <select class="sort_field" disabled><option selected value="listorian" data-direction="asc">List order<option value="created" data-direction="desc">Date added</select>
+<button class="small sort_direction btn sort_asc" disabled data-direction="asc">&nbsp;</button>
+    </div>
+  </div>
+  <div class="views" data-current="detail">View:
+<a data-view="grid" class="grid"></a>
+<a data-view="detail" class="detail active"></a>
+<a data-view="compact" class="compact"></a>
+  </div>
+  <div class="bulk">
+    <a href="/register/login" rel="login">Log in</a> to copy items to your own lists.
+  </div>
+</div>
+
+
+      <div class="list detail">
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0486391/"    ><div class="hover-over-image zero-z-index" data-const="ch0486391">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BNGZhOWQ2ZWYtNmMwYi00NjI0LWI4N2QtMjA4NGJiNTUzMjk5XkEyXkFqcGdeQXVyNTc3NTEzMDU@._V1._SY209_CR87,0,140,209_.jpg" height="209" width="140" alt="Image of Dolores Abernathy" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">1.</div>
+<div class="info">
+<b><a     href="/character/ch0486391/"    >Dolores Abernathy</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm0939697/">Evan Rachel Wood</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Evan Rachel Wood<br/>9 episodes<br/><br/>127 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0503490/"    ><div class="hover-over-image zero-z-index" data-const="ch0503490">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BODI1YzNjOTktOTQyNy00Y2NkLWE4NGUtYTE0Mzc0YjE3M2MyXkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1._SY209_CR87,0,140,209_.jpg" height="209" width="140" alt="Image of The Man in Black" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">2.</div>
+<div class="info">
+<b><a     href="/character/ch0503490/"    >The Man in Black</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm0000438/">Ed Harris</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Ed Harris<br/>9 episodes (as The Man in Black)<br/><br/>played by Jimmi Simpson<br/>8 episodes (as William)<br/><br/>121:15 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0486396/"    ><div class="hover-over-image zero-z-index" data-const="ch0486396">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyNDI5MTA2OF5BMl5BanBnXkFtZTgwNzAyNzk2MDI@._V1._SY209_CR87,0,140,209_.jpg" height="209" width="140" alt="Image of Bernard Lowe" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">3.</div>
+<div class="info">
+<b><a     href="/character/ch0486396/"    >Bernard Lowe</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm0942482/">Jeffrey Wright</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Jeffrey Wright<br/>10 episodes<br/><br/>87:30 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0486395/"    ><div class="hover-over-image zero-z-index" data-const="ch0486395">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BOTcwNjY4ODcyMV5BMl5BanBnXkFtZTgwNDI3NDI2MDI@._V1._SY209_CR87,0,140,209_.jpg" height="209" width="140" alt="Image of Maeve Millay" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">4.</div>
+<div class="info">
+<b><a     href="/character/ch0486395/"    >Maeve Millay</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm0628601/">Thandie Newton</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Thandie Newton<br/>10 episodes<br/><br/>82:45 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0486392/"    ><div class="hover-over-image zero-z-index" data-const="ch0486392">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BNmJiOTYzMWYtMGJkNC00OWJkLThhZjktMmI3NzUzMWU5YzI5XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1._SY209_CR116,0,140,209_.jpg" height="209" width="140" alt="Image of Dr. Robert Ford" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">5.</div>
+<div class="info">
+<b><a     href="/character/ch0486392/"    >Dr. Robert Ford</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm0000164/">Anthony Hopkins</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Anthony Hopkins<br/>10 episodes<br/><br/>76:45 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0486390/"    ><div class="hover-over-image zero-z-index" data-const="ch0486390">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BNzU3Mjg4NjEwOF5BMl5BanBnXkFtZTgwNTAyMzI1MDI@._V1._SY209_CR87,0,140,209_.jpg" height="209" width="140" alt="Image of Teddy Flood" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">6.</div>
+<div class="info">
+<b><a     href="/character/ch0486390/"    >Teddy Flood</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm0005188/">James Marsden</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by James Marsden<br/>9 episodes<br/><br/>51:15 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0514857/"    ><div class="hover-over-image zero-z-index" data-const="ch0514857">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BNjg2MjQyNTc0Ml5BMl5BanBnXkFtZTgwNzY1Mjg3OTE@._V1._SX140_CR0,0,140,209_.jpg" height="209" width="140" alt="Image of Theresa Cullen" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">7.</div>
+<div class="info">
+<b><a     href="/character/ch0514857/"    >Theresa Cullen</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm0461746/">Sidse Babett Knudsen</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Sidse Babett Knudsen<br/>8 episodes<br/><br/>39:45 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0515736/"    ><div class="hover-over-image zero-z-index" data-const="ch0515736">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BNDAxNjI4MTY5MV5BMl5BanBnXkFtZTgwMzY2Mjg3OTE@._V1._SX140_CR0,0,140,209_.jpg" height="209" width="140" alt="Image of Logan" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">8.</div>
+<div class="info">
+<b><a     href="/character/ch0515736/"    >Logan</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm1602660/">Ben Barnes</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Ben Barnes<br/>7 episodes<br/><br/>32:45 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0486400/"    ><div class="hover-over-image zero-z-index" data-const="ch0486400">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BZjhlYmNmNTAtOWEzOC00MmE5LWI1NGMtMjNmYmM2OTMyZGJmXkEyXkFqcGdeQXVyNTc3NTEzMDU@._V1._SY209_CR116,0,140,209_.jpg" height="209" width="140" alt="Image of Felix Lutz" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">9.</div>
+<div class="info">
+<b><a     href="/character/ch0486400/"    >Felix Lutz</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm1211344/">Leonardo Nam</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Leonardo Nam<br/>7 episodes<br/><br/>30:45 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0515737/"    ><div class="hover-over-image zero-z-index" data-const="ch0515737">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ2MjQ4MzAwM15BMl5BanBnXkFtZTgwMDY1MDA2MDI@._V1._SY209_CR87,0,140,209_.jpg" height="209" width="140" alt="Image of Lawrence" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">10.</div>
+<div class="info">
+<b><a     href="/character/ch0515737/"    >Lawrence</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm0004286/">Clifton Collins Jr.</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Clifton Collins Jr.<br/>5 episodes<br/><br/>25 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0486394/"    ><div class="hover-over-image zero-z-index" data-const="ch0486394">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BNmEyM2Y5NDctOWU2YS00M2I2LTlmYWEtNTE0NTZmYjIxYTA0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1._SY209_CR116,0,140,209_.jpg" height="209" width="140" alt="Image of Elsie King" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">11.</div>
+<div class="info">
+<b><a     href="/character/ch0486394/"    >Elsie King</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm0940990/">Shannon Woodward</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Shannon Woodward<br/>8 episodes<br/><br/>24:45 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0486393/"    ><div class="hover-over-image zero-z-index" data-const="ch0486393">
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BZjUxODZiNjMtOWNjMC00Yzk3LTgwNjktMzgyZDkxNzZiZTc4XkEyXkFqcGdeQXVyNTc3NTEzMDU@._V1._SY209_CR115,0,140,209_.jpg" height="209" width="140" alt="Image of Hector Escaton" class="zero-z-index">
+</div>
+</a>
+</div>
+<div class="number">12.</div>
+<div class="info">
+<b><a     href="/character/ch0486393/"    >Hector Escaton</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm0763928/">Rodrigo Santoro</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Rodrigo Santoro<br/>6 episodes<br/><br/>22:30 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0486398/"    ><div class="hover-over-image zero-z-index" data-const="ch0486398">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Clementine Pennyfeather" title="Image of Clementine Pennyfeather"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BNjg4ZDdjYmQtZGE5MS00OTQ3LWJiNmEtOWNhZDE4OWE0ZDNhXkEyXkFqcGdeQXVyNTQxOTM1NTc@._V1._SY209_CR116,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">13.</div>
+<div class="info">
+<b><a     href="/character/ch0486398/"    >Clementine Pennyfeather</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm1494168/">Angela Sarafyan</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Angela Sarafyan<br/>8 episodes<br/><br/>17:30 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0486413/"    ><div class="hover-over-image zero-z-index" data-const="ch0486413">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Sylvester" title="Image of Sylvester"
+
+     src="http://i.media-imdb.com/images/SFd8baa66b3dedf9a5e6ce2be3bbd48ac7/nopicture/medium/name.png" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">14.</div>
+<div class="info">
+<b><a     href="/character/ch0486413/"    >Sylvester</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm1784872/">Ptolemy Slocum</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Ptolemy Slocum<br/>7 episodes<br/><br/>16:30 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0486401/"    ><div class="hover-over-image zero-z-index" data-const="ch0486401">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Lee Sizemore" title="Image of Lee Sizemore"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BNzM2YzUyYTMtMDNiMC00NmY1LTkzMTYtZjg3NzBlZWI0NzdlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1._SY209_CR116,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">15.</div>
+<div class="info">
+<b><a     href="/character/ch0486401/"    >Lee Sizemore</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm0702945/">Simon Quarterman</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Simon Quarterman<br/>5 episodes<br/><br/>16:15 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0486389/"    ><div class="hover-over-image zero-z-index" data-const="ch0486389">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Armistice" title="Image of Armistice"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BNDkzNjAzNjAxNF5BMl5BanBnXkFtZTgwNDg0Mjg3OTE@._V1._SY209_CR87,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">16.</div>
+<div class="info">
+<b><a     href="/character/ch0486389/"    >Armistice</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm2070336/">Ingrid Bolsø Berdal</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Ingrid Bolsø Berdal<br/>6 episodes<br/><br/>16 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0547276/"    ><div class="hover-over-image zero-z-index" data-const="ch0547276">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Ashley Stubbs" title="Image of Ashley Stubbs"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1NTk0MzE5Nl5BMl5BanBnXkFtZTgwMTAyMDIzMDI@._V1._SX140_CR0,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">17.</div>
+<div class="info">
+<b><a     href="/character/ch0547276/"    >Ashley Stubbs</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm1292661/">Luke Hemsworth</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Luke Hemsworth<br/>8 episodes<br/><br/>15:30 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0532507/"    ><div class="hover-over-image zero-z-index" data-const="ch0532507">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Charlotte Hale" title="Image of Charlotte Hale"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwOTk1MDUzNV5BMl5BanBnXkFtZTgwNzU1MDA2MDI@._V1._SY209_CR87,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">18.</div>
+<div class="info">
+<b><a     href="/character/ch0532507/"    >Charlotte Hale</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm1935086/">Tessa Thompson</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Tessa Thompson<br/>5 episodes<br/><br/>15:30 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item odd">
+<div class="image"> <a     href="/character/ch0486402/"    ><div class="hover-over-image zero-z-index" data-const="ch0486402">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Peter Abernathy" title="Image of Peter Abernathy"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BYTcwMGViYTctMDMxMy00YmRmLTlhNjAtMDAwMDg4OWNiMDQ1XkEyXkFqcGdeQXVyMDMyMjc3MA@@._V1._SY209_CR94,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">19.</div>
+<div class="info">
+<b><a     href="/character/ch0486402/"    >Peter Abernathy</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm0381043/">Louis Herthum</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Louis Herthum<br/>4 episodes<br/><br/>9 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+<div class="list_item even">
+<div class="image"> <a     href="/character/ch0552237/"    ><div class="hover-over-image zero-z-index" data-const="ch0552237">
+<img 
+     height="209" 
+     width="140"
+     alt="Image of Angela" title="Image of Angela"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BYmFlOTBlNDUtZTAwMy00ZjczLWExYWYtMzE0Y2I0MjkwZTUyXkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1._SY209_CR87,0,140,209_.jpg" class="zero-z-index" /></div>
+
+</a>
+</div>
+<div class="number">20.</div>
+<div class="info">
+<b><a     href="/character/ch0552237/"    >Angela</a></b>
+<div class="secondary"><a href="/title/tt0475784/">Westworld</a> <span class="year_type">(2016 TV Series)</span>, <a href="/name/nm1506908/">Talulah Riley</a></div>
+</div>
+<div class="description"><span class="bqstart">&ldquo;&nbsp;</span>played by Talulah Riley<br/>6 episodes<br/><br/>8:30 minutes<span class="bqend">&nbsp;&rdquo;</span> - ninewheels0</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+      </div>
+        <div class="see-more">
+            <div class="pages">
+                <div class="pagination">
+                   
+
+                </div>
+               <br clear="all">
+           </div>
+            <div class="create">
+
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+
+
+    
+<iframe id="Comments" class="facebook_comments" src="http://i.media-imdb.com/images/SFe32a6d39ada6dff5131a4374d705052c/facebook/comments.html#app_id=127059960673829&#x26;el_id=Comments&#x26;width=646&#x26;topic_path=%2Flist%2FSCBzrawHxXo%2F&#x26;extra=49e6c%3Dda29" allowtransparency="true" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe>
+
+
+  </div>
+  <div id="sidebar">
+    <div class="aux-ad-widget-2">
+        
+
+
+
+<!-- begin TOP_RHS -->
+<div id="top_rhs_wrapper" class="dfp_slot">
+<script>
+window.generic = window.generic || {};
+generic.alphalfaComponents = {
+"alphalfa-container.html" : "https://ia.media-imdb.com/images/G/01/imdbads/alphalfa-container-253150330._CB522736199_.html",
+"js/collections/alphalfa.js" : "https://ia.media-imdb.com/images/G/01/imdbads/js/collections/alphalfa-3292747090._CB522736629_.js"
+};
+</script>
+<script type="text/javascript">
+doWithAds(function(){
+if ('dfp_slot' != 'injected_slot') {
+ad_utils.register_ad('top_rhs');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=427106696619;ord=427106696619?" frameborder="0" id="top_rhs" marginwidth="0" marginheight="0" name="top_rhs" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="300" data-original-height="250" width="300" height="250" ></iframe> </div>
+<noscript> <a href="http://pubads.g.doubleclick.net/gampad/jump?&iu=4215/imdb2.consumer.main/lists&sz=300x250|300x600|11x1&t=p%3Dtr%26fv%3D1%26id%3Dls066495103%26ab%3Df%26bpx%3D1%26c%3D1&tile=1&c=427106696619" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?&iu=4215/imdb2.consumer.main/lists&sz=300x250|300x600|11x1&t=p%3Dtr%26fv%3D1%26id%3Dls066495103%26ab%3Df%26bpx%3D1%26c%3D1&tile=1&c=427106696619" border="0" alt="advertisement" /> </a> </noscript>
+<div id="top_rhs_reflow_helper"></div>
+<div id="top_rhs_after" class="after_ad" style="visibility:hidden;">
+<a class="yesScript" href="#" onclick="ad_utils.show_ad_feedback('top_rhs');return false;" id="ad_feedback_top_rhs">ad feedback</a>
+</div>
+<script id="top_rhs_rendering">
+doWithAds(function(){
+if ('dfp_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('top_rhs');
+} else {
+ad_utils.gpt.render_ad('top_rhs');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End TOP_RHS --><!-- _get_ad_for_slot(TOP_RHS) -->
+
+    </div>
+
+    <div class="aux-content-widget-2">
+        <h3>List Activity</h3>
+        <div class="list-activity">
+            <p><strong>Views:</strong>&nbsp; 214 | last 3 days: 5
+</p>
+            <div class="report-this">
+                <span class="aside">
+                <a href="/listo/report?list=ls066495103">Report this list</a>
+                </span>
+            </div>
+            <hr>
+            <h3>Tell Your Friends</h3>
+            <div class="social_networking" style="width:100%">
+                <span>
+    <strong>Share</strong> this list:
+</span>
+
+
+<a onclick="(new Image()).src = '/list/_ajax/log?list_id=ls066495103&msg=share-twitter';
+window.open('http://twitter.com/home?status=IMDb%3A%20Characters%20By%20Screen%20Time%3A%20Westworld%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Flist%2Fls066495103%2F', 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/home?status=IMDb%3A%20Characters%20By%20Screen%20Time%3A%20Westworld%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Flist%2Fls066495103%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
+            </div>
+            
+            <script type="text/javascript">
+generic.monitoring.start_timing("facebook_like_iframe");
+</script>
+<div class="social_networking_like" style="width:100%"><iframe  id="iframe_like" name="fbLikeIFrame_0" class="social-iframe" scrolling="no" frameborder="0" allowTransparency="allowTransparency" width=280 height=24></iframe></div>
+
+        </div>
+    </div>
+
+    <div class="aux-content-widget-2">
+        <h3>Create a new list</h3>
+List your movie, TV & celebrity picks.
+&nbsp;&nbsp;
+<a href="/list/create" onclick="(new Image()).src='/rg/list/list-rhs-create/images/b.gif?link=%2Flist%2Fcreate';">Create a new list</a>&nbsp;&raquo;
+
+    </div>
+
+
+    <div class="aux-content-widget-2">
+        
+    
+
+
+<div class="">
+  <h3>Other Lists By ninewheels0</h3>
+  <div class="list-preview odd">
+
+
+        <div class="list-preview-item-narrow">
+<a     href="/list/ls074359572/"    ><img 
+     height="86" 
+     width="86"
+     alt="image of name" title="image of name"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1._SX86_CR0,0,86,86_.jpg" class="" />
+</a></div>
+
+    <div class="list_name"><b><a     href="/list/ls074359572/"    >Actors I&#x27;ve seen in 10+ films</a></b></div>
+    <div class="list_meta">a list of 168 people</div>
+    <div class="clear">&nbsp;</div>
+  </div>
+  <div class="list-preview even">
+
+
+        <div class="list-preview-item-narrow">
+<a     href="/list/ls074081432/"    ><img 
+     height="86" 
+     width="86"
+     alt="image of name" title="image of name"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2Njg3MDgyN15BMl5BanBnXkFtZTcwNjgyNTA4Mg@@._V1._SX86_CR0,0,86,86_.jpg" class="" />
+</a></div>
+
+    <div class="list_name"><b><a     href="/list/ls074081432/"    >Fan Cast: Metal Gear Solid</a></b></div>
+    <div class="list_meta">a list of 52 people</div>
+    <div class="clear">&nbsp;</div>
+  </div>
+  <div class="list-preview odd">
+<div class="list-preview-item-narrow">
+<a     href="/list/ls032095192/"    ><img 
+     height="86" 
+     width="86"
+     alt="image of character" title="image of character"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BNzUxMDE1MTk5Nl5BMl5BanBnXkFtZTgwNzg4NTY5MjE@._V1._SY86_CR21,0,86,86_.jpg" class="" />
+</a></div>
+
+    <div class="list_name"><b><a     href="/list/ls032095192/"    >Characters By Screen Time: Marvel on Netflix</a></b></div>
+    <div class="list_meta">a list of 72 characters</div>
+    <div class="clear">&nbsp;</div>
+  </div>
+  <div class="list-preview even">
+<div class="list-preview-item-narrow">
+<a     href="/list/ls076752033/"    ><img 
+     height="86" 
+     width="86"
+     alt="image of character" title="image of character"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2MDAwOTI0OV5BMl5BanBnXkFtZTcwNjA3NDg1Nw@@._V1._SY86_CR21,0,86,86_.jpg" class="" />
+</a></div>
+
+    <div class="list_name"><b><a     href="/list/ls076752033/"    >Characters By Screen Time: Game of Thrones</a></b></div>
+    <div class="list_meta">a list of 197 characters</div>
+    <div class="clear">&nbsp;</div>
+  </div>
+  <div class="list-preview odd">
+<div class="list-preview-item-narrow">
+<a     href="/list/ls072544477/"    ><img 
+     height="86" 
+     width="86"
+     alt="image of character" title="image of character"
+
+     src="https://images-na.ssl-images-amazon.com/images/M/MV5BNmVlNmU4MDQtMWQ2My00OWVhLTliY2QtYzNhMDJhNjczMGIyL2ltYWdlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1._SY86_CR16,0,86,86_.jpg" class="" />
+</a></div>
+
+    <div class="list_name"><b><a     href="/list/ls072544477/"    >Characters By Screen Time: X-Men movies</a></b></div>
+    <div class="list_meta">a list of 56 characters</div>
+    <div class="clear">&nbsp;</div>
+  </div>
+   <div class="see-more"><a     href="/user/ur51880615/lists"    >See all lists by ninewheels0</a>&nbsp;&raquo;</div>
+</div>
+
+    </div>
+
+    <div class="aux-content-widget-2">
+<h4 class="inline">Feedback?</h4>
+<a href="http://www.imdb.com/help/show_leaf?getsatisfaction">Tell us what you think about this feature.</a>
+</div>
+
+  </div>
+  <div class="clear">&nbsp;</div>
+</div>
+
+</div>
+
+
+
+
+<div id="footer" class="ft">
+  <div id="rvi-div">
+    <div class="recently-viewed">&nbsp;</div>
+    <br class="clear">
+  </div>
+
+  
+
+
+
+<!-- begin BOTTOM_AD -->
+<div id="bottom_ad_wrapper" class="cornerstone_slot">
+<script type="text/javascript">
+doWithAds(function(){
+if ('cornerstone_slot' != 'injected_slot') {
+ad_utils.register_ad('bottom_ad');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-blank-serverside frameborder="0" id="bottom_ad" marginwidth="0" marginheight="0" name="bottom_ad" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="728" data-original-height="90" width="728" height="90" ></iframe> </div>
+<div id="bottom_ad_reflow_helper"></div>
+<script id="bottom_ad_rendering">
+doWithAds(function(){
+if ('cornerstone_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('bottom_ad');
+} else {
+ad_utils.gpt.render_ad('bottom_ad');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End BOTTOM_AD --><!-- _get_ad_for_slot(BOTTOM_AD) -->
+
+
+  <div class="container footer-grid-wrapper">
+    <div class="grid-row footer-row">
+      <div class="grid-col outside">
+        <h3>IMDb Everywhere</h3>
+        <div class="app-links">
+          
+
+<a href="https://itunes.apple.com/app/imdb-movies-tv/id342792525"    title="Get the IMDb App on the Apple App Store"
+  target="_blank" >
+            <span class="desktop-sprite appstore-apple"></span>
+          </a>
+          
+
+<a href="https://play.google.com/store/apps/details?id=com.imdb.mobile"    title="Get the IMDb app on Google Play"
+  target="_blank" >
+            <span class="desktop-sprite appstore-google"></span>
+          </a>
+          
+
+<a href="http://www.amazon.com/IMDb-Mobile-LLC-Movies-TV/dp/B004GISARW/?amp&ref=mas_ba_imdb_dp&amp&pf_rd_m=ATVPDKIKX0DER&amp&pf_rd_s=right-1&amp&pf_rd_r=0H6RNAMSQ70FM7ATR0WN&amp&pf_rd_t=101&amp&pf_rd_p=1290998462&amp&pf_rd_i=2350149011&ref_=imdbref_ft_app_amazon&tag=imdb-fire-housead-20"    title="Get the IMDb app on Amazon Appstore for Android"
+  target="_blank" >
+            <span class="desktop-sprite appstore-amazon"></span>
+          </a>
+        </div>
+
+        <p>Find showtimes, watch trailers, browse photos, track your Watchlist and rate your favorite movies and TV shows on your phone or tablet!</p>
+
+        <a     href="http://m.imdb.com?ref=ft_mdot"   class="touchlink"
+    >IMDb Mobile site</a>
+      </div>
+      <div class="grid-col center">
+        <div class="link-bar icon-link-bar">
+          <h3>Follow IMDb on
+            <div>
+              
+
+
+<a href="https://www.facebook.com/imdb"    title="Follow IMDb on Facebook"
+  target="_blank" >
+  <span class="desktop-sprite follow-facebook"></span>
+</a>
+
+
+<a href="https://twitter.com/imdb"    title="Follow IMDb on Twitter"
+  target="_blank" >
+  <span class="desktop-sprite follow-twitter"></span>
+</a>
+
+
+<a href="https://instagram.com/imdb/"    title="Follow IMDb on Instagram"
+  target="_blank" >
+  <span class="desktop-sprite follow-instagram"></span>
+</a>
+
+            </div>
+          </h3>
+        </div>
+      </div>
+      <div class="grid-col outside">
+        <div class="grid-row">
+          <div class="grid-col grid-col-4">
+            <ul class="unstyled">
+              <li>
+
+<a     href="/?ref=ft_hm"    >Home</a></li>
+              <li>
+
+<a     href="/chart/top?ref=ft_250"    >Top Rated Movies</a></li>
+              <li>
+
+<a     href="/chart?ref=ft_cht"    >Box Office</a></li>
+              <li>
+
+<a     href="/sections/tv?ref=ft_tv"    >TV</a></li>
+              <li>
+
+<a     href="/movies-coming-soon?ref=ft_cs"    >Coming Soon</a></li>
+              <li>
+
+<a     href="/a2z?ref=ft_si"    >Site Index</a></li>
+              <li>
+
+<a     href="/search?ref=ft_sr"    >Search</a></li>
+              <li>
+
+<a     href="/movies-in-theaters?ref=ft_inth"    >In Theaters</a></li>
+            </ul>
+          </div>
+          <div class="grid-col grid-col-4">
+            <ul class="unstyled">
+              <li><a     href="/helpdesk/contact?ref=ft_con"    >Contact Us</a></li>
+              <li>
+              </li>
+              <li>
+
+<a     href="/news?ref=ft_nw"    >News</a></li>
+              <li class="spacer"></li>
+              <li>
+
+<a     href="/pressroom?ref=ft_pr"    >Press Room</a></li>
+              <li>
+
+<a     href="/advertising/?ref=ft_ad"    >Advertising</a></li>
+              <li>
+
+<a     href="/jobs?ref=ft_jb"    >Jobs</a></li>
+            </ul>
+          </div>
+          <div class="grid-col grid-col-4">
+            <ul class="unstyled">
+              <li><a href="http://pro.imdb.com/signup/index.html?rf=cons_ft_hm&amp;ref_=cons_ft_hm">IMDbPro</a></li>
+              <li><a href="http://www.boxofficemojo.com">Box Office Mojo</a></li>
+              <li><a href="http://www.withoutabox.com">Withoutabox</a></li>
+              <li class="spacer"></li>
+              <li>
+
+<a href="/help/show_article?conditions&ref=ft_cou"    >Conditions of Use</a></li>
+              <li>
+
+<a href="/privacy?ref=ft_pvc"    >Privacy Policy</a></li>
+              <li>
+
+<a href="//www.amazon.com/InterestBasedAds"    >Interest-Based Ads</a></li>
+              <li class="spacer"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="float-right">
+      
+
+<a href="/help/show_article?conditions"    >Copyright &copy;</a> 1990-2017
+      
+
+<a href="/help/"    >IMDb.com, Inc.</a>
+    </div>
+    <div>
+      
+An <img id="amazon_logo" align="middle" style="width:80px;height:19px;border:0 none" src="http://i.media-imdb.com/images/SF9bb191c6827273aa978cab39a3587950/b.gif" alt="Amazon.com"/> company.
+
+    </div>
+  </div>
+  
+  
+
+
+<table class="footer" id="amazon-affiliates">
+  <tr>
+    <td colspan="8">
+      Amazon Affiliates
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <a href="http://www.amazon.com/b?ie=UTF8&node=2676882011&tag=imdbpr1-20">
+          <span class="amazon-affiliate-site-name">Amazon Video</span><br>
+          <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.com/b?ie=UTF8&node=2676882011&tag=imdbpr1-20">
+          <span class="amazon-affiliate-site-name">Prime Video</span><br>
+          <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.de/b?ie=UTF8&node=284266&tag=imdbpr1-de-21">
+          <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.it/b?ie=UTF8&node=412606031&tag=imdbpr1-it-21">
+          <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.fr/b?ie=UTF8&node=405322&tag=imdbpr1-fr-21">
+          <span class="amazon-affiliate-site-name">Amazon France</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.in/movies-tv-shows/b/?ie=UTF&node=976416031&tag=imdbpr1-in-21">
+          <span class="amazon-affiliate-site-name">Amazon India</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.dpreview.com">
+          <span class="amazon-affiliate-site-name">DPReview</span><br>
+          <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.audible.com">
+          <span class="amazon-affiliate-site-name">Audible</span><br>
+          <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+
+                    </div>
+                </div>
+<script src="http://i.media-imdb.com/images/SF539be3987208630802e712857c51a6c9/js/jquery.js" ></script><script src="http://i.media-imdb.com/images/SF36b18edff049920b750040828a4f1ae4/js/jquery/ui-current.js" ></script><script src="http://i.media-imdb.com/images/SF478cec6a48c8de4413dbc404879752d1/js/jquery/plugins/jquery.colorbox-min.js" ></script><script type="text/imdblogin-js" id="login">
+    jQuery(document).ready(function(){
+        window.imdb.login_lightbox("https://secure.imdb.com",
+                       "http://www.imdb.com/list/ls066495103/");
+    });
+</script>
+<script src="http://i.media-imdb.com/images/SF69a064e4ee04de88620684d9a3c7d891/js/cc/loginbox.js" ></script><script src="http://i.media-imdb.com/images/SFa0f32e222aae0be9b65c2204ee716a34/js/navbar.js" ></script><script src="http://i.media-imdb.com/images/SF8f2969cb2414faf9dcba7d2e76a1b28d/js/cc/suggestionsearch.js" charset="UTF-8"></script><script src="http://i.media-imdb.com/images/SFf2291a6d83a10ae4af7d338f0c264c8b/js/cc/video/video-colorbox.js" ></script><script src="http://i.media-imdb.com/images/SF13b529abb2d7f5490100996dd20b6a68/js/jquery/plugins/jquery.appear-1.1.1.min.js" ></script><script src="http://i.media-imdb.com/images/SFc399b05bd79ba94ce3ef78cca4484d68/js/jquery/plugins/jquery.appear.imdb.js" ></script><script src="http://i.media-imdb.com/images/SF7072e2e7a925b100b742d4521b25dabb/js/json.js" ></script><script src="http://i.media-imdb.com/images/SFcc2370c81e496c0b1e687b60dea5c219/js/app/lists/view.js" ></script><script src="http://i.media-imdb.com/images/SF8101fc8e4a27099343e99cd9045298fe/js/app/hover/hover_over_image.js" ></script><script src="http://i.media-imdb.com/images/SF7cd6175852436cd7d03e71594c402ad2/js/cc/rating.js" ></script><script src="http://i.media-imdb.com/images/SF36b60e9ce86dfa44cf5077627accd834/js/cc/watchlist.js" ></script><script type="text/javascript">$('.hover-over-image').hover_over_image();</script><script type="text/javascript">jQuery('.listo').list_view({
+    start: 1,
+    listSize: 20,
+    limit: 20
+});
+</script><script src="http://i.media-imdb.com/images/SFe3ac5d3aeee340c2cd89ef0d3ca611f0/js/app/facebook/comments.js" ></script><script src="http://i.media-imdb.com/images/SF8e85b593be5bcc5a142ac1b486193b6f/js/app/lists/notify.js" ></script><script type="text/javascript">setTimeout(
+        function() { 
+            var url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=0&layout=standard&ref=list_detail%3Asb_atf%3Als066495103&href=http%3A%2F%2Fwww.imdb.com%2Flist%2FSCBzrawHxXo%2F";
+            var like = document.getElementById('iframe_like');
+            if (like) {
+                like.src = url; 
+                like.onload = function () { 
+                    generic.monitoring.stop_timing('facebook_like_iframe', '', false); 
+                }; 
+            }
+        }
+        , 5
+);
+</script><!-- begin ads footer -->
+
+<!-- Begin SIS code --> 
+<iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" style="display: none;"></iframe>
+<script>
+    setTimeout(function(){
+        try{
+            //sis3.0 pixel
+            var url_sis3 = 'https://s.amazon-adsystem.com/iu3?',
+                params_sis3 = [
+                    "d=imdb.com",
+                    "a1=",
+                    "a2=0101a1823ca3d5d46ce03d4502edf28f095b20f780c29eddcddebefb2933fa9c1e98",
+                    "pId=",
+                    "r=1",
+                    "rP=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls066495103%2F",
+                    "encoding=server",
+                    "cb=427106696619"  
+                ];
+        
+            if (document.getElementById('sis_pixel_sitewide')) {
+                (document.getElementById('sis_pixel_sitewide')).src = url_sis3 + params_sis3.join('&');
+            }
+        }
+        catch(e){
+            if ('consoleLog' in window){
+                consoleLog('Pixel failure ' + e.toString(),'sis');
+            }
+            if (window.ueLogError) { 
+                window.ueLogError(e);
+            }
+        }
+    }, 20);
+</script>
+<!-- End SIS code -->
+
+<!-- begin comscore beacon -->
+<script type="text/javascript" src='https://ia.media-imdb.com/images/G/01/imdbads/js/beacon-1792157672._CB522736519_.js'></script>
+<script type="text/javascript">
+if(window.COMSCORE){
+COMSCORE.beacon({
+c1: 2,
+c2:"6034961",
+c3:"",
+c4:"http://www.imdb.com/list/ls066495103/",
+c5:"",
+c6:"",
+c15:""
+});
+}
+</script>
+<noscript>
+<img src="https://sb.scorecardresearch.com/p?c1=2&c2=6034961&c3=&c4=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls066495103%2F&c5=c6=&15=&cj=1"/>
+</noscript>
+<!-- end comscore beacon -->
+
+<script>
+    doWithAds(function(){
+        (new Image()).src = "http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=427106696619&ord=427106696619";
+    },"unable to request AAN pixel");
+</script>
+
+<!-- end ads footer -->
+<script src="http://i.media-imdb.com/images/SFa4be5baa8d51e22640d81fa1e6773c7c/js/app/clickstream/rvi.js" ></script>
+<!-- h=iop1d0f i=2017-07-30 s=legacy(default) t='Sun Jul 30 13:57:05 2017' -->
+        </body>
+</html>
+
+
