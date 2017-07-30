@@ -47,6 +47,7 @@ def get_data_from_html(title):
 		if line.startswith(CHAR_NAME_LINE_START):
 			character = line.split(CHAR_NAME_LINE_START)[1].split(">")[1].split("</a></b>")[0]
 			character = character.replace("</a", "")
+			character = character.replace("&#x27;", "")
 		elif line.startswith(SCREENTIME_INFO_LINE_START):
 			character_desc_map[character] = line
 

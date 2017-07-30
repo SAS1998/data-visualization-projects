@@ -8,7 +8,7 @@
                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <script>
 var addClickstreamHeadersToAjax = function(xhr) {
-    xhr.setRequestHeader("x-imdb-parent-id", "0H4DMESV4C6HQGYWPWYG");
+    xhr.setRequestHeader("x-imdb-parent-id", "0KNVJ8H8FKABJYDN32H3");
 };
 </script>
 
@@ -43,7 +43,7 @@ tinygpt.set_targeting({
 'c' : ['1'],
 'id' : ['ls066495103'],
 'bpx' : ['1'],
-'u': ['427106696619'],
+'u': ['110461447221'],
 'oe': ['utf-8']
 });
 tinygpt.send();
@@ -87,13 +87,13 @@ generic.monitoring.set_forester_info("main");
 generic.monitoring.set_twilight_info(
 "main",
 "UNKNOWN",
-"362494c33e49d64103fed09af65ab61f6d38aa7d",
-"2017-07-30T20%3A57%3A05GMT",
+"a2b856a06400915e8ca76c3b5b80aca6d304c4f3",
+"2017-07-30T23%3A29%3A38GMT",
 "https://s.media-imdb.com/twilight/?",
 "consumer");
 generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 36175;
-generic.days_to_midnight = 0.4186921417713165;
+generic.seconds_to_midnight = 27022;
+generic.days_to_midnight = 0.3127546310424805;
 },"Generic not defined, skipping monitoring setup.");
 </script>
 <script src="https://images-na.ssl-images-amazon.com/images/G/01/dacx/sf/DAsf-1.34_FX1._V275812351_.js"></script>
@@ -158,8 +158,8 @@ ad_utils.register_ad('top_ad');
 }
 });
 </script>
-<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=427106696619;ord=427106696619?" frameborder="0" id="top_ad" marginwidth="0" marginheight="0" name="top_ad" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="85" width="0" height="85" ></iframe> </div>
-<noscript> <a href="http://pubads.g.doubleclick.net/gampad/jump?&iu=4215/imdb2.consumer.main/lists&sz=728x90|1008x150|1008x200|1008x30|970x250|9x1&t=p%3Dtop%26p%3Dt%26fv%3D1%26id%3Dls066495103%26ab%3Df%26bpx%3D1%26c%3D1&tile=0&c=427106696619" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?&iu=4215/imdb2.consumer.main/lists&sz=728x90|1008x150|1008x200|1008x30|970x250|9x1&t=p%3Dtop%26p%3Dt%26fv%3D1%26id%3Dls066495103%26ab%3Df%26bpx%3D1%26c%3D1&tile=0&c=427106696619" border="0" alt="advertisement" /> </a> </noscript>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=110461447221;ord=110461447221?" frameborder="0" id="top_ad" marginwidth="0" marginheight="0" name="top_ad" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="85" width="0" height="85" ></iframe> </div>
+<noscript> <a href="http://pubads.g.doubleclick.net/gampad/jump?&iu=4215/imdb2.consumer.main/lists&sz=728x90|1008x150|1008x200|1008x30|970x250|9x1&t=p%3Dtop%26p%3Dt%26fv%3D1%26id%3Dls066495103%26ab%3Df%26bpx%3D1%26c%3D1&tile=0&c=110461447221" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?&iu=4215/imdb2.consumer.main/lists&sz=728x90|1008x150|1008x200|1008x30|970x250|9x1&t=p%3Dtop%26p%3Dt%26fv%3D1%26id%3Dls066495103%26ab%3Df%26bpx%3D1%26c%3D1&tile=0&c=110461447221" border="0" alt="advertisement" /> </a> </noscript>
 <div id="top_ad_reflow_helper"></div>
 <script id="top_ad_rendering">
 doWithAds(function(){
@@ -337,19 +337,19 @@ ad_utils.gpt.render_ad('top_ad');
     <li itemprop="headline">
         <a     href="/news/ni61356114/?ref_=nb_nwt_1"    >
             &#x27;Dunkirk&#x27; Holds Off &#x27;Emoji&#x27; and &#x27;Atomic Blonde&#x27; for Second Weekend at #1</a><br />
-            <span class="time">6 hours ago
+            <span class="time">9 hours ago
 </span>
     </li>
     <li itemprop="headline">
         <a     href="/news/ni61354853/?ref_=nb_nwt_2"    >
             Joanne Froggatt on &#x2018;Downton Abbey&#x2019; Movie: &#x2018;Nothing Has Happened&#x2019;</a><br />
-            <span class="time">23 hours ago
+            <span class="time">29 July 2017 2:12 PM, PDT
 </span>
     </li>
     <li itemprop="headline">
         <a     href="/news/ni61354886/?ref_=nb_nwt_3"    >
             AMC Embracing Horror, Sci-Fi With Rainn Wilson, &#x2018;Arrival&#x2019; Team Projects in Development</a><br />
-            <span class="time">23 hours ago
+            <span class="time">29 July 2017 2:31 PM, PDT
 </span>
     </li>
 </ul>
@@ -520,7 +520,7 @@ ad_utils.register_ad('injected_navstrip');
 }
 });
 </script>
-<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=427106696619;ord=427106696619?" frameborder="0" id="injected_navstrip" marginwidth="0" marginheight="0" name="injected_navstrip" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="0" width="0" height="0" ></iframe> </div>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=110461447221;ord=110461447221?" frameborder="0" id="injected_navstrip" marginwidth="0" marginheight="0" name="injected_navstrip" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="0" width="0" height="0" ></iframe> </div>
 <div id="injected_navstrip_reflow_helper"></div>
 <script id="injected_navstrip_rendering">
 doWithAds(function(){
@@ -559,7 +559,7 @@ ad_utils.register_ad('injected_billboard');
 }
 });
 </script>
-<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=427106696619;ord=427106696619?" frameborder="0" id="injected_billboard" marginwidth="0" marginheight="0" name="injected_billboard" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="0" width="0" height="0" ></iframe> </div>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=110461447221;ord=110461447221?" frameborder="0" id="injected_billboard" marginwidth="0" marginheight="0" name="injected_billboard" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="0" width="0" height="0" ></iframe> </div>
 <div id="injected_billboard_reflow_helper"></div>
 <script id="injected_billboard_rendering">
 doWithAds(function(){
@@ -1012,8 +1012,8 @@ ad_utils.register_ad('top_rhs');
 }
 });
 </script>
-<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=427106696619;ord=427106696619?" frameborder="0" id="top_rhs" marginwidth="0" marginheight="0" name="top_rhs" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="300" data-original-height="250" width="300" height="250" ></iframe> </div>
-<noscript> <a href="http://pubads.g.doubleclick.net/gampad/jump?&iu=4215/imdb2.consumer.main/lists&sz=300x250|300x600|11x1&t=p%3Dtr%26fv%3D1%26id%3Dls066495103%26ab%3Df%26bpx%3D1%26c%3D1&tile=1&c=427106696619" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?&iu=4215/imdb2.consumer.main/lists&sz=300x250|300x600|11x1&t=p%3Dtr%26fv%3D1%26id%3Dls066495103%26ab%3Df%26bpx%3D1%26c%3D1&tile=1&c=427106696619" border="0" alt="advertisement" /> </a> </noscript>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=110461447221;ord=110461447221?" frameborder="0" id="top_rhs" marginwidth="0" marginheight="0" name="top_rhs" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="300" data-original-height="250" width="300" height="250" ></iframe> </div>
+<noscript> <a href="http://pubads.g.doubleclick.net/gampad/jump?&iu=4215/imdb2.consumer.main/lists&sz=300x250|300x600|11x1&t=p%3Dtr%26fv%3D1%26id%3Dls066495103%26ab%3Df%26bpx%3D1%26c%3D1&tile=1&c=110461447221" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?&iu=4215/imdb2.consumer.main/lists&sz=300x250|300x600|11x1&t=p%3Dtr%26fv%3D1%26id%3Dls066495103%26ab%3Df%26bpx%3D1%26c%3D1&tile=1&c=110461447221" border="0" alt="advertisement" /> </a> </noscript>
 <div id="top_rhs_reflow_helper"></div>
 <div id="top_rhs_after" class="after_ad" style="visibility:hidden;">
 <a class="yesScript" href="#" onclick="ad_utils.show_ad_feedback('top_rhs');return false;" id="ad_feedback_top_rhs">ad feedback</a>
@@ -1476,7 +1476,7 @@ An <img id="amazon_logo" align="middle" style="width:80px;height:19px;border:0 n
                     "r=1",
                     "rP=http%3A%2F%2Fwww.imdb.com%2Flist%2Fls066495103%2F",
                     "encoding=server",
-                    "cb=427106696619"  
+                    "cb=110461447221"  
                 ];
         
             if (document.getElementById('sis_pixel_sitewide')) {
@@ -1517,13 +1517,13 @@ c15:""
 
 <script>
     doWithAds(function(){
-        (new Image()).src = "http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=427106696619&ord=427106696619";
+        (new Image()).src = "http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=110461447221&ord=110461447221";
     },"unable to request AAN pixel");
 </script>
 
 <!-- end ads footer -->
 <script src="http://i.media-imdb.com/images/SFa4be5baa8d51e22640d81fa1e6773c7c/js/app/clickstream/rvi.js" ></script>
-<!-- h=iop1d0f i=2017-07-30 s=legacy(default) t='Sun Jul 30 13:57:05 2017' -->
+<!-- h=iop1d9f i=2017-07-30 s=legacy(default) t='Sun Jul 30 16:29:38 2017' -->
         </body>
 </html>
 
