@@ -3,7 +3,7 @@ library(reshape)
 library(zoo)
 library(ggplot2)
 
-setwd("~/Desktop/MyProject/Banking")
+setwd("~/Developer/data-visualization-projects/PersonalFinance")
 
 data = read.csv("data.csv")
 data$balance = as.numeric(gsub(',', '', as.character(data$balance)))
