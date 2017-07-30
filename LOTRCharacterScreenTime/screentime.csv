@@ -1,0 +1,109 @@
+character,movie,the_time,ext_time
+Celeborn,The Fellowship of the Ring,0.75,1.75
+Celeborn,The Two Towers,0,0
+Celeborn,The Return of the King,0.5,0.5
+The Mouth of Sauron,The Fellowship of the Ring,0,0
+The Mouth of Sauron,The Two Towers,0,0
+The Mouth of Sauron,The Return of the King,0,1.25
+Deagol,The Fellowship of the Ring,0,0
+Deagol,The Two Towers,0,0
+Deagol,The Return of the King,3.5,3.75
+Galadriel,The Fellowship of the Ring,5.25,7.5
+Galadriel,The Two Towers,0.5,0.5
+Galadriel,The Return of the King,2.25,2.25
+Grima Wormtongue,The Fellowship of the Ring,0,0
+Grima Wormtongue,The Two Towers,5.25,6.5
+Grima Wormtongue,The Return of the King,0,0.75
+Frodo Baggins,The Fellowship of the Ring,52.5,61.5
+Frodo Baggins,The Two Towers,25.75,31
+Frodo Baggins,The Return of the King,42.25,47.5
+Gamling,The Fellowship of the Ring,0,0
+Gamling,The Two Towers,2.75,3
+Gamling,The Return of the King,1,1
+The Witch King,The Fellowship of the Ring,4,4
+The Witch King,The Two Towers,0,0
+The Witch King,The Return of the King,2.5,3.25
+Gimli,The Fellowship of the Ring,11.5,14.25
+Gimli,The Two Towers,13.25,14.75
+Gimli,The Return of the King,6.5,10
+Lurtz,The Fellowship of the Ring,3,3
+Lurtz,The Two Towers,0,0
+Lurtz,The Return of the King,0,0
+H&#xE1;ma,The Fellowship of the Ring,0,0
+H&#xE1;ma,The Two Towers,2,2
+H&#xE1;ma,The Return of the King,0,0
+Legolas,The Fellowship of the Ring,10.25,13
+Legolas,The Two Towers,14.25,15.75
+Legolas,The Return of the King,6.75,10.5
+Rosie Cotton,The Fellowship of the Ring,0.5,0.5
+Rosie Cotton,The Two Towers,0,0
+Rosie Cotton,The Return of the King,1,1
+Isildur,The Fellowship of the Ring,2,2.5
+Isildur,The Two Towers,0,0
+Isildur,The Return of the King,0,0
+Eomer,The Fellowship of the Ring,0,0
+Eomer,The Two Towers,4,5.25
+Eomer,The Return of the King,3.75,5.5
+Elrond,The Fellowship of the Ring,3.5,4.25
+Elrond,The Two Towers,3.25,3.5
+Elrond,The Return of the King,5.25,5.25
+Gothmog,The Fellowship of the Ring,0,0
+Gothmog,The Two Towers,0,0
+Gothmog,The Return of the King,2.25,3.5
+Gandalf,The Fellowship of the Ring,37.5,40.75
+Gandalf,The Two Towers,11.75,14.25
+Gandalf,The Return of the King,21.25,26.5
+Aragorn,The Fellowship of the Ring,25.5,32
+Aragorn,The Two Towers,30.5,38.25
+Aragorn,The Return of the King,17.75,26
+Sauron,The Fellowship of the Ring,1.5,1.5
+Sauron,The Two Towers,0.5,0.5
+Sauron,The Return of the King,1.5,2.25
+Gollum,The Fellowship of the Ring,1,1
+Gollum,The Two Towers,17,20.75
+Gollum,The Return of the King,16,17.75
+Peregrin Pippin Took,The Fellowship of the Ring,18.75,21.5
+Peregrin Pippin Took,The Two Towers,10.75,19
+Peregrin Pippin Took,The Return of the King,20.25,26.25
+Denethor,The Fellowship of the Ring,0,0
+Denethor,The Two Towers,6,2.25
+Denethor,The Return of the King,6,8.25
+Saruman the White,The Fellowship of the Ring,6.25,6.25
+Saruman the White,The Two Towers,3,4.75
+Saruman the White,The Return of the King,0,2.75
+Meriadoc Merry Brandybuck,The Fellowship of the Ring,18.25,21
+Meriadoc Merry Brandybuck,The Two Towers,10.75,19
+Meriadoc Merry Brandybuck,The Return of the King,11.25,15.5
+Haldir,The Fellowship of the Ring,0.5,1.5
+Haldir,The Two Towers,1.5,1.5
+Haldir,The Return of the King,0,0
+Boromir,The Fellowship of the Ring,20,23.25
+Boromir,The Two Towers,0,3.75
+Boromir,The Return of the King,0,0.25
+Theoden,The Fellowship of the Ring,0,0
+Theoden,The Two Towers,15,16
+Theoden,The Return of the King,8.5,10.25
+Faramir,The Fellowship of the Ring,0,0
+Faramir,The Two Towers,6.25,10.5
+Faramir,The Return of the King,5.5,9.25
+Madril,The Fellowship of the Ring,0,0
+Madril,The Two Towers,1,1.25
+Madril,The Return of the King,1,1.25
+Samwise Gamgee,The Fellowship of the Ring,23.5,28.75
+Samwise Gamgee,The Two Towers,21.75,26.5
+Samwise Gamgee,The Return of the King,32.5,37.5
+King of the Dead,The Fellowship of the Ring,0,0
+King of the Dead,The Two Towers,0,0
+King of the Dead,The Return of the King,1.75,2
+Arwen,The Fellowship of the Ring,4.75,5
+Arwen,The Two Towers,5.25,5.75
+Arwen,The Return of the King,5,5
+Eowyn,The Fellowship of the Ring,0,0
+Eowyn,The Two Towers,8.25,12
+Eowyn,The Return of the King,10,16.5
+Bilbo Baggins,The Fellowship of the Ring,11,13.25
+Bilbo Baggins,The Two Towers,0,0
+Bilbo Baggins,The Return of the King,2,2
+Treebeard,The Fellowship of the Ring,0,0
+Treebeard,The Two Towers,9.5,13.5
+Treebeard,The Return of the King,0.25,0.25
