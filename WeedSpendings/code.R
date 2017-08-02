@@ -24,7 +24,12 @@ coeff = coefficients(lm(plotData$y~plotData$x1))
 slope = coeff[2]
 intercept = coeff[1]
 
+numDaysNewYear = 163
+
 ggplot(data=plotData) +
+  geom_vline(xintercept=numDaysNewYear) +
+  geom_text(x=numDaysNewYear+25, y=max(plotData$y), label="2017") +
+  geom_text(x=numDaysNewYear-21, y=max(plotData$y), label="2016") +
   geom_abline(intercept = intercept, slope = slope, color="red", linetype="dashed", size=1.5) +
   geom_point(aes(x=x1, y=y), color="blue", size=3.5) +
   geom_label(x=45*7, y=375, label=paste0("Average ~$", round(slope,1), "/day"), color="green", size=5, label.size=0.5) +
