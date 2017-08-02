@@ -1,9 +1,11 @@
 library(lubridate)
-library(reshape)
+library(reshape2)
 library(zoo)
 library(ggplot2)
 
 setwd("~/Developer/data-visualization-projects/PersonalFinance")
+
+# TODO - refactor and make plot prettier
 
 data = read.csv("data.csv")
 data$balance = as.numeric(gsub(',', '', as.character(data$balance)))
