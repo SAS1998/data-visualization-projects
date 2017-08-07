@@ -72,10 +72,19 @@ ggplot() +
   geom_line(data=agg_sent_by_time, aes(x=hour, y=x, color=name), size=1.3)
 
 # PLOT: heatmap of time of day
+ggplot(data=agg_sent_by_time, aes(x=hour, y=x)) +
+  geom_tile(aes(fill=name, alpha=x), size=1.3)
 
 ###############################################################################
 # Sentiment Analysis
 ###############################################################################
+
+#--------------------------------------
+# explore count of "i love you" abd "i miss you"
+#--------------------------------------
+love_sub = data[which("i love you" %in% data$text),]
+
+
 
 afinn = get_sentiments("afinn")
 bing = get_sentiments("bing")

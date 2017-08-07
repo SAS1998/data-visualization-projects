@@ -36,7 +36,7 @@ ggplot(data=plotData) +
   scale_x_continuous(limits=c(0,max(plotData$x1)), breaks=xscale, minor_breaks=NULL, labels=xscale/7) +
   scale_y_continuous(breaks=yscale, labels=yscale) +
   labs(
-    title = "Amount Spent on Weed",
+    title = "Cumulative Spendings on Weed",
     subtitle = "Starting from \"First day of Real Life\"!",
     x = "Number of Weeks Since 7/22/16",
     y = "Amount Spent (USD)"
