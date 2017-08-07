@@ -40,9 +40,9 @@ def parse_json(option):
 		days = json_obj['days']
 		for day in days:
 			sessions = day['sessions']
-			date = day['date'].split('T')[0].split("-")[0]
+			date = day['date'].split('T')[0]
 			for session in sessions:
-				time = session['date'].split('T')[1]
+				time = session['date'].split('T')[1].split("-")[0]
 				session_min = session['lengthInMinutes']
 				data.append([date, time, session_min])
 	else:
