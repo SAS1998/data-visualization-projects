@@ -68,6 +68,7 @@ ggsave("heatmap-hours-dow.png", width=6, height=6, units="in", dpi=1000)
 agg_hour_daily_session = aggregate(x=daily_session$session_min, by=list(daily_session$hourP), FUN="sum")
 agg_hour_daily_session$Group.1 = factor(agg_hour_daily_session$Group.1, levels=rev(c("12:00 AM", "1:00 AM", "2:00 AM", "3:00 AM", "4:00 AM", "5:00 AM", "6:00 AM", "7:00 AM", "8:00 AM", "9:00 AM", "10:00 AM", "11:00 AM", "12:00 PM", "1:00 PM", "2:00 PM", "3:00 PM", "4:00 PM", "5:00 PM", "6:00 PM", "7:00 PM", "8:00 PM", "9:00 PM", "10:00 PM", "11:00 PM")))
 
+# heatmap
 ggplot(data=agg_hour_daily_session, aes(y=Group.1, x=""))+
   geom_tile(aes(fill=x), color="white") + 
   scale_fill_gradient(low = "white", high = "royal blue") +
@@ -80,8 +81,12 @@ ggplot(data=agg_hour_daily_session, aes(y=Group.1, x=""))+
 
 ggsave("heatmp-hours.png", width=3, height=6, units="in", dpi = 1000)
 
-ggplot(data=agg_hour_daily_session, aes(x=Group.1, y=x, order=rev(Group.1)))+
-  geom_bar(stat = "identity", color="white") + 
+
+#polar map
+agg_hour_daily_session$Group.1 = factor(agg_hour_daily_session$Group.1, levels=c("12:00 AM", "1:00 AM", "2:00 AM", "3:00 AM", "4:00 AM", "5:00 AM", "6:00 AM", "7:00 AM", "8:00 AM", "9:00 AM", "10:00 AM", "11:00 AM", "12:00 PM", "1:00 PM", "2:00 PM", "3:00 PM", "4:00 PM", "5:00 PM", "6:00 PM", "7:00 PM", "8:00 PM", "9:00 PM", "10:00 PM", "11:00 PM"))
+
+ggplot(data=agg_hour_daily_session, aes(x=Group.1, y=x))+
+  geom_bar(stat = "identity", color="white", fill="blue") + 
   theme(
     panel.grid.major=element_blank(),
     panel.grid.minor=element_blank(),
@@ -89,7 +94,7 @@ ggplot(data=agg_hour_daily_session, aes(x=Group.1, y=x, order=rev(Group.1)))+
     panel.border=element_rect(color="black", fill=NA)
   ) + coord_polar()
 
-
+ggsave("polar-hours.png", width=6, height=6, units="in", dpi=1000)
 
 
 

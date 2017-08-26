@@ -6,7 +6,7 @@ library('zoo')
 library('lattice')
 library('UsingR')
 
-setwd("~/Desktop/MyProject/Mailbox")
+setwd("~/Developer/data-visualization-projects/WorkEmails")
 
 aggregate_weekday = function(data) {
   data$count = 1
@@ -23,8 +23,8 @@ do_barchart = function(data, type) {
            auto.key=list(size = 1, columns = 7, text=c("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"), cex.title=10, title="")) 
 }
 
-input = read.csv('inbox_data.csv')
-input_monthy = aggregate_weekday(input)
+inbox = read.csv('inbox_data.csv')
+inbox_monthy = aggregate_weekday(inbox)
 
 sent = read.csv('sent_data.csv')
 sent_monthy = aggregate_weekday(sent)

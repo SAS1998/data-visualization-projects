@@ -56,7 +56,36 @@ ggplot() +
 #--------------------------------------
 
 # aggregate by day NUM WORDS
-agg_words_by_day = aggregate(data$count_words, by=list(data$date, data$name), FUN="sum")
+agg_words_by_day = aggregate(data$count_words, by=list(date=data$date, hour=data$time, name=data$name), FUN="sum")
+agg_words_by_day$dow = weekdays(agg_words_by_day$date)
+for (i in 1:length(agg_words_by_day$hour)) {
+  time = agg_words_by_day$hour[i]
+  if (time == 0) {
+    agg_words_by_day$hourP[i] = "12:00 AM"
+  } else if (time < 12) {
+    agg_words_by_day$hourP[i] = paste0(time, ":00 AM")
+  } else if (time == 12) {
+    agg_words_by_day$hourP[i] = "12:00 PM"
+  } else if (time > 12) {
+    agg_words_by_day$hourP[i] = paste0(as.numeric(time)-12, ":00 PM")
+  }
+}
+agg_words_by_day$dow = factor(agg_words_by_day$dow, levels=c("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"))
+agg_words_by_day$hourP = factor(agg_words_by_day$hourP, levels=rev(c("12:00 AM", "1:00 AM", "2:00 AM", "3:00 AM", "4:00 AM", "5:00 AM", "6:00 AM", "7:00 AM", "8:00 AM", "9:00 AM", "10:00 AM", "11:00 AM", "12:00 PM", "1:00 PM", "2:00 PM", "3:00 PM", "4:00 PM", "5:00 PM", "6:00 PM", "7:00 PM", "8:00 PM", "9:00 PM", "10:00 PM", "11:00 PM")))
+
+agg_words_by_day_linda = agg_words_by_day[which(agg_words_by_day$name == "Linda"),]
+agg_words_by_day_sean = agg_words_by_day[which(agg_words_by_day$name == "Sean"),]
+
+ggplot(data=agg_words_by_day_linda, aes(x=dow, y=hourP)) +
+  geom_tile(aes(fill=x), color="white") +
+  scale_fill_gradient(low = "white", high = "royalblue")
+
+ggplot(data=agg_words_by_day_sean, aes(x=dow, y=hourP)) +
+  geom_tile(aes(fill=x), color="white") +
+  scale_fill_gradient(low = "white", high = "royalblue")
+
+ggplot(agg_words_by_day, aes(x=dow, y=hourP, size=x)) +
+  geom_point(aes(shape=factor(name), color=factor(name)))
 
 #--------------------------------------
 # num sent per hour

@@ -3,7 +3,7 @@ library('xts')
 library('lubridate')
 library('MASS')
 
-setwd("~/Desktop/MyProject/Mailbox")
+setwd("~/Developer/data-visualization-projects/WorkEmails")
 
 get_daily_average_by_week = function(data) {
   data$count = 1
@@ -20,8 +20,8 @@ get_daily_average_by_week = function(data) {
   weekly_avg
 }
 
-input = read.csv('inbox_data.csv')
-input_weekly = get_daily_average_by_week(input)
+inbox = read.csv('inbox_data.csv')
+inbox_weekly = get_daily_average_by_week(inbox)
 
 sent = read.csv('sent_data.csv')
 sent_weekly = get_daily_average_by_week(sent)
