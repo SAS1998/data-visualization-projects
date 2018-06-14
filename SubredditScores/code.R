@@ -20,12 +20,12 @@ generate_plot = function(subreddit, pages) {
     labs(x="Day of Week",
          y="Hour",
          title = paste("Reddit Submission Scores ", '(/r/', subreddit, ')', sep=''), 
-         subtitle=paste("Data for the past ", pages, " days. Times converted to America/Chicago TZ.", sep=''), 
+         subtitle=paste("Data for the past ", pages, " days. Times converted to CDT", sep=''), 
          fill="Average Score")
 }
 
 generate_plot('dataisbeautiful', 100)
-
 generate_plot('cscareerquestions', 100)
+generate_plot('pokemon', 100)
 
 
