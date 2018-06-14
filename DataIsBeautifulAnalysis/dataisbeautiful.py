@@ -37,14 +37,14 @@ def use_praw(subreddit):
 
 """
 """
-def use_pushshift(subreddit):
+def use_pushshift(subreddit, pages=100):
 
     print('[use_pushshift] Obtaining submissions from /r/' + subreddit + '...')
 
     url_template = 'https://api.pushshift.io/reddit/search/submission?subreddit=%s&before=%sd&after=%sd&size=1000'
     data = []
 
-    for i in range(0,100):
+    for i in range(0,int(pages)):
 
         url = url_template % (subreddit, str(i), str(i+1))
 
@@ -92,7 +92,7 @@ if __name__ == "__main__":
     if sys.argv[1] == 'praw':
         use_praw(sys.argv[2])
     elif sys.argv[1] == 'push':
-        use_pushshift(sys.argv[2])
+        use_pushshift(sys.argv[2], sys.argv[3])
     else:
         print('Invalid value:', sys.argv[1])
 

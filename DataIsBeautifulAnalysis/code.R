@@ -5,7 +5,7 @@ Sys.setlocale("LC_TIME", "C")
 
 setwd("~/Developer/data-visualization-projects/DataIsBeautifulAnalysis")
 
-generate_plot = function(subreddit) {
+generate_plot = function(subreddit, pages) {
   data = read.csv(paste(subreddit, '.csv', sep=''))
   
   data$datetime = as.POSIXct(as.numeric(data$created_utc), tz="America/Chicago", origin="1970-01-01")
@@ -19,9 +19,13 @@ generate_plot = function(subreddit) {
     scale_fill_gradient(low="white", high="blue") +
     labs(x="Day of Week",
          y="Hour",
-         title = paste("Reddit Submission Scores Heatmap ", '(/r/', subreddit, ')', sep=''), 
-         subtitle="Data for the past 100 days. Times converted to America/Chicago TZ.", 
+         title = paste("Reddit Submission Scores ", '(/r/', subreddit, ')', sep=''), 
+         subtitle=paste("Data for the past ", pages, " days. Times converted to America/Chicago TZ.", sep=''), 
          fill="Average Score")
 }
 
-generate_plot('dataisbeautiful')
+generate_plot('dataisbeautiful', 100)
+
+generate_plot('cscareerquestions', 100)
+
+
