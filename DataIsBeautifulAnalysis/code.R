@@ -5,7 +5,7 @@ Sys.setlocale("LC_TIME", "C")
 
 setwd("~/Developer/data-visualization-projects/DataIsBeautifulAnalysis")
 
-data = read.csv('data.csv')
+data = read.csv('dataisbeautiful.csv')
 
 data$datetime = as.POSIXct(as.numeric(data$created_utc), tz="America/Chicago", origin="1970-01-01")
 data$hour = format(data$datetime, "%H")
@@ -18,6 +18,6 @@ ggplot(data_aggregate, aes(Group.1, Group.2, fill = x)) +
   scale_fill_gradient(low="white", high="green") +
   labs(x="Day of Week",
        y="Hour",
-       title = "Subreddit /r/dataisbeautiful Submission Scores Heatmap", 
+       title = "Reddit Submission Scores Heatmap", 
        subtitle="", 
        fill="Average Score")
